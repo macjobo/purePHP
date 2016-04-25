@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: New Release 2.12</h1>
+<h2>At the end of February 2010 CROSS Release 2.12 was completed. Following four key factors are briefly described below.</h2>
+
+<img src="../images/bild_wag.jpg" width="190" height="120" alt="CROSS" /></a>
+
+<!-- <p><b>Four key factors</b>, contributed to the long development period, they are briefly described below:</p> -->
+
+<p><b>Incoming invoice check in for service:</b> this new CROSS module allows you to check parts deliveries, external performances and non-stock items. With each order/incoming delivery note item is assigned a corresponding check dataset, which is later used for the invoice check, can be checked and authorised. This means that all bookings to the parts store can be checked regarding the amount, value and in particular external performances and non-stock items for charging to the customer. Additionally, starting when this CROSS module is deployed, sales cost booking is with the delivery note and not with the supplier invoice as before. This means that you can additionally check the sales cost account(s) against the supplier account(s) to ensure correctness.</p>
+
+<p><b>Order transfer:</b> if your company operates across multiple sites and e.g. only one of the sites handles paint work, you currently have to manually create, check and settle two orders. These are usually very long orders, as they are mostly bodywork and paint work. The Order transfer CROSS module will in future permit these orders to be electronically forwarded to the site handling them and charging back is also electronic. This reduces the cost and effort of double entry and allows easy invoice checking.</p>
+
+
+<p><b>Rental Vehicle:</b> if you rent out a rental vehicle to a customer today, you have to manually fill out a corresponding rental contract and then manually input and settle it in the customer service order. You can check how many orders have been made out and what turnover was generated, but it is a very laborious process. The new rental vehicle CROSS module allows you to do all of this online in the system and also access existing master data (business partner, vehicle data e.g. driving license etc.) as well as corresponding data of the rental vehicle. Rental contracts are completed in the system and generate corresponding charging items, which are forwarded to the customer service order. Naturally, corresponding evaluations can be directly accessed from CROSS.</p>
+
+<p><b>Outgoing invoice book:</b> this has been redesigned. In future you will be able to reduce printing of day end logs, as there are many logs available online in CROSS. Additionally, the new Outgoing invoice book offers many more opportunities for checking and tracing many different things.</p>
+
+<p>Within the next two weeks you will receive information about the rollout time schedule for the new CROSS Release.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=New Release 2.12">Robert Rauter</a></p>
+
+
+
+
+
+

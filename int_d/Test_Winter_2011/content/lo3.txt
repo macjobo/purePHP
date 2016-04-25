@@ -1,0 +1,11 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Microsoft Office</h1>
+<h2>Wie bereits angekündigt, wird Office 2000/2003/XP ab Ende des Jahres 2011 nicht mehr supported.</h2>
+
+<img src="images/bild_office.jpg" width="160" height="100" alt="Office" />
+
+<p>Nachdem <b>Office 2000/2003/XP</b> ab Ende des Jahres 2011 <b>nicht mehr unterstützt</b> wird, wird auch das <b>Speicherformat in Office 2007</b> standardmäßig nicht wie derzeit auf die Version 2000, sondern auf die Version 2007 eingestellt. Diese Änderung wird mit Mitte Jänner 2012 eingeführt.</p>
+
+<p>
+<a href="mailto:info@porscheinformatik.at ?subject=Microsoft Office">Herbert Lohninger</a> </p>

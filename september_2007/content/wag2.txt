@@ -1,0 +1,21 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Reifeneinlagerung mit CROSS</h1>
+<h2>Bereiten Sie sich rechtzeitig auf die bevorstehende Reifenwechsel-Zeit vor!</h2>
+
+<p>Wie jedes Jahr wird es auch heuer wieder starke <b>Reifenwechsel-Tage</b> geben. Sorgen Sie rechtzeitig vor, damit sowohl Anwender als auch System vorbereitet sind. Wenn Sie den <b>Einlagerungsprozess</b> nochmals durchgehen möchten, ist Ihnen vielleicht die detaillierte <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/9b215691065e9563c1257203003055ac?OpenDocument" target="_blank" title="Beschreibung Einlagerungsprogramm">Beschreibung</a> in der Porsche Informatik Infoline dabei behilflich.
+</p>
+<p>Auch System-seitig gibt es einiges zu beachten:
+
+<ul>
+<li><div>Reicht Ihr Vorrat an <b>Einlagerungsetiketten</b>? Bitte beachten Sie dabei: Mit CROSS 2.06, das am 22. September eingespielt wird, können Einlagerungsetiketten auch mit dem Zebradrucker gedruckt werden (siehe Artikel <a href="index.php?page=wag"  target="_blank">"Vorschau auf Release 2.06"</a>). Die passenden Etiketten können Sie über MARCO beziehen.</div></li>
+<li><div>Werden alle <b>Formulare</b> (Einlagerungsbestätigungen, Auslagerungsbestätigungen, Laufzettel) auf den richtigen Druckern in der richtigen Anzahl gedruckt?</div></li>
+<li><div>Sind die gängigsten <b>Sommerreifenmodelle</b> in das System eingepflegt?</div></li>
+<li><div>Sind die Preise der entsprechenden <b>Arbeitspositionen/Diversen Verrechnungen</b> für "Räder einlagern", "Räder wuchten", "Räder montieren" etc. im System aktuell gewartet?</div></li>
+<li><div>Sie möchten Ihre Kunden aktiv informieren? Analysieren Sie doch die eingelagerten Reifen auf ausreichende Profiltiefe, Mängel etc. Beispiele für <b>Selektionen</b> finden Sie in einer kurzen <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/3dd43059b2488f28c125735300424633?OpenDocument" target="_blank" title="Beschreibung Einlagerungsprogramm - Selektionsvorschläge">Anleitung</a> in der Porsche Informatik Infoline.</div></li>
+</ul></p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Tipps zur Reifeneinlagerung">Gregor Wagner</a></p>
+

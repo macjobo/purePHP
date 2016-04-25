@@ -1,0 +1,39 @@
+
+
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS-Tipp: Neuer Steuerschlüssel</h1>
+
+<h2>Änderungen in der Umsatzsteuer ab Jänner 2014.</h2>
+
+<img src="images/bild_let.jpg" width="190" height="120" title="Neuer Steuerschlüssel" />
+
+
+<p>Mit Jänner 2014 erfolgte eine Ausdehnung des sogenannten <b>"Reverse Charge"</b> auf spezielle Lieferungen. 
+
+Das bedeutet, Sie erhalten unter Umständen Eingangsrechnungen, die mit 0 % UST und dem Vermerk "Übergang der Steuerschuld auf den Leistungsempfänger" versehen sind. <br />
+Um diese Eingangsrechnungen in der Eingangsrechnungskontrolle oder dem CROSS-Kassabuch abwickeln zu können, werden wir Ihnen zeitnah dafür eine neue steuerliche Behandlung "Reverse Charge - Einkauf" 
+in CROSS zur Verfügung stellen.
+</p>
+
+<p>Für folgende Lieferungen ist ab 2014 "Reverse Charge" neu anzuwenden:
+
+<ul>
+
+<li><div>
+<b>Lieferung von Metallen</b>, roh und als Halberzeugnisse, gemäß Kapitel 71 und aus Abschnitt XV der kombinierten Nomenklatur.
+
+</div></li>
+
+<li><div>
+
+<b>Lieferung von Laptops</b>, <b>Tablet-Computern</b>, <b>Videospielkonsole</b>n, wenn das in der Rechnung ausgewiesene Entgelt mindestens EUR 5.000,-- beträgt.
+</div></li>
+
+</ul>
+
+<p>Die neue Steuerliche Behandlung "Reverse Charge - Einkauf" wird im SAP als <b>Steuercode R2 "Steuerschuld §19Abs.1d - 20% Z032+Z089"</b> verbucht.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neuer Steuerschlüssel">Theresia Lechner</a><br />
+SAP-Beratung und Support</p>
+

@@ -1,0 +1,37 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Ende Windows XP</h1>
+<h2>Ende des Betriebssystems Windows XP</h2>
+
+<img src="images/bild_mal2.jpg" width="190" height="120" title="Ende Windows XP" />
+
+
+
+<p>
+Seit 1.1.2015 ist Windows XP in den POCSO Netzwerken Geschichte. Mehr als 10 Jahre hat es uns bei der täglichen Arbeit begleitet. 
+Wir möchten uns hiermit recht herzlich <b>bei Ihnen</b> für die Unterstützung 
+und den Einsatz bei der Umstellung auf Windows 7 <b>bedanken</b>. Durch die hohe Automatisierung der POCSO Umgebung konnten fast alle PCs durch Mitarbeiter der Betriebe selbst durchgeführt werden.
+</p>
+
+
+<p>
+Bei jenen Arbeitsplätzen die mit Windows XP verblieben sind, setzten wir am Jahresanfang eine angepasste Symantec Endpoint Protection Policy ein, 
+die jeglichen Netzwerkverkehr der Windows XP-Rechner im POCSO Netzwerk unterbindet. 
+Damit kann mit diesen Clients definitiv <b>nicht mehr</b> im Netzwerk <b>gearbeitet</b> werden. Im Desktopmanagement werden wir alle verbliebenen XP Rechner mit Jahresanfang löschen - was nicht mehr funktioniert, wird auch nicht mehr verrechnet.
+
+</p>
+
+
+<p>
+Jetzt ist auch der richtige Zeitpunkt für die <b>Behebung einer Unterlizenzierung bei Microsoft Office-Lizenzen</b>. Prüfen Sie im Partner.Net unter 
+Porsche Informatik - POI E-Shop - Reiter: Mein Lizenzstatus, ob Lizenznachbestellungen erforderlich sind. 
+Wenn ja, dann führen Sie diese für die fehlenden Lizenzen durch.
+
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Ende Windows XP">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

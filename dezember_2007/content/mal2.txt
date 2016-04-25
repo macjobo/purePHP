@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Lotus Notes: BlackBerry&reg; Enterprise Mobile User</h1>
+<h2>Mit dem "BlackBerry&reg; Enterprise Mobile User" werden alle E-Mail-Informationen in Echtzeit auf Ihren BlackBerry&reg; übermittelt.</h2>
+
+<p>E-Mails oder neue Termine, die in Lotus Notes einlangen, sind mit dem "BlackBerry&reg; Enterprise Mobile User" <b>zeitgleich</b> auf Ihrem Gerät verfügbar. Ohne online zu gehen oder umständliches Replizieren mit Lotus Notes erhalten Sie diese Daten direkt und automatisch auf Ihren BlackBerry&reg; weitergeleitet.</p>
+
+<p>Profitieren Sie von folgenden <b>Vorteilen</b>:
+
+<ul>
+<li><div>Sparen Sie <b>Zeit</b>, indem Sie von unterwegs direkt auf wichtige Informationen zugreifen. </div></li>
+<li><div>Reduzieren Sie <b>Kosten</b>, indem Sie Arbeitsabläufe optimieren und damit Ihre Effizienz steigern.</div></li>
+<li><div>Erhöhen Sie Ihre <b>Wettbewerbsfähigkeit</b> durch Flexibilität und Optimierung Ihrer Kommunikationsabläufe.</div></li>
+<li><div>Setzen Sie auf <b>Vertraulichkeit</b>, denn die Kommunikation zwischen Lotus Notes und Ihrem BlackBerry&reg; ist Ende-zu-Ende-verschlüsselt.</div></li>
+</ul>
+</p>
+
+<p>Details über diese neue Zugangsart auf Ihre Mailbox erfahren Sie im <b><a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/501818f60553bc16c1256f1700433247/fb7754098cf8c7aec125737e0040ba4e?OpenDocument" target="_blank" title="Produktblatt und Informationen zum BlackBerry&reg; Enterprise Mobile User">Produktblatt "BlackBerry&reg; Enterprise Mobile User"</a></b> in der Porsche Informatik Infoline. Für Fragen steht Ihnen auch Ihr IT- und Organisationsberater der Porsche Informatik zur Verfügung.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=BlackBerry Enterprise Mobile User">Friedrich Malle</a></p>
+
+
+
+

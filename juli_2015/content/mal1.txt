@@ -1,0 +1,45 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Deaktivierung der Firewire-Schnittstelle - Neue Installationsanleitung des RDX-Laufwerkes - Adobe Software Update</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+
+<li><div><b>Deaktivierung der Firewire-Schnittstelle im Bios</b><br />
+Eine Lücke im Firewire-Protokoll macht es theoretisch möglich, unsere Rechner darüber zu kontrollieren. 
+In einem Audit wurde empfohlen diese Schnittstelle zu deaktivieren. Das geschieht in den nächsten Tagen per SW Paket auf Biosebene. 
+Betroffen sind Laptops bis xx70p, neuere Generationen haben diese Schnittstelle nicht mehr.  
+
+ </div></li>
+
+
+
+
+<li><div>
+<b>Neue Anleitung zur Installation des RDX-Laufwerkes</b><br />
+Mittlerweile haben wir drei verschiedene Typen von RDX Laufwerken im Einsatz.
+Alle drei Typen sind unterschiedlich zu integrieren.
+Die Dokumentation dazu wurde aktualisiert und ist in der
+<a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/f9ca8c1665df61b3c1257345002cdb8b/8325aa50ac940688c1257527004d3ef1?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">Porsche Informatik Infoline &nbsp;&raquo;</a>
+zu finden.
+
+</div></li>
+
+<li><div>
+<b>Adobe Flash Player Vers.17.0.0.169_AG</b><br />
+Wieder einmal wird ein Security Update des Adobe Flash Players verteilt. Es ist dies das 33. in den letzten 4 Jahren.
+</div></li>
+
+</ul>
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

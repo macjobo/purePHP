@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Internet: Sicherheit und Schnelligkeit</h1>
+<h2>Bei mir zu Hause ist das Internet schneller als in der Firma! Wie kann das sein?</h2>
+
+<!-- <img src="images/bild_spi.JPG" width="190" height="120" alt="Internetstatistik" /> -->
+<a class=grossesbild href="#"><img src="images/bild_spi.JPG" width="190" height="120" alt="Internetstatistik" /><span></span></a>
+
+<p>Jeder Anwender, der bei uns ins Internet geht, ist durch ein <b>mehrstufiges Konzept</b> vor sogenannter Malware (Viren, Trojanische Pferde, Würmer usw.) geschützt. Das beginnt bei der lokalen Firewall und dem lokalen Virenscanner, geht weiter bei den Firewalls, die unser internes Netz von den exponierteren Bereichen trennt, und endet bei einem sogenannten Proxyserver.</p>
+
+
+<p>Ein <b>Proxyserver</b> dient als <b>Ein- und Austrittspunkt ins Internet</b> und stellt Seiten, die von einem Benutzer bereits aufgerufen wurden, aus dem lokalen Speicher zur Verfügung, wodurch Daten nicht  nochmals aus dem Internet geladen werden müssen.<br />
+Des weiteren <b>prüft</b> der Proxyserver Webseiten und Downloads <b>zentral auf Viren</b> (mit einem anderen Virenscanner als dem, der auf den PCs installiert ist) und <b>blockt bestimmte Kategorien</b> von Webseiten. Eine stets aktuell gehaltene Liste von Webseiten verhindert Zugriffe auf Seiten, auf denen z. B. Inhalte mit Glücksspiel, Gewalt, Sex und dergleichen mehr angezeigt werden. Zudem wird im Normalfall Werbung sofort an dieser Stelle geblockt.
+Diese Maschinen, die derzeit gerade erneuert werden, sind auf diese Aufgaben spezialisiert, warum muss man trotzdem ab und zu warten?</p>
+
+<p>Im Konzern teilen sich in etwa <b>1300 Benutzer</b> eine <b>Bandbreite</b> von derzeit <b>20 Mbit/s</b>. Wenn mehrere Anwender gleichzeitig größere und kleinere Downloads starten, dann muss erst einmal a) dieses Volumen über die Leitung kommen und b) der Virenscanner jede einzelne Datei auf etwaige Verunreinigungen untersuchen. Zu Hause hat man für sich <b>allein mindestens 2 Mbit/s</b>  zur Verfügung, lädt die Daten direkt aus dem Internet und wenn man eine Datei auf Viren untersuchen lässt, steht dafür mindestens <b>1 CPU</b> zur Verfügung. Um exakt gleiche Voraussetzungen zu schaffen, müssten wir für 1300 Benutzer <b>2600 Mbit/s</b> zur Verfügung stellen und bei 50 gleichzeitigen Downloads bräuchten wir Server mit <b>50 CPUs</b>.</p> 
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Internet">Anton Spitzer</a></p>
+
+
+
+
+
+

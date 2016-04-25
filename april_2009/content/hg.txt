@@ -1,0 +1,75 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Support: Vereinbarte Reaktionszeiten</h1>
+<h2>Warum werden Ihre Anfragen unterschiedlich schnell bearbeitet und gelöst?</h2>
+
+<p>Selbstverständlich sind wir generell bemüht, alle Ihre Support-Anfragen so schnell wie möglich zu bearbeiten und zu lösen. Allerdings ist es bei durchschnittlich <b>300 Anfragen pro Tag</b> für uns unumgänglich, dabei eine Priorisierung vorzunehmen. Nur so ist gewährleistet, dass schwerwiegende Probleme, von denen mehrere Betriebe betroffen sind und die eine <b>geschäftskritische Auswirkung</b> haben, etwa gegenüber einer fachlichen Anfrage vorrangig behandelt werden.</p>
+
+<p>Die Priorität Ihrer Anfrage ergibt sich dabei aus der <b>Dringlichkeit</b>, die Sie selbst beim Erstellen eines Tickets angeben, und aus der <b>Auswirkung</b> auf Ihren Geschäftsprozess. Die <a href="index.php?page=hg2" target="_blank" title="Die Reaktionszeiten im Detail"><b>&raquo;&nbsp;Reaktionszeit</b></a>, innerhalb derer wir Ihre Anfrage zu bearbeiten beginnen, hängt aber auch davon ab, welches System betroffen ist: Je nach Bedeutung ist jedem Business Service (CROSS, SAP, Lotus Notes etc.) ein sogenannter <b>Service Level</b> zugeordnet, der die Bedeutung des jeweiligen Services für die Geschäftsprozesse widerspiegelt.
+
+<p>
+Welcher Service Level für welches Business Service vereinbart ist, können Sie dem entsprechenden Service Level Agreement (SLA) entnehmen - eine <a href="http://kb.auto-partner.net/int/hilfe/klbpoial.nsf/3873a90d457994cec1257345002cdb87/faf7f23baf5e848cc1256f97004889fe?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>&raquo;&nbsp;Übersicht über alle SLA</b></a> finden Sie in der POI Infoline.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Reaktionszeiten">Gerlinde Holzschuh</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

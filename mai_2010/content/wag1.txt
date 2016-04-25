@@ -1,0 +1,38 @@
+
+
+<h1>CROSS: Vorschau auf Release 2.12</h1>
+<h2>Mitte Juni geht das neue CROSS-Release 2.12 in den Breiteneinsatz, hier ein Überblick über die wichtigsten Neuerungen.</h2>
+
+<img src="images/bild_pri.jpg" width="190" height="120" alt="CROSS 2.12 Highlights" />
+
+
+An den Wochenenden vom <b>12. bzw. 19. Juni 2010</b> wird das neue CROSS-Release in den Betrieben eingespielt. Es bringt eine Menge interessanter Änderungen und Neuerungen - hier ein kleiner Auszug:
+
+<ul>
+<li><div>Die neuen optionalen CROSS-Module <b>Vermietung</b></a>, <b>Eingangsrechnungskontrolle</b>, <b>Auftragsweitergabe</b> und <b>Welcome-Terminal</b> stellen wir Ihnen im Juni-Newsletter ausführlich vor.</div></li>
+<li><div>In Betrieben mit mehreren Kassen ist es nun möglich, mit <b>jeder Kassa jede Rechnung zu kassieren</b>, unabhängig von ihrer ursprünglichen Kassenzuordnung. </div></li>
+<li><div>Die <b>"Liste der überdurchschnittlichen Verbräuche"</b>, mit der Teileabgänge als Sonderverbrauch gekennzeichnet werden, bringt nun mithilfe eines neuen Kriteriums ein besseres Selektionsergebnis und reduziert den Bearbeitungsumfang dieser Liste. </div></li>
+
+<li><div>Die Information, ob ein Fahrzeug <b>vorsteuerabzugsberechtigt</b> ist, kann nun systemübergreifend (Importeurssysteme, VU2, CROSS) verarbeitet und angezeigt werden.</div></li>
+<li><div>Die <b>Buchungsanzeige</b> in einem Neu- oder Gebrauchtwagen-Akt kann nun auch bereits vor der Erstellung der Fahrzeug-Ausgangsrechnung erzeugt werden.</div></li>
+<li><div>Ab sofort  stehen Ihnen  in CROSS die <b>Abgasemissionsklassen</b> zur Verfügung, außerdem wurden die möglichen <b>Treibstoffkennzeichen</b> auf Basis international üblicher Definitionen erweitert.</div></li>
+<li><div>Um die von CROSS erzeugten Buchungen besser <b>nachvollziehbar</b> und <b>auswertbar</b> zu machen, wurde eine neue Datenbasis geschaffen, die alle Buchungen je Beleg mit der entsprechenden Kontierung enthält.</div></li>
+</ul>
+
+
+
+
+Alle wichtigen Informationen zum neuen Release im Detail entnehmen Sie bitte einem gesonderten <b>Rundschreiben im Partner.Net</b> sowie den <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/41ee254ae1710115c12577110027130d?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Änderungsbeschreibungen zu CROSS 2.12&nbsp;&raquo;</b></a> in der POI-Infoline, auch die MitarbeiterInnen unseres Serice Desks stehen für Ihre Fragen gerne zur Verfügung.
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS 2.12 Highlights">Gregor Wagner, Günther Richter</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

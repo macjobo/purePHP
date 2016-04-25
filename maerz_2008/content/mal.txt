@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+
+
+<h1>POCSO: EBV §57a jetzt im POCSO-Standard</h1>
+<h2>Die Software "Elektronische Begutachtungsverwaltung" für §57a-Überprüfungen ist ab sofort im POCSO-Standard.</h2>
+
+
+<p>EBV, das Programm für die <b>elektronische Begutachtungsverwaltung</b> der Fa. Mesensky, ist in Österreich die Standardsoftware für §57a-Überprüfungen. Dem haben wir nun Rechnung getragen und die Software nach Entwicklung einer eigenen <b>Installationsroutine</b> in den POCSO-Standard aufgenommen. </p>
+
+<p>Folgende <b>Leistungen rund um EBV</b> sind nun in der POCSO-Dienstleistung enthalten:
+<ul>
+<li><div>Softwareupdates werden automatisch am Server eingespielt und am Client verteilt.</div></li>
+<li><div>Bereits das nächste Update von Version 3.1.04 auf 3.1.21 (Mitte April 2008) ist kostenlos.</div></li>
+<li><div>Die EBV-Datenbank wird täglich am Server gesichert.</div></li>
+<li><div>Bei technischen Problemen am Server oder Client erhalten Sie Unterstützung durch das POCSO-Team.</div></li>
+</ul>
+</p>
+
+<p>Wir freuen uns, dass wir mit dieser <b>Leistungserweiterung von POCSO</b> die Programmaktualität in einem sensiblen Bereich steigern, gleichzeitig aber die Kosten und den manuellen Aufwand in Ihrem Unternehmen reduzieren können. Bitte beachten Sie aber: Die Lizenzkosten an die Fa. Mesensky sind in der POCSO-Pauschale nicht enthalten; der Ansprechpartner für fachliche Unterstützung (Softwarebedienung, -inhalt) ist weiterhin die Fa. Mesensky.</p>
+
+<p>Über den genauen Termin und die Vorgehensweise für das <b>Update auf Version 3.1.21</b> informieren wir den Systemverantwortlichen in Ihrem Unternehmen mittels gesondertem Schreiben. Für Fragen steht Ihnen Ihr IT- und Organisationsberater der Porsche Informatik gerne zur Verfügung.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=EBV §57a im POCSO-Standard">Friedrich Malle</a></p>

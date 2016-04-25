@@ -1,0 +1,60 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Lotus Notes: Mail-Archiv am Netzwerk-Server</h1>
+<h2>Wenn Sie Mails über einen längeren Zeitraum aufbewahren möchten, können Sie ab sofort am POCSO-Netzwerk-Server ein Archiv dafür anlegen. Vom Archivieren mittels lokaler Replik raten wir ab.</h2>
+
+<p>In POCSO-Netzwerken können Sie sich jetzt ein <b>Lotus-Notes-Mail-Archiv</b> auf dem Netzwerk-Server anlegen. So können Sie alte Mails aufbewahren, ohne damit kostenpflichtig die <a href="index.php?page=mal1" alt="Artikel 'Größe von E-Mails und Mailfiles'" title="Artikel 'Größe von E-Mails und Mailfiles'"><b>50 MB Mailfile-Beschränkung</b></a> zu überschreiten. Die Mails im Archiv können Sie jederzeit bearbeiten, wieder aktivieren oder versenden. Das Profil für die Archivierung wird Ihnen automatisch zugewiesen. Eine kurze <a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/b00d4cf946308426c1256ed9004402bd/6fe71f0cb16fcd27c1257096002a245a?OpenDocument" alt="Mailarchiv auf POCSO-Netzwerkserver erstellen" title="Mailarchiv auf POCSO-Netzwerkserver erstellen" target="_blank"><b>Anleitung</b></a> zum Archivieren haben wir in der Porsche Informatik Infoline zusammengefasst.</p>
+
+<p>Wenn Notebookuser ihre Mails auch offline bearbeiten möchten, bietet sich die Erstellung einer <b>lokalen Replik</b> an. Auch hierfür finden Sie eine <a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/b00d4cf946308426c1256ed9004402bd/df01b1d95dedfde8c125729f0043163d?OpenDocument" alt="Lokale Replik erstellen" title="Lokale Replik erstellen" target="_blank"><b>Beschreibung</b></a> in unserer Infoline. Diese lokale Replik sollte aber nur für Offline-Verfügbarkeit eingesetzt werden, <b>nicht</b> um E-Mails zu archivieren.</p>
+
+<p>In seltenen Fällen kann es nämlich vorkommen, dass beim Replizieren Daten aus diesem lokalen Mailfile zurück an den Server gesendet werden. Dann könnte die Übertragung von Hunderten MB die Datenleitung Ihres Unternehmens lahm legen. Hier ist das Anlegen eines <b>Netzwerk-Archivs</b> sinnvoller. Aber <b>Vorsicht</b>: Wenn Sie bisher die lokale Notes-Replik zum Aufbewahren von Mails verwendet haben, erstellen Sie bitte zuerst ein Archiv und übertragen Sie die Daten aus ihrer lokalen Replik in dieses neue Archiv, damit keine Mails verloren gehen. Auch hierfür finden Sie eine <a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/b00d4cf946308426c1256ed9004402bd/5773d29bafa1bbdec125729c004d60cf?OpenDocument" alt="Mails aus einer lokalen Replik in ein Mailarchiv archivieren" title="Mails aus einer lokalen Replik in ein Mailarchiv archivieren" target="_blank"><b>Anleitung</b></a> in der Infoline.</p>
+
+<p>Für Fragen zum Lotus-Notes-Mail-Archiv oder zur lokalen Replik stehen Ihnen die Mitarbeiter unseres Customer Care Centers gerne zur Verfügung.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Mail-Archiv am Netzwerk-Server">Friedrich Malle</a></p>
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

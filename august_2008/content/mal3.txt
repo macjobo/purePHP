@@ -1,0 +1,25 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Infrastruktur: Energiesparen im eigenen Netzwerk</h1>
+<h2>Mit einigen teils recht unaufwändigen Maßnahmen können Sie die Stromkosten für Ihre EDV-Anlage spürbar reduzieren!</h2>
+
+
+
+<p>Stromkosten wachsen durch permanente Preiserhöhungen zu einem immer größeren Kostenfaktor im Autohaus heran. Dazu trägt natürlich auch die EDV-Anlage bei.</p>
+<p>Sie haben jedoch einige Möglichkeiten, die Energiekosten in diesem Bereich zu reduzieren:</p>
+
+<ul>
+<li><div>Aktivieren Sie die <b>Energie-Management-Funktionen</b> von Bildschirmen, PCs und Druckern. Diese Funktionen führen zu Energie-Einsparungen, indem das Gerät nach einer bestimmten Zeit ohne Aktivität in den Stand-by-Modus oder einen Stromsparmodus geschaltet wird.</div></li>
+<li><div>Setzen Sie wo möglich <b>Netzwerkdrucker</b> statt Arbeitsplatzdrucker ein. Drucken Sie wo möglich <b>beidseitig</b>.</div></li>
+<li><div>Ersetzen Sie alte Geräte: Ein <b>neuer Desktop-PC</b> benötigt nur halb so viel Strom wie ein fünf Jahre altes Gerät.</div></li>
+<li><div><b>Notebooks</b> benötigen rund 70 % weniger Strom als Desktop-Geräte.</div></li>
+<li><div><b>Flachbildschirme</b> brauchen deutlich weniger Strom als Röhrenmonitore.</div></li>
+<li><div><b>Schalten</b> Sie Bildschirme, PCs und Drucker vor dem nach Hause gehen <b>aus</b> (nicht jedoch Server, aktive Komponenten und Kommunikationseinrichtungen).</div></li>
+</ul>
+
+
+
+<p>Mit diesen Maßnahmen sparen Sie Energie und Kosten und tragen außerdem zur Reduktion des CO<sub>2</sub>-Ausstoßes bei!</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Energiesparen im eigenen Netzwerk">Friedrich Malle</a></p>

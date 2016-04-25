@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Gebindeumbuchung</h1>
+<h2>Erfahren Sie, wie die Gebindeumbuchung den aufwändigen AUPA-Auftrag ablösen soll.</h2>
+
+<img src="images/bild_wid.jpg" width="190" height="120" title="Großgebinde" />
+
+
+<p>Seit dem Release 2.30 ist es möglich, <b>automatische Bestandsumbuchungen</b> von Groß- auf Kleingebindeteile einzurichten.
+Ziel ist es, durch die automatische Gebindeumbuchung den häufig verwendeten und in der Handhabung aufwändigen <b>AUPA- Auftrag abzulösen</b>.</p>
+
+
+
+<p> In der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/37a2385268cb0dc7c1257e9f004e7e08?OpenDocument"
+ target="_blank" title="Zur Porsche-Informatik-Infoline"><b>POI-Infoline&nbsp;&raquo;</b></a> haben wir nochmals alle wichtigen Einstellungen und Änderungen, 
+welche mit der Einführung der automatischen Gebindeumbuchung umgesetzt wurden, beschrieben.</p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Großgebindeumbuchung">Daniel Wiedemaier</a><br />
+POI PHS CROSS Consulting</p>
+
+

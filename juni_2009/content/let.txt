@@ -1,0 +1,58 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>SAP: Erfahrungen mit Anlagenbuchhaltung</h1>
+<h2>Immer mehr Autohäuser profitieren vom Einsatz der SAP-Anlagenbuchhaltung.</h2>
+
+<p>Im Juni 2008 wurde die <b>SAP-Anlagenbuchhaltung</b> im Autohaus John in Wien pilotiert. Seit diesem Startschuss entschließen sich immer mehr Betriebe dafür, ihre Anlagen über unser zusätzliches SAP-Modul abzuwickeln.</p>
+
+<p>Die Erfahrungen mit dem System sind durchwegs positiv. Auch <b>Angelika Weiß</b>, Finanzleiterin im Pilotbetrieb John, ist mit der Entscheidung für die Anlagenbuchhaltung zufrieden:</p>
+<p>"Der Start letzten Sommer war durch die <b>automatisierte Übernahme</b> der Altdaten aus dem früheren Anlagenprogramm sehr viel einfacher als angenommen. Nach der Überprüfung der Migrationsdaten konnten wir sofort mit der Erfassung der Anlagenzugänge des Jahres 2008 beginnen, die auch umgehend in die SAP-Buchhaltung übernommen wurden."</p>
+
+<p>Nach dem Nutzen der SAP-Anlagenbuchhaltung für ihren Betrieb befragt, meint Frau Weiß: "Als besonderen Vorteil sehe ich die <b>vollständige Integration</b> in die SAP-Finanzbuchhaltung/ Kostenrechnung: Jeder Anlagen-Ab- und -zugang und der monatliche AfA-Lauf wird sofort verbucht und ist somit in den <b>Auswertungen</b> der Buchhaltung und im BAB erfasst."</p>
+
+Wenn auch Sie Interesse an der SAP-Anlagenbuchhaltung haben, finden Sie <a href="http://kb.auto-partner.net/int/hilfe/klbsap.nsf/f9ca8c1665df61b3c1257345002cdb8b/cd1bc0382a2e5f16c12574190048500a?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>&raquo; nähere Informationen</b></a> dazu in der POI-Infoline, auch Ihr Key Account Manager der Porsche Informatik berät Sie gerne.
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SAP-Anlagenbuchhaltung">Theresia Lechner</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

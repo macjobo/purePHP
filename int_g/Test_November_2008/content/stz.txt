@@ -1,0 +1,54 @@
+<div class="umbruch">&nbsp;</div>
+<h1>CROSS 2: Release-Meeting</h1>
+<h2>Ende September fand das erste internationale CROSS-2-Release-Meeting in Baden bei Wien (Österreich) statt.</h2>
+
+<p>Ziel dieser und zukünftiger Veranstaltungen ist es, <b>alle Länder</b>, welche heute 
+bereits mit CROSS 2 arbeiten, <b>an einen Tisch</b> zu bringen, um gemeinsam neueste Entwicklungen zu diskutieren, Erfahrungen auszutauschen sowie Anforderungen einzubringen. 
+Im Zuge dieses Meetings wurden wesentliche Anforderungen an CROSS 2 vorgestellt, die in den nächsten beiden Releases umgesetzt werden.
+</p>
+
+ <p>Einige dieser neuen Funktionalitäten sind:</p>
+<ul>
+<li><b>Kassabuch:</b> Wichtige Erweiterungen und neue Unterstützung für die Anbindung an Kassabondrucker, Anzeige und Kassenlade</li>
+<li><b>Audi Service Key:</b> CROSS 2 unterstützt den Audi Service Key sowohl für die rasche Suche von Voranmeldungen als auch bei der Anlage von neuen Aufträgen und Fahrzeugen.</li>
+<li><b>Schadenskalkulationssysteme:</b> Die Integration von Audapad ist bereits umgesetzt, die Unterstützung für Silverdat wird zur Zeit entwickelt.</li>
+<li><b>Notfallskonzept:</b> Unterstützung für Händler bei einem längeren kompletten Verlust von CROSS-Services</li>
+<li><b>APOS-Pro:</b> Anbindung an CROSS 2</li>
+</ul>
+
+<p>Im Zuge der Diskussion haben wir festgestellt, dass bei Anforderungen 
+eines Landes oft auch andere Länder <b>ähnliche Anforderungen</b> haben. Dies hat uns darin bestärkt, diesen Weg der CROSS-2-Weiterentwicklung zu gehen. Wir freuen uns jetzt schon auf das nächste CROSS-2-Release-Meeting.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS">Mark Barton</a>
+<br>Prozessberatung Einzelhandel 
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

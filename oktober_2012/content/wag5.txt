@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS Tipp Terminbuchung Online: Geschäftspartner-Verknüpfung und Paketwartung</h1>
+
+<h2>Wie Sie das CROSS-Modul "Terminbuchung Online" noch effizienter einsetzen können.</h2>
+
+<img src="images/bild_wag5.jpg" width="190" height="120" title="Tipp Terminbuchung Online" />
+
+<p>Immer mehr Betriebe bieten ihren Kunden mit dem <b>CROSS-Modul "Terminbuchung-Online"</b> die komfortable und moderne Möglichkeit, einen Werkstättentermin über das Internet zu buchen.</p>
+
+
+<p>Mit der <b>zunehmende Nutzung</b> sind nun einige Fragen aufgetaucht. Daher haben wir eine <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/35cd2fa5940b1002c1257a9300445af4?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>Dokumentation mit Tipps &nbsp;&raquo;</b></a> rund um die Themen "Geschäftspartnerverknüpfung" und "optimale Paketanlage" für Terminbuchung-Online zusammengestellt. Sie finden diese Dokumentation in der Porsche Informatik Infoline. </p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Tipp Terminbuchung Online">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

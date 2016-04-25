@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Service Desk: Neue KollegInnen</h1>
+<h2>Aufgrund stetig steigender Anforderungen, komplexerer Themen, eines erhöhten Volumens an Supportanfragen wie auch interner Jobwechsel von Mitarbeitern haben wir unseren Service Desk verstärkt.</h2>
+
+<img src="images/bild_alk.jpg" width="100" height="433" alt="Neue Kollegen im Service Desk" />
+
+
+<p>Wir freuen uns darüber, dass es uns wieder gelungen ist, erfahrende und sehr motivierte KollegInnen für unsere zentrale Supportinstanz zu begeistern.</p>
+
+<p>Mit <b>Ruben Blaszczyk </b>und <b>Dominik Veresuk</b> haben wir zwei kompetente Techniker gefunden, die beide über eine langjährige Supporterfahrung verfügen. Sie haben uns bereits seit letztem Juli als Teilzeitmitarbeiter unterstützt; im Dezember wurden sie dann in eine Vollzeittätigkeit übernommen.</p>
+<p>Ganz neu im Team heißen wir <b>Cornelia Krenn</b> willkommen. Die engagierte Telematik-Absolventin ist seit Mitte Februar bei uns; sie ist die zweite Dame von mittlerweile neun "Service Support Engineers" an der Front.</p>
+
+<p>"Der Porsche Informatik Service Desk gibt mir die Möglichkeit, meine Kenntnisse weiter zu entwickeln und <b>neue Tätigkeitsbereiche</b> wie IT-Service-Management nach ITIL zu erkunden. So werden nicht nur meine Fähigkeiten in Bezug auf den Einsatz vieler verschiedener Software-Technologien, sondern auch der Umgang mit <b>Prozessen</b> gefördert", so Ruben Blaszczyk.</p>
+
+<p>Wir wünschen unseren KollegInnen einen tollen Start in ein umfangreiches, aber vor allen Dingen spannendes Tätigkeits- und Wissenumfeld! </p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Supportzeiten zum Jahreswechsel">Michaela Alker</a><br />
+Teamleitung Service Desk</p>
+
+

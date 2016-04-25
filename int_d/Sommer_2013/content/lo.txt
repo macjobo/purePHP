@@ -1,0 +1,19 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: "Bring Your Own Device" endet</h1>
+<h2>Ab sofort ist es nicht mehr möglich, eigene elektronische Geräte für dienstliche Zwecke zu nutzen.</h2>
+
+<img src="images/bild_lo.jpg" width="190" height="120" alt="BYOD" />
+
+
+<p>"Bring your own device" (BYOD) entwickelte sich in den vergangenen Jahren auch hierzulande zu einem beliebten Trend. Dabei geht es darum, dass MitarbeiterInnen ihre <b>eigene IT-Hardware</b> (Smartphones, Tablets, etc.) auch beruflich verwenden können.</p>
+
+<p>Das klingt zunächst nach einer Win-win-Situation: Unternehmen sparen Anschaffungskosten; ArbeitnehmerInnen arbeiten mit Geräten, die sie von der privaten Nutzung her gewohnt sind und die vielleicht auch einmal "stylisher" sind als die Geräte, die im Firmenstandard angeboten werden.</p>
+
+<p>Trotzdem birgt dieses Konzept zahlreiche <b>Risiken</b>, die auch wir im Porsche-Konzern nicht länger ignorieren können. Vor allem mit unseren internen <b>Datenschutzrichtlinien</b> und unseren Vorgaben im Bereich <b>IT-Sicherheit</b> ist BYOD letztlich nicht gut zu vereinbaren. Da zudem die Nachfrage relativ gering war und sich der Zusatzaufwand für die Integration dieser Geräte letztlich nicht gerechnet hat, haben wir beschlossen, BYOD in der Porsche Holding Salzburg <b>nicht mehr länger anzubieten</b>.</p>
+
+<p>Wenn es Ihren Aufgabenbereich sinnvoll unterstützt, stellt Ihr Unternehmen seit Jahren <b>mobile Geräte</b> wie Blackberry, iPhone oder iPad bereit, die auch von der Porsche Informatik gemanagt werden. Für nähere Informationen dazu wenden Sie sich bitte an den/die EDV-KoordinatorIn Ihres Bereichs.</p>
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=BYOD">Herbert Lohninger</a></p>
+
+

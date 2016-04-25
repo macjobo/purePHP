@@ -1,0 +1,19 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: WLAN</h1>
+<h2>Die Porsche Informatik stellt Ihnen in allen offiziellen Besprechungsräumen WLAN zur Verfügung - ohne zusätzliche Kosten!</h2>
+
+<img src="images/wlan.jpg" width="140" height="140" alt="kennzahlen" />
+
+<p>Mit der eingesetzten WLAN-Lösung gewährleisten wir in allen <b>Besprechungsräumen</b> einen optimalen Empfang. 
+Durch das Strahlungsverhalten kann das WLAN eventuell auch in angrenzenden Büros genutzt werden, dies wird von uns aber <b>nicht garantiert</b>.
+Zudem bieten wir für Gäste und mobile Endgeräte eine Internetverbindung mit derzeit 10 Mbit/s Bandbreite als <b>sogenanntes Gäste-WLAN</b> an.
+Diese Lösung ist von unseren Sicherheitsbereichen getrennt und auf 1 Mbit/s je Benutzer beschränkt.
+Damit können Sie Besuchern oder Kollegen aus anderen Konzernfirmen einen Zugang zum Internet anbieten.</p>
+<p>Das <b>Anlegen von Benutzern</b> für Gäste kann dabei mit Vorlaufzeit beim Service Desk beauftragt werden. In einigen Bereichen führt der EDV-Koordinator die Freischaltung durch.
+Sollten Sie häufig Besucher empfangen, die bei Ihnen über WLAN arbeiten möchten, können Sie gerne über ein Ticket anfordern, dass Sie auch selbst die Möglichkeit erhalten, Gastbenutzer freizuschalten. 
+</p>
+
+
+<p>
+<a href="mailto:info@porscheinformatik.at ?subject=WLAN">Anton Spitzer</a> </p>

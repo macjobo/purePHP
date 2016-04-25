@@ -1,0 +1,68 @@
+<h1>CROSS 2: Integriertes Kassabuch</h1>
+<h2>Das CROSS-Kassabuch ist bei den ersten Betrieben eingesetzt - die Erfahrungen sind durchwegs positiv.</h2>
+
+<p>Drei wesentliche Vorteile zeichnen das neue CROSS-Kassabuch aus:</p>
+
+<ul>
+
+<li>Durch die volle <b>Integration</b> in CROSS 2 werden Tageslosung und Bankomatsumme automatisch ermittelt und die Kontonummern von Personen- und Sachkonten vom System überprüft.</li>
+<li>Eine <b>Schnittstelle</b> ermöglicht die automatische Verbuchung in SAP.</li>
+<li>Mit der neuen Lösung vermeiden Sie <b>Rechenfehler</b> und in der Folge das oft zeitaufwändige Suchen dieser Fehler.</li>
+
+</ul>
+
+Die ersten Anwender des CROSS-Kassabuchs schätzen diese Vorteile. Hannes Fankhauser, Büroleiter im Autohaus Picker: "Die Eingabe durch unsere Bürokräften erfolgt reibunglos. Die <b>Fehlersuche</b> hat sich erheblich erleichtert, da jeder Beleg sofort ins Kassabuch übertragen wird und so keine Belege mehr vergessen werden." Johann Gschwendtner, Finanzleiter der Tiroler PIA-Betriebe: "Das neue CROSS-Kassabuch ist sehr funktionell und bedienerfreundlich. Es hat für unsere Kassakräfte und Buchhaltungsmitarbeiter eine <b>spürbare Erleichterung</b> gebracht. Entsprechend groß war von Anfang an die Akzeptanz."
+</p>
+
+
+
+<p>Haben auch Sie Interesse am neuen CROSS-Kassabuch? <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/054e1856227a364bc125720b002fb0b3?OpenDocument" title="Produktblatt CROSS Kassabuch" alt="Produktblatt CROSS Kassabuch" target="_blank"><b>Details zum Angebot und zur Bestellung</b></a> finden Sie in der Porsche Informatik Infoline. Für Fragen dazu steht Ihnen Ihr IT- und Organisationsberater der Porsche Informatik gerne zur Verfügung.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Kassabuch">Maximilian Stempfer</a></p>
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

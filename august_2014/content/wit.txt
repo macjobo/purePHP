@@ -1,0 +1,97 @@
+
+<h1>CROSS-Tipp: CROSS.Controlling Datenfilterung</h1>
+
+<h2>Der Trick mit den Datenfiltern.</h2>
+
+
+
+<img src="images/bild_wit.jpg" width="190" height="120" alt="Filter" />
+
+
+
+<p>
+In den alten Auswertungen war es notwendig, für die unterschiedlichen Betrachtungsebenen <b>getrennte Berichte</b> zu gestalten. 
+Dadurch haben sich zwangsläufig Zahlenlücken ergeben, die es auf den neuen Berichten (Dashboards) nicht mehr gibt.
+
+</p>
+
+
+
+<p>Auf den Dashboards haben wir die Kennzahlen so ausgewählt, dass Sie auf <b>einen Blick</b> den Zusammenhang der <b>Service-Einflussfaktoren</b> darstellen. 
+Mit der <b>Filtertechnik</b> können Sie <b>detaillierte Werte</b> abrufen, ohne ein weiteres Dashboard aufrufen zu müssen.
+ Vorausgesetzt, die Kennzahlen lassen sich gemeinsam über <b>dieselben Filter einschränken</b>.
+
+</p>
+
+
+<p>Beispielsweise <b>abgerechnete Durchgänge</b>, die über die Abteilungen der Mechaniker ermittelt werden, passen nicht auf die Serviceübersicht, weil auf diesem Dashboard der Filter Mechanikerabteilung nicht möglich ist. 
+In diesem Fall muss man auf die Leistungslöhneranalyse ausweichen. Dort ist die Mechanikerabteilung ein wesentlicher Bestandteil der Datenfilter oder auch "Slicer".
+</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Controlling Datenfilterung">Christian Witibschlager</a><br />Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

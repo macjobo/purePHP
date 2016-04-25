@@ -1,0 +1,16 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Support: Online-Support NEU</h1>
+<h2>Am 1. Dezember 2008 haben wir unseren neuen Online-Support eingesetzt - mit Erfolg!</h2>
+
+
+<p>Anfang Dezember haben wir, wie <a href="http://newsletter.porscheinformatik.at/november_2008/index.php?page=wam" target="_blank" title="Newsletter-Artikel vom November"><b>&raquo; berichtet</b></a>, im neuen Service Desk auch das Erfassungstool für Ihre Anfragen auf neue Beine gestellt. Der <b>neue Online-Support</b> hat großen Anklang gefunden: Bis 15. Dezember wurden 984 von insgesamt 3106 Anfragen über diese Plattform erstellt, das enspricht einem Anteil von <b>32 Prozent</b>!</p>
+
+<p>Besonders die gute Akzeptanz unserer neuen <a href="index.php?page=bild_wam" title="Screenshot Neue Anfrage"><b>&raquo; Anfrage-Vorlagen</b></a> freut uns. Wenn Sie die vordefinierten <b>Fragen im Feld "Anmerkungen"</b> beantworten, stellen Sie sicher, dass wir über alle wichtigen Informationen zu Ihrer Anfrage verfügen. Das trägt sehr wesentlich zu einer zur schnellen und zielgerichteten Lösung bei. Welche Vorlagen Ihnen angezeigt werden, wird anhand Ihrer Betriebszugehörigkeit ermittelt - Sie sehen also diejenigen Produkte oder Services, die Ihr Unternehmen von Porsche Informatik bezieht.</p> 
+
+<p>Bitte beachten Sie in diesem Zusammenhang, dass wir Ihre <b>Stammdaten</b> aus dem <b>Partner.Net</b> beziehen - Sie helfen uns mit aktuell gewarteten Daten wie Telefonnummer oder E-Mail-Adresse. </p>
+Für weitere Fragen haben wir Ihnen eine <a href="http://kb.auto-partner.net/int/hilfe/klbpoial.nsf/3873a90d457994cec1257345002cdb87/c53b977e3a0cd25cc125750c004ad464?OpenDocument" target="_blank" title="Online-Support Anleitung"><b>&raquo; Anwenderbeschreibung</b></a> erstellt, die Sie in der POI-Infoline aufrufen können. Gerne beantworten auch die Mitarbeiter des Service Desk Ihre Fragen zum neuen Online-Support - Ihr Feedback ist jederzeit erwünscht und willkommen! 
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Online-Support NEU">Markus Watzik</a></p>

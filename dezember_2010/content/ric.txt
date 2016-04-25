@@ -1,0 +1,36 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS: Vorschau auf Release 2.14</h1>
+<h2>Ende Jänner geht das neue CROSS-Release 2.14 in den Breiteneinsatz, hier ein Überblick über die wichtigsten Neuerungen im Bereich Neu- und Gebrauchtwagen.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="CROSS 2.12 Highlights" />
+
+
+<p>Das neue CROSS-Release 2.14 bringt auch im Bereich <b>Neu- und Gebrauchtwagen</b> einige Änderungen und neue Funktionalitäten:</p>
+
+<ul>
+
+<li><div>Für <b>Proforma-Rechnungsdokumente</b> kann nun eine PDF-Vorschau angezeigt und diese auch gedruckt, gespeichert oder als E-Mail versendet werden.</div></li>
+
+
+<li><div>Um in den CROSS-Auswertungen und -Selektionen <b>Vorführwagen und Service-Ersatzfahrzeuge</b> unterscheidbar zu machen, wurde die neue interne Fahrzeugart "NW-Service-Ersatzfahrzeug" eingeführt. In der Buchhaltung werden Vorführwagen und Service-Ersatzfahrzeuge weiterhin gemeinsam als "Funktionsfahrzeug" behandelt.</div></li>
+
+<li><div>Die <b>Vorführwagenmeldungen</b> an den Importeur sind nun nicht mehr von der "internen Fahrzeugart", sondern von der "Fahrzeugart" (=Importeurs-Fahrzeugart) abhängig.</div></li>
+
+
+
+</ul>
+
+<p>Alle wichtigen Informationen zum neuen Release im Detail entnehmen Sie bitte einem gesonderten <b>Rundschreiben im Partner.Net</b> sowie den <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/5023e5b47563b7dac12577bd00237301?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Änderungsbeschreibungen zu CROSS 2.14&nbsp;&raquo;</b></a> in der POI-Infoline, auch die MitarbeiterInnen unseres Serice Desks stehen für Ihre Fragen gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS 2.14 Highlights">Günther Richter</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+

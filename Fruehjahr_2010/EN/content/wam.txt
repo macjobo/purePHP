@@ -1,0 +1,30 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>SERVICE DESK: Customer Satisfaction Survey</h1>
+<h2>The first Service Desk Customer Satisfaction Survey was sent out in February this year.</h2>
+
+<img src="../images/alk.jpg" width="190" height="100" alt="Service Desk" />
+
+<p>The Service Desk Survey was structured into two areas:</p>
+
+<ul>
+<li><div>General satisfaction with Service Desk services</div></li>
+<li><div>Satisfaction with the <a href="http://support.porscheinformatik.at" title="Online Support" target="_blank"><b>Online Support &raquo;&nbsp;</b></a></div></li>
+</ul>
+
+<p>A return rate of 34% has provided representative results. Your feedback gave us the following valuable information:
+</p>
+
+<ul>
+<li><div>You are highly satisfied with the level of politeness of our Service Desk staff.</div></li>
+<li><div> E-mail notifications for ticket status changes are desired.</div></li>
+<li><div>You can see potential for improvement of the Online Support query templates.</div></li>
+</ul>
+
+<p>Please be assured that we will repeat this kind of survey to determine trends in your Service Desk services experience.</p>
+<p>You will find detailed information via POI Infoline &raquo;&nbsp; Betriebsführung &raquo;&nbsp; News &raquo;&nbsp; Information &raquo;&nbsp; <b><a href="https://domino.auto-partner.net/int/hilfe/klbbetrf.nsf/AllByID/7561761FFF99D602C12576E1004644FF?OpenDocument" target="_blank" title="Customer Survey Service Desk" alt="Customer Survey Service Desk">Customer Survey Service Desk &raquo;&nbsp;</a></b>.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Customer Satisfaction Survey">Markus Watzik</a></p>
+
+
+

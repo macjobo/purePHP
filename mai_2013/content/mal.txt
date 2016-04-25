@@ -1,0 +1,51 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Neuer VAS-Tester in den POCSO-Standard aufgenommen - Platzprüfung Laufwerk C: im Zuge der Anmeldung an den PC - Software-Einsatz von ELSA 4.10 - Neue Version von EBV</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+<li><div>
+Das neue <b>VAS-Testermodell 6160A</b> wurde in den <b>POCSO-Standard</b> aufgenommen und kann ab Freigabe durch Porsche Austria als POCSO-Diagnosetester 
+in ihr POCSO-Netzwerk integriert werden. Nutzen Sie die Vorteile umfassender Information und Mobilität in der Werkstätte beim Einsatz der Diagnosetester auch im
+ <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/30a20ad956fa226cc1257345002cdb88/b6bb0b88c33e3007c12573d10050683d?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>&nbsp;&raquo;POCSO WLAN</b></a>.
+</div></li>
+
+<li><div>
+Immer wieder kommt es vor, dass PC's mit praktisch keinem freien Speicherplatz auf Laufwerk C: betrieben werden. 
+Dabei kommt es zu verschiedensten Problemen, unter anderem ist der <b>Virenschutz nicht mehr aktualisierbar</b>, sonstige 
+<b>Softwareupdates nicht mehr einspielbar</b>. Ab sofort wird deshalb im EH die Plattenplatzprüfung im Zuge des Anmeldevorganges angepasst. 
+Ab nur mehr 450 MB verbleibendem Speicherplatz wird eine <b>Warnung</b> angezeigt. 
+Ab 150 MB verbleibendem Speicherplatz kann der PC nicht mehr gestartet werden. Dann müssen entweder Dateien gelöscht oder ein neuer PC angeschafft werden.</div></li>
+
+
+<li><div>
+Es werden zwar alle Betriebe bis ca. Mitte Mai auf ELSA Pro umgestellt, <b>als Backup</b> bleibt <b>Elsawin</b> jedoch aktiv. Deshalb ist es weiterhin notwendig, 
+ELSA 4.10 in den POCSO Netzwerken zu installieren. Das Update ist ab Mitte Mai geplant.</div></li>
+
+
+<li><div> 
+
+Wie im Rundschreiben "Programmaussendung 003/2013" vom 19.04.2013 bereits angekündigt, gibt es ein <b>Update von EBV</b> auf die neueste Version. Das Rollout der neuen Version EBV 3.6.22_EH ist am Laufen.
+
+</div></li>
+
+
+
+</ul>
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>
+
+
+
+

@@ -1,0 +1,28 @@
+
+<h1>Service Desk: Neue Aufgaben und Mitarbeiter</h1>
+<h2>Für die Bewältigung neuer Aufgaben wurde der Service Desk personell verstärkt.</h2>
+
+
+
+<a href="index.php?page=bild_sd"><img src="images/bild_alk.jpg" width="190" height="120" alt="Service Desk" /><span></span></a>
+
+
+<p>Um unseren Kundenservice weiter zu verbessern, bauen wir den <b>Kompetenzbereich</b> des Service-Desk-Teams laufend aus. Neben Anfragen zu POCSO, Lotus Notes, Citrix, BlackBerry und VPN-Administration servicieren wir ab sofort auch Anfragen zum Thema <b>Netzwerk WAN/LAN</b> als 1st Level Support direkt im Service Desk.</p>
+
+<p>Damit soll gewährleistet werden, dass Störungen und Anfragen rund um das Thema Netzwerk, Zusammenarbeit mit Leitungsprovider, Teleworkeranfragen, Expand-Konfigurationen und vieles mehr noch <b>effizienter und schneller</b> behandelt werden.</p>
+
+<p>Um für die wachsenden Anforderungen aufgestellt zu sein, verstärken uns im Service Desk <b>neue KollegInnen</b>, was nach deren Einarbeitungsphase sicherstellen soll, dass Leistung und Qualität auch mit wachsenden Aufgaben auf gewohnt hohem Niveau bleiben. In den letzten Monaten haben Sie vielleicht schon die eine oder andere "neue" Stimme am Service Desk vernommen. Daher möchten wir Ihnen gerne unsere neuen Mitarbeiter <a href="index.php?page=bild_sd"><b>vorstellen&nbsp;&raquo;&raquo;</b></a>:
+</p>
+
+<p>Als Service Desk Agents neu im Team sind <b>Julia Stark</b> und <b>Olukayode Bello</b>; als freie Mitarbeiterinnen für je 20 Wochenstunden unterstützen uns <b>Theresa Thalhammer</b> und <b>Sandra Staib</b>.</p>
+
+<p>Speziell für den neuen Bereich Netzwerk Support und Administration haben wir mit den freien Mitarbeitern <b>Fridolin Einböck</b> und <b>Thomas Winkler</b> ebenfalls tatkräftige Unterstützung erhalten.  </p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Mitarbeiter">Michaela Alker</a><br />
+Icident Management Service Desk
+</p>
+
+
+
+

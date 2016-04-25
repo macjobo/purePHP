@@ -1,0 +1,32 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>SERVICE DESK: Neue Mitarbeiter</h1>
+<h2>Neue Stimmen im Service Desk</h2>
+
+<img src="images/bild_alk1.jpg" width="190" height="120" title="Mitarbeiter" />
+
+
+
+<p>
+Aufgrund stetig steigender Anforderungen, komplexeren Themen und einem erhöhten Volumen an Supportanfragen haben wir unseren <b>Service Desk verstärkt</b>.</p>
+
+<P>
+Wir sind froh, dass es uns wieder gelungen ist erfahrene und voll motivierte Kollegen für unsere zentrale Supportinstanz zu begeistern.</p>
+
+<p>
+Mit <b>Ruben Blaszczyk</b> und <b>Dominik Veresuk</b> haben wir zwei kompetente Techniker gefunden, 
+welche beide über eine langjährige Supporterfahrung verfügen. Beide unterstützen uns bereits seit letztem Juli als Teilzeitmitarbeiter. Nun wurden sie in eine Vollzeittätigkeit übernommen.
+</p>
+
+<P>Ganz neu im Team heißen wir auch <b>Cornelia Krenn</b> willkommen. Eine engagierte Telematik Absolventin, 
+welche seit Mitte Februar 2015 bei uns ist. Sie ist somit die zweite Dame von mittlerweile neun Support-Engineers an der Front.</p>
+
+
+<P>
+Wir wünschen unseren KollegInnen einen tollen Start in ein umfangreiches, aber vor allen Dingen spannendes Tätigkeits- und Wissensumfeld!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Mitarbeiter im Service Desk">Michaela Alker</a><br />
+Teamleitung Service Desk</p>
+
+

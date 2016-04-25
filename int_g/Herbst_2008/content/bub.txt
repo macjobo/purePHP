@@ -1,0 +1,126 @@
+<div class="umbruch">&nbsp;</div>
+<h1>IT- Infrastruktur: Neue Anforderungsdatenbank</h1>
+<h2>Um die Zusammenarbeit zwischen dem Bereich Infrastruktur Services (IS) der Porsche Informatik und den lokalen IT-Abteilungen weiter zu verbessern, gibt es ab nun auch eine Anforderungs-<br />
+datenbank für alle Infrastrukturthemen.</h2>
+
+<p>Der Einsatz von Anforderungsdatenbanken hat sich für die Software-Produkte der Porsche Informatik bereits bestens bewährt. Um auch Ihre Anfragen zu Infrastrukturthemen wie Active Directory, Händleranbindungen, Planung eines Rechenzentrums, etc. zukünftig noch effizienter und optimal koordiniert abzuwickeln, haben wir die <b>IS Anforderungsdatenbank</b> für unsere Partnerländer ins Leben gerufen.</p>
+
+<p>Der Einstieg erfolgt über Ihr <b>Partner.Net</b> (Porsche Informatik -> Anforderungsdatenbanken -> Infrastruktur). Sie können Anforderungen unter den folgenden Kategorien erstellen:</p>
+
+<ul>
+<div><li>Server</li></div>
+<div><li>Network</li></div>
+<div><li>Client</li></div>
+<div><li>Project Management</li></div>
+</ul>
+
+<p>Sämtliche Anfragen zu neuen Themen bzw. Projekten müssen vom jeweiligen Fachbereich (siehe Tabelle) freigegeben werden. Zudem wird der verantwortliche Key Account Manager für das jeweilige Land über alle Anfragen informiert.</p>
+
+<div class="tabelle">
+
+<table>
+<tr><td><tr>
+<th>Anforderung <br />IT-Verantwortlicher</th>
+<th>Freigabe<br />
+Fachbereich</th>
+<th>Information<br />Key Account</th>
+<th>Durchführung IS</th>
+</tr>
+
+<tr>
+<td>IT-Leiter Importeur</td>
+<td>POA/GHA</td>
+<td>Hr. Parlic</td>
+<td>Hr. Klinger/Fr. Buber</td>
+</tr>
+
+
+<tr>
+<td>IT-Leiter Bank</td>
+<td>PBV/Hr. Auer	</td>
+<td>Hr. Wenger</td>
+<td>Hr. Klinger/Fr. Buber</td>
+</tr>
+
+<tr>
+<td>IT-Leiter PIA</td>
+<td>PIA/Hr. Seebach</td>
+<td>Hr. Rauter</td>
+<td>Hr. Klinger/Fr. Buber</td>
+</tr>
+</table>
+
+</div> 
+
+<p>Bitte beachten Sie, dass diese Datenbank ausschließlich für Anforderungen vorgesehen ist.
+Akute Probleme oder Fehler bei Applikationen oder Systemen melden Sie bitte weiterhin direkt an den <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">Service Desk</a></b> der Porsche Informatik!</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=IS AnforderungsDB">Barbara Buber</a>
+<br>Projektmanagement Infrastruktur Services
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

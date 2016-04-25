@@ -1,0 +1,31 @@
+
+<h1>CROSS-Tipp: Korrekte Teileverkaufsanalyse</h1>
+
+<h2>Sind die Zubehörgruppen in der Teileverkaufsanalyse möglicherweise falsch?</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="Zubehör" />
+
+
+<p>Wie bereits im Februar-newsletter beschrieben, gibt es mit der <b>CROSS.Controlling.Teileverkaufsanalyse</b> wieder eine brauchbare Möglichkeit, 
+sich einen <b>Überblick</b> über den <b>Zubehörverkauf</b> zu verschaffen.
+Leider ist noch in einigen CROSS-Datenbank eine falsche Zuordnung bei Originalteilen hinterlegt, 
+was dazu führt, dass der <b>Originalteileverkauf wie ein Zubehörverkauf</b> erscheint.</p>
+
+<p>Wenn Sie die Anleitung <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/f2a1a3ca7553b9e0c1257c5b006a22ec?OpenDocument
+" target="_blank" title="Zur Porsche-Informatik-Infoline">in der Porsche Informatik-Infoline&nbsp;&raquo;</a> angewandt haben, erhalten Sie ab dem Folgetag auch für diese Gruppe die richtige Zuordnung.</p>
+
+<p>Bei Fragen steht Ihnen unser Service Desk gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Abgerechnete Aufträge vom aktuellen Tag">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Release 2.16: Customer Dashboard</h1>
+
+<h2>Zur leichtere Pflege Ihrer Kundenbeziehungen stellt Ihnen CROSS mit dem Release 2.16 eine neue Kundenübersicht, das "Customer Dashboard" zur Verfügung.</h2>
+
+<img src="images/bild_ric2.jpg" width="190" height="120" alt="Customer Dashboard" />
+
+<p>Customer Relationship Management (CRM) bedeutet nichts anderes als die <b>aktive Pflege der Kundenbeziehungen</b>. Wesentlich dabei ist, dass alle Informationen über die Kundenbeziehung dokumentiert und verwaltet und in der Folge für Kundenkontakte aller Art genutzt werden. So sichern Sie sich langfristig die Zufriedenheit Ihrer Kunden!</p>
+
+<p>CROSS hat Sie dabei bisher schon mit einem gemeinsamen <b>Geschäftspartner- und Fahrzeugstamm</b> für alle Bereiche einer Unternehmensgruppe und mit vielfältigen Selektions- und Kontaktmöglichkeiten unterstützt. Mit CROSS 2.16 stellen wir Ihnen nun zusätzlich das <b>"Customer Dashboard"</b> zur Verfügung: Diese Übersicht löst die bisherige Geschäftspartner-Ansicht ab und fasst die wichtigsten Informationen über einen Geschäftspartner auf <b>einer Bildschirmseite</b> zusammen.</p>
+
+<p>Diese 360°-Sicht auf den Kunden ist für <b>jeden CROSS-Anwender</b> zugänglich! Details zum Customer Dashboard und zu den dargestellten Informationen entnehmen Sie bitte der Änderungsbeschreibung zu CROSS Release 2.16.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS Customer Dashboard">Günther Richter</a><br />
+
+Fachkoordinator CROSS Neu- und Gebrauchtwagen</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

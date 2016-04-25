@@ -1,0 +1,20 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: CROSS.Controlling</h1>
+<h2>Der frühe Vogel fängt den Wurm ...</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="CROSS.Controlling" />
+
+
+
+<p>
+Unter diesem Motto haben wir die Tagesendverarbeitung von CROSS.Controlling weiter optimiert, 
+um den Serviceverantwortlichen die Möglichkeit zu geben, bereits bei oder sogar schon <b>vor Betriebsbeginn</b> auf Basis der Kennzahlen des Vortages Maßnahmen abzuleiten und dementsprechende Verbesserungsprozesse 
+einzuleiten.</p>
+
+<p> Die Performance der Tagesendverarbeitung hat sich derart verbessert, dass die Daten <b>bereits ab 6:15 Uhr zur Verfügung</b> stehen.
+</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Controlling">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>

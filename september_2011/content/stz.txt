@@ -1,0 +1,45 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>VU2: Die neue Version 2.47</h1>
+<h2>Die VU-Version 2.47 bietet einige interessante neue Funktionalitäten, die Ihre Abläufe im Verkauf weiter vereinfachen und verbessern.</h2>
+
+<img src="images/bild_stz.jpg" width="190" height="120" title="VU 2.47" />
+
+
+<p>Die neue VU2-Version 2.47 ging am 12.09.2011 in den Breiteneinsatz. Die <b>Highlights</b> dieser Programmeinspielung, die wir im Folgenden beschreiben, stehen daher bereits allen Betrieben in Österreich zur Verfügung.</p>
+
+<p>Wesentliche Erweiterungen gab es im Bereich VU2-Online-Kommunikation mit der Porsche Bank: Ab sofort können über die VU2 <b>Vertragsinformationen</b> online zwischen Händler und der Porsche Bank ausgetauscht werden! Das bedeutet im Einzelnen:</p>
+
+
+
+<ul>
+
+<li><div><b>Ablauf- und Bestandslisten</b> der Porsche-Bank-Verträge können tagaktuell in der VU2 bearbeitet werden. </div></li>
+<li><div>Zusätzliche <b>Vertragsdetails</b> zu den Porsche-Bank-Verträgen können über eine Web-Applikation aufgerufen werden.  </div></li>
+
+<li><div>Die Abfrage von <b>Auflösungswerten</b>, der Ausdruck der <b>Rücknahmepapiere</b> und der Informationsaustausch über Kundenkontakte zu <b>ablaufenden Verträgen</b> mit dem Porsche-Bank-Händlerbetreuer kann direkt über die VU2 erfolgen.</div></li>
+
+
+</ul>
+
+<p>Die Porsche Bank bietet zu diesem Thema im September eigene <b>Kurzschulungen</b> an.</p>
+
+
+
+
+
+Eine wichtige Neuerung gibt es beim <b>Neuwagen-Angebot</b>:
+
+<ul>
+
+ <li><div>Alle von den Marken im System eingepflegten <b>Preisvorteile</b> (Sondermodelle, Aktionen, Mehrausstattungspakete, NoVA-Bonus, Rabatt) werden übersichtlich im <b>Konfigurationsfenster</b> angezeigt und können auf Wunsch am Angebot ausgedruckt werden. Diese Informationen stehen dem Verkäufer damit als weitere Argumentationshilfe zur Verfügung und bieten ihm eine individuell einsetzbare Unterstützung bei den Angebots- und Preisverhandlungen.</div></li>
+
+</ul>
+<p>Für Fragen zu den neuen VU2-Funktionalitäten stehen Ihnen die MitarbeiterInnen unseres Service Desks gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Die neue VU-Version 2.47">Heinz Strutzmann</a><br />
+Leitung VU2-Entwicklung</p>
+
+

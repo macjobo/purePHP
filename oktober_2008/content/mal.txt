@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Lotus Notes: Sicheres Aufbewahren von E-Mails</h1>
+<h2>Nutzen Sie die Lotus-Notes-Archivlösung, um Datenverlust und andere Probleme zu verhindern.</h2>
+
+<p>E-Mails zählen heute zu den bedeutendsten Kommunikationsmitteln überhaupt. Damit wird es aber auch erforderlich, wichtige Nachrichten <b>nachhaltig aufzubewahren</b>: Im Fall eines Festplattenschadens oder eines anderen Defekts darf es nicht zu einem Totalverlust Ihrer abgelegten Mails kommen.</p> 
+
+<p>Bitte berücksichtigen Sie in diesem Zusammenhang folgende <b>Richtlinien</b> der Porsche Informatik für die <b>Archivierung von E-Mails</b>:
+
+<ul>
+<li><div>Verwenden Sie Ihr lokales Mailfile nicht als Archiv! <b>Lokale Repliken</b> mit einer Größe von Hunderten Megabytes können zu unkontrollierten Netzwerkbelastungen, Überschreitungen der vorgegebenen Mailfilegrößen mit damit verbundenen Kosten, im schlimmsten Fall aber auch zum Totalverlust der lokalen Replik führen. </div></li>
+<li><div>Stellen Sie Ihr lokales Mailfile unbedingt so ein, dass es den <b>gleichen Inhalt</b> wie das Mailfile am Server aufweist.</div></li>
+<li><div>Zum Ablegen/Archivieren von älteren Mails darf nur das <b>Netzwerkserverarchiv</b> verwendet werden. Nur dort werden die Daten täglich gesichert. Sollten Sie mit einem Notebook arbeiten, so lassen Sie von der Porsche Informatik überprüfen, ob alle Einstellungen richtig gesetzt sind. </div></li>
+</ul></p>
+
+<p>Wie Sie ein Mailarchiv aus einem lokalen Mailfile einrichten können, haben wir in einer <a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/AllByID/5773D29BAFA1BBDEC125729C004D60CF?OpenDocument" target="_blank" title="Mails aus einer lokalen Replik in ein Mailarchiv archivieren"><b>Anleitung</b></a> in der POI-Infoline beschrieben. Bei Fragen zur Einrichtung eines Mailarchives am POCSO-Netzwerkserver unterstützen Sie die Mitarbeiter unseres Customer Care Centers gerne.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=??">Friedrich Malle</a></p>

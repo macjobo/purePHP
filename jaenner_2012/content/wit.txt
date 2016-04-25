@@ -1,0 +1,96 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Datenaustausch im Service-Kernprozess</h1>
+
+<h2>Rund um den Service-Kernprozess bietet CROSS den Datenaustausch mit zahlreichen anderen Systemen -  eine Übersicht in der Porsche-Informatik-Infoline veranschaulicht die einsetzbaren Schnittstellen für jeden Prozess-Schritt.</h2>
+
+
+
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/c1256f08003d9d8fc125798000578fd9?OpenDocument" target="_blank" title="Zur POI-Infoline"><img src="images/bild_wit.jpg" width="190" height="120" alt="Datenaustausch im Service-Kernprozess" /></a>
+
+
+
+<p>Die EDV-Welt im Autohaus vernetzt sich immer stärker - das Ende der Fahnenstange ist hier noch lange nicht erreicht. Niemand möchte sich mehr vorstellen, wie es wäre, wenn man keine <b>Schnittstellen</b> nutzen könnte und die vielen Systeme, die heute schon im Einsatz sind, alle einzeln bedienen müsste!</p>
+
+
+<p>Die <b>hochgradige Vernetzung</b>, die wir Ihnen mit unseren Systemen bieten, verringert die Erfassungsarbeit, vermeidet Tippfehler und transportiert die Informationen schneller und genauer weiter - kurz: steigert die Produktivität im gesamten Prozess.</p>
+
+<p>CROSS leistet mit seinen Vernetzungsmöglichkeiten mit praktisch jedem wichtigen System im <b>Service-Kernprozess</b> einen wichtigen Beitrag zu dieser Produktivitätssteigerung. CROSS empfängt und leitet die Daten als Informationsdrehscheibe ohne Verzögerungen von und zu den betroffenen Systemen. Die dabei <b>eingesparte Zeit</b> und die Beschleunigung der Prozesse liegen dabei in Summe nicht im Sekunden-, sondern im Stunden- bzw. Tagesbereich!</p>
+
+<p>Im Dokument <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/c1256f08003d9d8fc125798000578fd9?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Datenaustausch im Service-Kernprozess"&nbsp;&raquo;</b></a> in der Porsche-Informatik-Infoline haben wir <b>je Prozess-Schritt</b> zusammengestellt, mit welchen Systemen über Schnittstellen Daten von und zu CROSS ausgetauscht werden können.</p>
+
+<p>Informieren Sie sich auch mittels unserer <a href="http://kb.auto-partner.net/int/hilfe/klbpoial.nsf/f9ca8c1665df61b3c1257345002cdb8b/b71dabfd31dc8023c125758d004adf5b?OpenDocument" target="_blank" title="Alle Produktblätter auf einen Blick"><b>Produktblätter&nbsp;&raquo;</b></a>, welche Verbesserungen der Produktivität und welche Einsparungspotenziale durch den Einsatz der jeweiligen Schnittstelle entstehen. Auch Ihr Key Account Manager der Porsche Informatik berät Sie dazu gerne!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Datenaustausch im Service-Kernprozess">Christian Witibschlager</a><br />Key Account Management</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Mobile Geräte: Mobile Bearbeitung von Notes-Aufgaben</h1>
+<h2>Wir stellen Ihnen eine App zur Verfügung, mit der Sie nun auch auf Ihrem iPhone oder iPad Lotus-Notes-Aufgaben bearbeiten können.</h2>
+
+<img src="images/bild_lo3.jpg" width="109" height="120" alt="Notes-Aufgaben" />
+
+<p>Ab sofort ist es nun auch möglich, (mit Ausnahme von Delegationen) <b>Aufgaben in Lotus Notes</b> am iPhone bzw. iPad zu erstellen und zu bearbeiten.
+Das funktioniert über eine eigene App, die über unseren InHouse-App-Store <b>"POI Appstore"</b> installiert und dann konfiguriert werden kann. Den "POI Appstore" finden Sie auf dem Home-Bildschirm Ihres iPhones oder iPads.</p>
+
+<p>Nähere Informationen dazu finden Sie unter "Mobile Endgeräte" > "Lotus Notes To-Do-App für iPhone/iPad" im <b>POCSO-PC-Benutzerhandbuch</b> auf Ihrem Desktop.</p>
+
+<p>Voraussetzung für diese Lösung ist eine Lizenz für <a href="index.php?page=lo2" target="" title=""><b> POCSO mobile.access&nbsp;&raquo;</b></a>.</p>
+
+<p>Fragen dazu beantwortet Ihnen gerne unser Service Desk unter der Durchwahl 2222 bzw. über den  <a href="http://support.porscheinformatik.at" target="_blank" title="Zum Onlinesupport"><b>Onlinesupport&nbsp;&raquo;</b></a>.</p>
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=Notes-Aufgaben">Herbert Lohninger</a><br />
+Teamleitung Client-Team Konzern
+</p>
+
+

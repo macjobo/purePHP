@@ -1,0 +1,44 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Übersiedelung Backup Rechenzentrum von Bergheim nach Wels - Update EBV (§57) auf die Version 4.5 bzw. 5.0 - Volkswagen Service Key Vers.2.5.4 - Wartungskündigung HP Proliant ML350G5 - EurotaxGlass Valuation Vers.3.6.3.0_AG 1.0 - Adobe Flash Player Vers.15.0.0.167</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+<li><div><b>Übersiedelung Backup Rechenzentrum von Bergheim nach Wels</b><br />
+Seit 26.10.2014 befindet sich das Porsche Backup-Rechenzentrum in Wels bei IT&TEL (einer Marke der E-Werke Wels). Nun entspricht auch der Backup-Standort den aktuellen Anforderungen an ein modernes Rechenzentrum, was Ausfallssicherheit und Energieeffizienz betrifft. Wie geplant, ging die Übersiedlung für Sie völlig unbemerkt vonstatten!</div></li>
+
+<li><div><b>Software: Update EBV (§57) auf die Version 4.5 bzw. 5.0</b><br />
+Wie bereits angekündigt, ist noch dieses Jahr ein Update auf die Version 4.5 und - nach dem "Andocken" an die zentrale Begutachtungsplakettendatenbank (ZBD) - das Update auf die Version 5.0 notwendig. Im Partner.Net haben Sie bereits eine Information dazu erhalten. Für Fragen dazu steht Ihnen unser Service Desk gerne zur Verfügung.</div></li>
+
+<li><div><b>Software: Volkswagen Service Key Vers.2.5.4</b><br />
+Vom VW-Werk gibt es eine neue Version der Servicekey Applikation, die in der Organisation bis Ende November eingesetzt werden muss. Die Pilotierung hat bereits begonnen. Nach Freigabe werden alle Betriebe in Österreich upgedatet. Die Umstellung der Software findet in den POCSO-Netzwerken unter Tags jeweils Punkt 12:00 Uhr statt.</div></li>
+
+
+<li><div><b>Servertausch: Wartungskündigung HP Proliant ML350G5</b><br />
+Die ML350G5-Server werden von S&T Austria nur mehr bis 30.9.2015 gewartet und entsprechen daher nur mehr bis zu diesem Zeitpunkt dem POCSO-Standard. Die betroffenen Betriebe haben dazu im Partner.Net eine Information erhalten. Ob in Ihrem Autohaus ein solcher Server in Verwendung ist, können Sie in der "POCSO Übersicht" > "Serverinfo" überprüfen.</div></li>
+
+
+<li><div><b>Software: EurotaxGlass Valuation Vers.3.6.3.0_AG 1.0</b><br />
+Derzeit erfolgt die allgemeine Verteilung der neuen Valuation-Version für die VU2-Autowert-Bewertung. Das Update erfolgt automatisch und wird auf allen betroffenen PCs bis Mitte November abgeschlossen sein.</div></li>
+
+<li><div><b>Software: Adobe Flash Player Vers.15.0.0.167</b><br />
+Wieder einmal wurde ein Security Update des Flash Players verteilt.</div></li>
+
+
+
+
+</ul>
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

@@ -1,0 +1,73 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Release 2.30: Highlights Service</h1>
+<h2>Mitte März geht das neue CROSS-Release 2.30 in den Breiteneinsatz – Hier finden Sie die wichtigsten Neuerungen im Bereich Service.</h2>
+
+<img src="images/bild_scc1.jpg" width="190" height="120" title="Highlights Service" />
+
+
+
+<p>
+Das neue CROSS-Release 2.30  bringt eine Reihe interessanter Neuerungen - hier die wichtigsten Änderungen im <b>Bereich Service</b>: 
+</p>
+
+
+<ul>
+
+<li><div><b>
+Neue Großgebinde-Abwicklung</b><br />
+
+Es gibt einige Teilenummern, die in sogenannten Großgebinden beim Lieferanten gekauft werden. 
+An den Kunden werden diese aber in Kleinmengen verkauft. Diese Abwicklung wurde in CROSS optimiert.
+</div></li>
+
+
+<li><div><b>
+GWL-Fremdteilenummern / Verbrauchsmengen-Übertrag zwischen CROSS und SAGA2</b><br />
+Da SAGA2 keine Nachkommastellen verarbeiten kann, müssen bestimmte Teile bei der SAGA2-Einreichung mit einem Mengenfaktor multipliziert werden. 
+Dabei werden die in CROSS schon länger vorhandenen GWL-Fremdteilenummern verwendet. Diese GWL-Fremdteilenummern sind um einen Mengenfaktor erweitert worden.
+Diese Mengenfaktoren können jetzt in CROSS gewartet werden. Bei einer Neuanlage wird der Mengenfaktor 10,00 vorgegeben.
+</div></li>
+
+<li><div><b>
+Auftragsart wird auf Lieferschein-Etikett angedruckt</b><br />
+Um Betrieben, die z.B. für die NORA-Belieferung eine eigene Auftragsart verwenden, mehr Unterstützung zu geben, 
+wird die Auftragsart in die Kundenreferenz des Lieferschein-Etikettes eingebaut.
+</div></li>
+
+<li><div><b>
+Auftragsvorschau ist als .pdf möglich</b><br />
+Betriebe, die bereits den Auftragsdruck Laser im Einsatz haben, können sich Aufträge nun in einer .pdf-Vorschau anzeigen lassen.
+</div></li>
+
+<li><div><b>
+Rückfrage bei doppelten Ersatzteilen im Auftrag</b><br />
+Ist ein Ersatzteil bereits auf einem anderen Subauftrag enthalten, erhält der Anwender eine Rückfrage ob er dieses Ersatzteil noch einmal ergänzen möchte.
+</div></li>
+
+<li><div><b>
+Arbeitspositionen auf zwei Mechaniker aufteilbar</b><br />
+Arbeitspositionen können nun auf einen zweiten Mechaniker aufgeteilt werden.
+</div></li>
+
+<li><div><b>
+Werkstatt-Termin@: Verbesserte Unterstützung durch Service Key</b><br />
+Die Fahrprofile zur Berechnung von Werkstatt-Terminen werden durch den Service Key noch besser unterstützt.
+</div></li>
+
+<li><div><b>
+Barcodescanner</b><br />
+CROSS unterstützt nun zwei weitere Barcodescanner-Modelle: Skorpio X3 und Memor X3. Weiters unterstützt CROSS neue Firmwareversionen.
+</div></li>
+
+<li><div><b>
+Archivierung sofort nach Rechnungsdruck</b><br />
+Rechnungen werden nun sofort zum Druckzeitpunkt - und nicht mehr erst am Tagesende - an das Archiv übertragen.
+</div></li>
+
+
+
+  </ul>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Highlights CROSS Release 2.30">Christian Schicht</a><br />
+POI PHS CROSS Consulting</p>

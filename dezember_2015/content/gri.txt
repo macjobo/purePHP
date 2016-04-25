@@ -1,0 +1,49 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>SAP: Systemanpassungen bei Firmenumgründungen/Adressänderungen</h1>
+<h2>Bei Änderungen muss die Porsche Informatik über den Service Desk gesondert informiert werden.</h2>
+
+<img src="images/bild_gri.jpg" width="190" height="100" title="Eine fröhliche Adventszeit" />
+
+
+<p>Sollte sich auf Grund einer Firmenumgründung der <b>Firmenwortlaut und weitere Daten</b> ändern, benötigt Porsche Informatik 
+für die Anpassung im SAP-System genaue Informationen, da die Änderungen <b>für Sie von Porsche Informatik</b> durchgeführt werden.</p>
+
+
+
+<p>Mögliche Änderungen:</p>
+
+<ul>
+
+<li><div>Firmenwortlaut
+</div></li>
+
+<li><div>Finanzamtnummer, Steuernummer
+</div></li>
+
+<li><div>Dienstgebernummer bei der Gebietskrankenkasse
+</div></li>
+
+<li><div>Kommunalsteuernummer
+</div></li>
+
+<li><div>UID-Nummer, Firmenbuchnummer
+</div></li>
+
+<li><div>Mahnformular
+</div></li>
+
+<li><div>Zahlungsverkehr
+</div></li>
+
+</ul>
+
+
+<p>Bitte geben Sie uns den gewünschten Zeitpunkt der Umstellung bekannt. 
+Beachten Sie, dass die <b>durchgeführten Änderungen sofort wirksam</b> werden (Listen, Mahnungen etc.).
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=BMC ITSM Suite">Barbara Mairer</a><br />
+SAP Consultant</p>

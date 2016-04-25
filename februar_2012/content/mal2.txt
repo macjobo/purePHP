@@ -1,0 +1,19 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Hardware: Neue Epson-Kassenhardware</h1>
+<h2>Mit CROSS Release 2.19 können Sie für Ihre Kassenlösung in Verbindung mit dem CROSS-Kassenbuch erstmals Hardware von Epson einsetzen.</h2>
+
+<img src="images/bild_mal2.jpg" width="190" height="120" title="Neue Epson-Kassenhardware" />
+
+<p> Mit <b>Epson</b> setzen wir auf einen der größten Hersteller im Kassenumfeld, der unter anderem sicherstellt, dass aktuelle Betriebssysteme unterstützt werden.</p>
+
+<p>Die Hardware kann mit Ihren Login-Daten über den <a href="http://shop.snt-online.at" target="_blank" title="zum e-Shop"><b>e-Shop&nbsp;&raquo;</b></a> von S&T  bezogen werden. (Login-Daten für Information ohne Bestellmöglichkeit: Benutzer: "900959-VWAprodAT-1", Passwort: "VWAprodAT").</p>
+
+<p>Ab März ist hier eine kontinuierliche Bevorratung bzw. kurzfristige Verfügbarkeit der Hardware sichergestellt. Das Hardwareangebot umfasst einen <b>Thermodrucker</b>, ein <b>Kundendisplay</b>, eine versperrbare <b>Kassenlade</b> sowie diverses <b>Zubehör</b>, z. B. einen Münzzähleinsatz für die Kassenlade.</p>
+
+Details zur <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/dcaa3b9e3621eb63c1256ed90043f5e7/ed6ac3d12116c4b0c125756300282343?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Kassenlösung mit CROSS&nbsp;&raquo;</b></a> finden Sie in der POI-Infoline - auch für den Fall, dass Sie noch keine Kassenhardware einsetzen und sich über die Vorteile hinsichtlich <b>Zeitersparnis</b> und <b>Prozessgenauigkeit</b> informieren möchten. Auch Ihr Key Account Manager der Porsche Informatik berät Sie gerne.
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Epson-Kassenhardware">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>

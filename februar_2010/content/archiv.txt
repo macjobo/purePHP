@@ -1,0 +1,89 @@
+<h1>Archiv </h1>
+
+
+
+<h2>Die Newsletter der letzten zwölf Monate zum Nachlesen.</h2>
+
+
+<ul>  
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/jaenner_2010/index.php"archiv" target="_blank")>Newsletter Jänner 2010</a>
+ </li>
+ 
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/dezember_2009/index.php"archiv" target="_blank")>Newsletter Dezember 2009</a>
+ </li>
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/november_2009/index.php"archiv" target="_blank")>Newsletter November 2009</a>
+ </li> 
+
+
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/oktober_2009/index.php"archiv" target="_blank")>Newsletter Oktober 2009</a>
+ </li> 
+ 
+
+	<li><A HREF="http://newsletter.porscheinformatik.at/september_2009/index.php"archiv" target="_blank")>Newsletter September 2009</a>
+ </li>  
+  	    	
+ <li><A HREF="http://newsletter.porscheinformatik.at/august_2009/index.php"archiv" target="_blank")>Newsletter August 2009</a>
+ </li>  
+ 
+ 
+ <li><A HREF="http://newsletter.porscheinformatik.at/juli_2009/index.php"archiv" target="_blank")>Newsletter Juli 2009</a>
+ </li>
+
+
+ 
+ <li><A HREF="http://newsletter.porscheinformatik.at/juni_2009/index.php"archiv" target="_blank")>Newsletter Juni 2009</a>
+ </li>
+
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/mai_2009/index.php"archiv" target="_blank")>Newsletter Mai 2009</a>
+ </li>
+ 
+ <li><A HREF="http://newsletter.porscheinformatik.at/april_2009/index.php"archiv" target="_blank")>Newsletter April 2009</a>
+ </li>
+ 
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/maerz_2009/index.php"archiv" target="_blank")>Newsletter März 2009</a>
+ </li>
+ 
+	
+ <li><A HREF="http://newsletter.porscheinformatik.at/februar_2009/index.php"archiv" target="_blank")>Newsletter Februar 2009</a>
+ </li>
+ 
+ 
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+
+
+  
+
+
+ 
+ 
+
+ 
+
+
+ 
+
+
+ 
+	 
+
+	
+												
+															
+ </ul>

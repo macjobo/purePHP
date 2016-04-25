@@ -1,0 +1,30 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>VU2: Die neue Version 2.46</h1>
+<h2>Die neue VU-Version 2.46 bietet interessante Funktionalitäten, die Ihre Abläufe im Verkauf weiter vereinfachen und verbessern.</h2>
+
+<img src="images/bild_stz.jpg" width="190" height="120" title="VU 2.46" />
+
+<p>Seit Anfang November ist die neue VU-Version 2.46 im Einsatz - hier noch einmal ein Blick auf die Highlights dieser Programmeinspielung:</p>
+
+
+<ul>
+
+<li><div>Über den Menüpunkt "Neuwagen" - <b>"Aufruf Internet CC Angebot"</b> kann eine Fahrzeugkonfiguration, die zuvor im Internet gespeichert oder ausgedruckt wurde, in die VU2 geladen werden. Das vom Kunden konfigurierte Wunschfahrzeug muss in der VU2 nicht mehr extra erfasst werden.</div></li>
+
+
+<li><div> Mit der VU2-Version 2.46 sind nun die Anforderungen des <b>Verbraucherkreditgesetzes</b> abgedeckt. </div></li>
+
+<li><div> Verkäufer können in Zukunft - ab dem Einsatz der CROSS-Version 2.14 - <b>geplante Werkstatttermine </b> direkt in der VU2 sehen. Der Verkäufer kann die Liste "geplante Werkstatttermine" aufrufen und sich so gezielt auf Gespräche mit Kunden vorbereiten, die ohnehin ins Haus kommen. Oder er vereinbart im Vorfeld sogar <b>Schauraum- oder Probefahrttermine</b> für potentielle Kaufkunden, die den Kundendienst aufsuchen. Darüber hinaus sieht der Verkäufer während seiner <b>Karteiarbeit</b> bei jedem Kunden den er aufruft, ob und wann ein Werkstatttermin geplant ist.</div></li>
+
+
+
+</ul>
+
+<p>Für Fragen zu den neuen VU2-Funktionalitäten stehen Ihnen die Mitarbeiter unseres Service Desks gerne zur Verfügung.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Die neue VU-Version 2.46">Heinz Strutzmann</a><br />
+Leitung VU2-Entwicklung</p>
+
+

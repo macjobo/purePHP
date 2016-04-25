@@ -1,0 +1,28 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Leistungsverrechnung mittels Gutschrift</h1>
+<h2>Manchmal akzeptiert ein "Leistungsempfänger" keine Rechnungen, sondern stellt seinerseits eine Gutschrift aus. Wenn dies der Fall ist, dann ist bei der Abrechnung in CROSS einiges zu beachten.</h2>
+
+<img src="images/bild_wag2.jpg" width="190" height="120" alt="CROSS 2.12 Highlights" />
+
+<p>Immer wieder wird an unseren CROSS-Support die Frage herangetragen, wie <b>Leistungen</b> an (vorwiegend) Lieferanten abzurechnen sind, wenn diese Lieferanten nicht die aus CROSS heraus erstellte Rechnung annehmen, sondern ihrerseits eine <b>Gutschrift</b> ausstellen.</p>
+
+<p>Die Problemstellung dabei ist folgende: Auf der einen Seite müssen die Leistungen aus CROSS verrechnet werden. Auf der anderen Seite darf aber auf der daraus resultierenden CROSS-Rechnung <b>keine Mehrwertsteuer</b> ausgewiesen werden, da diese sonst aufgrund der beiden Belege (CROSS-Rechnung und Gutschrift) <b>doppelt</b> an das Finanzamt abgeführt werden müsste.</p>
+
+<p>Wie die Lösung dafür aussieht, haben wir Ihnen in der Dokumentation <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/e8bb45dff70ad54dc125780d0048a2cc?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Leistungsabrechnung bei Gutschrift durch den Leistungsempfänger&nbsp;&raquo;</b></a> in der POI-Infoline zusammengefasst.</p>
+
+<p>Sollten noch Fragen offen bleiben, wenden Sie sich bitte an die MitarbeiterInnen unseres Service Desks.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Änderungen bei Stempelung">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

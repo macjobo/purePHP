@@ -1,0 +1,31 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Neues Software-Paket für Epson-Kassenhardware-Installation - Neue Wake on LAN Config Utility - Neue Versionen von Adobe Acrobat Reader und Adobe Flash Player.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+
+<ul>
+
+<li><div>Ein neues POCSO-Software-Paket übernimmt die <b>Installation der Epson-Kassenhardware</b> (Display, Drucker, Lade). Voraussetzung für die Installation ist der Anschluss der Hardware über USB. Umfassende Information zur Installation der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/ed6ac3d12116c4b0c125756300282343?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>CROSS-Schnittstelle zum Kassensystem&nbsp;&raquo;</b></a> finden Sie in der Porsche-Informatik-Infoline.
+</div></li>
+ 
+<li><div>Bisher war es uns nicht möglich PCs, die sich im Standby-Modus befinden, mittels <b>Wake on Lan</b> "aufzuwecken", etwa um aktuelle Updates einzuspielen. Ein neues Software-Paket ermöglicht nun mithilfe einer geänderten Netzwerkkartenkonfiguration das Aktivieren aus dem Standby. Die Verteilung an alle PCs ist für die kommenden Wochen geplant.
+ </div></li> 
+ 
+
+<li><div>In Kürze startet die Verteilung der neuesten Versionen von <b>Adobe Acrobat Reader</b> und <b>Adobe Flash Player</b> an alle PCs.
+</div></li>
+
+</ul>
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>

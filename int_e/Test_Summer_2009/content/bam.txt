@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Welcome Terminal</h1>
+<h2>The Service Welcome Terminal informs your customers on arrival at the dealership of the
+details of their service appointments.</h2>
+
+<p>A special CROSS interface reads <b>details of forthcoming
+appointments</b> at regular intervals for display on a screen visible to the customer.
+Customers are informed of the dealer's preparation for their appointments and a lasting 
+impression of the dealer's <b>competence and professionalism</b> is made.
+</p>
+
+<p>Appointments shown on the <a href="index.php?page=bam_bild" title="Welcome Terminal"><b>&raquo;&nbsp;Welcome Terminal</b></a> are regularly updates - only forthcoming
+appointments are shown. Appointments may be split by brand for display on different
+Terminals and the <b>layout and design</b> of their presentation may be customised. 
+</p>
+
+<p>We are glad to answer your questions about details of technical requirements.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Welcome Terminal">Mark Barton</a>
+<br>CROSS Consulting
+</p>

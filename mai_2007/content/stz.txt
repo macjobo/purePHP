@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>VU2: Neue Version 2.3.0</h1>
+<h2>Die neue VU-Version 2.3.0 wird seit Anfang Mai bei einigen Betrieben intensiv getestet, der Breiteneinsatz wird mit Anfang Juni 2007 abgeschlossen sein.</h2>
+
+
+<p>Neben vielen kleineren Änderungen und Verbesserungen haben wir in der neuen Version folgende neue Funktionalitäten umgesetzt:
+</p>
+
+<ul>
+
+<li><b>GW-Kaufvertragsdruck</b>: Ab sofort kann der Kaufvertrag für Gebrauchtwagen direkt aus der VU2 gedruckt werden. Anders als beim NW-Kaufvertrag benötigen Sie kein vorgedrucktes Formular. Der GW-Kaufvertrag wird inklusive der "Allgemeinen Vertragsbedingungen" ausgedruckt. Das Weltautologo wird bei Weltautopartnern automatisch mitgedruckt.
+</li>
+
+<li><b>Verkäuferzuordnung per Selektion</b>: CROSS-2-Betriebe können einen Verkäuferwechsel jetzt zentral durchführen. Der Aufruf erfolgt wie gewohnt in der VU2, die Umstellung wird dann aber direkt in der Datenbank vorgenommen, nicht wie bisher am lokalen PC. Damit können Sie den VU2-Arbeitsplatz nach dem Start sofort wieder verwenden, die bisher langwierige Datenreplikation entfällt.</li>
+
+<li><b>Automatisches Abzeichnen von gelöschten Verkäuferzuordnungen</b>: Gelöschte Verkäuferzuordnungen werden nach 90 Tagen automatisch abgezeichnet. 30 Tage vor Ablauf dieser Frist wird eine entsprechende Meldung angezeigt - Sie haben dann die Möglichkeit, die Daten nochmals zu kontrollieren. Damit ist nun eine effizientere Karteipflege möglich.</li>
+
+</ul>
+
+Detaillierte Informationen erhalten Sie wie immer mit der VU2-Versionsbeschreibung, die Sie nach der Einspielung direkt im System aufrufen können.
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=VU Version 2.3.0">Heinz Strutzmann</a></p>
+
+
+
+

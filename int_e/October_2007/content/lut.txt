@@ -1,0 +1,70 @@
+
+<h1>IT Manager Meeting: Review of topics and results</h1>
+<h2>Implementation of IT standards and utilisation of synergy potential</h2>
+
+<p>In 2004, Porsche Informatik assumed responsibility over IT processes in partner countries of Porsche Holding in order to establish IT standards in corporate countries, and to utilise synergies. In order to achieve this goal, there is a vital need for regular coordination between the IT Managers of individual countries, the responsible agents in Foreign Wholesale and Porsche Informatik. In mid-June, the IT Manager Meeting, which for the first time was also attended by IT Managers from the Finance division, took place at Umag on the Croatian coast.</p>
+
+<p><b>Central topics:</b>
+<ul>
+<li>Discussion of possible synergy potentials through implementation of IT standards which cover and go beyond the three business areas of Retail, Wholesale and Financial Services.</li>
+<li>Presentation of the new Porsche Informatik support concept</li>
+<li>Field report on product launches in Hungary, Romania and Bulgaria</li>
+<li>Description of future IT product requirement handling</li>
+<li>Presentation of planned product improvements and launches for CROSS, VU2, SAP and IS</li>
+<li>Information on the SAGA2, IZUB and KD projects</li>
+</ul>    
+</p>
+
+<p><b>Workshop "3 G's":</b><br>
+
+On the basis of the presented "IT Process Module", three groups analysed to what extent the processes within the three business fields are covered in the respective countries. Consequently, options and examples with regard to standards and synergy potentials were elaborated.</p>
+
+<p><b>Workshop "The role of the IT Manager":</b><br>
+
+In a second workshop, the core work tasks and responsibilities of IT Managers were discussed, and problems and stumbling blocks were analysed. Possible solutions were subsequently presented and discussed. The participants created a personal action plan for the next half-year, which will be (confidentially) sent back to its respective author in December with the aim of personal "monitoring".</p>
+
+<p><b>Outcome</b><br>
+
+There was general agreement that it would be possible to introduce standards to all three business areas in spite of the differing needs and approaches of each country. The initial focus would be to start standardising the IT infrastructure (shared hardware support, backup and recovery solutions, support, maintenance and standard software support). Romania and Hungary, which are busy planning and implementing a shared computing centre, are at the forefront of these efforts. The participants would also like to improve their requirements management and contemplate a standardised approach to this end. One problematic factor in almost all countries is that few employees need to deal with both day-to-day business and parallel projects.
+The current aim is to concretise the many ideas and proposals that arose during the IT Manager Meeting, and to implement them in each country. Porsche IT will gladly offer you active support in this endeavour.
+</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=IT Manager Meeting">Josef Hagler</a>
+<br>Managing Director												
+<br>Porsche Informatik</p>										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

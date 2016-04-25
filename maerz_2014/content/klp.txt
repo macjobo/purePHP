@@ -1,0 +1,41 @@
+<b></b>
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: WLAN</h1>
+
+<h2>Tipps und Tricks fürs WLAN.</h2>
+
+<img src="images/bild_klp.jpg" width="190" height="120" title="POCSO WLAN" />
+
+
+<p>Es scheint oft, dass Ihr Gast-WLAN etwas <b>wählerisch</b> ist, da es einigen Geräten den Zugriff auf das Netzwerk gewährt und anderen wiederum nicht. 
+Besonders gegenüber Apple-Geräten verhält sich das Gast-WLAN teilweise wenig kooperativ.</p>
+
+<p>Falls auch Sie Probleme dabei haben, Ihren Gästen mit iPhones oder iPads <b>Zugriff auf das Gast-WLAN</b> zu ermöglichen, 
+dann liegt dies oftmals daran, dass die inaktiven Geräte in den <b>Standby Modus</b> gehen und sich dadurch vom Gast-WLAN trennen um Akku zu sparen.
+</p>
+
+<p>Ein weiterer Grund kann sein, dass Sie das Feature <b>"Auf Netze hinweisen"</b> nicht eingeschaltet haben. 
+Hierzu öffnen Sie die "Einstellungen" und wählen "WLAN" aus. Anschließend klicken Sie "Auf Netze hinweisen" und schalten die Funktion ein.
+</p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=POCSO WLAN">Peter Klinger</a><br />
+Leitung Windows und Network Services</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

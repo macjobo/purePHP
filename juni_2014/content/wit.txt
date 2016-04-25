@@ -1,0 +1,27 @@
+
+
+<h1>CROSS: Starkes Passwort in CROSS</h1>
+
+<h2>Erweiterung der IT-Sicherheit für CROSS.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="Starkes Passwort" />
+
+
+<p>IT-Experten und Wirtschaftsprüfer fordern regelmäßig, dass Passwörter nach bestimmten Regeln zusammengesetzt und zeitlich befristet sein sollen.</p>
+
+<p>Wir nehmen daher die bevorstehende <b>Programmaussendung</b> für das <b>CROSS Release 2.27</b> zum Anlass, um <b>CROSS</b> durch <b>erweiterte Passwortregeln</b> zusätzlich abzusichern. 
+Die Einführung eines "starken Passworts" in CROSS ist auch Voraussetzung für den Zugriff auf CROSS aus dem Internet, z.B. Mobiler Serviceannahme und CROSS.Controlling.</p>
+
+<p>Kurz nach der Programmaussendung werden <b>alle CROSS-Benutzer</b> bei der CROSS-Anmeldung darauf hingewiesen, dass das Kennwort in 14 Tagen abläuft und dazu aufgefordert, dieses zu ändern. 
+Benutzern des PartnerNet ist diese Prozedur bereits bestens bekannt. 
+Das neue Kennwort muss <b>mindestens 8-stellig</b> und nach <b>vorgegebenen Regeln</b> gestaltet sein. Eine genaue Beschreibung dafür erhalten Sie mit der Änderungsbeschreibung zu Release 2.27.</p>
+
+<p>Leiten Sie bitte diese Information an alle CROSS-Benutzer rechtzeitig weiter.
+Bei Fragen zu diesem Thema wenden Sie sich an unseren Service Desk.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Starkes Passwort in CROSS">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+

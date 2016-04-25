@@ -1,0 +1,49 @@
+
+
+<h1>CROSS: Der Teilebereich ist Chefsache!</h1>
+
+<h2>Als Inhaber sollte man auch die Eckdaten seines Teilebereichs laufend im Auge behalten.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="Starkes Passwort" />
+
+
+<p>Die CROSS.Controlling.Teilebestandsanalyse und Teileverkaufsanalyse liefern Ihnen <b>auf Knopfdruck</b> die <b>wichtigsten Daten</b>, ohne Spezialist für Teile- oder Lagerbewegungsselektionen sein zu müssen:</p>
+
+
+
+<ul>
+
+<li><div>
+<b>Aktueller Lagerwert</b> - aufgeschlüsselt nach den Bewegungsgruppen mit der %-Verteilung.
+</div></li>
+
+<li><div>
+<b>Umschlagshäufigkeit</b> - nicht nur für Originalteile (da sollte übrigens ein Wert > 7-8 stehen), sondern auch für Fremdfabrikate (z. B. Zubehör).
+</div></li>
+
+<li><div>
+<b>Teile-Zugänge und -Rückgaben</b> je Lieferant - absteigend nach Lagerzugangs-Wert sortiert.
+</div></li>
+
+<li><div>
+Spezielle <b>Korrekturen</b> des Lagerbestands - mengen- und wertmäßig. Der Fokus liegt hier auf Bestandskorrekturen, Obsoletlegen, und Verschrottung.
+</div></li>
+
+<li><div>
+<b>Teileerlöse und Bruttogewinne</b> nach Zubehöranalyse- und Abnehmergruppen - diese finden Sie auf der Teileverkaufsanalyse. Bitte beachten Sie, dass die BGW keine Teileboni beinhalten.
+</div></li>
+
+
+</ul>
+
+
+<p>
+Werfen Sie einmal einen Blick drauf - es zahlt sich aus. Wenn Sie weitere Beratung dazu wünschen, wenden Sie sich bitte an Ihren CROSS-Berater.</p>
+
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Controlling">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>

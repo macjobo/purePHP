@@ -1,0 +1,21 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Teilebestände in Filialbetrieben</h1>
+<h2>Bei der Abwicklung von Gutscheinen in CROSS sind einige Feinheiten zu beachten.</h2>
+
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Abwicklung Kompletträder" />
+
+
+Sie kennen dieses Problem? Ihr Betrieb ist Teil eines Filialverbundes und Sie benötigen dringend ein Ersatzteil welches nicht in Ihrem Lager vorrätig ist. Sie sollen nun schnell herausfinden ob eine andere Filiale dieses Teil lagernd hat. Mit CROSS ist dies kein Problem. Mit der "Liste der Bestände von anderen Filialen und Standorten" können Sie mit wenigen Mausklicks prüfen, ob das Ersatzteil in einer anderen Filiale lagernd ist. Wie Sie diese Funktion aufrufen, können Sie unter folgender Beschreibung erfahren -> 
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Gutscheinabwicklung">Gregor Wagner</a></p>
+
+
+
+
+
+

@@ -1,0 +1,27 @@
+
+<h1>Porsche Informatik: POI-Systeme in Bosnien</h1>
+<h2>Mit der Übernahme des Importeurs in Bosnien durch die Porsche Holding Salzburg am 1. Juli 2015 wurden zeitgleich neun Systeme der Porsche Informatik gestartet! </h2>
+
+<img src="images/bild_klb1.jpg" width="190" height="120" alt=Jahresrückblick Client-Team" />
+
+<p>Die Übernahme des Importeurs und der beiden angeschlossenen Einzelhandelsbetriebe in <b>Bosnien</b> durch die Porsche Holding Salzburg erfolgte ohne Übernahme der vorhandenen IT-Systeme; mit dem Stichtag 1. Juli wurden daher auch <b>alle Systeme</b> im Großhandel und im Einzelhandel <b>neu gestartet</b>:</p>
+
+<ul>
+
+<li><div>im <b>Großhandel</b> neben der Netzwerkinfrastruktur und IBM Notes Mailing die Systeme SAP, KD3, SPS, Markeninternet, IPACS, FlowER und Archiv;
+</div></li>
+
+<li><div>im <b>Einzelhandel</b> SAP und CROSS mit allen Schnittstellen zu den Werks- und Importeurssystemen.
+</div></li>
+
+
+</ul>
+
+<p>Monatliche Steuerkreise mit allen Projektleitern und dem Management sowie das Engagement der ProjektmitarbeiterInnen ermöglichten einen nahezu <b>reibungslosen Start</b> der Porsche-Informatik-Systeme; von Beginn weg konnte das Tagesgeschäft in allen Bereichen mit den neuen Systemen abgewickelt werden. </p>
+
+<p>Heute laufen die Systeme reibungsfrei und wir haben damit begonnen, weiterer Optimierungen umzusetzen.</p>
+
+<a href="mailto:info@porscheinformatik.at ?subject=Jahresrückblick Client-Team">Andreas Kronberger</a><br />
+Key Account Management PIA und CEE-Länder
+</p>
+

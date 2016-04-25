@@ -1,0 +1,29 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Service Desk: Kundenzufriedenheitsumfrage</h1>
+<h2>Im Februar 2010 haben wir die erste Service Desk Kundenzufriedenheitsumfrage durchgeführt.</h2>
+
+<img src="../images/alk.jpg" width="190" height="100" alt="Service Desk" />
+
+<p>Die Umfrage zum Service Desk, die wir bei unseren IT-Kollegen in den Partnerländern durchgeführt haben, gliederte sich in die Bereiche:</p>
+<ul>
+<li><div>Allgemeine Zufriedenheit mit den Leistungen des Service Desks</div></li>
+<li><div>Zufriedenheit mit dem <a href="http://support.porscheinformatik.at" title="Online Support" target="_blank"><b>Online Support &raquo;&nbsp;</b></a></div></li>
+</ul>
+
+<p>Mit einer Rücklaufquote von 34% liegen repräsentative Ergebnisse vor. Folgende wichtige Erkenntnisse hat uns Ihr Feedback gebracht:
+<ul>
+<li><div>Mit der Freundlichkeit unserer Service Desk Mitarbeiter sind Sie sehr zufrieden.</div></li>
+<li><div>Die Benachrichtigungen per E-Mail werden bei jedem Statuswechsel eines Tickets gewünscht.</div></li>
+<li><div>Verbesserungspotential sehen Sie bei den Anfrage-Vorlagen im Online Support.</div></li>
+</ul>
+
+<p>Wir möchten diese Umfrage in Zukunft wiederholen, damit wir schnell und zielgerichtet auf Ihr Feeback
+eingehen und reagieren können. Die ständige Optimierung der Leistungen des Service Desks
+an Ihre Erwartungen steht im Vordergrund.</p> 
+
+<p>Alle Details zur Umfrage finden Sie in der POI Infoline &raquo;&nbsp; Betriebsführung &raquo;&nbsp; News &raquo;&nbsp; Information &raquo;&nbsp; <b><a href="https://domino.auto-partner.net/int/hilfe/klbbetrf.nsf/AllByID/7561761FFF99D602C12576E1004644FF?OpenDocument" target="_blank" title="Customer Survey Service Desk" alt="Customer Survey Service Desk">Kundenzufriedenheitsumfrage &raquo;&nbsp;</a></b>.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Kundenzufriedenheitsumfrage">Markus Watzik</a></p>
+

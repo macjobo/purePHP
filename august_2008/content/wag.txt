@@ -1,0 +1,28 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS 2 Tipp: Wartung von Versicherungen</h1>
+<h2>Die richtige Wartung und Verwendung von Versicherungen in CROSS garantiert die durchgängige Abwicklung von Versicherungsrechnungen ohne manuelle Korrekturen.</h2>
+
+
+<p>Versicherungsrechnungen werden auf den Fahrzeugkunden oder den Eigentümer ausgestellt. Wozu also eine eigene <b>Versicherungsabwicklung</b> in CROSS?</p>
+
+<p>Mehrere gute Gründe sprechen dafür:
+
+<ul>
+<li><div>Die Versicherungabwicklung in CROSS bewirkt, dass die Rechnung im Buchhaltungssystem <b>SAP</b> als Versicherungsrechnung zugeordnet werden kann.</div></li>
+
+<li><div>Bei entsprechender Wartung werden nicht gewünschte <b>Aufschläge</b> auf die unverbindliche Preisempfehlung bei Teilen und GI-Leistungspreisaufschläge auf Arbeiten automatisch unterbunden.</div></li>
+
+<li><div>Aber auch <b>Rabatte</b>, die dem Fahrzeugkunden aufgrund seiner Abnehmergruppe gewährt würden, werden deaktiviert.</div></li>
+
+<li><div>Erforderliche <b>Zusatzdaten</b> wie Art des Versicherungsschaden und Polizzennummer werden strukturiert erfasst.</div></li>
+
+<li><div>Über das optionale <b>CROSS-Schadensabwicklungsmodul</b> werden Kunden-, Fahrzeug- und Dispositionsangaben an das Schadensabwicklungssystem "Quick-Check" übermittelt und somit Erfassungsaufwände reduziert.</div></li>
+</ul>
+
+<p>Die erforderlichen Wartungen und die Funktionsweise haben wir Ihnen im POI-Infoline-Dokument <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/e2d8d9d19959b420c125748700279133?OpenDocument" title="Versicherungen - Wartung und Verwendung in CROSS" target="_blank"><b>"Versicherungen - Wartung und Verwendung in CROSS"</b></a> zusammengestellt.</p>
+
+<p>Für Fragen dazu stehen Ihnen darüber hinaus die Mitarbeiter unseres Customer Care Centers gerne zur Verfügung!</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS 2 Tipp: Wartung von Versicherungen">Gregor Wagner</a></p>

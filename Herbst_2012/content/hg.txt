@@ -1,0 +1,23 @@
+
+<h1>Lotus Notes: Mailfileübergrößen</h1>
+
+<h2>"Auch Kleinvieh macht Mist!" - vermeiden Sie unnötige Kosten durch übervolle Mailfiles.</h2>
+
+<img src="images/mailbox.jpg" width="200" height="150" alt="Mailbox" />
+
+<p>Die Nutzung Ihres Mailfiles, das Porsche Informatik zur Verfügung stellt, ist bis zu einer <b>Mailfilegröße von 100 MB</b> kostenlos. 
+Wenn Sie diese Grenze überschreiten, so wird pro vollem MB Überschreitung ein Betrag von <b>&euro; 0,15 pro Monat</b> verrechnet.
+</p>
+
+<p>Wie können Sie hier unnötige Kosten vermeiden?</p>
+
+<ul>
+<li><div>Achten Sie darauf, <b>unwichtige E-Mails</b> zu löschen.</div></li>
+<li><div><b>Anhänge</b> sollten Sie lösen und am PC oder Netzwerkserver speichern.</div></li>
+<li><div>Auch der <b>Papierkorb</b> sollte regelmäßig entleert werden.</div></li>
+<li><div>Für das Speichern wichtiger E-Mails empfehlen wir, diese in das Lotus-Notes-Archiv zu verschieben.</div></li>
+</ul>
+ <p>Darüber hinaus kann Ihr EDV-Verantwortlicher <b>Größenbeschränkungen</b> in MB und <b>Sendebeschränkungen</b> in Prozent setzen. Hat ein Anwender diese Grenze überschritten, kann er E-Mails zwar noch empfangen und versenden,
+aber nicht mehr abspeichern; auch Kalendereinträge können nicht mehr gesetzt werden.</p>
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=Lotus Notes">Gerlinde Holzschuh</a></p>

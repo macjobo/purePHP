@@ -1,0 +1,74 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Porsche Informatik Academy: Regionale CROSS-2-Workshops</h1>
+<h2>Mitte Oktober veranstalten wir regionale Workshops in ganz Österreich mit den Schwerpunkten SAGA/2, Werkstatt-Termin und neue Funktionen in CROSS 2.06.</h2>
+
+<p>An sechs Terminen bieten wir Ihnen die Möglichkeit, Ihr Wissen rund um SAGA/2, Werkstatt-Termin@-Einladungen und das neue CROSS-Release 2.06 zu vertiefen. Nutzen Sie die Gelegenheit und melden Sie sich für einen <b>Workshop in Ihrer Nähe</b> an:
+
+<ul>
+<li><div>11. Oktober 2007, 14:00 - 17:00 - Hotel Kesselgrub, <b>Altenmarkt</b></div></li>
+<li><div>12. Oktober 2007, 09:00 - 12:00 - Wellnessresort Schwarz, <b>Mieming</b></div></li>
+<li><div>17. Oktober 2007, 14:00 - 17:00 - Hotel Stockinger, <b>Ansfelden</b></div></li>
+<li><div>18. Oktober 2007, 09:00 - 12:00 - Hotel Mercure, <b>Graz</b></div></li>
+<li><div>18. Oktober 2007, 14:30 - 17:30 - Oldtimer Raststätte, <b>Guntramsdorf</b></div></li>
+<li><div>19. Oktober 2007, 09:00 - 12:00 - Hotel Metropol, <b>St. Pölten</b></div></li>
+
+</ul>
+</p>
+
+
+<p>
+Die Schulungsinhalte im Einzelnen:
+
+<ul>
+<li><div><b>Werkstatt-Termin@</b>: Vorbereitung einer Aussendung mit Werkstatt-Termin (Datenqualität, Ergebniskontrolle)- Vorlagen erstellen/ändern mit MS WORD - Kontrollen - Hinweise zur Arbeitserleichterung</div></li>
+
+<li><div><b>SAGA/2</b>: Wartungen und Vorbereitungen in CROSS - Verhalten bei Kommunikationsproblemen - Spezielle Geschäftsfälle/Diverse Verrechnungen für SAGA/2</div></li>
+
+<li><div><b>CROSS Release 2.06</b>: Überblick über die neuen Funktionen</div></li>
+</ul>
+</p>
+Details zu den Schulungen und die Möglichkeit zur Anmeldung finden Sie im <a href="http://www.auto-partner.net" title="Zum Partner.Net" alt="Zum Partner.Net" target=_blank">Partner.Net</a>, > "Schulung/Verwaltung" > "Schulung und Events", oder bei Elfriede Pachler (DW 6207, E-Mail:  elfriede.pachler@porsche.co.at).
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Regionale CROSS-2-Workshops">Harald Rohrer</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

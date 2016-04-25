@@ -1,0 +1,42 @@
+<div class="umbruch"></div>
+<h1>Lotus Notes: Performancesteigerungen</h1>
+<h2>Durch "Bereinigungsmaßnahmen" im Bereich Lotus Notes haben wir für alle Anwender eine spürbare Performance-Verbesserung erzielt.</h2>
+
+<p>In den vergangenen Wochen haben wir bei allen österreichischen Betrieben ein spezielles <b>Bereinigungsskript</b> für Lotus-Notes-Installationen ausgeführt. Nach Abschluss dieser Maßnahme können wir nun festhalten, dass diese für die Notes-Nutzer eine deutlich spürbare <b>Beschleunigung</b> gebracht hat.</p>
+<p>Welche Maßnahmen haben wir im Einzelnen durchgeführt?</p>
+<ul>
+<li>Bei älteren Notes-Client-Installationen verwies das Daten-Verzeichnis noch auf das Serverlaufwerk U. Dies wurde auf das lokale D-Laufwerk verlegt. Damit entfällt der Zugriff auf den Server und Notes reagiert viel <b>schneller</b> - sowohl beim Starten, als auch während der Arbeit selbst.</li>
+<li>Alte Lotus-Notes-R4- und -R5-Datenbanken wurden <b>gelöscht</b>.</li>
+<li>Notes Konfigurationseinstellungen wurden überprüft und korrigiert. Nicht verwendete Funktionen (z.B. "Abonnements überprüfen") wurden <b>deaktiviert</b>.</li>
+<li>Nicht mehr benötigte Verzeichnisse wurden gelöscht.</li>
+</ul>
+
+<p>Wir freuen uns, dass wir Ihnen mit dieser Maßnahme die Arbeit mit Ihrem Mailing- und Datenbank-System erleichtern konnten.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Notes Performancesteigerungen">Herbert Wenger</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

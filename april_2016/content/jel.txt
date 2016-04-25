@@ -1,0 +1,61 @@
+<div class="umbruch">&nbsp;</div>
+<h1>POCSO: Kostenloser Austausch bestehender Accesspoints</h1>
+<h2>Das Rollout für den Tausch Ihrer WLAN-Accesspoints hat bereits begonnen.</h2>
+
+<img src="images/bild_jel.jpg" width="190" height="120" title="Austausch WLAN-Accesspoints" />
+
+<p>Accesspoints der Typen "b/g" und "n" ermöglichen aufgrund Ihres Alters keine Software-Updates mehr. 
+Aus diesem Grund erfolgt der Austausch auf den neuen <b>Accesspoint CISCO 1700 Aironet</b> a/b/g/n/AC - kurz <b>Type "AC"</b> genannt. Dadurch ergeben sich für Sie folgende Vorteile:</p>
+
+<ul>
+
+<li><div>
+Software-Updates sind wieder möglich
+</div></li>
+
+
+<li><div>
+Bandbreite bis zu 867 mbit/sec möglich
+</div></li>
+
+<li><div>
+Clean Air Technologie. Diese verbessert die Funkqualität Ihres WLANs, z.B. Erkennung und Vermeidung von Störungsquellen, automatische Optimierung der WLAN-Abdeckung, usw.
+</div></li>
+
+</ul>
+
+<p>Der Austausch der Accesspoints ist mit keinen Einmalkosten verbunden.</p>
+
+<p>Wie erfolgt nun der Austausch?</p>
+
+<ul>
+
+<li><div>
+Unternehmen, die von einem Austausch betroffen sind, werden von einem Mitarbeiter der Porsche Informatik <b>telefonisch kontaktiert</b>.
+</div></li>
+
+
+<li><div>
+Versand und Austausch der Accesspoints.
+</div></li>
+
+<li><div>
+Konfiguration mittels Fernwartung durch die Porsche Informatik.
+</div></li>
+
+<li><div>
+Rücksendung der getauschten Accesspoints via TVZ/Monatsbestellung.
+</div></li>
+
+</ul>
+
+
+<p>Sollten Sie dazu Fragen haben, so steht Ihnen Ihr Key Account Manager der Porsche Informatik gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Austausch bestehender WLAN-Accesspoints">Heimo Jelovcan</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+
+

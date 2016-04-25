@@ -1,0 +1,26 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: CROSS Notfalldaten</h1>
+<h2>
+Für POCSO-Betriebe haben wir den Zugang zu den CROSS-Notfalldaten erleichtert, mit denen Sie im Falle einer Störung Ihren Betrieb aufrechthalten können.</h2>
+
+<img src="images/bild_mal2.jpg" width="190" height="120" title="CROSS Notfalldaten" />
+
+
+<p>Die Porsche Informatik unternimmt alle Anstrengungen, um Ihnen einen reibungslosen CROSS-Betrieb zu ermöglichen. Trotzdem können <b>Leitungs- oder Systemausfälle</b> leider nie zu 100 Prozent ausgeschlossen werden.</p>
+<p>Um in solchen Situationen Ihren Betrieb aufrechthalten zu können, stellen wir Ihnen seit einigen Jahren <b>Notfalldaten</b> über Teilelager, Aufträge, Voranmeldungen, Ersatzwagen-Verplanung und Reifenlager zur Verfügung. Auch Formularvorschläge für eine manuelle Abwicklung sind im Notfallkonzept enthalten.</p>
+
+<p>Die Notfalldaten werden in jedem Tagesende erzeugt und bei POCSO-Betrieben <b>automatisch</b> auf den lokalen Windows-Server im Unternehmen übertragen. Damit Sie im Fall des Falles noch rascher auf diese Daten zugreifen können, haben wir für POCSO-Anwender unter "Anwendungen" einen <b>direkten Link</b> auf die CROSS-Notfalldaten am POCSO-Netzwerkserver eingerichtet.</p>
+
+
+
+
+
+<p>Wir hoffen natürlich, dass Sie diese Informationen so selten wie möglich benötigen! Wir empfehlen Ihnen allerdings, sich trotzdem mit der <b>Verwendung</b> der CROSS-Notfalldaten vertraut zu machen, damit Sie Ihre Kunden bei Störungen gut weiter betreuen können. Alle Informationen zum <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/37da4ee8e1aa52dcc125740c0059f0fe?OpenDocument" target="_blank" title="CROSS-Notfallkonzept"><b>CROSS-Notfallkonzept&nbsp;&raquo;</b></a> finden Sie in der POI-Infoline. </p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS Notfalldaten">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>

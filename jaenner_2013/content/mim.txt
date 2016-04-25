@@ -1,0 +1,43 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Sicherheitstipp: Passwörter</h1>
+
+<h2>Passwörter sind eines der wichtigsten Elemente der IT-Sicherheit.</h2>
+
+<img src="images/bild_mim.jpg" width="190" height="120" title="Sicherheitstipp" />
+
+<p>Ob zuhause oder in der Firma, <b>Passwörter schützen</b> unsere Systeme und Daten vor unerlaubtem Zugriff, sei es unsere Bankomatkarte,
+das Telebankingsystem, SAP oder Lotus Notes. Mit Passwörtern sind individuelle Zugangsberechtigungen verknüpft und damit auch Zugriff auf unter Umständen sensible <b>Informationen</b>.</p>
+
+<p>Die steigende Anzahl an Systemen verlangt einerseits, dass wir uns immer mehr <b>Passwörter merken</b> müssen. Andererseits verlangt der technologische Fortschritt,
+dass <b>Passwörter komplexer</b> werden. Mittlerweile kann mit handelsüblicher PC-Hardware ein einfaches sechsstelliges Passwort in weniger als einer Sekunde geknackt werden!</p>
+
+<p>Wir möchten Sie gerne in diesem Artikel auf die wichtigsten Verhaltensregeln im Umgang mit Passwörtern aufmerksam machen:</p>
+
+<ul>
+
+<li><div>Geben Sie ein Passwort nie weiter.</div></li>
+
+<li><div>Je länger ein Passwort ist, umso besser (mindestens sechs Stellen sollte es haben).</div></li>
+
+<li><div>Verwenden Sie Merksätze oder Begriffe aus der Umgangssprache und kombinieren Sie diese mit Sonderzeichen und Ziffern,
+z.&nbsp;B. "He1d is schens Weda." (ACHTUNG: Dieses Passwort bitte nicht verwenden!).</div></li>
+
+<li><div>Ändern Sie Ihre Passwörter regelmäßig. Ändern Sie ein Passwort sofort, wenn Sie den Verdacht haben, dass jemand anderer es wissen könnte.</div></li>
+
+<li><div>Schreiben Sie Passwörter nicht leicht zugänglich nieder. Schützen Sie sie wie den PIN-Code Ihrer Bankomatkarte.</div></li>
+
+<li><div>Vermeiden Sie automatische Speicherfunktionen von Passwörtern, wie sie u.&nbsp;a. von Browsern angeboten werden.</div></li>
+
+</ul>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Sicherheitstipp: Passwörter">Markus Michalek</a><br />
+IT-Sicherheitsbeauftragter</p>
+
+
+
+

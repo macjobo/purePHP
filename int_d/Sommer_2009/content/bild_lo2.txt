@@ -1,0 +1,11 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>VPN-Client starten über POCSO-MiniBrowser</h1>
+                
+<div class="bild">        
+    
+<img src="images/lo2.JPG" alt="VPN-Client" title="VPN-Client" border="0" height="328" width="515">
+      
+</div>                    
+ 
+<p id="zurueck"><a href="index.php?page=hg1">Zurück zum Artikel</a></p>

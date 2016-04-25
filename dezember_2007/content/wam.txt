@@ -1,0 +1,21 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Support: Supportzeiten zum Jahreswechsel</h1>
+<h2>Zu Weihnachten und Silvester erreichen Sie unser Customer Care Center jeweils von 8.00 bis 12.00 Uhr.</h2>
+
+
+<p>Zum heurigen Jahreswechsel steht Ihnen unser Customer Care Center zu den folgenden Zeiten zur Verfügung:
+
+<ul>
+<li><div>zu <b>Weihnachten</b>, 24.12.2007 von 08.00 bis 12.00 Uhr </div></li>
+<li><div>zu <b>Silvester</b> , 31.12.2007 von 08.00 bis 12.00 Uhr
+<br />(und von 12.00 bis 14.00 Uhr für Anfragen zum Typenscheindruck)</div></li>
+
+</ul></p>
+<p>An den Wochentagen rund um die Feiertage bieten wir unseren gewohnten Service von 07.00 bis 18.00 Uhr. An den Samstagen steht für den Fall eines CROSS-Systemstillstands zwischen 08.00 und 13.00 Uhr ein <b>Bereitschaftsdienst</b> zur Verfügung.</p>
+<p>Diesen Notfallsupport erreichen Sie über die <b>Nummer 0664 8258742</b> oder über unsere Festnetznummer 0662 4670 6280 nach entsprechender Bandansage und Wahl der Ziffer "1". Ein Hinweis: Diese Bereitschaftsnummer ist während der regulären Supportzeiten inaktiv - bitte kontaktieren Sie uns wie gewohnt über das Festnetz oder via Online-Support.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Supportzeiten zum Jahreswechsel">Markus Watzik</a></p>
+
+
+

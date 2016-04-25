@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+
+
+<h1>Lotus Notes: Studie zur Blackberry<sup>&reg;</sup>-Nutzung</h1>
+<h2>Laut einer Studie der mobilkom austria nehmen 90 % der Befragten mobile E-Mails als Effizienzsteigerung wahr.</h2>
+
+<p>In Österreich wurden seit Markteinführung im Jänner 2004 ca. 80.000 Blackberrys verkauft. In einer aktuellen mobilkom-austria-Studie wurden nun 600 Blackberry-UserInnen über ihre <b>Nutzungsgewohnheiten</b>  befragt.</p>
+
+<p>Dabei geben 92 % der Befragten an, dass sie durch mobile Kommunikation an <b>Flexibilität</b> gewinnen. 52 % stellen einen Anstieg der Lebensqualität durch mobile E-Mail-Lösungen fest. Gut 60 % der Befragten geben als Grund für die Nutzung "Mobilität" an.</p>
+
+<p>Durch Blackberry und andere "Smartphones" wird zunehmend die Möglichkeit genutzt, <b>daheim zu arbeiten</b>. 72 % der Befragten arbeiten zumindest regelmäßig am Abend von zu Hause aus, 60 % auch am Wochenende. 75 % rufen regelmäßig <b>Firmen-E-Mails</b> von zu Hause aus ab.</p>
+
+<p>60 % geben an, dass mobile E-Mails ihr <b>Leben vereinfachen</b>, 50 % heben die Zunahme individueller Gestaltungsmöglichkeiten hervor und immerhin 39 % bestätigen, durch mobile E-Mail-Lösungen früher Büroschluss machen zu können. Weitere Ergebnisse dieser <b><a href="http://www.mobilkom.at/CDA/frameset/start_frame/0,3149,892-988-184498-html-de,00.html" target="_blank" title="Studie 'Wie Blackberry & Co den Alltag der ÖsterreicherInnen verändern'">Studie</a></b> können Sie auf der Website der mobilkom austria nachlesen.</p>
+
+<p>Möchten auch Sie Ihre Effizienz und Flexibilität im Umgang mit E-Mails und Kalendereinträgen steigern? Mit dem <b><a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/b00d4cf946308426c1256ed9004402bd/fb7754098cf8c7aec125737e0040ba4e?OpenDocument" target="_blank" title="Produktblatt BlackBerry Enterprise Mobile User">BlackBerry Enterprise Mobile User</a></b> der Porsche Informatik und den A1-Sonderkonditionen für den Porsche-Konzern bieten wir im Zusammenspiel mit Lotus Notes eine perfekte Lösung an. Für Fragen dazu steht Ihnen Ihr Key Account Manager der Porsche Informatik gerne zur Verfügung.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Studie zur Blackberry-Nutzung">Friedrich Malle</a></p>

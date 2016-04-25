@@ -1,0 +1,21 @@
+<h1>Porsche Informatik: Ihre Berater der POI</h1>
+<h2>Auch wenn Sie Ihre POI-Ansprechpartner auf Grund der langen Zusammenarbeit persönlich kennen, geben wir Ihnen nochmals einen kurzen Überblick über die Verantwortungen unserer "Vor-Ort-Berater".</h2>
+
+
+<p>Porsche Informatik steht Ihnen zu allen Themen rund um Ihre IT-Lösungen mit Beratern vor Ort zur Verfügung. Unser Ziel ist es, Sie mit Ihren Anliegen individuell und kompetent zu betreuen. Hier die Rollen und Verantwortungen unserer Berater im Überblick:
+
+<ul>
+<li><div>Die <b>Key Account Manager</b> sind Ihre allgemeinen Ansprechpartner für alle Produkte und Dienstleistungen der POI. Ihr Tätigkeitsfeld reicht von der Kundenbetreuung bis zur Produktberatung, vom Vertrieb bis zur Projektbegleitung bzw. -koordination. <b>Friedrich Malle</b> als Teamleiter dieser Gruppe steht übergeordnet zu Ihrer Verfügung.</div></li>
+
+
+<li><div>Für Fragen und Projekte rund um CROSS 2 unterstützen Sie die <b>CROSS-Berater</b> aus der Abteilung von <b>Christian Krivanek</b>. Viele kleinere Fragen lassen sich innerhalb des kostenlosen CROSS-2-Betreuungshalbtages pro Jahr direkt lösen. Aber auch für weiterführende Beratungen - z.&nbsp;B. Datenmanagement, Controlling mit CROSS, usw. - sind diese Spezialisten die richtigen Ansprechpartner.</div></li>
+
+<li><div>Für Beratungen zu den betriebswirtschaftlichen Systemen SAP FI/CO, SAP HR und MIK stehen Ihnen die <b>Rechnungswesenspezialisten</b> aus der Gruppe von <b>Norbert Reichl</b> als kompetente Berater zur Verfügung.</div></li>
+</ul>
+
+</p>
+
+<p>Bitte sprechen Sie unsere Berater bei allen Anliegen direkt an: Sie werden Ihre Anforderungen rasch und präzise erfüllen! Kurzfristige fachliche Fragen im Umgang mit Ihren POI-Systemen beantwortet wie gewohnt unser Customer Care Center.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Ihre Berater der POI">Roland Luger</a></p>
+

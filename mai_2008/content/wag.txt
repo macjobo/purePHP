@@ -1,0 +1,13 @@
+<h1>CROSS 2: Notfallkonzept für Systemausfall</h1>
+<h2>Ab sofort stehen Ihnen für den Notbetrieb bei einem Leitungs- oder Systemausfall die wichtigsten CROSS-Daten lokal zur Verfügung.</h2>
+
+<p>Die Porsche Informatik unternimmt größte Anstrengungen, um Ihnen einen reibungslosen CROSS-Betrieb zu ermöglichen. Trotzdem können Leitungs- oder Systemausfälle leider nie zu 100 Prozent ausgeschlossen werden.</p>
+<p>Um in solchen Situationen einen Notbetrieb aufrechterhalten zu können, haben wir für Sie ein <b>Notfallkonzept</b> erstellt: Ab sofort stellen wir Ihnen die <b>wichtigsten CROSS-Daten</b> im Excel-Format tagesaktuell auf Ihrem lokalen Netzwerkserver zur Verfügung. Außerdem beinhaltet dieses Konzept auch einen Vorschlag, wie neue Daten im Notbetrieb optimal händisch erfasst und dann wieder in CROSS eingearbeitet werden können. Die <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/37da4ee8e1aa52dcc125740c0059f0fe?OpenDocument" target="_blank" title="CROSS-Notfallkonzept"><b>Details zu diesem Konzept</b></a> finden Sie in der POI-Infoline. </p>
+
+<p>Für POCSO-Betriebe werden die Notfall-Daten in jedem Tagesende erzeugt und <b>automatisch</b> auf den lokalen Windows-Server übertragen. Wenn Sie Ihr Netzwerk selbst betreuen, empfehlen wir Ihnen, in Abstimmung mit Ihrem EDV-Verantwortlichen einen vergleichbaren Mechanismus zu installieren.</p>
+
+Im Rahmen der <b>Releaseschulungen für CROSS 2.08</b> Ende Mai/Anfang Juni werden Sie nochmals gesondert über das Notfallkonzept informiert. Auch wenn wir hiermit ein effizientes Konzept für einen Systemausfall geschaffen haben, hoffen wir natürlich, dass es so selten wie möglich benötigt wird!
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Notfallkonzept für Systemausfall">Gregor Wagner</a></p>
+

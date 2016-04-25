@@ -1,0 +1,12 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>E-Mail: RTR-Liste</h1>
+<h2>Die Rundfunk und Telekom Regulierungs-GmbH (RTR) ist verpflichtet eine Liste zu führen, in die sich diejenigen Personen und Unternehmen kostenlos eintragen können, die keine Werbe-E-Mails erhalten möchten. </h2>
+
+<img src="images/Fotolia_16949791_S.jpg" width="60" height="95" alt="" />
+
+<p> Nach § 107 TKG 2003 ist <b>E-Mail-Werbung</b> grundsätzlich nur mit vorheriger Einwilligung des Empfängers zulässig. Verletzungen dieser Bestimmung sind verwaltungsrechtlich strafbar (Strafrahmen bis zu EUR 37.000).</p>
+
+<p>Falls Sie kommerzielle Informationen (z. B. Einladungen zu Messen, Werbung, etc.) mittels elektronischer Post verschicken, sind Sie verpflichtet zu prüfen, ob keiner der Empfänger sich in der sog. <b>RTR (Rundfunk und Telekom Regulierungs-GmbH)-Liste</b> eingetragen hat. Um dies zu prüfen, senden Sie eine E-Mail an <b>abrufen-hash@ecg.rtr.at</b> mit dem <b>Betreff "Abrufen RTR-ECG Liste"</b>. Die aktuelle Liste wird Ihnen dann zugesendet. Auf welche Weise Sie diese Liste mit Ihren eigenen E-Mail-Adressen vergleichen können, finden Sie unter <b><a href="http://www.rtr.at/de/tk/NutzenECG" target="_blank" title="http://www.rtr.at/de/tk/NutzenECG" alt="http://www.rtr.at/de/tk/NutzenECG">http://www.rtr.at/de/tk/NutzenECG&nbsp;&raquo;</a></b> beschrieben.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=RTR-Liste">Anton Spitzer</a></p>

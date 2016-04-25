@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS 2 Tipp: Fremdlackmaterial deutlich kennzeichnen</h1>
+<h2>Ein einfacher "Trick" erleichtert Ihnen die Unterscheidung zwischen Lackmaterial aus Eigen- und aus Fremdleistung.</h2>
+
+
+
+<p>Mit CROSS Release 2.09 haben wir eine eigene <b>Berechnungsposition</b> für Lackmaterialien aus Arbeitspositionen mit einem Fremdleistungskennzeichen eingeführt. Seither haben uns einige Betriebe rückgemeldet, dass im Auftrag selbst die <b>Unterscheidung</b> zwischen Lackmaterial aus Eigen- und aus Fremdleistungen nur schwer möglich ist.</p>
+
+<p>Die idente Bezeichnung "Lackmaterial" haben wir bewusst gewählt, damit diese Position auf der Rechnung keine Irritation auf Seiten Ihrer Kunden auslöst. Damit Sie selbst aber eine gute <b>Unterscheidungsmöglichkeit</b> im Auftrag haben, genügt es, die Schreibweise der beiden Berechnungspositionen leicht zu variieren: Benennen Sie die Berechnungsposition für "Fremdlackmaterial" z.&nbsp;B. einfach in "Lack-Material" (mit Bindestrich) um.</p>
+
+<p>Wie Sie dabei vorgehen, haben wir in einer <b><a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/EFAA62749F297537C125756F00644D0E?OpenDocument" target="_blank" title="Zur POI-Infoline">&raquo;&nbsp; kurzen Dokumentation</a></b> in der POI-Infoline beschrieben.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Fremdlackmaterial deutlich kennzeichnen">Gregor Wagner</a></p>
+

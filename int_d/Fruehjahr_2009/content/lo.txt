@@ -1,0 +1,59 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Notebook: WWAN-Modul versus Vodafone Karte</h1>
+<h2>Bei neuen Notebook-Geräten bietet sich als Alternative zu einer Vodafone Karte der Einsatz des internen WWAN-Moduls an.</h2>
+
+<p>Bei den neuen HP-Standard-Notebooks 6930p und 8530p unterstützen wir den Einsatz des internen <b>WWAN/HSDPA-Moduls</b>.
+Das WWAN-Modul ermöglicht ebenso wie eine Vodafone Karte den Zugriff auf das Firmennetzwerk via VPN-Zugang von unterwegs.
+Im Gegensatz zur Vodafone Karte ist das WWAN-Modul allerdings <b>providerunabhängig</b> und funktioniert auch mit ausländischen Providern. Ein weiterer Vorteil gegenüber der externen Vodafone Karte ist die <b>geringere Fehleranfälligkeit</b>. Der SIM-Karteneinschub beim WWAN-Modul ist unter dem Akku Ihres Notebooks platziert. Der <b>Preis</b> des WWAN-Moduls und der Vodafone Karte ist in etwa gleich hoch.
+</p>
+
+<p>Die <b>Bestellung des WWAN-Moduls</b> erfolgt über Ihren EDV-Koordinator. Das WWAN-Modul wird von der Porsche Informatik eingebaut, die zugehörige Software vorkonfiguriert und zusammen mit unserem <b>POCSO-Teleworker (VPN)</b> ausgeliefert. 
+
+<p>Bei Interesse wenden Sie sich bitte an Ihren
+EDV-Koordinator oder an unseren <b><a href="http://support.porscheinformatik.at" target="_blank" title="Service Desk" alt="">Service Desk</a></b>.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=WWAN-Modul">Herbert Lohninger</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

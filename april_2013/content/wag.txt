@@ -1,0 +1,30 @@
+
+
+<h1>CROSS-Serie: Verrechnungsgrad</h1>
+<h2>Start unserer neuen Serie zum Thema "Verrechnungsgrad". Lesen Sie im ersten Teil, wie der Verrechnungsgrad exakt berechnet wird.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" title="Verrechnungsgrad" />
+
+
+<p>In CROSS gibt es drei Varianten, wie der <b>Erlös einer Arbeitsposition gebildet</b> wird, und es gibt noch einige Möglichkeiten mehr, wie dieser <b>verändert</b> werden kann.
+Mit dem Verrechnungsgrad haben Sie das passende Werkzeug, um diese <b>Veränderungen aufzeigen</b> zu können. 
+Doch "Hand aufs Herz" - wissen Sie im Detail wie der Verrechnungsgrad funktioniert?</p>
+
+<p>Mit unserer Serie zum Thema Verrechnungsgrad machen wir Sie zu diesem Thema fit und zeigen Ihnen, wie Sie den Verrechnungsgrad <b>gewinnbringend einsetzen</b> können.
+Im ersten Teil der Serie beschäftigen wir uns mit der exakten Berechnung des Verrechnungsgrades. Das Dokument finden Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/12dee73f261c9792c1257b390055ed6c?OpenDocument
+" target="_blank" title="Zur Porsche-Informatik-Infoline">Porsche Informatik-Infoline&nbsp;&raquo;</a>.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Verrechnungsgrad">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+ 
+ 
+
+

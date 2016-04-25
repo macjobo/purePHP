@@ -1,0 +1,68 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Freigabe Microsoft Office 2007</h1>
+<h2>Nach mehreren Monaten Vorbereitungszeit ist es nun soweit: Microsoft Office 2007 ist zum Einsatz in POCSO-Betrieben freigegeben.</h2>
+
+<img src="images/bild_mal2.jpg" width="190" height="54" alt="Microsoft Office 2007" />
+
+
+<p><b>MS Office 2007</b> ist seit zwei Jahren auf dem Markt und steht nun in einer sehr stabilen Version zur Verfügung. Damit ist das Produkt reif, im POCSO-Umfeld eingesetzt zu werden. Steigen Sie auf MS Office 2007 um und nutzen Sie die <b>Vorteile</b> des neuen Office-Pakets:
+<ul>
+
+
+<li><div>Viele neue <b>produktivitätssteigernde Funktionen</b> speziell in Excel und PowerPoint</div></li>
+<li><div><b>Support</b> vom Hersteller (wurde für Office 2000 bereits eingestellt)</div></li>
+<li><div>Laufende <b>Aktualisierung</b> bezüglich Sicherheit</div></li>
+<li><div>Keine Einschränkungen beim <b>Office-Dokumentenaustausch</b> - immer mehr User setzen Office 2007 ein.</div></li>
+<li><div><b>Abwärtskompatibilität</b> mit älteren Office-Versionen (2000 und 2003)</div></li>
+
+</ul></p>
+
+<p>Porsche Informatik unterstützt Office 2000 im Rahmen der technischen Möglichkeiten <b>bis Ende 2011</b>. Steigen Sie daher bis spätestens dann auf Office 2007 um. Wenn Sie sämtliche Office-Arbeitsplätze in Ihrem Netzwerk zum gleichen Termin umstellen, verrechnet Porsche Informatik <b>keine Installationskosten</b>!</p>
+
+<p>Die fehlenden Microsoft-Office-2007-Lizenzen können Sie zu Porsche-Konditionen im<br /><a href="https://www.domino.porsche.at/int/db/pub/ehnprod.nsf" target="_blank" title="zum e-Shop"><b>e-Shop&nbsp;&raquo;</b></a> (Benutzer: "Poiprod-VWA", Passwort: "Poiprod-VWA") von S&T Austria oder bei Herrn Markus Berghammer von S&T (Tel.: 0662 - 850 285-1515) erwerben. <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/3873a90d457994cec1257345002cdb87/230ef2dff95eea61c125766d002706ee?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Nähere Informationen&nbsp;&raquo;</b></a> über Ablauf, Installation, Schulungen und mehr haben wir in der POI-Infoline zusammengestellt; auch Ihr Key Account Manager der POI berät Sie gerne.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Microsoft Office 2007">Friedrich Malle</a>
+</p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

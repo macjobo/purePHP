@@ -1,0 +1,26 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: Einsatz Volkswagen BTAC-Box</h1>
+<h2>Für die Werkskommunikation (Schnittstellen, MirrorServer/Datenupdates) wird zukünftig eine sogenannte BTAC-Box benötigt.</h2>
+
+<img src="images/bild_kra.jpg" width="190" height="120" alt="Einsatz Volkswagen BTAC-Box" />
+
+
+
+<p>Die <b>BTAC-Box</b> ist eine Computerhardware mit <b>vorinstallierten Softwarekomponenten</b>, die die Anforderungen von BTAC (Basic Technical Architecture Concept) der Volkswagen AG im Autohaus umsetzen. Hierzu gehören unter anderem die Softwarepakete DMS Backbone und MirrorServer.</p>
+
+<p>Die neue Lösung bildet die Voraussetzung für die <b>Kommunikation</b> bestehender wie auch neuer Anwendungen (z.&nbsp;B. das Fahrzeug-Diagnosesystem ODIS) mit dem Hersteller. Nach <b>ausgiebigen Tests</b> und Pilotierung im POCSO-Umfeld wird die BTAC-Box aktuell bei allen Audi-Servicebetrieben eingesetzt. Im Herbst folgen die VW-, danach die Seat- und Skoda-Servicebetriebe.</p>
+
+<p>Mit der BTAC-Box werden <b>Flash-Datenpakete</b> für Diagnosetester vom POCSO-Windows-Server auf die BTAC-Box verlagert. Dadurch stehen am Datenlaufwerk O ca. <b>15 GB mehr</b> freier Speicher zur Verfügung. Der frei werdende Platz entlastet Ihre Datensicherung bzw. bietet Ihnen neue Reserven für die Speicherung von Unternehmensdaten.</p>
+
+<p>Die Software- und Datenaktualisierung der BTAC-Box erfolgt (wie vorher auf den POCSO-Servern) <b>vollautomatisch</b> im Hintergrund.</p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Einsatz Volkswagen BTAC-Box">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>
+
+ 

@@ -1,0 +1,31 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Änderung "CROSS-Infos" mit 2.19</h1>
+<h2>Im Bereich CROSS Infos sind eventuell vor der Umstellung auf CROSS Release 2.19 Datenwartungen durch den Betrieb notwendig.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="CROSS Infos" />
+
+<p>Am 17. bzw. 24. März kommt das CROSS Release 2.19 zum Breiteneinsatz. Eine der Änderungen, die die neue CROSS-Version bringt, ist die Unterteilung von CROSS-Infos in <b>"echte" Infos</b> und in <b>Zusatzfelder</b> - wir haben auch bereits im Partner.Net-Rundschreiben "POI: System-Information Nr. 03/2012" vom 09.03.2012 darauf hingewiesen.</p>
+
+<p>Im Zuge der Umstellung von CROSS 2.17 auf 2.19 werden sämtliche Infos unverändert übernommen. Infos, die einer Info-Kategorie mit dem <b>Kennzeichen "Zusatzfeld"</b> (Varia) zugeordnet sind, werden auch als Zusatzfeld übernommen.</p>
+
+<p>Bitte beachten Sie in diesem Zusammenhang: Infos können nach der Umstellung sehr einfach <b>löschmarkiert</b> werden, aber es gibt nach der Umstellung keine Möglichkeit, aus einer Info automatisch ein Zusatzfeld zu erzeugen! Daher ist es wichtig, dass bei Info-Kategorien, die nach der Release-Einspielung als <b>Zusatzfeld</b> aufscheinen sollen, <b>vor der Umstellung</b> auf CROSS 2.19 das entsprechende Kennzeichen in der Info-Kategorie gesetzt wird.</p>
+
+<p>Wie Sie dabei am besten vorgehen, finden Sie in der Dokumentation <a  href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/7b8f56aac3841e92c12579b9004afede?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Übernahme von Infos bei der Umstellung von CROSS-Release 2.17 auf 2.19"&nbsp;&raquo;</b></a> in der POI-Infoline.</p>
+
+
+Für Fragen dazu stehen Ihnen die MitarbeiterInnen unseres Service Desks gerne zur Verfügung.
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS Infos">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+
+
+

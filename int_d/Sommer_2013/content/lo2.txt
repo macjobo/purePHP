@@ -1,0 +1,61 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neue VPN-Lösung</h1>
+<h2>Das Client-Team der Porsche Informatik stellt derzeit mit Hochdruck auf eine neue VPN-Lösung um.</h2>
+
+<img src="images/bild_lo2.jpg" width="190" height="120" alt="Neue VPN-Lösung" />
+
+
+<p>Virtual Private Network, kurz <b>VPN</b>, ist jene Technologie, mittels derer Sie sich über Ihr Firmen-Notebook ins Netzwerk Ihres Unternehmens einwählen. Der große Vorteil der neuen VPN-Lösung, die wir gerade ausrollen, ist, dass Sie dafür nun kein eigenes Passwort mehr benötigen; in Zukunft können Sie Ihr <b>Windows-Kennwort</b> für die Authentifizierung zu benutzen.</p>
+
+
+<p>Im Zuge dieses Rollout werden auch alle Benutzer, die bisher eine Smartcard zur Verbindung ins Netzwerk verwendet haben, auf die seit Windows 7 eingesetzte <b>Token-Lösung</b> von enTrust umgestellt.</p>
+
+<p>Im Juli und August wird ein Mitarbeiter des Clientteams mit allen Benutzern, die noch mit der alten Lösung arbeiten, einen individuellen <b>Umstellungstermin</b> vereinbaren. Selbstverständlich werden wir Sie dabei auch in das neue System <b>einschulen</b>.</p>
+
+<p>Wenn Sie <b>rascher</b> auf die neue Lösung umsteigen wollen, ist das natürlich auch möglich. Wenden Sie sich dazu bitte an unseren Service Desk.</p>
+
+<p>Nähere Informationen zur neuen Lösung finden Sie im <b>POCSO PC Benutzerhandbuch</b> auf Ihrem Desktop unter der Rubrik "Notebook" > "POCSO Teleworker".</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue VPN-Lösung">Herbert Lohninger</a></p>
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,57 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: CROSS.Schnittstelle.Mobile Serviceannahme</h1>
+<h2>Die richtige und effiziente Nutzung der Mobilen Serviceannahme. Lassen Sie Ihr Tablet nicht im Kasten verstauben!</h2>
+
+<img src="images/bild_had.jpg" width="190" height="120" title="CROSS.Schnittstelle.Mobile Serviceannahme" />
+
+
+
+<p>
+Die Mobile Serviceannahme in CROSS, kurz MSA, dient als Werkzeug zur Unterstützung der Kundendienstberater <b>im täglichen Werkstattgeschäft</b> 
+<b>während der Direktannahme</b>. MSA unterstützt den Kundendienstberater dabei, strukturiert und für den Kunden transparent das Fahrzeug zu prüfen, 
+dies nimmt Zeit in Anspruch. Für diese Direktannahme mit MSA soll daher jene Zeit eingeplant werden, die für die Annahme mit dem Kunden benötigt wird. <br />
+Mit CROSS Release 2.31 kann für die Mobile Serviceannahme eine <b>längere Annahmedauer</b> für den Serviceberater definiert werden. 
+</p>
+
+<p>
+Sie sehen dennoch keine direkten Vorteile beim Arbeiten mit der Mobilen Serviceannahme in CROSS?<br />
+<ul>
+
+<li><div>
+MSA sichert Ihrem Serviceberater ein noch <b>professionelleres Auftreten</b> vor Ihren Kunden
+</div></li>
+
+<li><div>
+Der Serviceberater kann gezielt auf die <b>individuellen Bedürfnisse</b> des Kunden eingehen
+</div></li>
+
+<li><div>
+<b>Stärkung des Images</b> gegenüber dem Kunden durch den Einsatz moderner Werkzeuge
+</div></li>
+
+<li><div>
+Prüfpunkte der Direktannahme sind für den Kunden <b>transparent</b>
+</div></li>
+</ul>
+
+</p>
+
+<p>
+Die  
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/00000000000000000000000000000000/7f674066561479ccc1257c8900465599?OpenDocument" 
+target="_blank" title="Zur Porsche-Informatik-Infoline">CROSS.Schnittstelle Mobile Serviceannahme&nbsp;&raquo;</a> unterstützt den Serviceberater bei seiner täglichen Arbeit 
+und kann bei richtiger und kontinuierlicher Verwendung die Wertschöpfung in Ihrem Betrieb steigern.
+</p>
+
+<p>
+Haben Sie noch Fragen? Kontaktieren Sie Ihren zuständigen CROSS-Berater oder 
+besuchen Sie einen unserer CROSS-Anwendertage. Wir freuen uns auf Ihren Besuch!
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Schnittstelle.Mobile Serviceannahme">Daniel Hammerl</a><br />
+CROSS Consultant Einzelhandel Kundenmanagement</p>
+
+

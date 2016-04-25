@@ -1,0 +1,127 @@
+<div class="umbruch">&nbsp;</div>
+<h1>IT Infrastructure: New requirement database</h1>
+<h2>To further improve the cooperation between Porsche Informatik Infrastructure services (IS) and the local IT departments, there is now a requirement database for all infrastructure topics.</h2>
+
+<p>The requirement databases have already proved valuable for the Porsche Informatik software products. In order to handle queries from other countries regarding infrastructure topics such as active directory, connections to retailers, planning of a data centre, etc. even more efficiently and effectively in future, we have created the <b>IS Requirement DB</b> for our partner countries.</p>
+<p>Access is via your <b>Partner.Net</b> (Porsche Informatik -> Requirement database -> Infrastructure). Requirements can be input under the following categories:</p>
+
+<ul>
+<li>Server</li>
+<li>Network</li>
+<li>Client</li>
+<li>Project Management</li>
+</ul>
+
+<p>All queries regarding new topics or projects must be authorised by the concerned department (see table). Additionally, the concerned key account manager for the particular country is informed of all queries.</p>
+
+<div class="tabelle">
+
+<table>
+<tr><td><tr>
+<th>Requirement<br />IT manager</th>
+<th>Authorisation<br />
+Department</th>
+<th>Information <br />Key Account</th>
+<th>Implementation IS</th>
+</tr>
+
+<tr>
+<td>Importer IT manager</td>
+<td>POA/GHA</td>
+<td>Mr. Parlic</td>
+<td>Mr. Klinger/Mrs. Buber</td>
+</tr>
+
+
+<tr>
+<td>Leasing IT manager </td>
+<td>PBV/Mr. Auer	</td>
+<td>Mr. Wenger</td>
+<td>Mr. Klinger/Mrs. Buber</td>
+</tr>
+
+<tr>
+<td>PIA IT manager </td>
+<td>PIA/Mr. Seebach</td>
+<td>Mr. Rauter</td>
+<td>Mr. Klinger/Mrs. Buber</td>
+</tr>
+</table>
+
+</div> 
+
+<p>Please remember that the database is only intended for requirements.
+Urgent problems or errors in applications or systems should be directly reported to the <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">Service Desk</a></b>!</p>
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=New requirement database">Barbara Buber</a>
+<br>Project Management Infrastructure services 
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,12 @@
+<h1>CROSS 2: Schnittstelle Schadenskalkulation</h1>
+<h2>Kostenvoranschläge werden mittels neuer Schnittstellen automatisch in CROSS 2 übernommen.</h2>
+
+<p>Wenn Sie Ihre Kostenvoranschläge mit <b>AudaPad</b> oder <b>SilverDat</b> kalkulieren, können Sie sich auf eine wesentliche Vereinfachung für die Angebotserstellung freuen! Gemeinsam mit den Firmen Audatex und DAT Austria haben wir eine <b>Schnittstelle</b> zwischen deren Schadenskalkulations-Systemen und CROSS entwickelt.</p>
+
+<p>Dadurch ersparen Sie sich die manuelle Erfassung der Auftragspositionen - das sind im Durchschnitt <b>zehn Minuten</b> je Auftrag! Auch Erfassungsfehler gehören damit der Vergangenheit an. Der CROSS-Auftrag bzw. das CROSS-Angebot entsprechen automatisch dem Kostenvoranschlag.</p>
+<p>Aus dem System AudaPad können Sie die Auftragspositionen bereits jetzt mit dem <b>aktuellen CROSS-Release</b> übernehmen, für SilverDat steht die Schnittstelle <b>ab Release 2.09</b> zur Verfügung.</p>
+
+Weitere Details entnehmen Sie bitte dem <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/DB87666234C97BFCC1257441003504B7?OpenDocument" title="Produktblatt CROSS-Schadenskalkulations-Schnittstelle" target="_blank"><b>Produktblatt "CROSS-Schadenskalkulations-<br />Schnittstelle" </b></a>in der Porsche Informatik Infoline. Auch Ihr Key Account Manager der Porsche Informatik berät Sie dazu gerne.
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Schnittstelle Schadenskalkulation">Christian Witibschlager</a></p>

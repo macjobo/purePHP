@@ -1,0 +1,66 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Service Desk: Neue Suchfunktion im Support-Tool</h1>
+<h2>Eine komfortable Suchfunktion erleichtert das Finden von Supportanfragen. </h2>
+
+
+
+<p>Der neue POI-Online-Support wird nicht nur rege genutzt, wir erhalten dazu auch immer wieder <b>Verbesserungsvorschläge</b> von unseren Kunden. Eine dieser Anregungen haben wir nun verwirklicht: Anfang Juli stellen wir Ihnen eine neue, komfortablere Möglichkeit für die <a href="index.php?page=bild_wam" title="Screenshot Neue Suchfunktion"><b>&raquo;&nbsp;Suche von Anfragen</b></a> zur Verfügung.</p>
+
+<p>Unter "Eigene Konsole" > "Suchparameter" > "Anzeigen" können Sie nun unter vier Anzeigevarianten wählen:
+
+<ul>
+<li><div><b>Anforderungen meiner Firmen</b> - zeigt alle Anfragen aller zugeordneten Firmen</div></li>
+<li><div><b>Meine eigenen Anforderungen</b> - zeigt alle Anfragen, die dem angemeldeten Benutzer zugeordnet sind</div></li>
+<li><div><b>Firma/Benutzer auswählen</b> - zeigt diejenigen Anfragen, die einer ausgewählten Firma und Person entsprechen</div></li>
+<li><div><b>Suche nach Anforderungs-ID</b> -  sucht mittels der eindeutigen Nummer (es genügen die letzten Stellen - INC0000000xxxxx)</div></li>
+</ul> 
+
+</p>
+
+Ihre Anregungen und Rückmeldungen sind uns immer willkommen; sie helfen uns dabei, unser Support-Tool für alle Anwender weiter zu verbessern!
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Service Desk">Markus Watzik</a>
+</p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

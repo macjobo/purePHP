@@ -1,0 +1,34 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: POI E-Shop</h1>
+
+<h2>Microsoft Office-Lizenzanforderungen für den Einzelhandel mittels neuem POI E-Shop.</h2>
+
+<img src="images/bild_pri.jpg" width="170" height="120" title="POI E-Shop" />
+
+
+<p>Der neue <b>E-Shop der Porsche Informatik</b> (Aufruf: Partner.Net/Porsche Informatik/POI E-Shop) erleichtert die Anforderung von 
+Microsoft Office Lizenzen für Betriebe, die die Zutrittserklärung zum Volkswagen Microsoft Select Plus-Vertrag unterschrieben haben und bietet eine Kontrollmöglichkeit über den Einsatz dieser.</p>
+
+<p> 
+Die <b>Beschreibung</b> über den POI E-Shop finden Sie in der 
+<a href="http://kb.auto-partner.net/int/hilfe/klbpoial.nsf/f9ca8c1665df61b3c1257345002cdb8b/9ab37cc2731d2efac1257c13004ef53f?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">Porsche 
+Informatik Infoline&nbsp;&raquo;</a> und soll Ihnen beim Einstieg in das Thema Lizenzanforderung helfen. Die Berechtigung für den Zugriff zum POI E-Shop kann Ihnen Ihr Personenwarter zuteilen.</p>
+
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=POI E-Shop">Nicola Priol</a><br />
+Marketing & Vertriebsassistenz</p>
+
+
+
+
+
+
+
+
+
+

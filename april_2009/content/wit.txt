@@ -1,0 +1,22 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS 2: Schnittstelle zu Kassensystem</h1>
+<h2>Spätestens wenn der Austausch der Registrierkasse ansteht, ist der ideale Zeitpunkt für ein elektronisches Kassensystem gekommen.</h2>
+
+
+
+
+<p>Manuelle Ein- oder Ausgangsbelege bergen die Gefahr von Schreib- oder Lesefehlern, sowohl an der Kassa als auch beim Übertrag ins Kassabuch. Ein unmittelbarer <b>Kassensturz</b> ist oft nicht möglich, da der Eintrag in das Kassabuch wieder Aufwand bedeutet und daher aus Zeitgründen "vertagt" wird.</p>
+
+<p>Diese Lücke in der elektronischen Abwicklung schließt nun unser neuestes Produkt <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/ED6AC3D12116C4B0C125756300282343?OpenDocument" target="_blank" titel="Zur POI-Infoline"><b>&raquo;&nbsp;CROSS-2-Schnittstelle zu Kassensystem</b></a> (Bondrucker, Geldlade und Kundendisplay der Firma Wincor Nixdorf). Jeder kassabuchpflichtige Beleg wird sofort im CROSS-2-Kassabuch erzeugt und ist damit bereits journalmäßig erfasst.</p>
+
+<p>Wenn ein Kunde eine ältere Rechnung begleichen möchte, sucht der Kassierer in CROSS den offenen Posten und erzeugt damit den Kasseneingangsbeleg. Der <b>automatische OP-Ausgleich</b> ist damit ohne zusätzlichen Kontierungsaufwand bereits sichergestellt. Die Kassabuch-Funktion "<b>gegebenes Geld</b>" wird am Kundendisplay transparent gemacht und erzeugt im Kassabuch einen nachvollziehbaren Eintrag. Oft aufwändige Kassen-Abstimmarbeiten werden damit wesentlich reduziert.</p>
+
+<p>Fragen zu dieser neuen Schnittstelle beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Werkstattkasse">Christian Witibschlager</a></p>

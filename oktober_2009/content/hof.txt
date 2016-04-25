@@ -1,0 +1,30 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS 2: Manueller Verkaufspreis in der ET-Rabattwartung</h1>
+<h2>Bitte beachten Sie, dass bei manueller Eingabe des Verkaufspreises individuelle Rabatte nicht mehr berücksichtigt werden!</h2>
+
+
+
+<a class=info href="#"><img src="images/bild_hof_klein.jpg" width="190" height="120" alt="Subauftragsebene im Reiter 3-Sub des Auftrages" /><span></span></a>
+
+
+<p>Mit CROSS 2.11 wurde die Rabattvergabe um einige Punkte erweitert: So können Sie nun in CROSS <b>kundenindividuelle Rabatte</b> flexibel steuern!</p>
+
+<p>Beachten Sie dabei jedoch folgende Einschränkung: Bei <b>manueller Eingabe des Verkaufspreises</b> werden alle individuellen Rabatte übersteuert, die im Geschäftspartner oder in der Rabattwartung hinterlegt sind! Das heißt, der manuell eingetragene Verkaufspreis wird dem Kunden letztlich verrechnet.</p>
+
+<p>Kundenspezialpreise haben eigentlich eine höhere Priorität als die UPE oder der normale Verkaufspreis im Teilestamm. (Diese Steuerung erfolgt auf Subauftragsebene im Reiter 3-Sub des Auftrages.) Der manuell erfasste Verkaufspreis hat jedoch die höchste Priorität und <b>übersteuert sämtliche Rabatte</b>. </p>
+
+<p>Bitte denken Sie daher daran, dass ein zusätzlich gewährter Rabatt in der Kalkulation des manuellen Verkaufspreis berücksichtigt werden muss, da dieser nicht mehr gesondert auf der Rechnung aufscheint.</p>
+
+
+<p>Möchte der Kunde dennoch den Zusatzrabatt auf der Rechnung aufgegliedert haben, so empfiehlt es sich, dies mit einer <b>eigenen Textzeile</b> zu ergänzen.</p> 
+
+
+	
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Manueller Verkaufspreis">Georg Hofer</a></p>
+
+

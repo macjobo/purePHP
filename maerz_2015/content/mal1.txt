@@ -1,0 +1,68 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Sicheres Löschen von Festplatten - Änderungen Logonscript - Neue CROSS-Softwarepakete - Allgemeine Softwareupdates von Adobe - POI Service-Bildschirmschoner</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+
+<li><div><b>Sicheres Löschen von Festplatten mittels Killdisk</b><br />
+Um Datendiebstahl zu verhindern ist es wichtig, vor dem Ausscheiden eines Computers die Festplatte(n) sicher zu löschen. 
+Bisher haben wir zwar mit einer Broschüre auf diesen Umstand hingewiesen und Tipps zum Löschen gegeben, 
+ab nächster Woche unterstützten wir diese wichtige Tätigkeit mit einem Tool auf einem USB Stick (Killdisk). 
+Dieser USB-Stick kann laut Anleitung vom Betrieb selbst erstellt werden und funktioniert für alle POCSO Rechner inkl. der Server. 
+Diese Anleitung findet sich in Kürze auch im POCSO Benutzerhandbuch am Desktop jedes Arbeitsplatzes.
+
+
+ </div></li>
+
+
+<li><div>
+<b>Änderungen Logonscript</b><br />
+Es wurden wieder einige Anpassungen in den Anmeldescripts durchgeführt. Ein überarbeitetes POCSO Handbuch, 
+Killdisk-Integration (sicheres Löschen von Festplatten), Vorbereitungen für die Migration auf Lotus Notes 9 sowie ODIS Updateprüfungen sind Teil der Änderungen.
+
+</div></li>
+
+
+<li><div>
+<b>CROSS Softwaredepot Vers.1.5.0.0</b><br />
+Auf allen POCSO Windows-Servern läuft diese CROSS Funktionalität. Seitens C2-Entwicklung gibt es eine verbesserte Version, 
+diese werden wir in Kürze einsetzen. Diese Version erhöht nochmals die Zuverlässigkeit beim Download einer neuen CROSS Version auf die POCSO Server. 
+
+</div></li>
+
+
+
+
+
+<li><div>
+<b>Adobe Acrobat Reader Vers.11.0.10_AG 1.1</b><br />
+Ein Update des Acrobat Reader wird bis Mitte März auf allen Clients verteilt.
+
+</div></li>
+
+<li><div>
+<b>Adobe Flash Player Vers.16.0.0.305_AG</b><br />
+Eine schwerwiegende Lücke in Flash wurde geschlossen, die Verteilung ist bereits erfolgt.
+</div></li>
+
+<li><div>
+<b>POI Service-Bildschirmschoner</b><br />
+Lange Zeit war es ruhig um den Service-Bildschirmschoner, mittlerweile existiert die Hardware, für die er gemacht wurde, 
+teilweise gar nicht mehr. Deshalb wurde die Unterscheidung VW, Audi, Mixed aufgehoben und alle PC's erhalten den gleichen Bildschirmschoner.
+Es ist der seit 2011 bei Audi im Einsatz befindliche, markenneutrale Bildschirmschoner
+</div></li>
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

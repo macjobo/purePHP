@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Lotus Notes: Pflichtangaben in der E-Mail-Signatur</h1>
+<h2>Für E-Mails gelten seit Anfang des Jahres die gleichen rechtlichen Vorgaben wie für Geschäftsbriefe - bitte passen Sie Ihre Mail-Signaturen entsprechend an.</h2>
+
+<p>Die Kommunikation via E-Mails ist im Geschäftsleben heute längst Standard geworden. Der Gesetzgeber hat dieser Entwicklung nun Rechnung getragen und die neuen <b>Pflichtangaben im Geschäftsverkehr</b> auch auf E-Mails und Internetseiten ausgedehnt.</p>
+<p>Im Firmenbuch eingetragene Unternehmen sind jetzt verpflichtet, auf allen Geschäftsbriefen, die auf Papier oder in sonstiger Weise - also auch als <b>E-Mail</b> - an einen bestimmten Empfänger gerichtet sind, folgende Informationen offenzulegen:</p>
+<ul>
+<li>Firma,</li>
+<li>Rechtsform,</li>
+<li>Sitz,</li>
+<li>Firmenbuchnummer,</li>
+<li>Firmenbuchgericht,</li>
+<li>UID-Nummer.</li>
+</ul>
+
+<p>Um diesen Anforderungen Genüge zu tun, empfehlen wir Ihnen daher, Ihre <b>Mail-Signatur</b> entsprechend anzupassen. Wie Sie Ihre Mail-Signatur anlegen bzw. anpassen können, haben wir in einer kurzen <a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/b00d4cf946308426c1256ed9004402bd/38f3cc58e9a1b42dc12572ba004c0580?OpenDocument" target="_blank" title="E-Mail-Signatur erstellen bzw. anpassen" title="E-Mail-Signatur erstellen bzw. anpassen"><b>Anleitung</b></a> in unserer Infoline zusammengefasst.</p>
+
+<p>Für Fragen zum Erstellen einer Mail-Signatur stehen Ihnen die Mitarbeiter unseres Customer Care Centers unter der Durchwahl 6280 gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Pflichtangaben in der E-Mail-Signatur">Friedrich Malle</a></p>
+

@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Hardware: Wechsel auf neue Computergeneration</h1>
+<h2>
+Die neuen Desktop- und Notebook-Modelle von HP wurden als als Porsche-Standard eingeführt.</h2>
+
+<img src="images/bild_mal3.jpg" width="190" height="120" title="Neue Computer-Generation" />
+
+
+  
+<p>Zur Zeit vollzieht sich gerade der alljährliche <b>Generationswechsel</b> in der EDV-Hardware. Alle PCs der Modellreihe 8200 sind bereits bei S&T Austria bestellbar und können kurzfristig ausgeliefert werden.</p>
+
+  
+<p>Die beiden <b>Desktop-PCs 8200 SFF und 8200 USDT</b> wurden für noch bessere Performance mit neuen, leistungsstärkeren Prozessoren ausgestattet; ihr <b>Preis</b> konnte jedoch deutlich gesenkt werden. Der Power-PC im <b>Towergehäuse 8200 CMT</b> wurde heuer im Vergleich zum Vorgängermodell stark überarbeitet. Durch neue Komponenten wie etwa eine SSD-Festplatte (Flash-Speichermodul als Systemplatte anstelle einer Magnetplatte) oder doppelte Arbeitsspeicherausstattung bietet er wesentlich mehr Leistung.</p>
+  
+<p>Auch die neue Generation der <b>Notebooks 8560p</b> (15-Zoll-Display) und <b>2560p</b> (12-Zoll-Display; jetzt standardmäßig mit SSD-Festplatte) ist bereits vorbestellbar. Für September ist die Einführung eines zusätzlichen Notebooks <b>8460p</b> in der ergänzenden Baugröße von 14 Zoll im Gespräch.</p> 
+  
+<p>Damit Sie in Zukunft eventuell auch mehr als <b>4 GB Arbeitsspeicher</b> einsetzen können, werden alle neuen Geräte mit einer <b>64-Bit-Version </b>des Betriebssystems Windows ausgeliefert.</p>
+
+ 
+Details zu den vorgestellten Geräten finden Sie im im <a href="http://shop.snt-online.at" target="_blank" title="zum e-Shop"><b>e-Shop&nbsp;&raquo;</b></a> von S&T (Benutzer: "900959-VWAprodAT-1", Passwort: "VWAprodAT"), auch Herr Markus Berghammer von S&T (Tel.: 0662-850285-1515) beantwortet Ihre Fragen gerne. </p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Computer-Generation">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>
+

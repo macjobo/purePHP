@@ -1,0 +1,47 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: E-Rechnung an den Bund</h1>
+<h2>Die elektronische Einbringung von Rechnungen an die Behörden.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="E-Rechnung" />
+
+
+<p>Wir möchten Ihnen hier einen Überblick über die weiteren Schritte und Möglichkeiten geben:</p>
+ 
+<ul>
+
+<li><div>
+Per 1.1.2014 müssen <b>Rechnungen an den Bund elektronisch</b> eingebracht werden. Dazu ist es erforderlich, 
+sich am <a href="https://www.usp.gv.at/Portal.Node/usp/public" target="_blank" title="Zum Unternehmensserviceportal">&nbsp;&raquo;Unternehmensserviceportal</a> zu registrieren. Die Übermittlung allfälliger Rechnungen mittels Web-Formular ist bereits jetzt möglich. 
+Beginnen Sie so rasch wie möglich damit, um noch eine kurze "Übungsphase" zu haben bevor es keine andere Möglichkeit der Rechnungseinbringung mehr gibt.
+
+</div></li>
+
+<li><div>
+Prüfen Sie, <b>wie viele Kunden</b> bei Ihnen überhaupt von dieser Art der Rechnungseinbringung <b>betroffen</b> sind. Diese Information erhalten Sie 
+unter <a href="https://www.erb.gv.at/" target="_blank" title="E-Rechnung an den Bund">&nbsp;&raquo;www.erb.gv.at</a> im Bereich "Bundesdienststellen". 
+Viele Rechnungen an Behörden werden heute über Wartungsverträge abgewickelt, die Verrechnung erfolgt wie bisher an die Porsche Bank.
+</div></li>
+
+
+<li><div>
+Parallel arbeitet Porsche Informatik an der <b>CROSS Option "Elektronische Rechnung"</b>. 
+Mit dieser wird es möglich sein, Rechnungen an den Bund automatisiert aus CROSS zu übertragen. Die Verfügbarkeit dieser Option ist für das erste Halbjahr 2014 geplant.
+</div></li>
+
+<li><div>
+Bitte beachten Sie auch, dass eine automatisierte Rechnungsübertragung an den Bund (E-Rechnung) und in weiterer Folge auch an Firmen und Privatkunden, das <b>CROSS-Archiv</b> voraussetzt. 
+Nur damit ist gewährleistet, dass die versendeten Rechnungen korrekt, lückenlos und gesetzeskonform abgelegt werden.
+</div></li>
+
+
+
+</ul>
+
+
+<p>Fragen zu diesem Thema beantwortet Ihnen Ihr Key Account Manager der Porsche Informatik gerne.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=E-Rechnung an den Bund">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

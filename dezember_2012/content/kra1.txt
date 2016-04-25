@@ -1,0 +1,39 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Steigende Bedrohung durch Malware</h1>
+<h2>Fremde Systeme sowie USB-Sticks, externe Festplatten, Datenträger unbekannten Urspungs oder private Laptops gehören nicht ins Firmen-Netzwerk!</h2>
+
+<img src="images/bild_kra1.jpg" width="190" height="120" title="Bedrohung durch Malware" />
+
+
+<p>Malware wie Viren, Trojaner oder Würmer nützt die Schwachstellen von IT-Systemen, um <b>Schaden anzurichten</b>. Die steigende Zahl an Apps, 
+die auf den neuen mobilen Geräten eingesetzt werden, bietet hierfür neue Angriffspunkte. Ein infiziertes Gerät verteilt Malware oft an andere Geräte im Netzwerk, was den Schaden noch vergrößert.</p>
+
+<p>Im POCSO-Netzwerk wird eine Vielzahl an <b>Maßnahmen</b> getroffen, um Systemausfälle zu verhindern.
+Der flächendeckene Einsatz von Virenschutzprogrammen, die laufende Aktualisierung der Software, umfangreiche Tests, das Entfernen erkannter Malware
+sowie das Monitoring von Systemnachrichten zählen dazu. Das bedeutet jedoch nicht, dass das POCSO-System 100% immun gegen Malware ist.</p>
+
+<p>Ein <b>hohes Risiko</b> besteht, wenn unbekannte Systeme bzw. Daten in Ihr System eingebunden werden. Wir empfehlen daher, <b>fremde Systeme und Datenträger</b> wie USB-Sticks, externe Festplatten, etc. 
+nur dann in Ihrem Betrieb einzusetzen, wenn eine klare betriebliche Notwendigkeit dafür besteht und diese Speichermedien mit keiner anderen Internetverbindung in Berührung kommen als jener im eigenen
+Autohaus. Es sollte jedem einzelnen Anwender bewusst sein, dass er mit seinem Verhalten einen wichtigen Beitrag zur IT-Sicherheit im Unternehmen leistet.</p>
+
+<p>Wir werden Ihnen in Kürze eine entsprechende Informationsbroschüre zur Verfügung stellen.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Steigende Bedrohung durch Malware">Andreas Kronberger</a><br />
+Leitung POCSO-Management-Center</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

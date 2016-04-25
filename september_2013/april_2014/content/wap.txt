@@ -1,0 +1,20 @@
+
+
+<div class="umbruch">&nbsp;</div>
+
+<h1>SAP-Tipp: Stammdatensuchhilfe</h1>
+
+<h2>Neuerungen in den SAP Stammdatensuchhilfen.</h2>
+
+<img src="images/bild_wap.jpg" width="190" height="120" title="Stammdatensuchhilfe" />
+
+
+<p>Auf Kundenwunsch wurde bei Kreditoren-/Debitoren- und Sachkontenstammdaten die <b>SAP Suchhilfe optimiert</b>. 
+Das bedeutet, es werden <b>löschmarkierte Stammdaten</b> in der Trefferliste zukünftig <b>nicht mehr angezeigt</b>. 
+Details dazu entnehmen Sie bitte der Dokumentation 
+<a href="http://kb.auto-partner.net/int/hilfe/klbsap.nsf/f9ca8c1665df61b3c1257345002cdb8b/fc26282a6f136adfc1256f2a00288cf5?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>Kontenstammdaten&nbsp;&raquo;</b></a>
+in der POI-Infoline.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Stammdatensuchhilfe">Petra Wambacher</a><br />
+SAP-Beratung und Support</p>
+

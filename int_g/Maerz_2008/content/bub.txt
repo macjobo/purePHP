@@ -1,0 +1,96 @@
+<div class="umbruch">&nbsp;</div>
+<h1>IT- Infrastruktur: Leitlinie zur Betriebsführung</h1>
+<h2>Mit der "Leitlinie zur Betriebsführung" haben wir Ihnen ein "Best-Practice"- Dokument für Planung, Aufbau und Betrieb von IT- Infrastruktursystemen zusammengestellt.</h2>
+
+<p>Eine reibungslos <b>funktionierende IT-Infrastruktur</b> ist die Basis für das Funktionieren der Geschäftsprozesse und damit auch ausschlaggebend für den Erfolg unserer Organisation.</p>
+
+<p>Der Betrieb von Servern, Netzwerken oder ganzen Rechenzentren stellt jedoch jeden IT-Manager laufend vor neue Herausforderungen. Deshalb haben wir ein Dokument erstellt, das die wichtigsten Bereiche rund um das Thema <b>Betriebsführung</b> zusammenfasst. Es soll allen europäischen Ländern der Porsche Holding als Hilfestellung bei Planung, Aufbau und Betrieb von IT-Infrastruktursystemen dienen.</p>
+
+<p>Sämtliche Informationen beruhen auf den langjährigen Erfahrungen der Porsche Informatik in Österreich und sollen als <b>"Best-Practice" Ansatz</b> gesehen werden. Ziel ist ein möglichst hohes, länderübergreifendes Standardisierungsniveau zu erreichen. Damit vereinfachen sich Steuerung, Know-how-Austausch sowie Support und letztendlich verringern sich die Kosten. Auch die Beschaffung von Standard-Komponenten wird durch diese Leitlinie geregelt.</p>
+
+<p>Folgende <b>Themen</b> werden unter anderen behandelt:</p>
+
+<ul>
+<li>Allgemeine IT-Organisation</li>
+<li>Netzwerk Porsche Europa</li>
+<li>Infrastruktur</li>
+<li>Systemnahe Dienste</li>
+<li>Rechenzentrumsbetrieb</li>
+<li>Sicherheitsmanagement</li>
+</ul>
+
+Das Dokument finden Sie unter 
+<b><a href="https://webdb.autohaus.at/int/hilfe/klbbetrf.nsf/f9ca8c1665df61b3c1257345002cdb8b/64d9fcf3de17eb83c125741a00465a97?OpenDocument" target="_blank" title="Beschreibung" alt="Beschreibung">Leitlinie Betriebsführung</a></b>.
+Bitte melden Sie sich mit Ihren IPC-Zugangsdaten an!</p> 
+
+<p>Bei Fragen und Anregungen wenden Sie sich bitte an</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Leitlinie Betriebsführung">Barbara Buber</a>
+<br>Projektsteuerung Infrastruktur Services
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

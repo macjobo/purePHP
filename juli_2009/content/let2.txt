@@ -1,0 +1,63 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>SAP: Erfahrungen mit Automatischer Gewährleistungsverbuchung</h1>
+<h2>Die automatische Verbuchung von Gewährleistungsvergütungen bringt immer mehr Betrieben erhebliche Arbeitsersparnis in der Buchhaltung!</h2>
+
+<p>Bereits seit 2008 können Sie die <b>Gewährleistungsvergütungen</b> für Ihren Betrieb <b>automatisch verbuchen</b> und auf dem Kundenkonto ausziffern lassen. Innerhalb von definierten Abweichungstoleranzen erfolgen Buchung und Auszifferung, ohne dass jemand manuell eingreifen muss.</p>
+
+<p>Bereits 57 Firmen bzw. Firmenkonglomerate haben die Lösung im Einsatz, seit Juni 2008 auch die Firmengruppe <b>Senker</b> mit sechs Autohäusern in Niederösterreich. <b>Johann Keiter</b>, Finanzleiter des Konglomerats, schätzt die Vorteile der Automatischen GWL-Verbuchung sehr: "Den Hauptnutzen sehe ich darin, dass wir nicht mehr <b>händisch ausziffern</b> müssen. Das bedeutet auch eine bessere Abstimmung mit dem GWL-Konto in SAP".</p>
+
+<p>Bei sechs Betrieben fallen über die Marken hinweg alle 14 Tage 23 Buchungsanzeigen an. "Das ergibt in Summe einen Zeitvorteil von bis zu <b>acht Stunden</b> pro Monat". Auf die Frage, wo die Abwicklung vielleicht noch optimiert werden könnte, meint Johann Keiter: "Die Lösung ist optimal!"
+</p>
+
+<p>Sollten auch Sie Interesse an der Automatischen GWL-Verbuchung haben: Die <b>Einführung</b> ist nicht aufwändig: Wir führen sämtliche Umstellungsarbeiten in CROSS und SAP per <b>Fernwartung</b> durch und schulen die Mitarbeiter Ihrer Buchhaltung <b>telefonisch</b> auf die neue Abwicklung ein. Auf Wunsch können wir die Einführung aber selbstverständlich auch mit einem Betreuungstermin Ihres SAP-Beraters verbinden.</p> 
+
+<p>Alle weiteren <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/a8efb5b17a11cdd6c1257417004e7576?OpenDocument" title="Automatische GWL-Verbuchung" target="_blank"><b>&raquo;&nbsp;Informationen rund um die Automatische GWL-Verbuchung</b></a> finden Sie in der POI-Infoline, auch Ihr Key Account Manager der POI berät Sie gerne.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Automatische Gewährleistungsverbuchung">Theresia Lechner</a></p>
+
+
+
+
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

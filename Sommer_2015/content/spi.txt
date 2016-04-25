@@ -1,0 +1,45 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Infrastruktur: Rückschau Wartungswochenende vom 20. bis 22. Juni</h1>
+<h2>"Warum gibt es in Zeiten wie diesen immer noch Wartungsfenster? Warum muss die Porsche Informatik ihre Systeme überhaupt vom Netz nehmen, um Wartungen durchführen zu können?"</h2>
+
+<img src="images/bild_spi.jpg" width="190" height="120" title="Wartungswochenende" />
+
+
+<p>Vor wenigen Jahren haben wir noch vier große Wartungsfenster pro Jahr benötigt, die von Freitag abend bis Montag früh dauerten. Mittlerweile kommen wir mit <b>zwei Wartungswochenenden pro Jahr</b> aus, die nur noch von Samstag Mittag bis - im Normalfall - Sonntag Abend dauern. (Mit einem erheblich höheren finanziellen Aufwand könnten wir die Wartungsunterbrechungen wahrscheinlich noch weiter reduzieren; mit den Mitteln, die wir derzeit zur Verfügung haben, ist das jedoch nicht leistbar.)</p>
+
+<p>Am <b>Wartungswochenende vom 20. bis 22. Juni</b> waren etwa 20 Kolleginnen und Kollegen aus dem Bereich <i>Infrastructure Services</i> beschäftigt, die eine Vielzahl von Änderungen durchgeführt haben:</p>
+
+<ul>
+
+<li><div>So wurden auf <b>allen Windows-Servern</b> Aktualisierungen eingespielt und auf unseren <b>Virtualisierungssystemen</b> umfangreiche Hardware- und Firmwareänderungen vorgenommen. Daher standen während dieser Zeit einige hundert Windows-Server nicht zur Verfügung.
+</div></li>
+
+<li><div>Auf unseren <b>Datenbanksystemen (Oracle)</b> haben wir Releaseupgrades durchgeführt und im <b>Speichernetzwerk</b> Anpassungen vorgenommen, die zu anderen Zeiten zu Unterbrechungen des Betriebes geführt hätten.
+</div></li>
+
+<li><div>Im Bereich der <b>Firewall-Sicherungssysteme</b> in Richtung Volkswagen haben wir die Hardware auf aktuelle Komponenten ausgetauscht.
+</div></li>
+
+
+<li><div>Die zentralen <b>Datentransfer-Drehscheiben (VCOM)</b> sowie die komplette <b>Automatisierungsinfrastruktur (Jobablaufsteuerung)</b> wurden auf neue Versionen gebracht.
+</div></li>
+
+
+<li><div>Insgesamt war fast die <b>gesamte Infrastruktur</b> von den Changes vom Wochenende betroffen. In der Folge unterstützten uns dann am Sonntag Abend mehr als 20 weitere Kolleginnen und Kollegen aus anderen Abteilungen der POI, um <b>durchzutesten</b>, ob alle Veränderungen erfolgreich durchgeführt wurden und alle Anwendungen wieder störungsfrei laufen.
+</div></li>
+
+
+</ul>
+
+<p>Ein kritischer Erfolgsfaktor bei konzentrierten, parallelen Wartungsarbeiten ist ein <b>gut geplanter Ablauf</b>, damit man sich aufgrund der Abhängigkeiten der einzelnen Systeme nicht gegenseitig blockiert. Unsere eingespielten Spezialistenteams haben erneut ihr Können und ihre Erfahrung unter Beweis gestellt, denn dieses Wartungsfenster verlief völlig reibungslos. Alle Systeme standen Montag früh für Sie wieder uneingeschränkt zur Verfügung! Auch an dieser Stelle noch einmal ein <b>herzliches Danke</b> an alle Beteiligten!</p>
+
+<p>Ihnen, unseren Kunden, danken wir für das <b>Verständnis</b>, das Sie uns für solche Wartungsunterbrechungen  entgegenbringen!</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Wartungswochenende">Anton Spitzer</a><br />
+Leitung Infrastructure Services </p>
+
+
+

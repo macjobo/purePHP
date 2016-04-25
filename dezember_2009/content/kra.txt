@@ -1,0 +1,62 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Windows 7</h1>
+<h2>Windows 7 ist nun bereits seit einigen Wochen auf dem Markt - welches Vorgehen plant POCSO zum neuen Betriebssystem?</h2>
+
+<img src="images/bild_kra.jpg" width="190" height="120" alt="Windows 7" />
+
+
+<p>Unserem aktuellen Standard-Betriebssystem Windows XP folgte im November 2006 das wenig akzeptierte Windows Vista und im Oktober 2009 nun das bereits <b>vielgelobte Windows&nbsp;7</b>. Auch wir können nach Beta- und ersten Release-Tests bestätigen, dass die Qualität des neuen Betriebssystems von Microsoft gut ist.</p>
+
+<p>Aktuell arbeiten wir bereits an der Integration von Windows 7 in unser <b>Desktop-Management-System</b>. Das neue Betriebssystem macht umfangreiche Änderungen sowohl bei der automatischen Erstinstallation als auch bei der Softwareverteilung notwendig.</p>
+
+<p>Im 2. Quartal 2010 starten wir die internen <b>Applikationstests</b>, die die Lauffähigkeit unserer Standardanwendungen unter Windows 7 sicherstellen werden. Nach Einbindung der für den Breiteneinsatz erfahrungsgemäß notwendigen Updates planen wir für das 3.&nbsp;Quartal 2010 den <b>Piloteinsatz</b> und mit dem 4. Quartal 2010 den <b>Produktiveinsatz</b> eines dann völlig ausgereiften Windows-7-Clientsystems.</p>
+
+<p>Um unnötige Aufwände für die Neuinstallation sowie Kosten für ein Windows-Update zu vermeiden, planen wir Windows 7 nur <b>auf neuen Arbeitsplätzen</b> zu installieren. Die Umstellung von geeigneten bestehenden Arbeitsplätzen ist auf Wunsch natürlich möglich. Eine generelle Ablöse von Windows XP in den nächsten drei Jahren ist nicht geplant. Dank der modernen POCSO-Client-Management-Systeme können wir beide Systeme <b>parallel</b> betreiben. Damit wird ein permanenter und kostensparender Umstieg auf das neue Betriebssystem mit verhältnismäßig geringem Mehraufwand für Sie möglich. </p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Windows 7">Andreas Kronberger</a>
+</p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

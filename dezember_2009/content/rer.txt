@@ -1,0 +1,62 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Infrastruktur: Neue Internetplattform</h1>
+<h2>In den vergangenen Monaten haben wir eine neue Internetplattform für die Einzelhandel-Organisation geplant und konzipiert - nun ist es soweit!</h2>
+
+<img src="images/bild_rer.gif" width="190" height="100" alt="Neue Internetplattform" />
+
+
+<p>Bereits seit Anfang November arbeiten die ersten Autohäuser im Pilotbetrieb auf der neuen Plattform und wöchentlich schalten wir weitere Betriebe um. Unser Ziel ist, bis <b>Ende Jänner</b> alle österreichischen VW/Audi-, Seat- und Skoda-Betriebe auf die neue Plattform zu bringen.</p>
+
+<p>Die bisherige Plattform war bereits drei Jahre alt und kam langsam an die Leistungsgrenzen. Telekom Austria investiert nun einen 6-stelligen Euro-Betrag in den Neuaufbau einer exklusiven Internet-Plattform für die VW/Audi-, Seat- und Skoda-Organisation - für Sie fallen dabei <b>keine Mehrkosten</b> an! Die neue Plattform entspricht in Hard- und Software nun wieder dem <b>aktuellsten Stand der Technik</b> und wird für die nächsten Jahre unser Begleiter in Sachen Internet werden.</p>
+
+Folgende Ziele realisieren wir mit der neuen Plattform:
+
+<p><ul>
+<li><div><b>Mehrstufiges Sicherheitskonzept</b> (Netzwerk, Websecurity, Firewalling), realisiert mit Produkten von Weltmarktführern wie Cisco, Ironport und Checkpoint </div></li>
+<li><div><b>Performance- und Leistungsschub</b>, d. h. wir sind  auf die künftig steigenden Anforderungen bezüglich Useranzahl und Traffic vorbereitet. </div></li>
+<li><div>Einsatz der derzeit schnellsten <b>Websecurity-Appliance</b> und Einsatz zusätzlicher <b>Loadbalancer</b>, um den anfallenden Verkehr ideal zu verarbeiten.</div></li>
+<li><div>Neue Funktionalitäten wie z. B. Überprüfung der SSL-Verbindungen</div></li>
+<li><div>Verbesserung bestehender Funktionalitäten wie z. B.: URL-Blocking, Monitoring oder Überwachung </div></li>
+</ul>
+
+Damit haben Sie die Gewissheit, auch in Zukunft schnell und sicher im Internet zu surfen. Für Fragen steht Ihnen ihr Key Account Manager gerne zur Verfügung.</p>
+
+
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neue Internetplattform">Friedrich Malle</a></p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

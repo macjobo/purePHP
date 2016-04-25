@@ -1,0 +1,37 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS-Serie: CROSS.Controlling.Service</h1>
+
+<h2>Das neue Werkzeug zur Analyse von CROSS-Daten in Rahmen des operativen Controllings im Autohaus - vorerst für den Bereich Wertstatt und Teile - steht unmittelbar vor seinem Breitenrollout.</h2>
+
+<img src="images/bild_wag1.jpg" width="190" height="120" title="CROSS.Controlling.Service" />
+
+<p>Nach einer intensiven Pilotierungs- und Pre-Series-Phase, in der CROSS.Controlling.Service u.a. seine <b>fachspezifischen Controlling-Qualitäten</b> im Praxiseinsatz eindrucksvoll beweisen konnte, 
+steht das Signal für die Versorgung der Österreichischen Vertriebslandschaft eindeutig auf "Go!".</p>
+
+<p>CROSS.Controlling.Service repräsentiert die <b>neueste Generation an Management-Tools</b>, 
+die in der Datenaufbereitung weit über das Maß des reinen Datenabrufs hinausgehen und in beeindruckender Weise operatives Controlling, 
+also Sie bei der laufenden Steuerung Ihres Unternehmens, unterstützen.</p>
+
+
+
+<p>Dazu steht Ihnen künftig mit einer modernen Data-Ware-House-Architektur inklusive mehrdimensionalem Daten-Cube und einem ergebnisoptimierten Reporting-System, 
+sogenannten Dashboards, nicht nur die <b>aktuellste Daten-/Analysetechnik</b> zur Verfügung. Sie erhalten vor allem auch ein, auf ein zeitgemäßes Controlling <b>maßgeschneidertes</b> Informationspaket, 
+das klare Erkenntnisse zu Fakten bzw. Wirkungen und deren Ursachen in den Mittelpunkt stellt.
+Und das muss es auch. Mit dem Breitenrollout von CROSS.Controlling.Service erfolgt auch die längst fällige Totalablöse der bisherigen CROSS-Reports und damit auch der Schwenk weg von der Datenflut, 
+hin zur <b>klaren</b>, <b>prägnanten</b> und <b>problemlösungsorientierten Managementinformation</b>.</p>
+
+<p>Details zu CROSS.Controlling.Service und zum bevorstehenden Rollout erfahren Sie in den kommenden Newsletter-Ausgaben, 
+direkt von Ihrem CROSS-Berater und bei den CROSS-Anwendertagen 2013.</p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Controlling.Service">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+

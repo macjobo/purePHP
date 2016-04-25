@@ -1,0 +1,61 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Windows 10 Prototyp-Projekt – Druckertreiber-Update – Neues Softwarepaket VW Service Key- Neue Barcodescanner Scanapplikation „EasyScan“ - Update Symantec Antivirus</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+
+<li><div><b>Windows 10 Prototyp Projekt</b><br />
+In diesem Projekt sollen die Einsatzmöglichkeiten von Windows 10 im POCSO Netzwerk geklärt und auch getestet werden. 
+Mit einem Ergebnis kann frühestens Mitte 2016 gerechnet werden.  <br />
+Bitte Beachten Sie: Das Betriebssystem Windows 10 ist für die Werks-Systeme und die Systeme der Porsche Informatik nicht freigegeben. 
+Das aktuellste in vollem Umfang freigegebene Betriebssystem ist Windows 7, 64Bit.
+
+ </div></li>
+
+
+
+
+<li><div>
+<b>Drucker: Treiberupdate im POCSO Netzwerk</b><br />
+Mit Windows Server 2012 haben wir neue Druckertreiber für unsere Lexmark und Zebra-Drucker in Einsatz gebracht. 
+Nun beginnt auch die Umstellung bei den Betrieben mit Windows Server 2008. Bei den noch verbleibenden Windows Server 2003 Betrieben wird dies 
+erst im Zuge des Servertausches durchgeführt.
+
+</div></li>
+
+<li><div>
+<b>SW Paket: Volkswagen Service Key Vers.2.5.4.3_AG</b><br />
+Alle Jahre wieder gibt es mit Anfang Dezember einen neue Version vom Service Key.
+</div></li>
+
+<li><div>
+<b>Barcodescanner: Neue Applikation "EasyScan"</b><br />
+Porsche Informatik entwickelte gemeinsam mit der Firma Würth eine neue Applikation für vorhandene WLAN Barcode Scanner (ausgenommen Modell „Memor“) 
+im Teilebereich die es ermöglicht, Würth Artikel mit Barcode einzuscannen und anschließend die Bestellung an EASY zu übertragen. 
+Diese Applikation wurde auch auf allen geeigneten Barcodescannern installiert. Sollten Sie Fragen zur Funktion der Würth–Scan-Applikation haben, 
+wenden Sie sich bitte an die Würth ebusiness Hotline (Tel. +43 5 08242 8484 bzw. ebusinesshotline@wuerth.at) oder 
+an Herrn Mario Kaiserainer (Tel. +43 5 08242 2289 bzw. Mario.Kaiserainer@wuerth.at).
+</div></li>
+
+<li><div>
+<b>Server: Update Symantec AntiVirus Vers.12.1.6318_AG 1.0 </b><br />
+Es wurden auf allen POCSO Servern mit Windows Server 2008 und 2012 die aktuelle Symantec Endpoint Protection Version installiert. 
+Bei den noch verbleibenden Windows Server 2003 Betrieben wird dies erst im Zuge des Servertausches durchgeführt.
+</div></li>
+
+
+
+</ul>
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

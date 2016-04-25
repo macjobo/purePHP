@@ -1,0 +1,83 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>SAP: Neuer ermäßigter Steuersatz</h1>
+<h2>Das Steuerreformpaket bringt für 2016 eine nicht unwesentliche Änderung im Umsatzsteuergesetz.</h2>
+
+<img src="images/bild_mab.jpg" width="190" height="120" title="Steuersätze" />
+
+
+
+<p>
+Mit Jänner 2016 gibt es eine Erhöhung des (ermäßigten) Steuersatzes auf <b>13 % für bestimmte Umsätze</b>. 
+Nachfolgend ein Auszug aus der Homepage des Bundesministeriums für Finanzen - keine taxative Auflistung:
+</p>
+
+<ul>
+
+<li><div>Lieferungen und die Einfuhr von Gegenständen wie beispielsweise lebende Tiere und Pflanzen, Blumen, Futtermittel
+</div></li>
+
+<li><div>Einfuhr von Kunstgegenständen, Sammlungsstücken, etc.
+</div></li>
+
+<li><div>Lieferungen von Kunstgegenständen durch Urheber, Rechtsnachfolger, Wiederverkäufer
+</div></li>
+
+<li><div>Schwimmbäder und Thermalbehandlungen
+</div></li>
+
+<li><div>Film- und Zirkusvorführungen sowie Schausteller
+</div></li>
+
+<li><div>Personenbeförderung mit Luftverkehrsfahrzeugen
+</div></li>
+
+<li><div>Wein ab Hof
+</div></li>
+
+<li><div>Eintrittsberechtigungen zu sportlichen Veranstaltungen
+</div></li>
+
+</ul>
+
+
+<p>
+Sollten Sie eine vollständige Übersicht benötigen, wenden Sie sich bitte an Ihren Steuerberater.
+</p>
+
+<p>
+Damit Sie diese Änderung in SAP und CROSS abwickeln können, haben wir den neuen, zusätzlichen Steuersatz eingepflegt.<br />
+In CROSS steht Ihnen mit Anfang 2016 der Steuersatz 13 % in den Steuerlichen Behandlungen <b>"Steuerpflichtiger Einkauf"</b> und <b>"Steuerpflichtiger Verkauf"</b> 
+zur Verfügung.
+</p>
+
+<p>Im SAP wurden 3 neue Steuercodes angelegt:</p>
+<ul>
+<li><div>13 = Vorsteuer 13%
+</div></li>
+
+<li><div>M3 = Mehrwertsteuer 13%
+</div></li>
+
+<li><div>E3 = Ig. Erwerb 13%
+</div></li>
+</ul>
+
+<p>
+Es empfiehlt sich, diese neuen Steuercodes in Ihre <b>persönliche Werteliste in SAP</b> aufzunehmen.
+</p>
+
+<p>
+Im Zuge dieser Erweiterungen wird auch das aus SAP druckbare Formular U30 für die Umsatzsteuervoranmeldung um die Kennziffern für diesen 
+Steuersatz laut Vorlage des Finanzministeriums angepasst.<br />
+Dieses neue Formular sowie die Anpassung der XML-Ausgabe für die Übertragung in FinanzOnline werden rechtzeitig für 
+die Jänner-Meldung zur Verfügung stehen.
+</p>
+
+<p>
+Für weitere Fragen wenden Sie sich bitte an unseren Rechnungswesen-Support.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neuer ermäßigter Umsatzsteuersatz">Barbara Mairer</a><br />
+SAP Consultant</p>

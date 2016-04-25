@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS 2: Schnittstelle zu Euromobil</h1>
+<h2>Mit dem CROSS Release 2.11 stellen wir eine neue Schnittstelle zum Euromobil-Verwaltungsprogramm "MIETE" zur Verfügung.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" alt="Euromobil" />
+
+
+
+
+
+<p>Die Firma Euromobil bietet ihren Vertragspartnern das <b>Verwaltungsprogramm "MIETE"</b> für die Erstellung und Fakturierung von Leihwagen-Mietverträgen an. Über die neu entwickelte Schnittstelle können Sie nun aus dem <b>CROSS-Werkstattplaner</b> Daten wie Adresse des Auftragskunden oder Reparaturtermin an MIETE übergeben. Je nach Organisation können Sie in MIETE auch <b>fakturieren</b> und die Fakturendaten für SAP übernehmen.</p> 
+<!--
+<p>Einmal mehr geht es bei der neuen Schnittstelle darum, die Aufwände für die <b>Erfassung von Daten</b> zu reduzieren und durch den automatischen Transfer der Daten Tippfehler zu vermeiden.</p> --> 	
+
+<p>Die eigentliche <b>Verplanung und Verwaltung</b> der Leihwägen erfolgt in MIETE. Mittels einer zusätzlichen Übertragung können auch die Fahrzeugdaten der in CROSS angelegten <b>Leihwägen</b> an MIETE übermittelt und damit eine weitere Fehlerquelle vermieden werden.</p>
+
+<p>Alle weiteren Informationen zur CROSS-Euromobil-Schnittstelle erhalten Sie direkt bei Herrn Christoph Wolf (<a href="mailto:christoph.wolf@euro-mobil.at">christoph.wolf@euro-mobil.at</a>) von Euromobil.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Schnittstelle zu Euromobil">Christian Witibschlager</a></p>
+
+

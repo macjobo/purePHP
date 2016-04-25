@@ -1,0 +1,44 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Unternehmer-Cockpit: Erfahrungen im Autohof Keglovits</h1>
+<h2>Roman Keglovits, Geschäftsführer des Autohof Keglovits, arbeitet seit einigen Monaten mit dem Unternehmer-Cockpit - Zeit für ein erstes Resümee.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" alt="Vermietung" />
+
+
+<p>Roman Keglovits leitet drei Handels- und Servicebetriebe mit zwei Standorten in Niederösterreich. Seit Mitte Mai hat er das Unternehmer-Cockpit im Einsatz - wir haben ihn zu seinen Erfahrungen damit befragt:</p>
+
+<p><div class="kursiv">
+"Herr Keglovits, Sie nutzen das Unternehmer-Cockpit seit drei Monaten. Was hat sich für Sie geändert?</div><br />
+
+Ich nutze das Unternehmer-Cockpit regelmäßig. Manche Zahlen habe ich früher nicht so genau beachtet. Durch den <b>vereinfachten Zugang</b> über das Unternehmer-Cockpit werte ich diese Informationen jetzt aber wesentlich häufiger aus und hinterfrage sie dann auch bei meinen Mitarbeitern.  Für <b>Teambesprechungen</b> habe ich mir jeweils einen <b>Bericht</b> zusammengestellt und u. A. auch mit Betriebsvergleichsdaten verknüpft. Damit vergrößert sich der Informationsgehalt.</p>
+
+<p><div class="kursiv">Welche Vorteile bringt Ihnen die Lösung?</div><br />
+Ich verfüge über strukturierte Unterlagen für <b>Mitarbeitergespräche</b>, und das ohne großen Vorbereitungsaufwand. Mit Hilfe der Vorjahresvergleiche sehe ich die <b>Trends</b> in den einzelnen Geschäftsfeldern und kann sehr schnell herausarbeiten, wo mögliche <b>Potenziale</b> schlummern, ohne sofort die Buchhaltung damit zu beschäftigen. Mit einer einfachen Umschaltung lassen sich meine beiden Standorte sehr leicht miteinander vergleichen.<br />
+Mit dem Unternehmer-Cockpit konnte ich den <b>Aufwand</b> für das Controlling verringern, weil die Zahlen sehr einfach zu beschaffen sind. Durch die Möglichkeit, <b>neu berechnete Zeilen</b> einzufügen, erhalten die Daten zusätzliche Aussagekraft. Ich kann verschiedene Werte untereinander multiplizieren - z.&nbsp;B. 'offene Stunden x durchschnittlicher Stundensatz = fehlender Erlös aus offenen Stunden'. Das springt viel mehr ins Auge."</p>
+
+<!--
+
+<p><div class="kursiv">Was würden Sie noch besonders dazu anmerken?</div><br />
+Ich strebe jetzt noch an, durch Einsatz des elektronischen Kontoauszugs die <b>Bankbuchungen</b> so zeitnahe wie möglich zu haben.
+Sobald ich die <b>Planwerte</b> erfasst habe, ergibt sich dann ein rundes Bild der Unternehmens-Kennzahlen."</p>
+
+-->
+
+<p>Wenn auch Sie am Einsatz des Unternehmer-Cockpits in Ihrem Betrieb interessiert sind, dann sprechen Sie mit Ihrem Key Account Manager der Porsche Informatik. <a href="http://kb.auto-partner.net/int/hilfe/klbmik.nsf/f9ca8c1665df61b3c1257345002cdb8b/a1493a005b423e7dc12577050029e022?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Nähere Informationen&nbsp;&raquo;</b></a> finden Sie auch in der POI-Infoline.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Erfahrungsbericht Unternehmer-Cockpit">Christian Witibschlager</a><br />
+Key Account Manager Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+

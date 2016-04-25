@@ -1,0 +1,14 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Wartung Hauspositionen</h1>
+<h2>Nutzen Sie die einfachere Wartung Ihrer Hauspositionen, die Ihnen bereits seit CROSS 2.03 zur Verfügung steht.</h2>
+
+
+<p>Bis zur CROSS-Version 2.02 musste bei einer Arbeitsposition jeder Tabellenplatz gewartet sein. Das war bei <b>Hauspositionen</b> umständlich, da neue Tabellenplätze  nachgewartet werden mussten. Je nach Anzahl der Hauspositionen konnte das mit hohem Wartungsaufwand verbunden sein.</p>
+
+<p>Seit CROSS 2.03 haben Sie die Möglichkeit, Hauspositionen so zu warten, dass die Werte (Zeiteinheiten, Verrechnungsatz und ggf. ein Fixpreis) nur ein einziges Mal erfasst werden müssen. Sie sind dann <b>unabhängig vom Tabellenplatz</b> gültig.</p>
+
+<p>Eine detaillierte Beschreibung der <b><a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/334ed78c48d309d1c1257314003100cd?OpenDocument" target="_blank" title="Beschreibung Tabellenplatzwartung der Arbeitspositionen" alt="Beschreibung Tabellenplatzwartung der Arbeitspositionen">Tabellenplatzwartung der Arbeitspositionen</a></b> können Sie in der Porsche Informatik Infoline nachlesen.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Wartung Hauspositionen">Gregor Wagner</a></p>

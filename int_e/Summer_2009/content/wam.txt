@@ -1,0 +1,57 @@
+
+<h1>Service Desk: New search function</h1>
+<h2>A user-friendly search function in the support tool makes it easier to find support queries.</h2>
+
+<p>The new POI Online Support is becoming increasingly popular, and our customers often send us <b>suggestions for improvements</b>. One of these ideas has now been implemented: starting at the end of July we are offering you a new practical option for <a href="index.php?page=bild_wam" title="Screenshot New Search function"><b>&raquo;&nbsp;searching for queries</b></a>.</p>
+
+<p>Via "My console" > "Search parameters" > "Show" you can choose between four display options:
+
+<ul>
+<div><li><b>My Companies Requests </b> - displays all queries of all assigned companies</li></div>
+<div><li><b>My Personal Requests </b> - displays all queries that are assigned to the logged in</li></div>
+<div><li><b>Select Company/User</b> - displays the queries that match a selected company and person</li></div>
+<div><li><b>Search by Request ID</b> -  search via an explicit number (the last digits are enough - INC0000000xxxxx)</li></div>
+</ul> 
+
+</p>
+   
+
+<p>We value your suggestions and feedback; please help us to continue improving our support tool for all users!</p> 
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Service Desk">Markus Watzik</a>
+<br>Team Manager 
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

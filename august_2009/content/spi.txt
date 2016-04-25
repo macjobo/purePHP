@@ -1,0 +1,25 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Sichere Passwörter</h1>
+<h2>Nur durch ein sicheres Passwort können Sie unbefugten Zugriff auf vertrauliche Informationen verhindern.</h2>
+
+<p>Lassen Sie Ihr Fahrrad in der Stadt: a) unverschlossen, b) mit einem zweistelligen Zahlenschloss oder c) mit einem guten Schloss versperrt und fest angehängt stehen? Wenn Sie nur die letzte Frage mit "Ja" beantworten, dann sollten Sie auch ein Passwort verwenden, das den folgenden <b>Kriterien</b> entspricht:</p>
+
+<ul>
+<li><div>Ihr Passwort sollte nicht leicht zu erraten sein. Namen, Kfz-Kennzeichen, Geburtsdatum etc. sind als Passwörter daher ungeeignet.</div></li>
+<li><div>Ihr Passwort sollte aus <b>Groß- und Kleinbuchstaben</b> und mindestens einem <b>Sonderzeichen</b> oder einer <b>Zahl</b> bestehen und <b>mindestens 8 Zeichen</b> lang sein.</div></li>
+<li><div>Ihr Passwort sollte aber auch nicht zu komplizert sein, damit Sie es mit vertretbarem Aufwand auswendig lernen können.</div></li>
+<li><div>Ersetzen Sie voreingestellte Passwörter  durch ein <b>individuelles Passwort</b>.</div></li>
+<li><div>Halten Sie Ihr Passwort <b>geheim</b> (auch vor Kollegen und Vorgesetzten) - es sollte nur Ihnen bekannt sein. Geben Sie Ihr Passwort unbeobachtet ein.</div></li>
+<li><div>Halten Sie Ihr Passwort nach Möglichkeit nicht schriftlich fest. Falls doch, sollte es zumindest so sicher wie eine Kreditkarte oder ein Geldschein aufbewahrt werden.</div></li>
+<li><div>Führen Sie sofort einen <b>Passwortwechsel</b> durch, wenn Ihr Passwort nicht autorisierten Personen bekannt geworden ist oder der Verdacht darauf besteht.</div></li>
+<li><div>Verwenden Sie nach einem Passwortwechsel keine alten Passwörter.</div></li>
+
+</ul>
+
+<p>
+Wenn Sie diese Richtlinien beachten, leisten Sie einen wesentlichen Beitrag zur <b>Datensicherheit</b> in Ihrem Betrieb!</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Passwörter">Anton Spitzer</a></p>
+
+

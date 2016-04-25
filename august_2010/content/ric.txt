@@ -1,0 +1,46 @@
+<h1>CROSS: Änderung Rechnungsbücher mit Release 2.12</h1>
+<h2>Mit dem CROSS Release 2.12 wurden die Rechnungsbücher vereinfacht und die gedruckten Informationen auf die gesetzlich erforderlichen Daten reduziert.</h2>
+
+<img src="images/bild_ric.jpg" width="190" height="120" alt="Änderung Rechnungsbücher" />
+
+<p>Hintergrund für diese Änderung ist, die <b>langfristig</b> im Sinne der BAO aufzubewahrenden Daten (in Österreich sieben Jahre) auf ein Minimum zu reduzieren und die <b>Rechnungsbücher</b> in diesem Zeitraum jederzeit als Ausdruck bzw. Druckvorschau reproduzierbar zu erhalten.</p>
+
+<p>Die Daten, die Sie für <b>kurzfristige Kontrollen</b> benötigen, stellen wir im Detail in einer <b>Buchungsdatenbank</b> zur Verfügung. Für diese Datenbasis haben Sie umfangreiche <b>Auswertungsmöglichkeiten</b>. Oft verwendete Auswertungen können Sie als vorkonfigurierte Listen mit spezifischen Kriterien und Listenspalten speichern und wiederverwenden.</p>
+
+<p>Das Ziel dabei ist, den täglichen automatischen Druck der Buchungsprotokolle einzustellen und die <b>Kontrollprozesse</b> über die Auswertungen aus der Buchungsdatenbank durchzuführen. Wie Sie dabei am besten vorgehen, sehen Sie am Beispiel <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/c58a1477353525a7c125777a003c79e5?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Erstellen von Kontrolllisten für die Abstimmung der Barrechnungen"&nbsp;&raquo;</b></a> in der POI-Infoline.</p>
+
+<p>Sollten Sie den automatischen Druck der <b>CROSS-Buchungsprotokolle</b> am Tagesende deaktivieren wollen, wenden Sie sich bitte an den EDV-Verantwortlichen in Ihrem Betrieb, der die entsprechenden <b>Systemparameter</b> für Sie ändern kann. Die Mitarbeiter des CROSS-Supports unterstützen Sie bei Bedarf ebenfalls und helfen Ihnen auch gerne bei der Umstellung Ihrer kurzfristigen Kontrollprozesse unter Verwendung der CROSS-Buchungsdatenbank. Weitere Details finden Sie in der <b>CROSS-Online-Hilfe</b> im Abschnitt "Auswertung Buchungen".</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Änderung Rechnungsbücher">Günther Richter</a><br />Prozessberatung Einzelhandel</p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

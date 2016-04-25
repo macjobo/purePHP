@@ -1,0 +1,19 @@
+<h1>CROSS: Erfahrungen mit Online-Terminbuchung</h1>
+<h2>Die Tiroler Porsche-Inter-Auto-Betriebe setzen seit einigen Wochen das CROSS-Modul "Werkstatt-Terminbuchung" ein, mit dem Kunden online ihre Werkstatt-Termine einplanen können.</h2>
+
+<img src="images/bild_rar.jpg" width="190" height="120" alt="Online-Terminbuchung" />
+
+
+<p>...</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Online-Terminbuchung">Robert Rauter</a><br />
+Key Account Manager Porsche Inter Auto</p>
+
+
+
+
+
+
+

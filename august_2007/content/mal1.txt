@@ -1,0 +1,21 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Hardware: 2 GB Hauptspeicher für neue PCs</h1>
+<h2>Ab sofort werden alle Desktop- und Notebook-Modelle im POCSO-Standard mit zwei Gigabyte Hauptspeicher ausgeliefert.</h2>
+
+<p>Warum haben wir die Hauptspeicher-Ausstattung auf <b>zwei Gigabyte</b> angepasst?</p>
+<ul>
+<li>Die neuen Desktops und Notebooks sind in der täglichen Arbeit spürbar <b>schneller</b>.</li>
+<li>Neue leistungsfähigere <b>Anwendungen</b> und eine wachsende Anzahl parallel gestarteter Systeme benötigen mehr Speicher.</li>
+<li>Ein Hauptspeicher von 2 GB macht Ihre Geräte <b>zukunftssicher</b>: Softwäreänderungen im Bereich MS Office, ELSA, ETKA, Betriebssystem etc., die für die nächsten Jahre zu erwarten sind, werden damit gut abgedeckt.</li>
+</ul></p>
+
+<p>Zur Erinnerung: Der <b>Mindeststandard</b> für Ihre PC-Arbeitsplätze sind 512 MB Hauptspeicher, wir empfehlen jedoch 1 GB. Wenn Sie gleichzeitig mehr als vier Anwendungen auf Ihrem PC geöffnet haben oder mit der VU2 arbeiten, erhöht sich die Mindestanforderung auf 1 GB.</p>
+<p>Wir empfehlen, Ihre Geräte entsprechend aufzurüsten bzw. zu ersetzen. Welche Arbeitsplätze in Ihrem Unternehmen betroffen sind, kann der Systemverantwortliche an seinem Arbeitsplatz unter <b>"Start > Anwendungen Händler > POCSO Netzwerkübersicht"</b> auswerten. </p>
+
+<p>Für Fragen zur Arbeitsplatzausrüstung mit Hardware und Speichererweiterungen steht Ihnen Frau Alexandra Stöllner von S&T (Tel.: 0662 - 850 285-1515) gerne zur Verfügung. Hardware-Informationen erhalten Sie auch im <a href="http://www.domino.porsche.at/int/db/pub/ehnprod.nsf" title="Mit einem Klick kommen Sie zum e-shop von S&T." target="_blank"><b>e-shop von S&T</b></a> (Benutzer: "Poiprod-VWA", Passwort: "Poiprod-VWA").</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neuer Standard-Client">Friedrich Malle</a></p>
+

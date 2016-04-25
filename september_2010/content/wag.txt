@@ -1,0 +1,43 @@
+<h1>CROSS Tipp: Wartung von "Fahrern"</h1>
+<h2>Mit dem Erfassen von "Fahrern" als Geschäftspartner können Sie viele Geschäftsfälle rascher und reibungsloser abwickeln. </h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Änderung Rechnungsbücher" />
+
+<p>Bereits seit einiger Zeit können Sie in CROSS einen <b>Fahrer</b> erfassen - das ist in erster Linie bei <b>Firmenfahrzeugen</b> relevant. Das Erfassen des Fahrers erleichtert einerseits die Zuordnung von Fahrzeugen in einem <b>Firmenfuhrpark</b>. Zum anderen können damit auf einem Werkstattauftrag die Kontaktdaten des Fahrers (Telefonnummer, E-Mail-Adresse) angedruckt bzw. angezeigt werden - das erleichtert die direkte <b>Kommunikation</b> mit dem Fahrer. Diese Kontaktdaten bleiben gespeichert und ersparen dem Mitarbeiter das permanente Neuerfassen und manuelle Ergänzen auf dem Auftrag.</p>
+
+<p>Auch im neuen <b>CROSS-Mietvertragsmodul</b> spielt der Fahrer eine Rolle: Kommt ein Fahrer mit seinem Firmenfahrzeug z.&nbsp;B. zu einem Service und erhält ein <b>Ersatzfahrzeug</b> zur Verfügung gestellt, dann wird der Fahrer des Firmenfahrzeugs auch als Fahrer des Ersatzfahrzeugs im Mietvertrag vorgeschlagen. Sind die <b>Führerscheindaten</b> einmal erfasst worden, dann müssen sie nicht jedesmal neu im Mietvertrag ergänzt werden, da sie beim Fahrer abgespeichert werden können. </p>
+
+<p>In einer <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/0d17af8fc5a6b2bcc1257799003250bd?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Dokumentation&nbsp;&raquo;</b></a> in der POI-Infoline zeigen wir Ihnen, wie Sie die Fahrerdaten effizient erfassen können, und machen Sie auch mit allen Funktionen der "Fahrer-Verwendung" vertraut.</p>
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Wartung von Fahrerdaten">Gregor Wagner</a><br />CROSS-Fachkoordination</p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

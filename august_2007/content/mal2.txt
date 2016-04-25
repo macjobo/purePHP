@@ -1,0 +1,17 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Infrastruktur: Neues Angebot "A1 Mobiles Breitband"</h1>
+
+<h2>Für Vertragspartner mit POCSO-Netzwerk gibt es ein neues Angebot für "A1 Mobiles Breitband".</h2>
+
+<p>Es freut uns, Ihnen in Zusammenarbeit mit Mobilkom Austria ein verbessertes Angebot für <b>"A1 Mobiles Breitband"</b> anbieten zu können. Das Angebot beinhaltet  Datenvolumen von 300 MB, 1,5 GB oder 5 GB mit <b>bis zu 50% reduzierten A1-Paketpreisen</b> gegenüber dem Listenpreis. Beachten Sie, dass in den Angeboten bereits das SIM-Grundentgelt enthalten ist. Bei einer Neuanmeldung bis 31.12.2007 entfällt das Aktivierungsentgelt.</p>
+
+<p>Porsche-Partnerbetriebe, die ihr bestehendes A1-Mobiles-Breitband-Paket bis 31.8.2007 ummelden (nur gleiche Größe oder Upgrade möglich), erhalten die günstigeren Breitband-Preise <b>rückwirkend</b> mit 1.7.2007.</p>
+
+<p>Detaillierte Informationen über das Angebot erhalten Sie in der Porsche Informatik Infoline im Dokument <a href="http://kb.auto-partner.net/int/hilfe/klbehall.nsf/501818f60553bc16c1256f1700433247/86e65e2393695434c125723a0067ad50?OpenDocument" target="_blank" title="Informationen zu A1 Mobiles Breitband"><b>"A1 Mobiles Breitband - An-/Umeldung für Kunden von Porsche Informatik"</b></a>. Bitte beachten Sie, dass auf POCSO-Notebooks ein Zugang zu Ihrem POCSO-Netzwerk nur in Verbindung mit dem <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/b00d4cf946308426c1256ed9004402bd/c43cceb177282112c12570b90050e700?OpenDocument"target="_blank" title="Informationen und Produktblatt zum POCSO Teleworker"><b>POCSO Teleworker</b></a> möglich ist!</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=A1 Mobiles Breitband">Friedrich Malle</a></p>
+

@@ -1,0 +1,98 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT Infrastructure: Review Workshop</h1>
+<h2>The second international infrastructure workshop was held in Bergheim (by Salzburg, Austria) from  21st to 23rd  September.</h2>
+
+<!-- <img src="../images/bild_klp2.JPG" width="190" height="120" alt="Workshop" /> -->
+
+<a class=grossesbild href="#"><img src="../images/bild_klp2.JPG" width="190" height="120" alt="Workshop" /><span></span></a>
+<p>The <b>high number of participants</b> (26 colleagues from 12 countries) demonstrates that this kind of cooperation and technical exchange is very well received. The strong interest encourages us to continue on this course.</p>
+
+<p>The focus of this workshop were <b>server infrastructure topics</b> (operating system, virtualisation, hardware, etc.). The programme was rounded off with new client/desktop and network developments.</p>
+
+<p>At the next workshop the technical aspects of the presented topics will be looked at in more detail. Your <b>responses to the questionnaire</b> sent out by Andreas Kronberger (Desktop Management) serve as the basis for topic selection.</p>
+
+<div class="tabelle">
+
+<table>
+<tr>
+<th>Questionnaire Desktop Mgmt.</th>
+<th>Group A</th>
+<th>Group B</th>
+<th>Total</th>
+<th>Quota</th>
+<th>Priority</th>
+</tr>
+
+<tr>
+<td>HW/SW-Inventory</td>
+<td>6</td>
+<td>7</td>
+<td>13</td>
+<td>14,6%</td>
+<td>3</td>
+</tr>
+
+
+<tr>
+<td>OS-Deployment</td>
+<td>7</td>
+<td>6</td>
+<td>13</td>
+<td>14,6%</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Software-Delivery</td>
+<td>20</td>
+<td>17</td>
+<td>37</td>
+<td>41,6%</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Remote Control</td>
+<td>7</td>
+<td>14</td>
+<td>21</td>
+<td>23,6%</td>
+<td>2</td>
+</tr>
+
+<tr>
+<td>OS-Patchmgmt.</td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td>1,1%</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Client-Antivirus</td>
+<td>4</td>
+<td></td>
+<td>4</td>
+<td>4,5%</td>
+<td></td>
+</tr>
+</table>
+
+</div> 
+
+<p>We would be delighted to receive suggestions for additional topics from you!</p>
+
+<p>All <b>information and presentations</b> about the workshop topics are available on the POI Infoline via your Partner.Net.</p>
+
+<p>To further enhance the  exchange of information between infrastructure administrators between all countries, we are working on a <b>web-based forum</b>. For more information about this see our next newsletter.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Review Workshop">Barbara Buber</a></p>
+
+
+
+
+
+
+

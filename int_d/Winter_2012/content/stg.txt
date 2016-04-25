@@ -1,0 +1,20 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Telefonie: Konferenzsystem</h1>
+
+<h2>Seit Kurzem stellen wir für Mitarbeiter im Porschehof eine komfortable Möglichkeit zur Planung und Durchführung von Telefonkonferenzen zur Verfügung.</h2>
+
+<img src="images/Konferenzsystem.png" width="300" height="118" alt="Mailbox" />
+
+<p>Mittels des bekannten "Siemens Openscape Webclient" können Sie nach Freischaltung des Services, <b>individuelle Telefonkonferenzen</b> durchführen.
+Sind Einwahlnummer und PIN bekannt, können sich Teilnehmer von jedem beliebigen Telefon aus in Konferenzen einwählen. 
+</p>
+
+<p>Das Porsche-Telefonkonferenzsystem erleichtert die <b>gleichzeitige Kommunikation</b> mit mehreren Kollegen und Geschäftspartnern.</p>
+
+
+ <p>Sollten Sie Interesse am Porsche-Telefonkonferenzsystem haben, wenden Sie sich bitte 
+an den Service Desk der Porsche Informatik.
+</p>
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=Konferenzsystem">Gernot Striednig</a></p>

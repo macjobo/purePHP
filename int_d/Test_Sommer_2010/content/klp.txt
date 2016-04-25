@@ -1,0 +1,44 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Änderung Passwortrichtlinie</h1>
+<h2>Ab 01.08.2010 tritt eine neue Passwortrichtlinie in Kraft!</h2>
+
+<img src="images/bild_klp.jpg" width="190" height="120" alt="Passwortrichtlinie" />
+
+<p>In Abstimmung mit der Konzern-Revision haben wir die <b>Anforderungen</b> an die verwendeten Passwörter angehoben, um dem gestiegenen Sicherheitsbedürfnis besser gerecht zu werden. 
+Mit der neuen Richtlinie soll außerdem die Passwortverwendung innerhalb der Konzernfirmen harmonisiert werden.</p>
+
+
+<p>Die neuen Bestimmungen werden bei der nächsten Änderung Ihres Passworts wirksam, bitte beachten Sie dann folgende Kriterien:</p>
+
+<ul>
+<li><div><b>Passwortlänge:</b> Ihr Passwort muss aus mindestens 6 Stellen bestehen.</div></li>
+<li><div><b>Zusammensetzung:</b> Verwenden Sie eine Kombination aus mindestens 3 der 4 Zeichentypen Großbuchstaben, Kleinbuchstaben, Ziffern und Sonderzeichen. </div></li>
+<li><div><b>Nicht erlaubt</b> sind dabei:<br />
+  
+- Teile des Namens, Vornamens, Benutzernamens (User-ID), Firmennamens<br />
+
+- Wörter, die in einem Wörterbuch zu finden sind (auch, wenn sie rückwärts geschrieben werden)<br />
+
+- Wörter aus Wörterbüchern dürfen auch dann nicht verwendet werden, wenn einzelne Buchstaben durch ähnlich aussehende Ziffern oder Sonderzeichen ersetzt werden (z. B. "B" -> "8", "G" -> "6", etc.)<br />
+
+- Tastatur-Zeichenfolgen (wie z.B. "qwertz", "asdfgh")</div></li>
+<li><div><b>Gültigkeit:</b> Sie können Ihr Passwort täglich selbständig ändern. Nach spätestens 120 Tagen werden Sie automatisch zur Änderung aufgefordert.	</div></li>
+<li><div><b>Wiederverwendung:</b> Eine Wiederverwendung des gleichen Passwortes ist erst nach zehn Änderungen möglich. Zwischen den einzelnen Änderungen muss mindestens 1 Tag liegen.</div></li>
+<li><div><b>Sperre des Benutzers:</b> Nach 5 ungültigen Anmeldeversuchen wird der Benutzer für 15 Minuten gesperrt.
+Jeder ungültige Anmeldeversuch wird protokolliert.</div></li>
+</ul>
+
+<p><b>UNSERE EMPFEHLUNG:</b> Verwenden Sie als Hilfe sogenannte Passphrasen, damit Sie sich Ihr Passwort trotz gestiegener Anforderungen an die Komplexität gut merken können: 
+z. B. Schud7Z! = "Schneewittchen und die 7 Zwerge" oder *APmPsz1f = "Alle Passwörter mit Porsche sind zu einfach" (Achtung: Diese Beispiele nicht verwenden!).</p> 
+
+<p>Für Fragen zu den neuen Passwortrichtlinien wenden Sie sich bitte an Ihren EDV-Koordinator oder an die KollegInnen unseres Service Desks (DW 2222).</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Passwortrichtlinie">Peter Klinger</a></p>
+
+
+
+
+
+

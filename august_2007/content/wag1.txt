@@ -1,0 +1,18 @@
+<h1>CROSS: Aufruf DISS aus CROSS</h1>
+<h2>Beim Aufruf des Werkssystems DISS aus CROSS heraus gibt es einiges zu beachten.</h2>
+
+<p>Mit CROSS 2 wurde die Möglichkeit geschaffen, direkt aus dem CROSS-Auftrag in das <b>Werkssystem DISS</b> zu wechseln. Das Zusammenspiel zwischen CROSS, DISS, ELSA und dem korrekten Aufruf einer <b>technischen Problemlösung</b> (TPL) ist jedoch komplex. Abhängig vom Weg, den Sie dafür wählen, sind bestimmte Zusammenhänge zu beachten.</p>
+<p>Da wir zu diesem Thema bereits mehrfach Anfragen erhalten haben, haben wir die wichtigsten Informationen im kleinen Leitfaden "<b><a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/501818f60553bc16c1256f1700433247/df983a6945727edbc125731600295363?OpenDocument" target="_blank" title="Beschreibung Schnittstelle CROSS - DISS">Schnittstelle CROSS - DISS</a></b>" noch einmal zusammengefasst.
+</p>
+
+
+
+<p>Wenn Sie darüber hinaus noch Fragen zum Aufruf von DISS aus CROSS haben, helfen Ihnen die Mitarbeiter unseres Customer Care Centers gerne weiter.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Aufruf DISS">Gregor Wagner</a></p>
+
+
+
+

@@ -1,0 +1,13 @@
+<h1>CROSS 2: Verknüpfung mit Word-Vorlagen</h1>
+<h2>Seit der CROSS-Version 2.05 können Sie Daten aus CROSS direkt mit einer Word-Vorlage verknüpfen.</h2>
+
+
+<p>Die neue <b>Schaltfläche "Word"</b> finden Sie in CROSS derzeit in der Neu- oder Gebrauchtwagenaktliste, im Neu- oder Gebrauchtwagenakt und im Zusammenhang mit "Werkstatt-Termin@" im Aktionsmenü. Mit einem Klick darauf wird ein Auswahlmenü aufgerufen, aus dem Sie eine vorgefertigte <b>Word-Vorlage</b> auswählen und mit den Daten aus CROSS z. B. zu einem Brief mischen können. Aber auch Anmeldebestätigungen, GW-Laufzettel oder die Faxmeldung für verkaufte Vorführwagen an das Finanzamt lassen sich mit dieser Funktion erstellen.</p>
+<p>Die entsprechenden <b>Vorlagen</b> können Sie nach Ihren Anforderungen selbst gestalten, für "Werkstatt-Termin@" finden Sie fertige Vorlagen im KDServiceNet. Einen <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/501818f60553bc16c1256f1700433247/d9a55c0c5aac9804c125731b0030c399?OpenDocument" target="_blank" title="Leitfaden zum Erstellen von Word-Vorlagen" alt="Leitfaden zum Erstellen von Word-Vorlagen"><b>Leitfaden zum Erstellen von Word-Vorlagen</b></a> finden Sie in der Porsche Informatik Infoline.</p>
+<p>Ein Tipp noch: Speichern Sie Ihre Vorlagen auf einem <b>Netzwerk-Laufwerk</b> (z.B. O:\everyone), dann können auch andere Anwender im Betrieb darauf zugreifen.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Verknüpfung mit Word-Vorlagen">Christian Witibschlager</a></p>
+
+
+

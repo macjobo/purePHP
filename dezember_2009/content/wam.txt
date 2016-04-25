@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Service Desk: Supportzeiten zum Jahreswechsel</h1>
+<h2>Zu Weihnachten und zu Silvester erreichen Sie unseren Service Desk jeweils von 8:00 bis 12:00 Uhr.</h2>
+
+<img src="images/bild_wam.jpg" width="190" height="120" alt="einer exklusiven der Internet-Plattform für die VW/Audi/Seat/Skoda-Organisation" />
+
+<p>Zum heurigen Jahreswechsel steht Ihnen unser Service Desk zu den folgenden Zeiten zur Verfügung:
+
+<ul>
+<li><div>zu <b>Weihnachten</b>, am 24.12.2009, von <b>08:00 bis 12:00 Uhr</b></div></li>
+<li><div>zu <b>Silvester</b>, am 31.12.2009, von <b>08:00 bis 12:00 Uhr</b></div></li>
+
+</ul></p>
+
+<p>An den Wochentagen rund um die Feiertage bieten wir unseren gewohnten Service von 07:00 bis 18:00 Uhr.</p>
+
+
+<p>Bitte kontaktieren Sie uns wie gewohnt telefonisch unter 0662 4670 6280 oder über den <a href="http://support.porscheinformatik.com" target="_blank" title="POI-Online-Support"><b>&raquo; Online-Support</b></a>.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Supportzeiten zum Jahreswechsel">Markus Watzik</a></p>
+

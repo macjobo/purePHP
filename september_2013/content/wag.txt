@@ -1,0 +1,19 @@
+
+<h1>CROSS-Tipp: Teilenummernanlage in CROSS</h1>
+<h2>Bei der Anlage von eigenen Teilenummern sind einige Dinge zu beachten.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" title="Teilenummernanlage in CROSS" />
+
+
+<p>Bei der Neuanlage von <b>Teilenummern in CROSS</b> sind nur wenige Informationen zwingend erforderlich. 
+Diese haben jedoch zum Teil erhebliche Auswirkungen auf die Buchhaltung und auf Auswertungen. </p> <p>Insbesondere die selbständige Anlage von Teilenummern mit der <b>Fabrikatgruppe "V"</b> ist 
+nicht unproblematisch, 
+da diese Teilenummern bei Betrieben, die eine Autopartmeldung verwenden,  einen Eintrag in der Auswertung "Fragliche Sonderaufträge" erzeugen.</p>
+
+
+<p>Eine Checkliste mit Hinweisen, was bei einer Teilenummernanlage zu beachten ist, finden Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/8aef07b4aac4b8aac1257bcd0033ed09?OpenDocument" 
+target="_blank" title="Zur Porsche-Informatik-Infoline">POI-Infoline</a>.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Teilenummernanlage in CROSS">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>

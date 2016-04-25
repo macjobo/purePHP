@@ -1,0 +1,67 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Von den hunderten Änderungen, die wir Woche für Woche in Ihrem Netzwerk durchführen, merken Sie als Anwender meist nichts. Hier der Hinweis auf aktuelle Neuerungen, die sich spürbar auf Ihre tägliche Arbeit mit dem PC auswirken können.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" alt="Neu im Pocso-Netzwerk" />
+
+<ul>
+
+<li><div>Aufgrund von Security-Updates haben wir den <b>Acrobat Reader</b> von Version 8.1.5 auf 8.1.7 angehoben.</div></li>
+
+<li><div> Wir haben die <b>neuen Skoda-Schriftarten</b>, die uns Intercar zur Verfügung gestellt hat, in unser Schriftarten-Installationspaket integriert. Eine allgemeine Verteilung folgt in Kürze.</div></li>
+
+<li><div>Um die EDV-Verantwortlichen der POCSO-Betriebe bei der Installation von zusätzlichem <b>Hauptspeicher</b> für die aktuellen HP-PC-Modelle (DC7900SFF, USDT und 8530P und 6930P Laptop) zu unterstützen, haben wir eine <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/3873a90d457994cec1257345002cdb87/68832747798481c7c125767f003850a8?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Dokumentation&nbsp;&raquo;</b></a> zu diesem Thema erstellt, die Sie in der POI-Infoline aufrufen können. </div></li>
+
+</ul>
+
+
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der POI.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a>
+</p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

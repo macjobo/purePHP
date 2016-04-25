@@ -1,0 +1,41 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Support: Jahresrückblick Client-Team 2014</h1>
+<h2>Um unsere Leistungen besser steuern und messen zu können, setzt auch das Clientteam vermehrt auf Kennzahlen.</h2>
+
+ <img src="images/bild_lo.jpg" width="190" height="120" alt=Jahresrückblick Client-Team" />
+ 
+ 
+<p>Lassen Sie uns anhand einiger <b>Kennzahlen</b> aus dem Jahr 2014 veranschaulichen, wie umfangreich unsere Dienstleistungen in den Bereichen Support, Soft- und Hardware-Auslieferungen sowie Projekte für Sie, unsere Kunden im Porsche-Konzern waren.</p> 
+
+<ul>
+
+<li><div>Anzahl <b>betreute Clients</b> im Konzern in Österreich: 2.142
+</div></li>
+
+<li><div><b>Mobile Endgeräte</b>: 496
+</div></li>
+
+<li><div><b>Software- und Hardwareauslieferungen</b>: 3.259
+</div></li>
+
+<li><div>Abgeschlossene <b>Supporttickets</b>: 6.864
+</div></li>
+
+<li><div>Durchschnittswert <b>Kundenzufriedenheit</b> nach Schulnotensystem: 1,12
+</div></li>
+
+
+
+</ul>
+
+
+<p>Auch den <b>Wechsel von Windows XP auf Windows 7</b> konnten wir erfolgreich und zeitgerecht abschließen. Hier lag Ihre Zufriedenheit mit unserer Leistung bei durchschnittlich 1,28.
+Wir möchten uns auf diesem Weg noch einmal sehr herzlich für Ihre <b>Kooperation</b> bei diesem umfangreichen Umstellungsprojekt bedanken.</p>
+
+
+<a href="mailto:info@porscheinformatik.at ?subjectJahresrückblick Client-Team">Herbert Lohninger</a><br />
+Teamleitung Client Konzern
+</p>
+

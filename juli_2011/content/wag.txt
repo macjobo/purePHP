@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Wartung von Maßeinheiten</h1>
+
+<h2>Eine kurze Anleitung in der Porsche-Informatik-Infoline beschreibt, wie Sie die Maßeinheiten von Ersatzteilen im Teilestamm warten können.</h2>
+
+
+<img src="images/bild_wag.gif" width="190" height="120" alt="Wartung von Maßeinheiten" />
+
+
+<p>Auf den CROSS-Anwendertagen bzw. in den Informationen für die Programmaussendungen haben wir bereits darüber informiert, dass ab CROSS 2.16 die Ersatzteile auf <b>Kundendienstfakturen</b> mit ihrer jeweiligen <b>Maßeinheiten</b> (Stück, Liter, Meter...) angeführt werden.</p> 
+
+<p>Basis dafür ist eine entsprechende <b>Wartung</b> im Teilestamm. Standardmäßig werden Teile mit der Maßeinheit "Stück" initialisiert. Sollte diese Maßeinheit nicht richtig sein, so ist sie <b>manuell</b> im Teilestamm zu ändern. Die Information "Maßeinheit" wird nicht vom Teilevertriebszentrum zur Verfügung gestellt.</p>
+
+<p>Nehmen Sie also bitte die entsprechenden Anpassungen in Ihrem Teilestamm vor. Wie Sie dabei vorgehen, haben wir Ihnen in der kurzen Anleitung <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/491383845dae63f0c12578be00465135?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Ersatzteile - Wartung der Maßeinheiten"&nbsp;&raquo;</b></a> in der Porsche-Informatik-Infoline zur Verfügung gestellt.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Wartung von Maßeinheiten">Gregor Wagner</a><br />
+CROSS-Fachkoordination</p>
+
+
+
+
+

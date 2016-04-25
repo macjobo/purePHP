@@ -1,0 +1,22 @@
+
+
+<div class="umbruch">&nbsp;</div>
+
+<h1>SAP: Änderungen im UVA-Formular</h1>
+
+<h2>Die Kennziffern 27 und 28 müssen nicht mehr gesondert ausgewiesen werden.</h2>
+
+<img src="images/bild_let.jpg" width="190" height="120" title="Änderungen UVA-Formular" />
+
+
+<p>Ab Meldezeitraum Jänner 2014 müssen die <b>Kennziffern 27 und 28</b>, es handelt sich hierbei um statistische Werte zu Vorsteuern aus Fahrzeugen des Anlagevermöges bzw. zu Vorsteuern aus Gebäuden, <b>nicht 
+mehr</b> mit der Umsatzsteuervoranmeldung gesondert ausgewiesen werden.<br />
+Das neue Formular ohne die Kennzahlen 27 und 28 wird Ihnen nach dem 15. Februar 2014 in SAP zur Verfügung stehen, 
+da die Dezember-UVA noch mit diesen Kennziffern zu melden ist.
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Änderungen UVA-Formular">Theresia Lechner</a><br />
+SAP-Beratung und Support</p>
+

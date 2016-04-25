@@ -1,0 +1,11 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Fotoleiter</h1>
+                
+<div class="bild">        
+    
+<img src="images/lo4.jpg" alt="Fotoleiter" title="Fotoleiter" border="0" height="111" width="300">
+      
+</div>                    
+ 
+<p id="zurueck"><a href="index.php?page=lo1">Zurück zum Artikel</a></p>

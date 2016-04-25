@@ -1,0 +1,44 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neue PC-Modelle</h1>
+<h2>Die neuen HP Desktop-Modelle sind verfügbar!</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="HP Desktop" />
+
+
+<p>Ab sofort sind die neuen HP Elitedesk 800 G1 USDT & Tower Modelle verfügbar. 
+Mit diesen Modellen geht der Abschied von Windows XP weiter, sie sind <b>nur mehr mit Windows 7 </b>installierbar!</p>
+
+<p>Diese Modelle zeichnen sich nicht nur durch <b>gesteigerte Leistungsdaten</b> aus, sondern auch durch eine neues <b>elegantes Design</b>. 
+Zudem werden die neuen Modelle nur mehr in 2 Baugruppen angeboten, dem kleinen USDT Modell mit geringer Stellfläche und geringem Stromverbrauch, 
+sowie das erweiterbare Tower Modell für jene, die einen noch stärkeren Intel i-5 Prozessor nutzen oder zusätzliche Komponenten einbauen möchten.</p>
+
+
+
+<p>Weitere Informationen:</p>
+ 
+<ul>
+
+<li><div>
+HP Elitedesk 800 G1 USDT wahlweise mit schnellem <b>Solid-State-Laufwerk (SSD)</b> oder mit <b>herkömmlicher Festplatte</b>.
+
+</div></li>
+
+<li><div>Beim Tower Modell sind 2 Festplatten (genauer eine SSD + eine HDD) verbaut. 
+</div></li>
+
+
+<li><div>
+Die <b>MAC Adresse</b> ist am Rechner auf einem <b>Aufkleber ersichtlich</b> und kann von dort für die Installation vom Rechner verwendet werden.
+</div></li>
+
+
+</ul>
+
+
+<p>Details zu den neuen HP Elitedesk 800 sowie Informationen zum äußerst attraktiven Preis 
+erhalten Sie im e-Shop " von S&T (Benutzer: "900959-VWAprodAT-1", Passwort: "VWAprodAT") im Bereich "Computersysteme / Personal Computer" oder bei Herrn Markus Berghammer 
+von S&T Austria GmbH (Tel.: 0662 850 285-1515).</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue PC-Modelle">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>

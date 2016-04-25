@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+
+
+<h1>Datensicherheit: Anforderungen an den Serverraum</h1>
+<h2>Der Serverraum ist das Nervenzentrum Ihres Unternehmens - ein sensibler Organismus, der mit Sorgfalt gepflegt werden will.</h2>
+
+<p>Wir erwarten uns, dass EDV-Systeme immer funktionieren, bedenken jedoch oft nicht, dass diese auch die richtigen <b>Umfeldbedingungen</b> benötigen, um nicht "krank" zu werden. Ebenso wie der Mensch bekommen auch EDV-Hardware und Zubehör bei übermäßiger Hitze, Staub- oder Magnetfeldbelastung "gesundheitliche" Probleme. </p>
+
+<p>Ihre EDV sollte nicht durch vermeidbare Krankheiten für die tägliche Arbeit ausfallen. Daher haben wir "vorbeugende Maßnahmen" in Form von <b>zwei Infoline-Dokumenten</b> für Sie zusammengestellt:
+
+<ul>
+<li><div><a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/f001ce07db28243fc1257345002cdb93/d59b1ad58c8085b3c1257424002f7e05?OpenDocument" title="POCSO Systemraum Voraussetzungen" target="_blank"><b>"POCSO Systemraum Voraussetzungen"</b></a></div></li>
+<li><div><a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/f001ce07db28243fc1257345002cdb93/b7da09c0a1d1ec28c125742b004291e8?OpenDocument" title="POCSO Handbuch Windows Server Datensicherung" target="_blank"><b>"POCSO Handbuch Windows Server Datensicherung"</b></a></div></li>
+</ul>
+
+Die Anforderungen und Voraussetzungen, die darin beschrieben sind, sollten Sie bitte unbedingt beachten. Sind all diese Punkte erfüllt, haben Sie im Serverumfeld die richtigen Voraussetzungen für einen gesunden, <b>störungsfreien Betrieb</b> der EDV-Anlage in Ihrem Betrieb geschaffen. </p>
+
+<p>Weitere Beratung zu diesem Thema erhalten Sie von einem Techniker der S&T Austria oder Ihrem Key Account Manager der Porsche Informatik.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Anforderungen an den Serverraum">Friedrich Malle</a></p>

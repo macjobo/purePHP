@@ -1,0 +1,62 @@
+<h1>CROSS 2: Vorteile durch CROSS 2</h1>
+<h2>Viele Neuerungen durch CROSS 2 sind gar nicht ausreichend bewusst. Wir fassen Ihnen die bedeutendsten Vorteile der neuen CROSS-Version nochmals zusammen.</h2>
+
+<p>Mit der Umstellung auf CROSS 2 hat sich nicht nur die Gestaltung der Benutzeroberfläche verändert. Viele neue Programmfunktionen und Module waren erst durch die technische Überarbeitung entwickelbar. Wir können hier nicht alle Änderungen aufführen, einige möchten wir dennoch herausheben:
+
+<ul>
+<li><div>
+CROSS 2 ist durch seine neue Technologie wesentlich besser darauf vorbereitet, sich mit <b>Drittsystemen</b> zu verbinden. Bei ETKA und ELSA z.&nbsp;B. wird dazu das Werkssystem <i>DMS Backbone</i> genutzt.
+</div></li>
+<li><div>
+Die <b>integrierte Reifeneinlagerung</b> unterstützt die Werkstattplanung und wird auch im Rahmen der Erinnerungen zum Werkstatt-Termin berücksichtigt.</div></li>
+<li><div>Der <b>formularlose Druck</b> spart durch den Wegfall von vorgedruckten Papiersorten erheblich Kosten.</div></li>
+<li><div>Der <b>GI-Abruf in der Fahrzeugwartung</b> beschleunigt die Neuanlage von Autos, die über die Importeure Porsche Austria, Allmobil und Intercar bezogen wurden. Die Eingabe der Fahrgestellnummer liefert alle Daten inklusive dem richtigen Modellcode.</div></li>
+<li><div>In beinahe jeder <b>Liste</b> können die Spalten und Zeilen umsortiert werden. Die Spalten und Kriterien können in vielen Listen abgespeichert werden.</div></li>
+</ul>
+</p>
+
+<p>Alle Änderungen mit CROSS 2 können Sie in den <b><a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/822ed26260034ebac1257202003ded36?OpenDocument" title="Alle Änderungsbeschreibungen auf eine Blick" target=_blank=>Änderungsbeschreibungen</a></b> in der Porsche Informatik Infoline nachlesen. Sie erreichen diese Seite auch, wenn Sie im CROSS-Menü auf "Hilfe" und anschließend auf "Änderungsbeschreibungen" klicken.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorteile durch CROSS 2">Christian Witibschlager</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

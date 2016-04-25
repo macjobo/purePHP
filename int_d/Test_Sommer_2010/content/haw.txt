@@ -1,0 +1,75 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: officeatwork</h1>
+<h2>"officeatwork", ein Tool zur Verwaltung von Office-Vorlagen, verwaltet zukünftig Ihre Porsche-Konzern-Vorlagen.</h2>
+
+<img src="images/officeatwork.jpg" width="190" height="120" alt="officeatwork" />
+
+<p>Schnell auf Veränderungen zu reagieren und ein einheitliches Corporate Design zu Kunden und Geschäftspartnern sind <b>wesentliche Erfolgsfaktoren</b> im Porsche-Konzern.
+Um diese wichtigen Anforderungen noch besser umsetzen zu können, haben wir eine Software gesucht, die auch im Schriftverkehr diese Voraussetzungen erfüllt. Mit der Schweizer Firma <b>"officeatwork"</b> und deren gleichnamigem Produkt haben wir einen <b>kompetenten Partner</b> gefunden.</p>
+
+<p>In der bisherigen Vorlagenverwaltung musste die Porsche Informatik für sämtliche Konzernfirmen bis zu <b>370 Konzernvorlagen</b> warten und anschließend den Kunden zur Verfügung stellen.</p>
+Mit "officeatwork" verringert sich die Anzahl der <b>Standard-Vorlagen</b> auf nur mehr sechs:
+<ul>
+<li><div>Brief</div></li>
+<li><div>Fax</div></li>
+<li><div>Buchungsanzeige</div></li>
+<li><div>Mitteilung</div></li>
+<li><div>Aktennotiz</div></li>
+<li><div>Leihvertrag</div></li>
+</ul>
+
+
+<p>
+Mit nur zwei zentralen Datenbanken für Benutzer und Firmeninformationen sowie vielen vordefinierten Benutzerfeldern wird ein Porsche-Schriftstück zukünftig <b>modular aufgebaut</b>. Die Grundvorlagen passen sich an die verschiedenen Vorgaben wie Sprache, Niederlassung, Abteilung und Mitarbeiter automatisch an. 
+D. h., dass auf Grund des Standard-Benutzerprofiles eines Mitarbeiters in "officeatwork" bereits alle wichtigen Informationen zum Erstellen eines Briefes zur Verfügung stehen und in das Dokument <b>automatisiert</b> einfließen.
+</p>
+
+
+<p>Nach dem erfolgreichen Einsatz in der Porsche Informatik starten wir <b>ab September</b> mit dem Rollout im Konzern. Sobald die Software für Sie verfügbar ist, erhalten Sie weitere Informationen von uns. 
+</p>
+
+<p>
+<a href="mailto:porsche-informatik@porsche.co.at ?subject=officeatwork">Wolfgang Haring</a> </p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

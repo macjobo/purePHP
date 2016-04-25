@@ -1,0 +1,50 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Lotus Notes: Überfüllte Mailfiles kosten!</h1>
+<h2>"Auch Kleinvieh macht Mist!" - vermeiden Sie unnötige Kosten durch übervolle Mailfiles.</h2>
+
+<img src="images/bild_pri.jpg" width="190" height="120" alt="Überfüllte Mailfiles kosten!" />
+
+
+<p>Die Nutzung Ihres Mailfiles, das Porsche Informatik zur Verfügung stellt, ist bis zu einer <b>Mailfilegröße von 100 MB</b> kostenlos. Wenn Sie diese Grenze überschreiten, so wird pro vollem MB Überschreitung ein Betrag von <b>&euro; 0,15 pro Monat</b> verrechnet.</p>
+
+<p>Der entsprechende Betrag ist auf der Porsche Informatik Monatsrechnung in der <b>Position "Lotus Notes - Mail User"</b> enthalten. Die Detailaufstellung, wer wie viel zu den angelaufenen Kosten beigetragen hat, sehen Sie in den <b>Rechnungsbeilagen</b> im Partner.Net.</p>
+
+<p>Wie können Sie hier unnötige Kosten vermeiden?
+
+<ul>
+
+<li><div>Achten Sie darauf, <b>unwichtige E-Mails</b> zu löschen.
+</div></li>
+
+<li><div><b>Anhänge</b> sollten Sie lösen und am PC oder Netzwerkserver speichern.
+</div></li>
+
+<li><div>Auch der <b>Papierkorb</b> sollte regelmäßig entleert werden.
+
+</div></li>
+
+<li><div>Für das Speichern wichtiger E-Mails empfehlen wir, diese in das <b>Lotus-Notes-Archiv</b> zu verschieben. Eine <a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/b00d4cf946308426c1256ed9004402bd/6fe71f0cb16fcd27c1257096002a245a?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>Anleitung&nbsp;&raquo;</b></a> zur Erstellung eines Archivs und zum Archivieren finden Sie in der Porsche-Informatik-Infoline.</p>
+</div></li>
+
+
+</ul>
+
+
+<p>Darüber hinaus kann der EDV-Verantwortliche Ihres Betriebs im Partner.Net unter "Porsche Informatik" > "Verrechnung" > "Mailfileauswertung" <b>Größenbeschränkungen</b> in MB und <b>Sendebeschränkungen</b> in Prozent setzen. Hat ein Anwender diese Grenze überschritten, kann er E-Mails zwar noch empfangen und versenden, aber nicht mehr abspeichern; auch Kalendereinträge können nicht mehr gesetzt werden.</p>
+
+<p>Bitte bedenken Sie daher die <b>Konsequenzen</b>, falls Sie für die Notes-Anwender im Betrieb Beschränkungen setzen wollen, und informieren Sie Ihre Kollegen über die definierten Beschränkungen.</p>
+
+<p>Bei Fragen zur Verrechnung wenden Sie sich bitte an Ihren Key Account Manager der Porsche Informatik oder an die Mitarbeiterinnen unseres Vertriebsinnendienstes.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Überfüllte Mailfiles kosten!">Nicola Priol</a><br />
+Vertriebsadministration</p>
+
+
+
+
+
+
+

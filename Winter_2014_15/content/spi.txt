@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Infrastruktur: Bewegte Zeiten im IS</h1>
+<h2>Unser Bereich "Infrastructure Services" hat einen bewegten Herbst hinter sich, in dem wir neben unserem Tagesgeschäft einige herausragende Projekte zu stemmen hatten.</h2>
+
+<img src="images/bild_spi.jpg" width="190" height="120" title="Bewegte Zeiten" />
+
+<p>Bereits Anfang Oktober begleiteten die Kollegen unseres Teams umfangreiche Umstellungen und Aufrüstungen im <b>Telefoniebereich</b> von Konzern und TVZ.</p>
+
+<p>Eines der anspruchsvolleren Projekte des heurigen Jahres war dann die <b>Übersiedlung unseres Backup-Rechenzentrums</b> von Bergheim nach Wels, die durch den Umzug der Porsche Informatik nach Salzburg nötig geworden war. Dieses Projekt haben wir Ende Oktober erfolgreich abgeschlossen.</p>
+
+<p>Die <b>Erweiterung des Porschehofs</b> um die beiden Blöcke C und D sowie das <b>neue Bürogebäude im TVZ</b> haben wir durch ein neues Netzwerkkonzept und die entsprechende Umsetzung der Weitverkehrsanbindungen, die Netzwerkausstattung in den Gebäuden sowie die Vorbereitung der einzelnen Übersiedlungen unterstützt.</p> 
+
+<p>Dazu kam noch die <b>Migration von Windows XP auf Windows 7</b> im Einzelhandel und Konzern, die uns ja schon das ganze Jahr über beschäftigt. Die Umstellung von insgesamt über 8000 PCs war ein nicht unerheblicher Aufwand, bedeutet aber, dass wir nach Supportende von Windows XP eine erhebliche (potentielle) Sicherheitslücke geschlossen haben.</p>
+
+<p>Bei allen genannten Projekte haben wir ein Ziel erreicht, das allen unseren Arbeiten zugrunde liegt: Sie, die Anwenderinnen und Anwender, haben so gut wie nichts davon bemerkt. Denn ganz gleich, wie herausfordernd und umfangreich unseren Großprojekte auch sind: Die <b>reibungslose Unterstützung Ihrer täglichen Arbeit</b> darf dadurch nicht beeinträchtigt werden. In diesem Sinne freuen wir uns schon darauf, Sie auch im nächsten Jahr mit unseren "unsichtbaren" Dienstleistungen zu unterstützen.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Bewegte Zeiten">Anton Spitzer</a><br />
+Leitung Infrastructure Services </p>
+
+
+

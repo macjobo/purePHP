@@ -1,0 +1,32 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Ende BlackBerry 5-Geräte</h1>
+<h2>Porsche Informatik stellt die Unterstützung für BlackBerry-Geräte der Modellreihe 5 ein; 
+diese sind mit einem BlackBerry Enterprise Service verbunden, welchen wir per 31.12.2016 einstellen.</h2>
+
+<img src="images/bild_wam3.jpg" width="190" height="120" title="Ende BlackBerry 5-Geräte" />
+
+<p>Aufgrund der Entwicklungen, die BlackBerry in den letzten Monaten genommen hat, stufen wir in diesem Schritt die Modellreihe "BlackBerry 5" 
+als <b>nicht mehr zukunftssicher</b> ein und stellen daher - wie im gesamten Volkswagen Konzern - die Unterstützung dafür <b>per 31.12.2016</b> ein. 
+</p>
+
+<p>Eine Übersicht der BlackBerry-Modelle finden Sie 
+ <a href="http://help.blackberry.com/de/category/devices/" target="_blank" title="help.blackberry.com">hier&nbsp;&raquo;</a>.
+
+ 
+ Die Geräte der Modellreihe 5 befinden sich im Abschnitt "BlackBerry 7 und früher".
+</p>
+
+
+<p>Als <b>Alternative</b> können Sie weiterhin beliebige Geräte über
+<a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/b00d4cf946308426c1256ed9004402bd/111782d927180b12c1257b75002687d0?OpenDocument" target="_blank" title="Zur Porsche Informatik Infoline">den Traveler Service&nbsp;&raquo;</a>
+ verbinden bzw. PIA Betriebe können die freigegebenen Smartphone Modelle für 
+die POCSO Managed.Mobile-Lösung erwerben. Bitte berücksichtigen Sie das Auslaufen der BlackBerry 5-Unterstützung bei Ihrer Investitionsplanung bzw. beim 
+Tausch oder Ersatz von Geräten.
+</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=BlackBerry 5-Unterstützung endet">Markus Watzik</a><br />
+Leitung User Centric Services </p>
+
+
+

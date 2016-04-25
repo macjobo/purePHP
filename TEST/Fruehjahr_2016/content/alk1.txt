@@ -1,0 +1,22 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Support: Wissenswertes zum Gäste-WLAN</h1>
+<h2>Um externen Besuchern einen WLAN-Zugang zu ermöglichen, steht Ihren Gästen die "Porsche Wireless Lounge" zur Verfügung. Lesen Sie, was Sie dazu wissen müssen. </h2>
+
+<img src="images/bild_alk.jpg" width="190" height="120" title="Gäste-WLAN" />
+
+
+<p>Für die Freischaltung bzw. Aktivierung eines WLAN-Zugangs für Ihre Gäste wenden Sie sich bitte direkt an Ihren zuständigen <b>"WLAN-Gäste-Netz-Administrator"</b> oder an den Empfang des Porschehofs bzw. der Porsche Informatik. Eine Liste der Administratoren und ergänzende Informationen zu diesem Thema finden Sie im <b>POCSO-PC-Benutzerhandbuch</b> auf Ihrem PC-Arbeitsplatz.</p>
+
+<p>Freischaltungen für einen <b>längeren Zeitraum</b> oder Sonderanforderungen wie <b>Massenfreischaltungen</b> für Veranstaltungen führt ausschließlich der Service Desk der Porsche Informatik durch.</p>
+
+<p>Längerfristige Freischaltungen sind nur für <b>konzernnahe Personen</b> wie Freelancer, Kooperationspartner oder Kolleginnen und Kollegen aus dem VW-Konzern möglich. Werden diese Zugänge länger als zwei Monate nicht genutzt, so erlöschen sie automatisch.</p> 
+
+<p>Für Anfragen via Online-Support haben wir Ihnen eine <b>Ausfüllhilfe</b> unter dem Business Service <b>"WLAN Konzern Gäste"</b> zur Verfügung gestellt.</p>
+
+<p>Für Fragen zur "Porsche Wireless Lounge" wenden Sie sich bitte an den Service Desk, wir beraten Sie gerne!</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Gäste-WLAN">Michaela Alker</a><br />
+Teamleitung Service Desk</p>
+
+

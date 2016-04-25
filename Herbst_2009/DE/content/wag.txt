@@ -1,0 +1,100 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Infrastruktur: Rückblick Workshop</h1>
+<h2>Vom 21. - 23. September fand der zweite internationale Infrastrukturworkshop in Bergheim bei Salzburg (Österreich) statt.</h2>
+
+<!-- <img src="../images/bild_klp2.JPG" width="190" height="120" alt="Workshop" /> -->
+
+<a class=grossesbild href="#"><img src="../images/bild_klp2.JPG" width="190" height="120" alt="Workshop" /><span></span></a>
+<p>Die <b>hohe Teilnehmerzahl</b> (26 Kolleginnen und Kollegen aus 12 Ländern) hat uns gezeigt, dass diese Art der Zusammenarbeit und des technischen Austausches sehr gut angenommen wird. Das große Interesse bestärkt uns, diesen Weg konsequent weiter zu gehen.</p>
+
+<p>Schwerpunkt dieses Workshops waren Themen rund um <b>Server-Infrastruktur</b> (Betriebssystem, Virtualisierung, Hardware, etc.). Neuigkeiten aus den Bereichen Client/Desktop und Netzwerk rundeten das Programm ab.</p>
+
+<p>Beim nächsten Workshop werden wir noch stärker auf die technischen Details der präsentierten Themen eingehen. Als Basis für die Themenwahl dient das <b>Ergebnis zur Umfrage</b> von Andreas Kronberger (Desktop Management).</p>
+
+<div class="tabelle">
+
+<table>
+<tr>
+<th>Questionnaire Desktop Mgmt.</th>
+<th>Gruppe A</th>
+<th>Gruppe B</th>
+<th>Gesamt</th>
+<th>Quote</th>
+<th>Priorität</th>
+</tr>
+
+<tr>
+<td>HW/SW-Inventory</td>
+<td>6</td>
+<td>7</td>
+<td>13</td>
+<td>14,6%</td>
+<td>3</td>
+</tr>
+
+
+<tr>
+<td>OS-Deployment</td>
+<td>7</td>
+<td>6</td>
+<td>13</td>
+<td>14,6%</td>
+<td>3</td>
+</tr>
+
+<tr>
+<td>Software-Delivery</td>
+<td>20</td>
+<td>17</td>
+<td>37</td>
+<td>41,6%</td>
+<td>1</td>
+</tr>
+
+<tr>
+<td>Remote Control</td>
+<td>7</td>
+<td>14</td>
+<td>21</td>
+<td>23,6%</td>
+<td>2</td>
+</tr>
+
+<tr>
+<td>OS-Patchmgmt.</td>
+<td>1</td>
+<td></td>
+<td>1</td>
+<td>1,1%</td>
+<td></td>
+</tr>
+
+<tr>
+<td>Client-Antivirus</td>
+<td>4</td>
+<td></td>
+<td>4</td>
+<td>4,5%</td>
+<td></td>
+</tr>
+</table>
+
+</div> 
+
+<p>Weitere Themenvorschläge und Anregungen von Ihnen nehmen wir jederzeit gerne entgegen!</p>
+
+<p>Die gesammelten <b>Informationen und Präsentationen</b> zu den Workshop-Themen finden Sie in unserer POI-Infoline über Ihr Partner.Net<b></b>.</p>
+
+<p>Um den Informationsaustausch aller Infrastruktur-Verantwortlichen über alle Länder hinweg zu verbessern, arbeiten wir zudem an einem <b>web-basierten Forum</b>. Mehr Informationen dazu folgen im nächsten Newsletter.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Rückblick Workshop">Barbara Buber</a></p>
+
+
+
+
+
+
+
+
+

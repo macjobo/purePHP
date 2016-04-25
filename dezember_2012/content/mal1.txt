@@ -1,0 +1,36 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Porsche Premium ADSL inkl. POCSO Wireless Lounge</h1>
+
+<h2>Freier WLAN-Internetzugang für Ihre Kunden, aber auch für Geräte im Autohaus, die nicht in Ihr POCSO-Netzwerk integriert sind. </h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="POCSO Wireless Lounge" />
+
+<p>Mit Porsche Premium ADSL in Verbindung mit einem POCSO Wireless LAN schaffen Sie viele <b> neue Nutzungsmöglichkeiten </b> in Ihrem POCSO Netzwerk.</p>
+
+
+<ul>
+
+<li><div><b>Gäste-WLAN für Ihre Kunden:</b> Verkürzen Sie Ihren Kunden die gefühlte Wartezeit. Übermitteln Sie beim Zugriff aufs Internet Werbebotschaften. Sorgen Sie mittels zeitlich begrenzter Zugänge dafür, 
+dass unbefugte Nutzer draußen bleiben und schaffen Sie so im Missbrauchsfall Rechtssicherheit für Ihr Unternehmen. Sie haben jederzeit den Überblick, wer über das Gäste-WLAN surft.</div></li>
+
+<li><div>Firmeneigenes freies WLAN für <b>Geräte außerhalb des POCSO-Netzwerks</b> wie z.B. Lehrlingslaptops, AudaPad Tablets, elektronischer Testbericht auf Tablets oder Smartphones. Weiters ist ein zeitlich unbegrenzter Internetzugang möglich.</div></li>
+
+<li><div>Eine Anbindung für den <b>Audi-3D-Konfigurator</b>, welche die bisherige Datenleitung dafür ersetzt.</div></li>
+<li><div>Porsche Premium ADSL ist für die Nutzung eines <b>weiteren 3D-Car-Konfigurators</b> vorbereitet.</div></li>
+
+<li><div>Die Nutzung der vorhandenen <b>POCSO WLAN Access Points</b> ist möglich.</div></li>
+
+<li><div>Ein <b>sicherer Internetzugang</b> über die Porsche Internet Plattform.</div></li>
+
+</ul>
+
+<p>Alle Informationen zu den Produkten <a href="http://kb.auto-partner.net/int/hilfe/klbpoial.nsf/f9ca8c1665df61b3c1257345002cdb8b/79d25251db02eadac1257a8700308fe9?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>
+"Porsche Premium ADSL inkl. POCSO Wireless Lounge"</b><a/> und zu <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/AllByID/B6BB0B88C33E3007C12573D10050683D?OpenDocument" target="_blank" title=
+"Zur Porsche-Informatik-Infoline"><b>"POCSO WLAN"</b></a> erhalten Sie in der Infoline oder bei Ihrem Key Account Manager der Porsche Informatik.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Porsche Premium ADSL inkl. POCSO Wireless Lounge">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>

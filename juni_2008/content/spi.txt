@@ -1,0 +1,14 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Infrastruktur Services: Rückschau Wartungsfenster</h1>
+<h2>Am Wochenende des 7. Juni haben wir Vorbereitungsarbeiten für unser neues Speichersystem durchgeführt.</h2>
+
+
+<p>Schon wieder ein Wartungsfenster, was macht die Porsche Informatik denn da immer? Diese und ähnliche Fragen hören wir häufig.</p>
+<p>Dieses Mal ging es darum, die Vorbereitungsarbeiten für den Einsatz unseres neuen, zentralen <b>Speichersystems</b> durchzuführen. Um den gesteigerten Anforderungen an Speicherplatz und Performance gerecht zu werden und auch in Zukunft zu kostengünstigen Preisen anbieten zu können, werden wir unsere bisherige IBM-Lösung in den nächsten Monaten durch eine des Anbieters <b>NetApp</b> ersetzen.</p>
+<p>Da dieses System neue, flexiblere Anschlussmöglichkeiten bietet, haben wir am Wochenende des 7. Juni einige <b>Verkabelungsarbeiten</b> vorgenommen. Dieser Eingriff wäre  nicht ohne Systemstillstand möglich gewesen, daher haben wir eines der vorgesehenen Wartungsfenster dafür genutzt. Um die Einschränkungen für Sie aber so gering wie möglich zu halten  - und weil es der Umfang der Arbeiten auch zuließ -, haben wir den Großteil der Aktivitäten am Abend und in der Nacht des Samstags und am Sonntag durchgeführt.</p>
+<p>Damit ist wieder ein Schritt in Richtung <b>Innovation</b> getan! Die Tests des Speichersystems laufen bis jetzt sehr vielversprechend und wir freuen uns schon auf seinen Einsatz.</p>
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Rückschau Wartungsfenster">Anton Spitzer</a></p>
+
+

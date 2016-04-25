@@ -1,0 +1,17 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS Tipp: Mehrzeiliger Rechnungstext</h1>
+<h2>Bei der Rechnungserstellung aus CROSS ist es sehr einfach, für den Ausdruck einen mehrzeiligen Text zu erfassen. </h2>
+
+
+<p>Vordefinierte Optionstexte oder auch Rechnungstexte können in mehrzeiligen Textfeldern erfasst und dementsprechend ausgedruckt werden.
+Hier stoßen wir aber immer wieder auf sehr umständliche Varianten für den <b>Zeilenumbruch</b>, etwa mittels Leerzeichen bis zum Ende des entsprechenden Datenfeldes. Diese bringen am <b>Ausdruck</b> oft nicht das gewünschte Ergebnis: So haben z. B. Leerzeichen in einer Proportionalschrift eine andere Zeichenbreite als ein Buchstabe, ein "W" nimmt am Ausdruck wesentlich mehr Platz ein als ein "I", etc. Daher ist es sehr mühselig, Texte auf diese Weise richtig aufzuteilen.</p>
+
+<p>Die Lösung ist sehr einfach: Schreiben Sie den Text der ersten Zeile fertig und drücken Sie am Zeilenende die <b>Tastenkombination [STRG]-[Enter]</b>. Damit springt der Cursor in die nächste Zeile und Sie können den weiteren Text erfassen.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Mehrzeiliger Rechnungstext">Christian Witibschlager</a></p>
+
+

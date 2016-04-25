@@ -1,0 +1,65 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Hardware: Neue Notebook-Modelle</h1>
+<h2>Die neuen HP EliteBook-Modelle sind ab sofort verfügbar!</h2>
+
+ <img src="images/bild_mal1.jpg" width="190" height="120" alt="Neue Notebook-Modelle" />
+ 
+
+<p>Die neuen <b>EliteBooks 820 G1 und 850 G1</b> zeichnen sich nicht nur durch <b>höhere Leistung</b>, sondern auch durch eine neues <b>elegantes Design</b> aus.</p>
+
+<p>Die Geräte sind um ca. ein Drittel flacher geworden, entsprechend konnte auch ihr Gewicht reduziert werden. Zudem ist bei den neuen Modellen der <b>Energieverbrauch</b> im Vergleich zur Vorgängergeneration nochmals deutlich geringer.</p>
+
+<p>Weitere Informationen zu den neuen Notebooks:</p>
+
+<ul>
+
+<li><div>Das <b>HP EliteBook 850 G1 15,6"</b> gibt es wahlweise mit schnellem Solid-State-Laufwerk (SSD) oder mit herkömmlicher Festplatte sowie mit zwei unterschiedlichen Displayauflösungen.
+</div></li>
+
+<li><div><b>HP EliteBook 820 G1 12,5"</b> und <b>840 G1 14,0"</b> sind für sehr mobile Mitarbeiter ausschließlich mit der schnellen SSD ausgestattet.
+</div></li>
+
+<li><div>Alle Notebook-Modelle können mit derselben <b>Dockingstation</b> betrieben werden. Auch sie wurde gegenüber der bisherigen verkleinert.
+</div></li>
+
+
+
+</ul>
+
+<p>Details zu den neuen HP EliteBooks 820, 840 und 850 erhält der EDV-Koordinator Ihres Bereichs in unserer Lotus-Notes-Bestell-Datenbank "POI Easy".</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue PC-Modelle">Herbert Lohninger</a><br />
+Teamleitung Client Konzern</p>
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

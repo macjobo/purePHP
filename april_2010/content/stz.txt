@@ -1,0 +1,33 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>VU2: Neue Version mit Car Configurator</h1>
+<h2>Highlight der neuen VU-Version 2.45 ist die Einbindung des Internet-Car-Configurators.</h2>
+
+
+<img src="images/bild_stz.jpg" width="190" height="120" alt="Neues Rechenzentrum" />
+
+
+<p>Die neue VU2-Version 2.45 ist bereits bei einigen Betrieben im Testeinsatz. Der Breiteneinsatz wird mit <b>Ende März 2010</b> abgeschlossen sein.</p>
+
+<p>Freuen Sie sich auf ein besonderes Highlight - die neue VU2-Version wird über eine <b>Schnittstelle zum Internet-Car-Configurator</b> für die Marken VW-PKW, VW-LNF, Audi, Skoda und Seat verfügen! Damit haben Sie die Möglichkeit, während eines Verkaufsgespräches Modelle, Farben, Innenausstattungen und Mehrausstattungen zu <b>visualisieren</b>.</p>
+
+
+
+<p>Rufen Sie den Car Configurator direkt in der VU2 auf, konfigurieren Sie das gewünschte Fahrzeug und <b>übernehmen</b> Sie diese Konfiguration in die VU2. Dort können Sie das Angbot um Finanzierung, Rabatte, etc. ergänzen. Auch <b>VU2-Lagerfahrzeuge</b> können Sie auf diesem Weg visualisieren.</p>
+
+<p>Die <b>bildliche Darstellung</b> mit Hilfe des Car Configurators wird Sie dabei unterstützen, die Qualität Ihrer Beratungsgespärche weiter zu steigern.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=VU2 mit Car Configurator">Heinz Strutzmann</a><br />
+Leitung VU2-Entwicklung</p>
+
+
+
+
+
+
+
+
+

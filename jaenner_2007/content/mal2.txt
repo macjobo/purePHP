@@ -1,0 +1,86 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Anwendungen: Status Microsoft- und Adobe-Systeme</h1>
+<h2>Wir informieren Sie über das Vorgehen der Porsche Informatik in Hinblick auf die neuen Microsoft-Anwendungen am Markt und den Acrobat Reader 8:</h2>
+
+<p><b>Microsoft Office 2007</b><br />
+Porsche Informatik unterstützt derzeit die Version MS Office 2000 (Office 2003 wurde nicht eingesetzt). Die neue Version Office 2007 wird ein neues Dateiformat verwenden, das keine 100%ige Abwärtskompatibilität mehr sicherstellt. Daher ist bei vermehrtem Einsatz der Software in Unternehmen außerhalb unserer Organisation mit Problemen bei der Zusammenarbeit zu rechnen. Um dem vorzubauen, starten wir im ersten Quartal 2007 ein Projekt, das den Einsatz von Office 2007 und mögliche Alternativen, etwa Open Office oder Importfilter, klären soll. Mit einer Umstellung im Jahr 2007 ist nicht zu rechnen.</p>
+
+<p><b>Microsoft Windows Vista</b><br />
+Das Thema MS Vista stellen wir hinter Office, da wir beim Betriebssystem mit Windows XP SP2 eine ausgereifte Plattform im Einsatz haben, die keinerlei Risken birgt. Ein frühzeitiger Wechsel auf Vista bringt keinerlei Vorteile. Bei Geräte-Neuauslieferungen ist nicht vor Anfang 2008 mit einem Einsatz von Vista zu rechnen.</p>
+
+<p><b>Acrobat Reader 8</b><br />
+Ein Rollout des Acrobat Reader 8 erfolgt noch im ersten Quartal 2007.</p>
+
+<p><b>Microsoft Internet Explorer 7</b><br />
+Das Rollout des Microsoft Internet Explorer 7 ist - vorbehaltlich erfolgreicher Tests - bis Mitte 2007 geplant.</p>
+
+<p>Ein wichtiger Hinweis für Betriebe mit einem <b>selbst betreuten Netzwerk</b>: Bitte setzen Sie die oben genannten Produkte immer erst ein, wenn diese auch für POCSO freigegeben sind! Erst dann ist garantiert, dass diese Produkte mit der von Porsche Informatik entwickelten Software getestet wurden und unterstützt werden.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Status Microsoft- und Adobe-Systeme">Friedrich Malle</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

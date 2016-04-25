@@ -1,0 +1,31 @@
+
+<h1>CROSS: Neue Großgebinde- (Autopart)Abwicklung</h1>
+
+<h2>Eine neue Abwicklungsempfehlung für einen neuen einheitlichen Standard.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" title="Neue Großgebinde Abwicklung" />
+
+
+<p>In den letzten Jahren gab es eine Reihe von Großgebinde- oder auch Autopart-Abwicklungsempfehlungen. Dies rührt daher, 
+da jede dieser Abwicklungen <b>spezifische Vor-, aber auch Nachteile</b> mit sich brachte.
+Durch eine Änderung im Bereich der Lieferscheinerfassung im CROSS-Release 2.24, in dem bei elektronischen Lieferscheinen keine zusätzlichen Positionen mehr erfasst werden können, 
+wurde die letztgültige Empfehlung der Porsche Informatik obsolet.</p>
+
+<p>Wir haben daher für Sie eine <b>neue Abwicklungsempfehlung</b> ausgearbeitet. Sie soll einen neuen einheitlichen Standard schaffen und zwar unabhängig davon, ob das CROSS-Modul Eingangsrechnungskontrolle 
+verwendet wird oder nicht.
+Dabei sollen möglichst viele Vor- und möglichst wenige Nachteile der bisher erarbeiteten Lösungen vereint werden.</p>
+
+
+
+<p>Sie finden diese Dokumentation wie immer in der 
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/3a87f86f9177b00ac12579ae004d33e0?OpenDocument" 
+target="_blank" title="Zur Porsche-Informatik-Infoline">Porsche Informatik Infoline</a>.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Großgebinde Abwicklung">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+

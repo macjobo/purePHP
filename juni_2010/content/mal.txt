@@ -1,0 +1,72 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Von den hunderten Änderungen, die wir Woche für Woche in Ihrem Netzwerk durchführen, merken Sie als Anwender meist nichts. Hier der Hinweis auf aktuelle Neuerungen, die sich spürbar auf Ihre tägliche Arbeit mit dem PC auswirken können.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" alt="Neu im Pocso-Netzwerk" />
+
+<ul>
+
+<li><div>Seit fast 10 Jahren sind nun in Österreich die <b>ETKA-Server von Lexcom</b> mit dem Server-Betriebssystem Windows 2000 im Einsatz. Nun stellt Lexcom auf <b>Windows Server 2003</b> als Betriebssystem für den ETKA-Server um. Im Zuge dessen ist ein Tausch der Serverplatten erforderlich, den wir technisch gemeinsam mit dem TVZ unterstützen werden. Sie erhalten dazu noch gesonderte Informationen.</div></li>
+
+<li><div>Vom Hersteller gibt es eine <b>neue Version 2.2 der Service-Key-Applikation</b>, die zur Einführung des Audi A1 notwendig ist. In der Erstinstallation ist die neue Version integriert, auf die bestehenden Arbeitsplätze haben wir das Update bereits automatisch eingespielt.</div></li> 
+
+<li><div>Auf allen Arbeitsplätzen, die kein Office-Paket benötigen, werden wir nun Access Runtime 2000 durch die neuere Version <b>Access Runtime 2007</b> ersetzen (wird vor allem für CROSS-Auswertungen benötigt). Im gleichen Schritt installieren wir auch die <b>aktuellen Office-Viewer</b>.</div></li>
+
+<li><div>
+Fallweise gab es bei den neuen HP Laptops 8540p Probleme beim <b>Starten aus der Dockingstation</b>: Der Bildschirm blieb schwarz bzw. kam es zu einem "Blue Screen". Von HP haben wir nun eine Lösung erhalten (neues BIOS, Löschen der COM-Ports aus dem Gerätemanager), die wir Ihnen mittels Software-Paket automatisch eingespielt haben. Das Problem ist nun bei allen betroffenen Anwendern behoben. </div></li>
+
+
+</ul>
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der POI.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

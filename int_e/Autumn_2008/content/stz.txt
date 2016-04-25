@@ -1,0 +1,70 @@
+<div class="umbruch">&nbsp;</div>
+<h1>CROSS 2: Release Meeting</h1>
+<h2>The 25-26th September saw the first in what is to become a regular POI fixture - the CROSS Releases International Meeting.</h2>
+
+<p>The objective of this new regular meeting is to <b>bring together representatives from all of the importers</b> that currently deploy CROSS 2 in their markets, in order to present and discuss the latest developments in CROSS 2. In addition to the latest new features, the most important requirements to be developed and deployed in the forthcoming two releases were presented and discussed.</p>
+
+<p>These included:</p>
+
+<ul>
+<li><b>Cash book: </b> Important extensions and new hardware support for receipt printer, display and cash till.</li>
+<li><b>Audi Service Key:</b> CROSS 2 now supports the Audi Service Key enabling faster retrieval of appointments, faster creation of new orders and vehicles.
+</li>
+<li><b>Damage repair estimate system support:</b> Audapad support already available, Silverdat coming soon.</li>
+</li>
+<li><b>Total outage emergency package:</b> Support for dealers on total and prolonged loss of CROSS services.</li>
+<li><b>APOS Pro:</b> Integration in CROSS</li>
+</ul>
+
+<p>During the meeting in Baden close to Vienna (Austria) <b>common challenges facing many importers </b>were identified and debated. This important information has helped POI understand further how to improve CROSS 2 with common features that provide additional value to all of our customers. We are looking forward to our next CROSS 2 release meeting.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS 2">Mark Barton</a>
+<br>Process Consultant Retail
+</p>  
+
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

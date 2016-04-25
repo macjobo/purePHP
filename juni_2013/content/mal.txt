@@ -1,0 +1,35 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Überarbeitete Dokumentation für WLAN-Barcodescanner - Fernwartung von WLAN-Scannern - Virenschutz für VAS-Geräten als POCSO-Tester</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+<li><div>Wir haben die <b>Dokumentation</b> über die von uns betreuten <b>WLAN-Barcodescanner</b> überarbeitet. Darin finden die EDV-Verantwortlichen der Autohäuser von der Integration bis zu möglichen Problemem alle wichtigen Punkte beschrieben. Betrieben, die den WLAN-Barcode-Scanner einsetzen, senden wir die Beschreibung zu.</div></li>
+
+<li><div> POCSO-WLAN-Barcodescanner sind seit kurzem auch in vollem Umfang fernwartbar: Die MitarbeiterInnen des Service Desk können sich jetzt mittels <b>Fernwartung</b> bis auf die Oberfläche des WLAN-Barcodescanner verbinden und Hilfestellung leisten. Damit ist Ihr Gerät bei Problemen wieder schneller einsatzbereit.</div></li>
+
+
+<li><div>Auf <b>VAS-Geräten</b> ohne Basisschutz durch Symantec Endpoint Protection wird nun vor der Integration ein <b>Virenscan</b> durchgeführt. Viren-Probleme im Zuge der POCSO-Tester-Installation können damit in Zukunft vermieden werden.
+</div></li>
+
+
+
+</ul>
+
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>
+
+
+
+

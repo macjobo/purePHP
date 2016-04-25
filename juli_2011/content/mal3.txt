@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Ende von Office-2000-Installationen</h1>
+<h2>Ab 15. Juli 2011 kann Office 2000 in POCSO-Netzwerken nicht mehr installiert werden.</h2>
+
+<img src="images/bild_mal3.jpg" width="190" height="70" title="Ende MS Office 2000" />
+
+
+
+<p>Über 10 Jahre lang wurde <b>Microsoft Office 2000</b> in POCSO-Netzwerken eingesetzt und war hier ein verlässlicher Partner in der Büroorganisation. Bereits Mitte 2009 hat Microsoft aber die Wartung von Office 2000 <b>eingestellt</b>.</p>
+
+<p>Im POCSO-Netzwerk werden wir Office 2000 daher nur mehr <b>bis 31. Dezember 2011</b> betreuen. Das Produkt kann dann zwar noch weiter eingesetzt bleiben, wird jedoch von uns weder mit neuen Produkten getestet noch am Service Desk unterstützt.</p>
+
+<p>Bitte beachten Sie, dass es bereits <b>ab 15. Juli 2011</b> nicht mehr möglich ist, auf PC-Arbeitsplätzen Office-2000-Installationen vorzunehmen. Das bedeutet, dass bei alten Geräten im Fall von Defekten oder sonstigen Notwendigkeiten nur mehr Office 2007 installiert wird.</p>
+
+<p>Damit in Ihrem Unternehmen kein betreuungsloser Zustand für Microsoft-Office-Produkte eintritt, empfehlen wir Ihnen so rasch wie möglich den <b>Umstieg auf Office 2007.</b> Informationen rund um die <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/f9ca8c1665df61b3c1257345002cdb8b/230ef2dff95eea61c12578ce0028dc6e?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Office-2007-Installation&nbsp;&raquo;</b></a> finden Sie in der POI Infoline.</p>
+
+
+<p>Für Fragen steht Ihnen Ihr Key Account Manager der Porsche Informatik gerne zur Verfügung. Für Lizenzbestellungen wenden Sie sich bitte an Herrn Markus Berghammer von S&T Austria (Tel.: 0662-850285-1515) oder tätigen diese über den <a href="http://www.porscheinformatik.at/poi/ge/kundenbereich/O09800_A_124956262912.html" target="_blank" title="zum e-Shop"><b>e-Shop&nbsp;&raquo;</b></a> von S&T Austria und Porsche Informatik</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Ende MS Office 2000">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>

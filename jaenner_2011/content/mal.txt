@@ -1,0 +1,35 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>POCSO-Kennzahlen für das Jahr 2010 - Neues USV-Modell - Hersteller-Korrektur für Laptop HP 8540p.
+</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+<ul>
+
+<li><div>Ein kurzer Jahresrückblick 2010 mit einigen <b>Kennzahlen zu POCSO</b>: <br />
+Hardware: Wir haben in den POCSO-Netzwerken der Betriebe <b>130 Server</b> ausgetauscht und <b>3700 Computer</b> neu installiert; damit haben wir die POCSO-Netzwerklandschaft auf moderne Füße gestellt. <br />
+Software: Das POCSO-Team hat insgesamt <b>2,9 Millionen einzelne Softwarepakete</b> mit einem Gesamtvolumen von ca. <b>4,5 Terabyte</b> an die PCs und Server verteilt.</div></li>
+
+<li><div>
+Das seit vielen Jahren verwendete <b>Standmodell zur Notstromversorgung Smart-UPS 1500VA</b> der Firma APC ist nicht mehr lieferbar. Ab sofort wird im POCSO-Standard das Nachfolgemodell eingesetzt. <br />Informationen dazu erhalten Sie im <a href="https://domino.porsche.at/int/db/pub/ehnprod.nsf" target="_blank" title="zum e-Shop"><b>e-Shop&nbsp;&raquo;</b></a> von S&T (Benutzer: "Poiprod-VWA", Passwort: "Poiprod-VWA") im Bereich "USV" oder bei Herrn Markus Berghammer von S&T Austria GmbH (Tel.: 0662 - 850 285-1515). <br /> Bitte beachten Sie, dass bei <b>älteren USV-Modellen</b> (4 Jahre und mehr) im Schadensfall eine Reparatur nicht mehr zu empfehlen ist!</div></li> 
+
+<li><div>Von HP gibt es eine <b>neue BIOS-Version für den Laptop 8540p</b>, die die fallweise nach wie vor auftretenden Probleme beim Starten (Bildschirm bleibt schwarz bzw. erzeugt Blue Screen) behebt. Diese Version ist in der Erstinstallation für alle neu zu installierenden Geräte verfügbar, ein Update aller Geräte ist bis Ende Februar geplant.</div></li>
+
+
+</ul>
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der POI.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>
+
+
+
+
+
+
+

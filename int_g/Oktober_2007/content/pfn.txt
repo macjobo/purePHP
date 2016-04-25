@@ -1,0 +1,56 @@
+<div class="umbruch">&nbsp;</div>
+<h1>SPS Rollout: Einsatz in den Balkanländern</h1>
+<h2>SPS erfolgreich in Bulgarien, Mazedonien, dem Kosovo und Serbien eingesetzt</h2>
+
+<p>Im Januar 2007 erfolgte der Startschuss für das Rollout von SPS ("Spare Parts System") in den fünf Balkanländern</p>
+
+<ul>
+<li>Albanien</li>
+<li>Bulgarien</li>
+<li>Kosovo</li>
+<li>Mazedonien</li>
+<li>Serbien</li>
+</ul>
+
+<p>Das System besteht aus einer hochmodularen GUI-Applikation, einem Webfrontend und strukturierten Batch-Applikationen. Es ist <b>die einheitliche Plattform für das Ersatzteilemanagement</b> bei allen konzerneigenen Importeuren im Ausland.
+
+<p>Die <b>Schwerpunkte des Projekts</b> liegen neben der Prozess-Vereinheitlichung vor allem auf den Schnittstellen zu unterschiedlichsten EDV-Systemen sowie auf der Integration in die Systemlandschaft der Porsche Informatik. Damit soll ein zentraler Betrieb der Software als ASP-Lösung ermöglicht werden.</p>
+
+<p>Eine <b>besondere Herausforderung</b> stellen die unterschiedlichsten wirtschaftsrechtlichen Rahmenbedingungen der Märkte dar. Von ihnen hängt ab, welche Prozesse im Standard abgebildet werden können und welche lokalen Anpassungen notwendig sind. Von zentraler Bedeutung ist auch die Sprachunterstützung des Systems, denn in Bulgarien und Mazedonien sind erstmals kyrillische Daten ein Thema für SPS - mit weitreichenden Konsequenzen für alle Prozesse und Schnittstellen.<br>
+Im Rahmen dieses Projekts tritt erstmals auch das Parts Center Budapest als Lieferant im SPS-Umfeld auf, was Abstimmungen und Stammdatenmigrationen erforderlich machte.</p>
+
+<p>Bis Ende August konnten dank des sehr guten Zusammenspiels von Importeuren, POA-Großhandel Ausland, TVZ, PCB und Porsche Informatik bereits die Systeme für Bulgarien, Mazedonien, Kosovo und Serbien planmäßig in Produktivbetrieb gehen. Über diese neuen Systeme wurden seither bereits mehr als 160.000 Ersatzteile bestellt und verrechnet. Der Produktivstart von SPS Albanien und somit der Abschluss dieses Projekts ist für das letzte Quartal 2007 geplant.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SPS">Thomas Pfnuer</a>
+<br>Entwicklung Großhandel
+<br>Porsche Informatik</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

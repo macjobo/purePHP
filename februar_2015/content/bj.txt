@@ -1,0 +1,79 @@
+
+
+<h1>CROSS: Barcode Stempellösung</h1>
+<h2>Die Porsche Informatik Barcode Stempellösung ermöglicht Ihnen und Ihren Mitarbeitern eine effektive Mechaniker Zeitstempelung mit Hilfe von Barcodes.</h2>
+
+<img src="images/bild_bj.jpg" width="190" height="120" title="CROSS.Barcode" />
+
+
+
+<p>
+Ihre Mitarbeiter sparen durch die Barcode Stempellösung nicht nur Zeit bei der Stempelung, es wird auch die Fehlerquelle um ein vielfaches minimiert. 
+Der gesamte Stempelprozess in CROSS wird mit Hilfe von lediglich vier Barcodes abgebildet. Diese innovative Stempellösung ermöglicht <b>Eingaben ohne Verwendung von Maus und Tastatur</b>.
+</p>
+
+<ul>
+
+<li><div><b>
+Voraussetzung für die Stempelung mit Barcode:</b><br />
+
+
+- Empfehlung: Barcode Studio (TEC-IT)<br />
+
+- Empfehlung: USB-Barcodescanner
+
+
+ </div></li>
+
+
+<li><div><b>
+Ablaufbeschreibung der Stempelung mit Barcode:
+</b><br />
+
+- Start des Stempelvorgangs mit Hilfe eines Barcodes<br />
+
+- Scannen der Mechanikernummer (Barcode)<br />
+
+- Scannen der Auftragsnummer (Barcode, der auf dem Auftrag angedruckt wird)<br />
+
+- Beenden des Stempelvorgangs mit Hilfe des Barcodes zur Beendigung des Stempelvorgangs
+
+
+<li><div><b>
+Vorteile der Barcode Stempellösung:
+</b><br />
+
+
+
+- Rasche und einfache Abwicklung der Stempelung (mit Handschuhen, etc.)<br />
+- Verminderung von Stempelfehlern<br />
+- Zeitersparnis durch Verminderung von Stempelkorrekturen<br />
+- Das Barcode-Studio ermöglicht den vielseitigen Einsatz von Barcodes in Ihrem Betrieb, da Sie selbst Barcodes nach Ihren Anforderungen ganz einfach generieren können.
+
+ </div></li>
+  </ul>
+ 
+ <p>
+ Die dafür erforderliche Hardware finden Sie im <a href="http://www.snt.at/eshop" target="_blank" title="zum e-Shop"><b>e-Shop&nbsp;&raquo;</b></a> von S&T (Benutzer: "900959-VWAprodAT-1", Passwort: "VWAprodAT") 
+ im Bereich "POS/Barcodescanner - Handscanner - Kabelgebunden" oder bei Herrn Markus Berghammer von S&T Austria GmbH (Tel.: 0662 - 850 285-1515).
+</p>
+ 
+ 
+<p>
+Bei Interesse wenden Sie sich bitte an Ihren zuständigen Key Account Manger oder CROSS-Berater. 
+Die Bestellung können Sie mittels <b>Produktblatt</b> 
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/dce8df8f1710e0acc1256ed900439554/614845abc5b9f358c125790c0047499a?OpenDocument" target="_blank" 
+title="Zur Porsche-Informatik-Infoline"><b>CROSS.SERVICE.Barcode&nbsp;&raquo;</b></b></a>durchführen. Markieren Sie dabei "Stempeln für Mechaniker" am Bestellblatt.
+</p>
+
+
+
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Barcode">Jakob Bacher</a><br />
+POI PHS CROSS Consulting</p>
+
+

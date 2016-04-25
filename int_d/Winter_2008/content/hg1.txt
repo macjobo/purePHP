@@ -1,0 +1,66 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Lotus Notes: BlackBerry&reg; Enterprise Mobile User</h1>
+<h2>Porsche Informatik bietet den Dienst "BlackBerry&reg Enterprise Mobile User" an, der einen Echtzeit-Datenabgleich zwischen Ihren Lotus-Notes-Daten und Ihrem BlackBerry&reg-Gerät ermöglicht.</h2>
+
+<p>Ein <b>BlackBerry&reg-Gerät</b> vereint die Funktionalitäten eines Handys mit jenen eines Personal Digital Assistant (PDA) und ermöglicht den Zugriff auf Internet und Intranet. </p>
+<p>
+Mit dem <b>BlackBerry&reg Enterprise Mobile User Dienst</b> der Porsche Informatik können Sie:
+
+<ul>
+<li><div>Ihre E-Mails in Echtzeit weltweit empfangen, lesen, bearbeiten und versenden</div>
+</li>
+<li><div>sich Anhänge wie Word-, Excel-, Powerpoint- oder PDF-Dokumente direkt am Gerät anzeigen lassen, diese verändern und wieder versenden</div></li>
+<li><div>Ihre Kalendereinträge mit Ihrem Lotus-Notes-Kalender synchronisieren</div></li>
+<li><div>Ihr Lotus-Notes-Adressbuch synchronisieren</div></li>
+
+</ul></p>
+
+<p>Falls Sie Interesse an dem Produkt haben und gerne Näheres über Kosten und Voraussetzungen erfahren möchten, wenden Sie sich bitte an Ihren EDV-Koordinator oder an das Customer Care Center der Porsche Informatik unter der DW 2222</b>.
+</p>
+
+<!-- <p><b>Hinweis:</b> Ein BlackBerry&reg-Gerät bietet einen Teil der Funktionalitäten einer Vodafone-Karte. Sollten diese ausreichen, bietet sich ein BlackBerry&reg-Gerät als Alternative zu einer Vodafone-Karte an. Ein BlackBerry&reg-Gerät zusätzlich zu einer bestehenden Vodafone-Karte zu erwerben, empfehlen wir aufgrund der anfallenden Grundkosten nicht!</p> -->
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=BlackBerry">Gerlinde Holzschuh</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

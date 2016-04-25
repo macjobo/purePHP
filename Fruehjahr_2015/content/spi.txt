@@ -1,0 +1,30 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Infrastruktur: Neues Gäste-WLAN</h1>
+<h2>Seit kurzem steht den Besuchern im Porsche-Konzern eine verbesserte Version unserer Gäste-WLAN-Lösung zur Verfügung.</h2>
+
+<img src="images/bild_spi.jpg" width="190" height="140" title="Neues Gäste-WLAN" />
+
+<p>Was bietet das neue Gäste-WLAN? Die Lösung stellt nunmehr insgesamt <b>50 Mbit/s Bandbreite</b> zur Verfügung. Damit kann sich der Besucher in sein Heimnetz einwählen (per VPN), Webseiten ansurfen, soziale Netze besuchen und viele andere Dinge mehr.</p>
+
+<p>Die Besucher erhalten sowohl am <b>Empfang</b> als auch in vielen <b>Sekretariaten</b> ein Blatt mit einer Kurzanleitung und den Zugangsdaten.</p>
+
+<p>Das Surfen im Gäste-WLAN ist nicht uneingeschränkt möglich; auch hier werden gewisse Kategorien geblockt (Gewalt, Extremismus, Pornographie, usw.).</p>
+
+<p>Unser Gäste-WLAN ist ausschließlich Besuchern und dienstlichen Mobilgeräten vorbehalten; dienstliche Laptops nutzen ein eigenes WLAN. Mitarbeiter der Porsche Holding können das Gäste-WLAN für ihre <b>privaten Geräte</b> leider nicht nutzen. </p>
+
+
+
+<p>Bitte weisen Sie Ihre Besucher ggf. darauf hin, dass das Gäste-WLAN nur in der Nähe von Besprechungsräumen empfangbar ist, da nur diese mit <b>WLAN-Sendern</b> ausgestattet sind.</p>
+
+<p>Das Gäste-WLAN ist in der Netzwerkpauschale enthalten und wird nicht gesondert verrechnet.</p>
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neues Gäste-WLAN">Anton Spitzer</a><br />
+Leitung Infrastructure Services </p>
+
+
+

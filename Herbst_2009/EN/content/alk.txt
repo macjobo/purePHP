@@ -1,0 +1,20 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>SAP: Switch to Unicode</h1>
+<h2>At the end of October we successfully concluded the switch to Unicode, the second major SAP change of this year.</h2>
+
+<img src="../images/bild_ren.jpg" width="190" height="100" alt="SAP-Logo" />
+
+<p>In June the SAP system was updated to the latest release - ERP 6.0. Over the weekend from the 23rd to the 25th of October there was a further major change to the system: the <b>switch to Unicode</b>, which allows SAP to be displayed in additional languages.</p>
+
+<p>These changes each concerned around <b>800 users in 10 countries</b> and the data of approximately 300 companies! Our comprehensive preparatory tests ensured that both transitions went smoothly and that no problems occurred. In total it took several thousand man-hours to implement the changes.</p>
+
+<p>At this point we would like to thank the users who supported our testing and thereby made a <b>large contribution</b> to the successful implementation of these changes.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SAP: Switch to Unicode">Norbert Reichl</a></p>
+
+
+

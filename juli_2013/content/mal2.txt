@@ -1,0 +1,31 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: Einhaltung der Lizenzbestimmungen</h1>
+
+<h2>Mehrere Lizenzüberprüfungen seit Beginn des Jahres zeigen, wie wichtig es ist, dass wir im Konzern und Sie in Ihrem Netzwerk nur lizenzierte Software verwenden!</h2>
+
+<img src="images/bild_spi.jpg" width="170" height="120" title="IT-Sicherheit" />
+
+
+
+
+
+<p>Porsche Informatik wurde im ersten Halbjahr 2013 drei <b>Lizenzüberprüfungen</b> verschiedener Hersteller unterzogen. Erfreulicherweise wurden dabei, aufgrund sorgsamen Umgangs mit diesem Thema, 
+nur minimale Lizenzverstöße festgestellt.</p>
+
+<p>Gerade deshalb möchten wir aber einmal mehr darauf hinweisen, dass auf den Firmen-PCs und -Laptops ausschließlich <b>lizenzierte Software</b> verwendet werden darf! 
+Lizenzverstöße können - abhängig vom jeweiligen Hersteller - zu erheblichen <b>rückwirkenden Zahlungen</b> führen.</p>
+
+
+<p>Wie die Audits der Hersteller zeigen, ist das auch unbedingt notwendig! Es schützt uns vor Regressansprüchen und lässt 
+uns die <b>Partnerschaften</b> und die <b>Verhandlungen</b> mit den Softwareunternehmen weiterhin auf einer positiven Grundlage gestalten.</p>
+
+<p<Beachten Sie in diesem Zusammenhang auch, dass manche aus dem Internet 
+heruntergeladenen Softwareprogramme bei der Installation auf einem privaten PC als Freeware gelten, bei der Installation auf einem Firmen-PC jedoch kostenpflichtig sind!</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Einhaltung der Lizenzbestimmung">Friedrich Malle</a><br />Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

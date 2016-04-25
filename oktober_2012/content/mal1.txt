@@ -1,0 +1,38 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: EBV-Version 3.6.12</h1>
+
+<h2>In der zweiten Oktoberhälfte wird die neue EBV-Version 3.6.12 in allen POCSO-Netzwerken kostenlos installiert.</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="EBV-Version 3.6.12" />
+
+<p>Seit kurzem steht die neue <b>EBV-Version 3.6.12</b> des Österreichischen Wirtschaftsverlags zur Verfügung, die wir im Zeitraum von 10. - 31. Oktober kostenlos auf Ihre POCSO-Server installieren werden.</p>
+
+
+<p>Das Update wird automatisch in der Nacht am Server durchgeführt. Am Tag darauf werden Sie beim Start des Programms darauf hingewiesen, dass eine neue Version verfügbar ist. Nach Bestätigung dieser Meldung erfolgt die automatische Installation am Arbeitsplatz. Eine detaillierte Anleitung dazu haben wir Ihnen in der Infoline zur Verfügung gestellt: <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/3873a90d457994cec1257345002cdb87/fa0f763a37c57aa1c1257a8500223fe5?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>"Dokumentation EBV 3.6.12-Update"&nbsp;&raquo;</b></a>.</p>
+
+<p>Weitere Informationen zur EBV-Version 3.6 erhalten Sie auf der Internetseite des  <a href="http://www.maengelkatalog.at/ireds-98778.html" target="_blank" title="Zum Österreichischen Wirtschaftsverlag">Österreichischen Wirtschaftsverlags&nbsp;&raquo;</a>.</p>
+
+<p><b>Wichtiger Hinweis:</b><br />Die EBV-Versionen 3.5 und älter werden von POCSO <b>nicht mehr unterstützt</b>. Im Falle eines Datenverlustes, z. B. durch einen Programmabsturz, sind Ihre Gutachtungsdaten unwiederbringlich verloren!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=EBV-Version 3.6.12">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

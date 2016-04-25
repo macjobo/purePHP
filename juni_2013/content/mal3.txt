@@ -1,0 +1,40 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Windows 7 Umstellung</h1>
+<h2>Am 31. Dezember 2014 endet die Unterstützung von Windows XP im POCSO-Netzwerk; planen Sie rechtzeitig die Umstellung Ihrer PC-Arbeitsplätze auf Windows 7!</h2>
+
+<img src="images/bild_mal3.jpg" width="190" height="120" title="Windows 7" />
+
+
+<p>Alle PC-Benutzer, für die seit Juli 2012 ein neues Gerät installiert wurde, nutzen bereits das Betriebssystem Windows 7. Auch PCs, die noch mit Windows XP installiert wurden, aber mit einem <b>Windows-7-Lizenz-Aufkleber</b> von Microsoft versehen sind, können auf das neue Betriebssystem umgestellt werden.</p>
+
+<p>Nutzen Sie diese Möglichkeit: Erstellen Sie ein Ticket am <b>Service Desk</b> der Porsche Informatik; wir werden die Umstellung mit Ihnen durchführen. Oder fordern Sie einen Techniker der S&T Austria Gmbh. an, damit er Sie bei der Umstellung unterstützt.</p>
+
+<p>Vergewissern Sie sich jedoch, dass Ihre <b>Daten gesichert</b> sind (am Besten am Windows-Server) und dass Sie für Software, die Sie <b>selbst installiert</b> haben (etwa auch Druckertreiber für lokale Drucker), eine Windows-7-fähige Version verfügbar haben.</p>
+
+<p>Beachten Sie bitte, dass <b>Windows XP</b> in POCSO-Netzwerken zwar über das Microsoft-Supportende hinaus, jedoch maximal bis zum <b>31. Dezember 2014</b> unterstützt wird. Beginnen Sie also jetzt schon, die Umstellung Ihrer PCs einzuplanen. Wir werden Sie in nächster Zeit laufend über dieses Thema informieren.</p>
+
+<p>In der <b>POCSO-Hardwareübersicht</b> werden wir auch eine Spalte einfügen, aus der Sie erkennen können, welcher Ihrer PCs bereits mit einer Windows-7-Lizenz ausgestattet ist. Ab dem empfohlenen Desktop-Modell <b>HP Elite 8000</b> und Notebook-Modell <b>HP Elitebook xx40p</b> wurden die Geräte bereits mit Lizenz ausgeliefert und können ohne Mehrkosten auf Windows 7 umgestellt werden. Für PCs, die nicht mit einer Windows-7-Lizenz ausgestattet sind, kann diese für Desktop-Modelle ab <b>HP Elite 7900</b> und Notebook-Modelle ab <b>HP Elitebook xx30p</b> nachgekauft werden. Bei älteren Modellen wird Windows 7 nicht mehr installiert.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Windows 7">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+<h1>Archiv </h1>
+
+
+
+<h2>Die Neuigkeiten der Porsche Informatik zum Nachlesen.</h2>
+
+
+<ul> 
+
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/int_d/Sommer_2009/"archiv" target="_blank")>Neuigkeiten der Porsche Informatik Sommer 2009</a>
+ </li> 
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/int_d/Fruehjahr_2009/"archiv" target="_blank")>Neuigkeiten der Porsche Informatik Frühjahr 2009</a>
+ </li> 
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/int_d/Herbst_2008/"archiv" target="_blank")>Neuigkeiten der Porsche Informatik Herbst 2008</a>
+ </li> 
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/int_d/Winter_2008/index.php"archiv" target="_blank")>Neuigkeiten der Porsche Informatik Winter 2008</a>
+ </li>  
+
+    	
+ <li><A HREF="http://newsletter.porscheinformatik.at/int_d/Herbst_2007/index.php"archiv" target="_blank")>Neuigkeiten der Porsche Informatik Herbst 2007</a>
+ </li>  
+ 
+  													
+															
+ </ul>

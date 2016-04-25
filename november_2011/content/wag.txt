@@ -1,0 +1,29 @@
+<h1>CROSS Tipp: Abwicklung Kassabuch</h1>
+<h2>Abweichungen vom definierten Sollprozess für das CROSS-Kassabuch können zu Problemen führen.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Abwicklung Kassabuch" />
+
+<p>Mit der Einführung des CROSS-Release 2.17 kam es zu grundlegenden Veränderungen in der <b>Bedienung des Kassabuchs</b>, die bei vielen Anwendern Fragen ausgelöst haben.</p>
+
+<p>Das CROSS-Kassabuch wurde auf Basis eines definierten <b>Sollprozesses</b> entwickelt. Weichen betriebsspezifische Prozesse stark von diesem Sollprozess ab, dann kann es zu <b>Problemen</b> in der Anwendung kommen. 
+
+
+<p>Wir haben den <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/3c5eaaf6a72e7a42c125793600525d29?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Sollprozess zum CROSS-Kassabuch&nbsp;&raquo;</b></a> nochmals in einer eigenen Dokumentation in der POI-Infoline dargestellt. Anhand dieses Sollprozesses können Sie eventuelle <b>Abweichungen</b> zum Prozess in Ihrem Betrieb überprüfen und bei Problemen gegebenenfalls Anpassungen durchführen. </p>
+
+
+<p>Die <b>Liste "Änderung Zahlungsmittel"</b>, die im Release 2.17 entfernt wurde, werden wir ab dem nächsten CROSS-Release wieder zur Verfügung stellen (ohne die Funktion "Zahlungsmittel ändern"). Sie war die Basis für eine vielgenutzte Auswertung, die wir Ihnen wieder ermöglichen möchten.</p>
+
+<p>Eine optimale Möglichkeit, den Kassiervorgang zeitnah abzuschließen, den Gesamtprozess optimal zu gestalten und damit auch Aufwände und Sucharbeiten am Abend zu reduzieren, stellt der Einsatz der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/ed6ac3d12116c4b0c125756300282343?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>CROSS-Schnittstelle zum Kassensystem&nbsp;&raquo;</b></a> dar. Ihr Key Account Manager berät Sie zu diesem Thema gerne.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Abwicklung Kassabuch">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

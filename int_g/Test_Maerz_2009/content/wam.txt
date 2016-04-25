@@ -1,0 +1,25 @@
+
+<h1>Service Desk: Online Support</h1>
+<h2>Antworten auf die wichtigsten Fragen zum neuen "Porsche Informatik Online Support"!</h2>
+
+<p>Mit 01. Dezember 2008 haben wir Ihnen ein neues Tool zur Erfassung Ihrer Support-Anfragen zur Verfügung gestellt - den neuen <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">&raquo;&nbsp;Online Support</a></b>.</p>
+
+<p>Nach der ersten "Anlaufphase" zeichnen sich einige häufig gestellt Fragen ab, die wir Ihnen hier gerne beantworten:</p>
+
+<p><b>Woran liegt es, wenn meine Stammdaten im Online-Support falsch sind?</b><br />
+Die im <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">&raquo;&nbsp;Online Support</a></b> enthaltenen Stammdaten, wie Name, Telefonnummer oder Emailadresse beziehen wir aus dem Partner.Net, diese Daten werden in Kürze mittels einer Schnittstelle abgeglichen. Sorgen Sie daher bitte für aktuell gehaltene Informationen - näheres kann Ihnen der Partner.Net-Zuständige Ihres Unternehmens beantworten.</p>
+
+<p><b>Was bedeuten die Status-E-Mails zu meiner Anfrage?</b><br />
+Um Sie über den Verlauf Ihrer Anfrage zu informieren, werden aus unserem System E-Mails versendet, welche Ihnen im Betreff den aktuellen Status anzeigen (<i>"Aufgenommen"</i>, <i>"In Bearbeitung"</i>, <i>"Fertiggestellt"</i> oder <i>"Ausstehend"</i>). Der Status <i>"Ausstehend"</i> bedeutet, dass zur weiteren Bearbeitung dieser Anfrage weitere Informationen oder Aktivitäten nötig sind. Details finden Sie in der Statusbegründung, die in einer Legende im E-Mail näher beschrieben ist (Kundenaktion erforderlich, Lieferantenaktion erforderlich, Übergeordnete Störung).</p>
+
+<p><b>Wie kategorisiere ich meine Anfrage?</b><br />
+Um Ihnen das Erstellen einer Anfrage zu erleichtern (<i>"Neue Anforderung erstellen"</i>), finden Sie alle Services und Produkte, die Sie im Einsatz haben, in einem Auswahlmenü des Feldes "Kurzbeschreibung".</p>  
+
+<p><b>Wie arbeite ich mit "Ausfüllhilfen"/Vorlagen?</b><br />
+Um einen effizienten Ablauf zu gewährleisten, haben wir spezifische Vorlagen erstellt, die Sie für Ihre Anfrage auswählen können. Ergänzen Sie bitte alle dort angeführten Eckdaten - mit diesen Angaben können wir sofort mit der Bearbeitung beginnen, ohne Sie nochmals zwecks Rückfrage kontaktieren zu müssen.</p>    
+
+<p>Eine <b><a href="https://domino.auto-partner.net/int/hilfe/klbpoial.nsf/AllByID/C53B977E3A0CD25CC125750C004AD464?OpenDocument" target="_blank" title="detaillierte Anwenderbeschreibung" alt="">&raquo;&nbsp;detaillierte Anwenderbeschreibung</a></b> finden Sie in der Porsche Informatik Infoline. </p> 
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Online Support">Markus Watzik</a>
+<br>Teamleitung Service Desk 
+</p>

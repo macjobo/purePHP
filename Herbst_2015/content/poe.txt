@@ -1,0 +1,62 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Infrastruktur: Neue Fileserverarchivierung - Abschaltung des Archivlaufwerkes I:</h1>
+<h2>Die neue Fileserverarchivierung macht das Archivlaufwerk I: obsolet; es wird Ende des Jahres deaktiviert.</h2>
+
+<img src="images/bild_po.jpg" width="190" height="120" alt="Archivlaufwerkes I:" />
+ 
+
+
+<p>Die Einführung eines neuen Speichersystems vor gut einem Jahr hat es uns ermöglicht, die <b>Archivierung</b> unserer Daten auf dem Fileserver (Laufwerke U:, X:, etc.) wesentlich einfacher und effizienter zu gestalten. Folgende Vorteile bietet die neue Archivlösung:</p>
+
+
+<ul>
+
+<li><div>Die Daten werden <b>automatisch</b> nach vordefinierten Regeln archiviert.
+</div></li>
+
+<li><div>Für den Anwender ist die Archivierung gar <b>nicht sichtbar</b>; der Zugriff auf archivierte Dateien erfolgt nach wie vor über das ursprüngliche Laufwerk.
+</div></li>
+
+<li><div>Die Datenfiles müssen <b>nicht mehr manuell</b> auf das Laufwerk I: verschoben werden.
+</div></li>
+
+
+</ul>
+
+
+<p>Durch den Einsatz des neuen Storage und das neue Archivkonzept konnten wir die <b>Kosten</b> für die Fileserverdaten um etwa <b>50 Prozent</b> reduzieren; wir haben die Verrechnung nach dem neuen Kostenmodell bereits 2014 umgestellt.</p>
+
+<p>Das <b>Archivlaufwerk I:</b> hat somit ausgedient und wird zum Jahresende 2015 <b>abgeschaltet</b>. Sollten Sie noch Daten auf diesem Laufwerk abgelegt haben, bitten wir Sie, diese unbedingt bis Jahresende zu <b>bereinigen</b>: Verschieben Sie sie entweder auf das Ursprungslaufwerk zurück oder löschen Sie nicht mehr benötigte Daten.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Archivlaufwerkes I:">Manfred Pötzelsberger</a><br />
+Controlling Infrastructure Services </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

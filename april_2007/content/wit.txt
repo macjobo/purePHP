@@ -1,0 +1,57 @@
+<h1>CROSS 2: Marktforschungsdaten Seat/Skoda</h1>
+<h2>Nach einer kleinen technisch-organisatorischen Umstellung können nun auch Seat- und Skoda-Betriebe die Martkforschungsdaten an die jeweiligen Importeure übermitteln.</h2>
+
+<p>Damit die Daten auch sicher im Importeurssystem landen, steht Ihnen ab CROSS 2 eine eigene <b>Prüfliste</b> zur Verfügung. Damit können Sie feststellen, ob die Daten auch tatsächlich übertragen wurden. Voraussetzung dafür ist, dass der VU2-Kaufvertrag an CROSS übermittelt und anschließend die Bestellung von dort an das Importeurssystem Carlos übertragen wird.</p>
+<p>Damit haben Sie für die Neuwagen-Abwicklung nur mehr zwei Systeme in Verwendung. Den <b>Kaufvertrag</b> müssen Sie überhaupt nur mehr einmal erfassen, er wird dann automatisch inklusive der soziodemographischen Daten an den Importeur durchgeschleust. Dieselbe Verbindung wird übrigens auch benutzt, um Gebrauchtwagen-Kaufverträge von der VU2 an CROSS zu übermitteln.</p>
+<p>Die Ersparnis mag auf den ersten Blick nicht groß erscheinen, doch sie summiert sich mit jedem Kaufvertrag. Für den Anwender verringert sich die Komplexität, weil eben ein System in der Bestellkette wegfällt. Und mit CROSS bietet sich außerdem ein <b>Controllingsystem</b>, mit dem Sie die einzelnen Geschäfte sofort analysieren können.</p>
+<p>Nach einer kurzen <b>Einschulung</b> in Ihrem Betrieb stehen Ihnen sofort alle Vorzüge dieses Bestellweges zur Verfügung. Für weitere Details kontaktieren Sie bitte Ihren IT- und Organisationsberater der Porsche Informatik.</p>
+
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Soziodemografische Daten">Christian Witibschlager</a></p>
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

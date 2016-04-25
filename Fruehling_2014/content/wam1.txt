@@ -1,0 +1,61 @@
+<h1>Support: Benutzerauthentifizierung</h1>
+<h2>Montag Früh, kurz nach 8 Uhr, Anruf am Service Desk: "Guten Tag, hier spricht Herr X, Leiter der Abteilung Y, bitte setzen Sie mein Windows-Kennwort zurück, ich habe es vergessen." Was tun wir? Können wir sicher sein, dass Herr X derjenige ist, für den er sich ausgibt?</h2>
+
+ <img src="images/bild_wam1.jpg" width="190" height="120" alt="Benutzerauthentifizierung" />
+
+<p>Immer öfter werden unsere Mitarbeiter am Service Desk mit der Herausforderung konfrontiert, Anrufer <b>zweifelsfrei zu identifizieren</b>. Leider sind uns aber nicht alle Kolleginnen und Kollegen im Konzern persönlich bekannt, sodass eine Identifikation über die Stimme nicht immer möglich ist. </p>
+
+<p>Daher sind wir gerade dabei, eine Lösung zu schaffen, mit der die Identität mittels <b>Frage-Antwort-Kombinationen</b> auch am Telefon bestätigt werden kann. Das soll sowohl den Anwendern als auch unseren Service-Desk-Mitarbeitern mehr Sicherheit geben.</p>
+
+<p>Viele Benutzer kennen dieses Verfahren wahrscheinlich bereits von anderen Diensten, z.&nbsp;B. dem Self-Service-Portal für den VPN-Teleworker oder auch von vielen Webseiten, welche anhand einer solchen Abfrage ein vergessenes Passwort zurücksetzen.</p>
+
+<p>Aktuell <b>testen</b> wir die Lösung; in Kürze werden wir mit einer Gruppe von <b>Pilot-Anwendern</b> den ersten Feldversuch starten. Die Lösung soll dann bei sensiblen Anfragen über Telefon (z.&nbsp;B. Kennwort zurücksetzen) eingesetzt werden. Bei schriftlichen Anfragen über den Online-Support identifiziert sich der Benutzer bereits an diesem System, hier kommt es zu keiner weiteren Abfrage.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Benutzerauthentifizierung">Markus Watzik</a><br />
+Leitung User Centric Services</p>
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

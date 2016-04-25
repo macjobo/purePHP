@@ -1,0 +1,45 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Infrastruktur: Porsche High Speed LIC plus</h1>
+<h2>Die ersten Porsche High Speed Datenleitungen wurden installiert, und unsere hohen Erwartungen haben sich voll bestätigt!</h2>
+
+<p>Im Dezember 2006 wurden die ersten neuen <b>Porsche High Speed Datenleitungen</b> mit 2 Mbit/s Bandbreite (ohne Datenmengenbeschränkung) ohne großen technischen Aufwand für die Kunden installiert. Die ersten Eindrücke bestätigen nun die spürbaren <b>Performancesteigerungen</b>, die durch unseren Lieferanten Telekom Austria angekündigt wurden.</p>
+<p>In den Betrieben haben sich der Zugriff auf CROSS RS und SAP, aber auch die Onlineabfragen der VU2 in Verbindung mit CROSS RS wesentlich verbessert. Beim Produktivverkehr im Internet kann eine etwa <b>achtfache Steigerung</b> bei 2 Mbit verzeichnet werden. Der Abruf von Lotus Notes E-Mails und der Zugriff auf das Partner.Net wurden ebenfalls in hohem Ausmaß beschleunigt. Im Zuge des Einsatzes der ersten High Speed Datenleitung wurde auch der gesicherte Internetübergang vom Porsche-Datennetz in das Internet auf <b>100 Mbit/s Datendurchsatz</b> in beide Richtungen erhöht!</p>     
+
+<p>Möchten auch Sie mit High Speed im Datennetz unterwegs sein? Dann bestellen Sie diese Datenleitung mittels <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/9dbd130107d7b3f2c12570a4004de815?OpenDocument" target="_blank" title="Link zum Produktblatt" alt=" Link zum Produktblatt"><b>Produktblatt</b></a> oder kontaktieren Sie Ihren IT- und Organisationsberater der Porsche Informatik.
+</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=High Speed LIC plus">Friedrich Malle</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+<div class="umbruch">&nbsp;</div>
+
+
+
+<h1>IT-Sicherheit: Spear-Phishing-E-Mails</h1>
+<h2>Unsere Organisation ist immer öfter mit mit gezielten betrügerischen E-Mail-Angriffen an ganz bestimmte Personen konfrontiert.</h2>
+
+ <img src="images/bild_mim.jpg" width="140" height="120" alt="Spear-Phishing-E-Mails" />
+ 
+<p><b>"Phishing"-Angriffe</b> haben es mittlerweile zu einer gewissen Bekanntheit gebracht. Banken oder Internet-Provider warnen bereits regelmäßig vor E-Mails, in denen Benutzer aufgefordert werden, Zugangsdaten oder TAN-Codes preiszugeben. 
+<b>"Spear phishing"</b> ("spear": zu Deutsch "Speer") ist eine neue Variante des Phishing, nämlich eine zielgerichtete Attacke gegen eine bestimmte Person.</p> 
+
+<p>Auch unsere Organisation ist immer öfter mit Spear-Phishing-E-Mails konfrontiert. 
+Besorgniserregend dabei ist, dass diese E-Mails <b>zunehmend professioneller</b> werden. Oft ist kaum mehr erkennbar, dass es sich um ein E-Mail mit böser Absicht handelt: Um Authentizität vorzutäuschen, werden vermehrt Logos, Anschriften oder Personennamen unserer Firmen und Partnerorganisationen verwendet.</p>
+
+<p>Was kann ich als Benutzer beachten?</p>
+
+<ul>
+<li><div>Vorsicht walten lassen bei <b>E-Mail-Absenderadressen</b>, da diese sehr leicht gefälscht werden können. Erhöhte Vorsicht bei E-Mails von Unbekannten!</div></li>
+<li><div>Äußerste Skepsis, wenn <b>Benutzername, Passwort, Zugangscodes</b> oder Ähnliches in einem E-Mail abgefragt werden!</div></li>
+<li><div>Niemals <b>Anhänge</b> in E-Mails öffnen oder auf einen Link klicken, wenn man nicht sicher ist, dass das E-Mail aus einer vertrauenswürdigen Quelle stammt - Sie könnten Ihren PC mit Viren oder Trojanern infizieren!</div></li>
+</ul>
+
+<p>Das Einfachste ist, verdächtige E-Mails sofort zu <b>löschen</b>. Sollten Sie aber Spear-Phishing-E-Mails erhalten, deren Form und Erscheinung auf eine sehr professionelle und gezielte Machart schließen lassen, 
+so informieren Sie bitte den Service Desk der Porsche Informatik unter der DW 0662 4670 6280.</p> 
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Spear-Phishing-E-Mails">Marcus Michalek</a><br />
+IT-Sicherheitsbeauftragter</p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

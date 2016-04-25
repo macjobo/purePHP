@@ -1,0 +1,26 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Verhalten am Arbeitsplatz</h1>
+<h2>Daten sind für unsere Firma ein schützenswertes Gut. Damit diese nicht unberechtigterweise verändert oder gelöscht werden, bitten wir Sie folgende Regeln zu beachten:</h2>
+
+<p>
+<ul>
+<li><div>Wenn Sie Ihren Arbeitsplatz verlassen, sperren Sie Ihren PC, indem Sie entweder die Tastenkombination <b>STRG + ALT + ENTF</b> und danach die <b>ENTER-Taste</b> oder gleichzeitig die <b><a href="index.php?page=bild_spi" title="Windows-Taste ">Windows-Taste</a></b> und die <b>L-Taste</b> 
+drücken. Der Zugang zu Ihrem PC ist somit durch Ihr Anmeldepasswort geschützt.</div></li>
+
+<li><div>Hinterlegen Sie Ihr Passwort nicht am Bildschirm, unter der Tastatur oder an anderen einfach zu findenden Stellen. Genauso wenig schützt ein sehr leicht zu erratendes Passwort, auch wenn sich z.B. hinter einer bekannten Automarke noch eine oder mehrere Ziffern befinden (eine Richtlinie zur Vergabe von Passwörtern finden Sie im Org-Handbuch).</div></li>
+<li><div>
+Bei allen mobilen Geräten (PDAs, externen Festplatten, USB-Sticks, aber vor allem bei Notebooks) müssen besondere Vorsichtsmaßnahmen beachtet werden. Eine externe Festplatte - von deren Verwendung wir generell abraten und für die es auch keinen Support gibt - ist schnell entwendet und der (nicht verschlüsselte) Inhalt könnte das eine oder andere Detail bekannt werden lassen, das nicht für Außenstehende gedacht war.</div></li>
+<li><div>Lassen Sie mobile Geräte nicht sichtbar im Auto liegen (Verlust des Versicherungsschutzes!), sondern sperren Sie sie im Kofferraum ein oder nehmen Sie die Geräte am besten mit.</div></li>
+<li><div>VPN-Benutzer sollten den Token/die Smartcard immer getrennt vom Notebook verwahren.</div></li>
+</ul>
+</p>
+
+<p>
+Indem Sie diese einfachen Regeln in Ihrer täglichen Arbeit berücksichtigen, helfen Sie die IT-Sicherheit im Unternehmen entscheidend zu erhöhen!
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=IT-Sicherheit">Anton Spitzer</a></p>
+
+
+

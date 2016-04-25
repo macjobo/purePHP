@@ -1,0 +1,39 @@
+
+
+<h1>CROSS-Serie: Verrechnungsgrad Teil II</h1>
+<h2>Fortsetzung unserer Serie zum Thema "Verrechnungsgrad". Lesen Sie im zweiten Teil was zu tun ist, wenn es keinen Referenz- bzw. tatsächlichen Erlös gibt.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" title="Verrechnungsgrad" />
+
+
+<p>Im ersten Teil der Serie haben wir uns mit der grundsätzlichen Funktionsweise des Verrechnungsgrades 
+auseinandergesetzt. Dabei haben wir erfahren, dass einem <b>tatsächlichen Erlös</b> immer ein <b>Referenzerlös gegenübergestellt</b> und das Verhältnis der beiden berechnet wird.</p>
+
+<p>Doch was tut man, wenn es keinen Referenz- beziehungsweise tatsächlichen Erlös gibt? In manchen Fällen entsteht das mathematische Problem, dass eine <b>Zahl durch "0" dividiert</b> 
+werden müsste und es für diese Rechenoperation <b>kein Ergebnis</b> gibt.</p>
+
+<p>Die Lösung für dieses Problem heißt "<b>Sonderverrechnungssatzkennzeichen</b>". Welche es gibt, was diese bedeuten und noch wichtiger - welche Maßnahmen Sie daraus ableiten sollten, 
+lesen Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/12DEE73F261C9792C1257B390055ED6C?OpenDocument" target="_blank" 
+title="Zur Porsche-Informatik-Infoline">&nbsp;&raquo;Porsche Informatik-Infoline</a> in unserem neuen Beitrag zur Serie "Verrechnungsgrad"</a>.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Verrechnungsgrad">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+

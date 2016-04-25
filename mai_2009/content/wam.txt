@@ -1,0 +1,64 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Service Desk: Erfahrungen mit neuem Support-Tool</h1>
+<h2>Ein erstes Fazit zu den Neuerungen im Support nach fünf Monaten Laufzeit.</h2>
+
+<p>Wie mehrfach <a href="http://newsletter.porscheinformatik.at/dezember_2008/index.php?page=wam2" target="_blank" title="zum Dezember-Newsletter"><b>&raquo; berichtet</b></a>, unterstützt nun eine <b>standardisierte Softwareapplikation</b> unseren gewachsenen Aufgabenbereich am Service Desk.</p>
+
+<p>Der neue POI-Online-Support wird rege genutzt. So hat sich der Anteil der "online" erstellten Anfragen gegenüber dem Vorsystem von 28 auf <b>35 Prozent</b> erhöht. Die  Anfragen verteilten sich dabei auf 
+<ul>
+<li><div>60 Prozent <b>fachliche Anfragen</b></div></li>
+<li><div>25 Prozent <b>Störungsmeldungen</b></div></li>
+<li><div> und 15 Prozent automatisch generierte Tickets aus unserer <b>Systemüberwachung</b>. Sie betreffen Störungen, die wir dann meist lösen können, noch bevor Sie Ihre Arbeit beeinträchtigen.</div></li>
+</ul>
+
+Die <b>Erstlösungsrate</b> im Service Desk lag bei guten <b>32 Prozent</b> und die <b>durchschnittliche Wartedauer</b> am Telefon  hat sich - nach einer kurzfristigen Erhöhung in den Umstellungsmonaten Dezember und Jänner - seit Februar wieder auf ein Normalmaß von durchschnittlich <b>13 Sekunden</b> eingependelt.</p>
+
+<p>Dank Ihrer Anregungen und Rückmeldungen haben wir <b>neue Anfrage-Vorlagen</b> (wie z.&nbsp;B. "Anlage neuer Notes-Benutzer") zur Verfügung gestellt und eine Lösung für Anwender mit mehreren Firmenzuordnungen implementiert.</p>
+
+<p>Bitte beachten Sie, dass Personendaten im Support-Tool - z.&nbsp;B. <b>Telefonnummer</b> oder <b>E-Mail-Adresse</b> - aus dem <b>Partner.Net</b> bezogen werden. Stellen Sie bitte auch in Ihrem eigenen Interesse sicher, dass diese Daten <b>aktuell</b> gehalten werden.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Service Desk">Markus Watzik</a>
+</p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

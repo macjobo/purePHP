@@ -1,0 +1,11 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Anforderungsdatenbank</h1>
+                
+<div class="bild">        
+    
+<img src="images/DB1.bmp" alt="Anforderungsdatenbank" title="Anforderungsdatenbank" border="0" height="403" width="544">
+      
+</div>                    
+ 
+<p id="zurueck"><a href="index.php?page=neub">Zurück zum Artikel</a></p>

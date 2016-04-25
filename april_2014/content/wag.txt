@@ -1,0 +1,32 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Semperit-Reifenpreisliste</h1>
+<h2>Schon bald geht die Winterreifenpflicht zu Ende und die Sommerreifensaison beginnt. Haben Sie schon mit den Vorbereitungsarbeiten begonnen?</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" title="Semperit-Reifenpreisliste" />
+
+
+<p>Aus CROSS-Sicht kann das bedeuten...</p>
+
+<p>...Reifen mit Mängel zu <b>selektieren</b> und spezielle Angebote per <b>Serienbriefschreibung</b> zu erstellen. 
+Lesen Sie dazu unseren Infolineartikel <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/3DD43059B2488F28C125735300424633?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">"Beschreibung Einlagerungsprogramm - Selektionsvorschläge"&nbsp;&raquo;</a>.</p>
+
+<p>...die <b>Semperit/Continental-Reifenpreisliste</b> zu nutzen. Sie ersparen sich dadurch die Wartung der Reifenkennzeichnungswerte.
+Lesen Sie dazu unseren Infolineartikel 
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/C0F67D18F3E09137C1257A9B004E2A4C?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">"Reifenpreisliste für Semperit und Continental aktivieren"&nbsp;&raquo;</a>.</p>
+
+<p>...erhöhen Sie die Sicherheit im Umgang mit dem CROSS Modul CROSS.Service.Einlagerung und besuchen Sie 
+das <b>CROSS Reifenmanagement</b> <b>Seminar am 8. April 2014</b> in Wien. Anmeldung wie gewohnt im <a href="http://www.auto-partner.net" target="_blank" title="Zum Partner.Net">&raquo;&nbsp;Partner.Net</a>
+(> Reiter "Home" > Abschnitt "Training & Events" > Kursangebot > Gliederung nach Fachgebiet > Porsche Informatik > CROSS-Seminare > CROSS Reifenmanagement).</p>
+
+
+
+<p>Wir wünschen auf alle Fälle einen erfolgreichen Start in die Sommersaison!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS Tipp: Semperit-Reifenpreisliste">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+ 

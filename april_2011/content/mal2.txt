@@ -1,0 +1,31 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neuer Farblaserdrucker von Lexmark </h1>
+
+
+<h2>Mit dem neuen Lexmark-Farblaserdrucker C792de haben wir ein Gerät in den POCSO-Standard aufgenommen, das allen Ansprüchen an hochwertigen Farbdruck gerecht wird.</h2>
+
+<img src="images/bild_mal2.jpg" width="190" height="120" title="Lexmark-Farblaserdrucker" />
+
+
+<p>Der neue <b>Lexmark C792de</b> wurde speziell für mittlere und größere Arbeitsgruppen entwickelt. Professioneller Druck in <b>brillanten Farben</b> und auf einer Vielzahl <b>unterschiedlicher Medien</b> ermöglicht Ihnen, einen Großteil Ihrer Druckaufträge intern zu erledigen. Dank der fortschrittlichen Farb-Lasertechnologie erhalten Sie ausgezeichnete und konsistente Farbqualität von der ersten bis zur letzten Seite.</p>
+
+Die <b>Qualitätsmerkmale</b> des Lexmark C792de im Detail:
+
+<ul>
+<li><div>Stabiles neues Design</div></li>
+<li><div>Intuitive Erledigung Ihrer Aufgaben dank 10,9 cm großem Farb-Touchscreen mit taktiler und akustischer Rückmeldung</div></li>
+<li><div>Lexmark Druckkassetten mit sehr hoher Kapazität verfügbar; Leistung bis zu 20.000 Seiten</div></li>
+<li><div>Druck- und Duplex-Druckgeschwindigkeit von 47 Seiten pro Minute in Schwarz und in Farbe </div></li>
+<li><div>PANTONE-Kalibrierung für konsistente Farbtöne</div></li>
+<li><div>Farbersetzung für einfachen Farbabgleich</div></li>
+<li><div>Lexmark Color-Care-Technologie zur Steuerung des Farbverbrauchs und Kontrolle der Kosten</div></li>
+<li><div>Instant-Warm-up-Fuser zur Verringerung des Stromverbrauchs und für einen schnelleren Druckbeginn</div></li>
+</ul>
+
+Details zum Lexmark C792de sowie Preisinformationen erhalten Sie im <a href="https://domino.porsche.at/int/db/pub/ehnprod.nsf" target="_blank" title="zum e-Shop"><b>e-Shop&nbsp;&raquo;</b></a> von S&T (Benutzer: "Poiprod-VWA", Passwort: "Poiprod-VWA") im Bereich "Drucker" oder bei Herrn Markus Berghammer von S&T Austria GmbH (Tel.: 0662 - 850 285-1515).
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Lexmark-Farblaserdrucker">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>

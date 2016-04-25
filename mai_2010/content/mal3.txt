@@ -1,0 +1,68 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Standard-Client-Update 2010</h1>
+<h2>Ab Mitte Juni 2010 wird im Rahmen eines Breitenrollouts der neue POCSO-Client-Standard auf allen POCSO-Arbeitsplätzen verteilt.</h2>
+
+<img src="images/bild_mal3.jpg" width="190" height="120" alt="POCSO: Standard-Client-Update 2010" />
+
+<p>Mit diesem kostenlosen Update werden speziell folgende Produkte aktualisiert:</p>
+<ul>
+<li><div><b>Lotus Notes</b> auf Version 8.5.1</div></li>
+<li><div><b>Internet Explorer</b> auf Version 8 (bei Betrieben ohne ELSAPro-Anbindung)</div></li>
+<li><div><b>Symantec Endpoint Protection</b> auf Version 11 MR5 (schon bei vielen Betrieben im Einsatz)</div></li>
+</ul>
+
+<p>Vorteile dieser Softwareapplikationen sind vor allem eine bessere Benutzerfreundlichkeit und Sicherheitsaspekte. <a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/908bd2982511c66dc1256ed90043a774/0864d7e5bfcd5568c12576da00490c5f?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Details zur neuen Lotus-Notes-Applikation&nbsp;&raquo;</b></a> finden Sie in der POI-Infoline.</p>
+
+<p>Achten Sie bitte auf die Aktualität Ihrer <b>PC-Hardware</b>, da durch die neuen Applikationen speziell bei alten Geräten merkbare Performancebeeinträchtigungen auftreten können.
+</p>
+<p>Zur Abwicklung und gesonderten <b>Terminvereinbarung</b> erhalten die EDV-Verantwortlichen noch separate Informationen. Sollten Sie Fragen zum Standard-Client-Update haben, stehen Ihnen die Mitarbeiter des Service Desks gerne zur Verfügung.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=POCSO: Standard-Client-Update 2010">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

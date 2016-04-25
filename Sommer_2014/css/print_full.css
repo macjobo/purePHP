@@ -1,0 +1,157 @@
+/* CSS Document */
+
+body {
+  font-family: Arial, Verdana, Sans-serif;
+  font-size: 11pt;
+  margin: 0 0 0 0;
+  padding:0 0 0 0;
+
+}
+
+#logo {
+  display: none;
+}
+
+#logo img {
+  display: none;
+}
+
+#inhalt img {
+  display: none;
+}
+
+
+
+#leiste {
+
+	display: none;
+
+}
+
+
+
+#inhalt h1 {
+   display: none;
+}
+
+
+
+
+#inhalt ul {
+  display: none;
+  
+  }
+  
+  
+  
+#inhalt ul ul {
+  display: none; 
+  
+  }  
+
+.umbruch {
+  page-break-before: always;
+}
+
+  
+
+
+
+
+#haupt {
+
+  margin-top: 20px;
+  line-height:130%;
+ 
+
+}
+
+
+
+
+/*
+
+#haupt img  {
+
+float: right;
+margin-left:5px;
+margin-top: 4px;
+margin-bottom:5px;
+border: 1px solid #f0f0f0;
+
+}
+
+*/
+
+
+#haupt img  {
+	
+	display: none;
+
+}
+
+
+#haupt h1 {
+  margin-top: 0px;
+  font-size: 11pt;
+	font-weight: bold;
+}
+
+
+#haupt h2 {
+  font-size: 11pt;
+  font-weight: normal;
+}
+
+#haupt ul {
+  list-style-type: square;
+}
+
+
+#haupt a:link, #haupt a:visited, #haupt a:active {
+  color: black;
+  text-decoration: none;
+  
+}
+
+.fett {
+  font-weight: bold;
+
+}
+
+.bild {
+  text-align: center;
+}
+
+
+.bild img {
+  border: 5px solid #f0f0f0;
+}
+
+#imp {
+display: none;
+}
+
+
+
+
+#haupt table {
+ 
+ text-align: center;
+ border-collapse:collapse;
+	
+}
+
+#haupt td {
+	border:1px solid #004985;
+	padding: 2px;
+	}
+
+#haupt th {
+  background: #0063a4;
+	border:1px solid #004985;
+	color: white;
+	font-style: italic;
+  font-weight: bold;
+	padding: 2 px;
+	}

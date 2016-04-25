@@ -1,0 +1,66 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Infos rund um den Laserdrucker</h1>
+<h2>S&T hat im e-Shop im Bereich "POI AT Dokumente" Informationen zur Verfügung gestellt, die Ihnen den Umgang mit Laserdruckern erleichtern sollen.</h2>
+
+ <img src="images/bild_mal.jpg" width="190" height="120" alt="Rund um den Laserdrucker" />
+ 
+<ul>
+<li><div><b>S&T Managed Printing Service</b><br />
+Kennen Sie schon das Managed Printing Service - das Rundumservice für Ihren Drucker? 
+Sie brauchen lediglich Stellfläche, Strom und Papier bereitzustellen. Den Rest nimmt Ihnen das Managed Printing Service der S&T ab.
+</div></li>
+
+
+<li><div>
+<b>POCSO Laserdrucker Verbrauchsmedien und Wartungskomponenten</b><br /> 
+Informationen sowohl für aktuelle Druckermodelle als auch deren 
+Vorgängergenerationen, die im Vertrieb bestellbaren passenden Toner, Resttonerbehälter 
+oder Fotoleiter. Außerdem sind ausschließlich in der S&T Ersatzteilabteilung bei Frau Lindner und 
+Frau Hofbauer bestellbare Produkte wie z.B. Druckerheizungen (Maintenance Kits) aufgeführt.
+</div></li>
+
+
+<li><div><b>POCSO Laserdrucker Leergut Rücksendeprogramm</b> <br />
+Informationen zum Leergut Rücksendeprogramm von Lexmark. Zusätzlich zur bekannten Möglichkeit, Tinten, Toner, Resttonerbehälter usw. 
+als Leergut in seiner Originalverpackung frachtkostenfrei an den Hersteller zu retournieren, 
+stehen Ihnen die Möglichkeiten von Sammelverpackungen verschiedener Größen zur Verfügung.
+</div></li>
+
+
+</ul>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Rund um den Laserdrucker">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

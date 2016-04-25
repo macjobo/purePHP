@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Von den hunderten Änderungen, die wir Woche für Woche in Ihrem Netzwerk durchführen, merken Sie als Anwender meist nichts. Hier der Hinweis auf aktuelle Neuerungen, die sich spürbar auf Ihre tägliche Arbeit mit dem PC auswirken können.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+<ul>
+
+<li><div>Das Breitenrollout für <b>Lotus Notes 8.5.1</b>, <b>Internet Explorer 8</b> sowie <b>Symantec Endpoint Protection 11</b> wurde abgeschlossen. Im Zuge dessen wurden in den letzten Monaten mehr als <b>6500 PCs</b> im Rahmen der POCSO-Dienstleistungen mit der neuen Software ausgestattet.</div></li>
+
+<li><div>Gab es in der Vergangenheit in der Nacht Probleme mit dem Windows-Server - z.&nbsp;B. einen Stromausfall - und wurde der Server in der Früh neu gestartet, wurde die <b>Datensicherung</b> aktiv und es kam zu <b>Performanceeinschränkungen</b> in der täglichen Arbeit. Wir haben die Datensicherungs-Routine nun dahingehend verändert, dass <b>zwischen 06:00 und 17:00 Uhr keine Komplettsicherung</b> mehr gestartet wird. Bitte melden Sie Probleme mit der Datensicherung umgehend am Service Desk, um eine geregelte Sicherung Ihrer Daten zu gewährleisten!</div></li> 
+
+
+<li><div>Die neue <b>EBV-Version 3.5.02</b> des Österreichischen Wirtschaftsverlags behebt fachliche und technische Probleme, die in letzter Zeit aufgetreten sind. Diese Version wird von Porsche Informatik <b>Ende November</b> in den POCSO-Netzwerken kostenlos am POCSO-Server installiert, die Clients erhalten das Update beim nächsten Start der EBV. Der EDV-Verantwortliche Ihres Betriebs erhält vor Rolloutbeginn eine gesonderte Information.<br />
+Bitte beachten Sie, dass für die Nutzung dieses Programms eine <b>gültige Lizenz</b> nötig ist! Seit kurzem haben wir hierfür eine <b>Erinnerungsfunktion</b> aktiviert, die beim Start des Programms auf eine auslaufende Lizenz hinweist.</div></li>
+
+
+</ul>
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der POI.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>
+

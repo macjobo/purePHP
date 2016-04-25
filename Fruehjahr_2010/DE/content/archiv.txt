@@ -1,0 +1,32 @@
+<h1>Archiv </h1>
+
+
+
+<!-- <h2>Die Newsletter zum Nachlesen.</h2> -->
+
+
+<ul>  
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/Herbst_2009/DE/index.php"archiv" target="_blank")>Newsletter Herbst 2009</a>
+      </li> 
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/int_g/Sommer_2009/index.php"archiv" target="_blank")>Newsletter Sommer 2009</a>
+      </li> 
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/int_g/Winter_2009/index.php"archiv" target="_blank")>Newsletter Winter 2009</a>
+      </li> 
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/int_g/Herbst_2008/index.php"archiv" target="_blank")>Newsletter Herbst 2008</a>
+      </li>
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/int_g/Maerz_2008/index.php"archiv" target="_blank")>Newsletter März 2008</a>
+      </li>
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/int_g/Juni_2007/index.php"archiv" target="_blank")>Newsletter Juni 2007</a>
+      </li>
+			
+  <li><A HREF="http://newsletter.porscheinformatik.at/int_g/Oktober_2007/index.php"archiv" target="_blank")>Newsletter Oktober 2007</a>
+      </li>
+
+ 											
+  </ul>

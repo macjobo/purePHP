@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Anwendungen - Ausblick: Kundenbindung mittels personalisierter App</h1>
+<h2>Egal, mit welchem Fahrzeug Ihre Kunden unterwegs sind - Ihr Betrieb fährt ab Sommer 2012 mit! My Volkswagen, My Audi, My Seat, My Skoda und My Porsche heißen die mobilen Apps, die das ermöglichen.</h2>
+
+<img src="images/bild_gela.jpg" width="84" height="169" title="Mein Auto" />
+
+
+<p>Eines haben Kundenservice und neue Technologien gemeinsam: Die Erwartungen unserer Kunden daran steigen! Wir wollen diese Erwartungen übertreffen und geben Ihnen für eine <b>zeitgemäße Kundenbindung</b> kostenlos das Werkzeug dazu.</p>
+ 
+<p>Ab kommendem Sommer können Sie Ihren Kunden ein Tool in die Hand geben, das sie in allen Situationen rund um ihr Fahrzeug <b>virtuell unterstützt</b>. Egal, ob der Kunde gerade einen direkten Draht zu seinem Betrieb, seine Fahrzeugdaten, Zubehör, den Pannennotruf, Unwetterwarnungen oder Verkehrsinformationen benötigt, er findet alle Informationen auf einen "Klick" in seiner <b>My Volkswagen</b>, <b>My Audi</b>, <b>My Seat</b>, <b>My Skoda</b> oder <b>My Porsche</b> Applikation.</p>
+
+<p>Durch das enge Zusammenspiel mit <b>CROSS als Datenbasis</b> erhalten Sie unkompliziert einen hohen Mehrwert. Der Kunde hält seine Daten selbst am aktuellen Stand und verfeinert sie zunehmend. Zusätzlich gewinnen Sie einen direkten, personalisierten <b>Kommunikationskanal</b> zu Ihren Kunden - ohne Streuverluste!</p> 
+
+<p>Holen Sie Ihre Kunden künftig dort ab, wo sie sich befinden - unterwegs mit der <b>personalisierten Mobile-Applikation</b> oder <b>daheim am Computer</b>!</p>
+
+<p>Kurz vor dem <b>Breiteneinsatz im Sommer 2012</b> werden wir Ihnen natürlich weitere umfassende Informationen gesondert zur Verfügung stellen! </p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Mein Auto">Simone Gela</a><br />
+Leitung Neue Medien - Porsche Austria
+</p>

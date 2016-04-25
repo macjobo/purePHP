@@ -1,0 +1,65 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Fileserver-Archiv: Daten archivieren und Kosten senken</h1>
+<h2>Das neue Fileserver-Archiv der Porsche Informatik ermöglicht Ihnen Daten vom Fileserver zu archivieren und damit die IT-Kosten Ihrer Firma zu senken.</h2>
+
+<p>Ihre <b>Geschäftsdaten</b>, die Sie am Fileserver auf den Laufwerken X:\ oder U:\ ablegen, werden von uns laufend gesichert und über zwei Standorte gespiegelt. Somit können Sie ohne Verzögerungen auf Ihre Daten zugreifen und wir können einzelne Dateien und Ordner für Sie wiederherstellen, falls diese versehentlich gelöscht oder überschrieben wurden.</p>
+
+<p>Diese an sich optimale Art der Datenspeicherung ist allerdings mit erheblichen Kosten verbunden.
+Daher stellen wir nun ein <b>Fileserver-Archiv</b> zur Verfügung, das im Vergleich zur Datenspeicherung am Fileserver <b>wesentlich weniger Kosten</b> verursacht, jedoch <b>kein Rücksichern einzelner Dateien oder Ordner</b> ermöglicht!</p>
+
+
+<p>Unsere <b>Empfehlung</b> lautet daher:
+
+<ul>
+<li><div>Legen Sie operative und wichtige Daten, auf die laufend zugegriffen wird, weiterhin direkt am Fileserver ab.</div></li>
+<li><div>Verschieben Sie Daten, die nicht mehr verändert aber noch benötigt werden, und große Datenmengen, die online zur Verfügung stehen sollen (z.B. Grafiken) in das Fileserver-Archiv.</div></li>
+</ul>
+
+Zu finden ist das <b>Fileserver-Archiv</b> unter dem <b><a href="index.php?page=bild_lo4" title="Fileserver-Archiv">&raquo;&nbsp;Laufwerksbuchstaben I:\.</b></a></p>
+
+<p>Sollten Sie Fragen zum Fileserver-Archiv haben, wenden Sie sich bitte an Ihren EDV-Koordinator oder an den  <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">Service Desk</a></b>.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Fileserver-Archiv">Herbert Lohninger</a></p>
+
+ 
+
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

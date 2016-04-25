@@ -1,0 +1,61 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Lotus Notes: BlackBerry&reg; Enterprise Mobile User</h1>
+<h2>The  BlackBerry&reg; Enterprise Mobile User product from Porsche Informatik allows real-time data synchronisation between your Lotus Notes data and your BlackBerry&reg; device.</h2>
+
+<p><b>BlackBerry&reg; Enterprise Mobile User</b> allows you to:
+
+<ul>
+<li>Receive, read, edit and send your e-mails in real-time worldwide</li>
+<li>View, edit and send attachments such as Word, Excel, Powerpoint or PDF documents on the device</li>
+<li>Synchronise your calendar entries with your Lotus Notes calendar</li>
+<li>Synchronise your Lotus Notes address book</li>
+</ul>  
+</p>
+
+<p><b>Requirements:</b>
+<ul>
+<li>An existing Porsche Informatik e-mail account</li>
+<li>The <b>BlackBerry&reg; Enterprise service</b> must be supported by your mobile network operator</li>
+<li>A device that supports the BlackBerry&reg; Enterprise service (e.g. BlackBerry&reg; 8800, BlackBerry&reg; Curve 8310, BlackBerry&reg; Pearl 8100)</li>
+</ul>    
+</p>
+
+<p><b>Running costs:</b><br>
+
+The costs for the BlackBerry&reg; Enterprise Mobile User product payable to Porsche Informatik are 10 Euro/month per user. The costs for use of the BlackBerry&reg; Enterprise service on your mobile network are not included and must be arranged with your mobile network operator. 
+</p>
+
+<p>If you are interested in the product, please contact:</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=BlackBerry">Gerlinde Holzschuh</a>
+<br>Service Level Management
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

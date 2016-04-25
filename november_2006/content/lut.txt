@@ -1,0 +1,25 @@
+<h1>CROSS 2: Handbücher in der Infoline</h1>
+
+<h2>Seit Kurzem stehen Ihnen in der Porsche Informatik Infoline CROSS-2-Handbücher zum Download bereit.</h2>
+
+<p>In drei umfangreichen Dokumentationen können Sie nun alle Funktionalitäten Ihres CROSS-2-Systems nachschlagen:</p>
+
+<ul>
+<li><b>Anwenderhandbuch Werkstatt/Ersatzteile</b>: Dieses Handbuch soll Mitarbeitern aus Servicebetrieben dienen. Es behandelt Auftragsabwicklung, Lager, Zeiterfassung, Werkstattplaner, Einlagerung, Geschäftspartner und Fahrzeuge.</li>
+<li><b>Anwenderhandbuch Neuwagen/Gebrauchtwagen</b>: Dieses Handbuch legt den Fokus auf Mitarbeiter von Händlern. Im Wesentlichen sind Neuwagen- und Gebrauchtwagen-Abwicklung, Geschäftspartner und Fahrzeuge beschrieben. Aber Sie finden hier auch Beschreibungen zur Abwicklung eines Vorführ- bzw. Leihwagen oder auch eine Übersicht zu wichtigen Auswertungen.</li>
+<li><b>Systemhandbuch</b>: Dieses Handbuch richtet sich in erster Linie an Systemverantwortliche. Hier sind unter Anderem die Berechtigungsvergabe, die Druckersteuerung und allgemeine Wartungsthemen beschrieben. Sie finden in diesem Handbuch aber auch eine Übersicht zu den Systemparametern.</li>
+</ul>
+
+
+<p>Detaillierte Beschreibungen zu Abläufen und zu wichtigen Fenstern finden Sie  bald auch als <b>integrierte Hilfe in CROSS</b>. Über die Taste "F1" gelangen Sie dann zu der entsprechenden Beschreibung des gerade geöffneten Fensters.</p>
+
+
+<p>Sie finden die jeweils <b><a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/501818f60553bc16c1256f1700433247/533d562a851ce04ac12572100032d6bc?OpenDocument" target="_blank">aktuell gültigen Handbücher</a></b> in der Porsche Informatik Infoline unter EH-Systeme > CROSS > Allgemeines > Handbücher.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS-2-Handbücher">Kerstin Lutje</a></p>
+
+
+
+
+

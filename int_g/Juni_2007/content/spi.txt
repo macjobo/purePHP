@@ -1,0 +1,62 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Security News: Security Policy</h1>
+<h2>Security Policy und neue Sicherheitsrichtlinien für die Porsche Informatik verfasst</h2>
+
+<p>Für die Porsche Informatik haben wir eine <b>Security Policy</b> basierend auf ISO/ IED 17799 u. 27001 entwickelt und verabschiedet. In diesem zentralen Dokument halten wir fest, wie wir organisatorisch in der Porsche Informatik mit Sicherheit umgehen und welche Regeln dazu gelten, denn durch:</p>
+
+<ul>
+<li>nicht funktionierende Geschäftsprozesse</li>
+<li>unberechtigten Zugriff</li>
+<li>nicht autorisierte Modifikation von Daten und Information</li>
+</ul>
+
+<p>entsteht <b>unternehmerischer Schaden</b>. Dieser ist messbar durch:</p>
+
+<ul>
+<li>weniger Umsatz</li>
+<li>den Verlust von positivem Image</li> 
+<li>unzufriedene Kunden, Partner und Mitarbeiter</li>
+</ul>
+
+<p><b>Diese potentiellen Gefährdungen des gemeinsamen Geschäftserfolges müssen bestmöglich verhindert werden!</b></p>
+
+<p>Das heißt zum einen, dass jeder Mitarbeiter der Porsche Informatik verpflichtet ist, die in der Security Policy festgeschriebenen Leitlinien zu beachten, wie etwa Sorgfaltspflichten, die jeweils gültigen Richtlinien für die Vertraulichkeit von Daten usw.. Zum anderen bedeutet es, dass alles dort Festgehaltene einzuhalten, <b>nicht aber, dass alles, was nicht definiert ist, automatisch für die Mitarbeiter erlaubt ist.</b></p>
+
+<p>Außerdem entstehen gerade eine <b>neue Passwortrichtlinie</b> sowie eine <b>modifizierte Richtlinie zur Nutzung von E-Mail und Internet</b>. Wir werden sukzessive weitere Richtlinien in diesem Umfeld schaffen (z. B. zur Nutzung von mobilen Geräten), um unsere Sicherheitsstandards entsprechend zu erfüllen.</p>
+
+<p>Diese Richtlinien können wir Ihnen gerne zur Verfügung stellen. Derzeit sind die Dokumente in Deutsch verfügbar, bei Bedarf können Sie auch auf Englisch übersetzt werden.</p>
+
+<!-- <img src="C:\Programme\xampp\htdocs\int_g\Juni_2007\images\Spitzer_A_03_notes.jpg" alt="" align=""/> -->
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Security Policy">Anton Spitzer</a>
+<br>Leitung Infrastruktur Services
+<br>Porsche Informatik</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

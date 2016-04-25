@@ -1,0 +1,14 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS-2-Umstellung im Autohaus Stockinger</h1>
+                
+<div class="bild">        
+    
+<img src="images/mal.jpg" alt="Anfahrt zum neuen Seminarraum" title="Autohaus Stockinger feiert die Umstellung auf CROSS 2" border="0" height="563" width="422">
+      
+</div>                    
+                    
+<p>
+Violetta, Alfred und Daniela Stockinger freuen sich mit ihrem CROSS-Berater Andreas Seidl über die reibungslose Umstellung.
+</p>
+<p id="zurueck"><a href="index.php?page=mal">Zurück zum Artikel</a></p>

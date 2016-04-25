@@ -1,0 +1,57 @@
+<div class="umbruch">&nbsp;</div>
+<h1>SPS Rollout: Application in the Balkans</h1>
+<h2>SPS successfully implemented in Bulgaria, Macedonia, Kosovo and Serbia</h2>
+
+<p>In January 2007 the go-ahead for the rollout of SPS ("Spare Parts System") was given for the five Balkan States:</p>
+
+<ul>
+<li>Albania</li>
+<li>Bulgaria</li>
+<li>Kosovo</li>
+<li>Macedonia</li>
+<li>Serbia</li>
+</ul>
+
+<p>The system comprises a highly modular GUI application, a front-end web application and structured batch applications. It represents <b>the standardised platform for spare parts management</b> for all of the company's own importers abroad.</p>
+
+<p>In addition to process standardisation, the other <b>main project foci </b>lie in establishing interfaces to various computing systems and achieving overall integration in the system landscape of Porsche IT. This will enable central operation of the software as an ASP solution.</p>
+
+<p>The very different economic market conditions pose <b>a particular challenge</b>; they will determine which processes can be depicted within the standard application and which local adaptations will be necessary. The system's language support function is of central importance as Bulgaria and Macedonia make Cyrillic data an SPS issue for the first time, with far-reaching consequences for all processes and interfaces.
+Within this project, the Parts Centre Budapest also emerges as a supplier within the SPS domain for the first time, which calls for the calibration and migration of master data.
+</p>
+
+<p>By the end of August - and thanks to the excellent cooperation between importers, POA Foreign Wholesale, PDC [Parts Distribution Centre], PCB and Porsche IT - the systems for Bulgaria, Macedonia, Kosovo and Serbia achieved live operation according to schedule. More than 160,000 spare parts have since been ordered and settled via this new system. The SPS production startup for Albania, and hence the conclusion of this project, is planned for the final quarter of 2007.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SPS">Thomas Pfnuer</a>
+<br>Wholesale Development
+<br>Porsche Informatik</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

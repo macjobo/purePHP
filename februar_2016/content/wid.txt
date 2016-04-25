@@ -1,0 +1,88 @@
+
+
+<h1>CROSS: Registrierkassen- und Belegerteilungsverpflichtung </h1>
+<h2>Wie bereits vom Gesetzgeber kommuniziert, trat mit 01.01.2016 die Registrierkassen- und Belegerteilungspflicht in Kraft.</h2>
+
+<img src="images/bild_wid.jpg" width="190" height="120" title="Registrierkassenpflicht" />
+
+
+
+<p>
+Grundsätzlich erfüllt die CROSS-Kassenlösung alle Anforderungen der gesetzlichen Änderungen per 01.01.2016.
+</p>
+
+<P>
+Damit auch Ihre Kassenlösung, welche von der Porsche Informatik ausgeliefert wird, alle Anforderungen erfüllt, sind nachfolgende <b>Systemeinstellungen 
+zu kontrollieren</b> und auch etwaige <b>Arbeitsprozesse zu ändern</b>.
+Beachten Sie bitte, dass für die Umsetzung der Anpassungen und Arbeitsabläufe jeder Betrieb selbst verantwortlich ist.
+</p>
+
+
+<P>
+Generelle Anforderungen des Gesetzgebers:
+</p>
+
+<ul>
+
+<li><div>Sammelrechnungen sind <b>nicht mehr zulässig</b>!
+</div></li>
+
+<li><div>Jeder Kunde, der eine Dienstleistung oder eine Ware jeglicher Art bezieht, 
+muss <b>bei Barzahlung</b> (Bar, Bankomat, Kreditkarte) einen <b>Zahlungsnachweis (Bon)</b> erhalten.
+</div></li>
+
+<li><div>Für die Abschrift/Kopie des Kassenbons besteht eine <b>Aufbewahrungsfrist von 7 Jahren</b>.               
+</div></li>
+
+<li><div>Am Ende jedes Arbeitstages ist im Kassenbuch ein <b>Tagesabschluss</b> durchzuführen.
+</div></li>
+</ul>
+
+<P>
+Anforderungen an den Kassenbon:
+</p>
+
+<ul>
+
+<li><div>Auf jedem Beleg ist das <b>liefernde Unternehmen</b> anzuführen.
+</div></li>
+
+<li><div>Auf jedem manuell erzeugten Beleg muss die <b>Menge und handelsübliche Bezeichnung</b> der Dienstleisung/Ware angeführt sein.
+</div></li>
+</ul>
+
+<P>
+Bei Kassierung von Rechnungen aus CROSS ist die automatisch erzeugte Referenz auf die Rechnungsnummer in CROSS ausreichend.
+</p>
+
+
+<P>
+Alle weiteren Anforderungen an den Kassenbon werden von CROSS bereits jetzt automatisch generiert.
+</p>
+
+<ul>
+
+<li><div>Auf jedem Kassenbon ist die <b>Kassenidentifikationsnummer</b> anzudrucken.
+</div></li>
+
+<li><div>Auf jedem Kassenbon ist eine <b>eindeutige Bonnummer</b> anzudrucken.
+</div></li>
+
+<li><div>Auf jedem Kassenbon ist das <b>Datum der Bonerstellung</b> anzudrucken.
+</div></li>
+
+</ul>
+
+
+<P>
+Damit die Anforderungen gesetzlichen Anforderungen ab 1.1.2017 mit dem CROSS Kassenbuch und der Kassenhardware erfüllt werden, sind noch umfangreiche Softwareänderungen erforderlich. 
+Wir werden Sie vor Einsatz der jeweiligen Änderungen darüber informieren. 
+Bitte beachten Sie, dass dabei Upgradekosten für das optionale Produkt CROSS Kassenbuch verrechnet werden, die aufgrund des Anpassungsumfanges ermittelt werden.</p>
+<P>
+Bei allgemeinen Fragen wenden Sie sich bitte an Ihren Key Account Manager beziehungsweise bei Fragen zur Abwicklung an Ihren CROSS- oder SAP-Berater.
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Registrierkassen- und Belegerteilungsverpflichtung">Daniel Wiedemaier</a><br />
+POI PHS CROSS Consulting</p>

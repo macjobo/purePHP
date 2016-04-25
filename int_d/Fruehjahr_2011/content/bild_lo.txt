@@ -1,0 +1,13 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<p>                
+<div class="bild">        
+    
+<img src="images/bild_gross1.jpg" width="520" height="332" alt="" />
+      
+</div>                    
+                    
+<p><a href="index.php?page=wam">&raquo;&nbsp;Zurück zum Artikel</a></p>
+</p>
+

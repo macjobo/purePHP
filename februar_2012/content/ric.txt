@@ -1,0 +1,57 @@
+
+<h1>CROSS: Vorschau auf Release 2.19 - CRM und Neu- und Gebrauchtwagen</h1>
+<h2>Im März geht das neue CROSS-Release 2.19 in den Breiteneinsatz, hier ein Überblick über die wichtigsten Neuerungen im Bereich CRM sowie Neu- und Gebrauchtwagen.</h2>
+
+<img src="images/bild_ric.jpg" width="190" height="120" alt="CROSS 2.19 Highlights" />
+
+
+<p>Das neue CROSS-Release 2.19 bringt im Bereich von <b>CRM</b> sowie <b>Neu- und Gebrauchtwagen</b> einige Änderungen und neue Funktionalitäten:</p>
+
+
+<ul>
+<li><div>
+Bei Auslandssendungen werden Land und Ort in Anpassung an die Vorschriften der österreichischen Post nun in <b>Großbuchstaben</b> gedruckt.
+</div></li>
+
+<li><div>
+Das <b>Skoda-Markenlogo</b>, das CROSS für den Belegdruck verwendet, wurde an die aktuellste Version angepasst.
+</div></li>
+
+<li><div>
+<b>Zusatzfelder</b> werden nun getrennt von Informationen/Hinweisen/Aktivitäten verwaltet. Im Bereich der Informationen/Hinweise/Aktivitäten gibt es Änderungen im Hinblick auf eine zukünftig übersichtlichere <b>Kalenderdarstellung</b>.
+</div></li>
+
+<li><div>
+Für interne Fahrzeuge können Sie <b>Folgeakte</b> (Gebrauchtwagen) nun bereits vor dem Zeitpunkt der Neuwagen-Importeursrechnung erstellen. Der Vorverkauf von Vorführwagen inklusive allfälliger Anzahlungsrechnung wird damit besser unterstützt.
+</div></li>
+
+<li><div>
+Sollten Sie den elektronischen Testbericht von Porsche Austria/Porsche Informatik in Verwendung haben, können Sie nun direkt aus dem CROSS-Gebrauchtwagen-Akt die <b>Liste der Testberichte</b> zu einem Fahrzeug aufrufen.
+</div></li>
+
+<li><div>
+Die möglichen Werte für die <b>Gebrauchtwagen-Herkunft</b> wurden aktualisiert und standardisiert zur Verfügung gestellt. Die <b>Preisklassen</b> für Gebrauchtwagen wurden zentral neu definiert und an runde Euro-Werte angepasst.
+</div></li>
+
+<li><div>
+Die Drucktexte für den Abzug von <b>Anzahlungsrechnungen</b> auf der Fahrzeugrechnung wurden geändert.
+</div></li>
+
+<li><div>
+Für <b>Akt-Listen</b>, <b>Bestandsabfrage</b> und <b>WORD-Export</b> aus Neu- und Gebrauchtwagen-Akten sowie in CQS-Tabellen haben Sie nun zahlreiche neue Felder zur Verfügung.
+</div></li>
+
+</ul>
+
+<p>Weitere wichtige Informationen zum neuen Release entnehmen Sie bitte einem gesonderten <b>Rundschreiben</b>, das wir rechtzeitig vor der Release-Einspielung zusammen mit einer ausführlichen <b>Änderungsbeschreibung</b> im Partner.Net veröffentlichen werden. Auch die MitarbeiterInnen unseres Service Desks stehen für Ihre Fragen gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS 2.19 Highlights">Günther Richter</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+

@@ -1,0 +1,22 @@
+
+<div class="umbruch">&nbsp;</div>
+<h1>CROSS 2: Formularloser Druck</h1>
+<h2>Mit der neuen Version CROSS 2.04 besteht nun auch die Möglichkeit, das Rechnungsformular inklusive Firmen- und Markenlogo zu drucken. </h2>
+
+
+<p>Mit CROSS Release 2.04 ist das neue CROSS Modul "Formularloser Rechnungsdruck" nun vollständig implementiert: Sie können Ihre Werkstatt-, Neuwagen- oder Gebrauchtwagen-Rechnungsformulare jetzt im Rahmen des CROSS-Fakturendrucks erstellen. Dabei werden sowohl <b>Markenlogos</b> als auch individuelle Motive Ihres Betriebs verarbeitet. Für Sie entstehen keine zusätzlichen Lizenzkosten.</p>
+<p>Der Nutzen dieser Lösung liegt auf der Hand: beträchtliche <b>Einsparungen</b> bei den Drucksorten und erhöhte <b>Flexibilität</b> beim Rechnungsdruck. So können Sie z.&nbsp;B. neue Telefonnummern oder Veränderungen in der Rechtsform Ihres Unternehmens auf Knopfdruck anpassen.
+</p>
+<p>Außerdem sparen Sie mit dem formularlosen Druck bei den <b>Hardwarekosten</b> für Drucker, die nun weniger Papierladen benötigen. Rechnungsformulare im herkömmlichen Sinn haben damit ausgedient.</p>
+<p>In der Porsche Informatik Infoline finden Sie eine <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/501818f60553bc16c1256f1700433247/c0e23530afa6d9acc12572a30041f6f7?OpenDocument" title="Dokumentation Formularloser Druck" alt="Dokumentation Formularloser Druck" target="_blank"><b>Anleitung</b></a> zur Aktivierung des formularlosen Drucks. Sollten Sie noch Fragen dazu haben, helfen Ihnen die Mitarbeiter unseres Customer Care Centers gerne weiter.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Formularloser Druck">Georg Föttinger</a></p>
+     
+
+
+
+
+
+
+
+

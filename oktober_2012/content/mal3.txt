@@ -1,0 +1,36 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Hardware: Abkündigung HP ML350G4 und ML350G4p</h1>
+
+<h2>Die Netzwerkserver HP ML350G4 und ML350G4p haben ausgedient und werden durch den neuen Server HP ML350G8 abgelöst.</h2>
+
+<img src="images/bild_mal3.jpg" width="190" height="120" title="Abkündigung HP ML350G4 Server" />
+
+
+<p>Nun ist es soweit, der erste POCSO-Netzwerkserver wurde mit Windows Server 2008 erfolgreich installiert! Ende Oktober erfolgt eine weitere Pilotierung an einem Filialstandort. Danach beginnt die <b>Ablöse der HP ML350G4(p)-Server</b> in den POCSO-Netzwerken.</p>
+
+<p>Die <b>neuen Server HP ML350G8</b> sind voll redundant ausgelegt (Raid-5 Festplattenverbund, doppelter Lüfter, Netzteil- und Netzwerkanschluss). Um höchste Verfügbarkeit und Kosteneffizienz zu erreichen, wurde die Hauptspeicher- und Festplattenausstattung so gewählt, dass über die Einsatzdauer von fünf bis sieben Jahren keine Serveraufrüstung nötig wird. Darüber hinaus ist dieser Server ein wirklicher <b>Sparmeister beim Stromverbrauch</b>, er beträgt ca. ein Drittel des bisherigen Servers.</p>
+
+<p>Betriebe, die einen ML350G4 Server im Einsatz haben, werden von Ihrem Key Account Manager der Porsche Informatik auf die Umstellung angesprochen.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Abkündigung HP ML350G4 Server">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

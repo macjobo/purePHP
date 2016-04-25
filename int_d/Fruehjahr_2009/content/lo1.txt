@@ -1,0 +1,72 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Drucker TIPP: Fotoleiter tauschen</h1>
+<h2>Beim Tausch eines Fotoleiters sind ein paar Kleinigkeiten zu beachten.</h2>
+
+<p><b><a href="index.php?page=bild_lo4" title="Fotoleiter">Fotoleiter</a></b> sind Verschleißteile und müssen genauso wie Toner regelmäßig getauscht werden.
+Dabei ist zu beachten, das nach dem Tausch des Fotoleiters der <b>Drucker zurückgesetzt</b> werden muss.
+Wie dies zu geschehen hat, kann der Beschreibung des Fotoleiters entnommen werden.
+Falls der Drucker nicht zurückgesetzt wird, wird die Warnung zum Tausch des Fotoleiters weiterhin angezeigt.</p>
+
+Bei folgenden Modellen, können Sie den Fotoleiter selbst tauschen:
+
+<ul>
+<li><div>LEXMARK C510N Farblaserdrucker</div></li>
+<li><div>LEXMARK C522N Farblaserdrucker</div></li>
+<li><div>LEXMARK C532DN Farblaserdrucker</div></li>
+<li><div>LEXMARK E330</div></li>
+<li><div>LEXMARK E342N</div></li>
+<li><div>LEXMARK E352DN</div></li>
+<li><div>LEXMARK E360</div></li>
+</ul>
+
+
+<p>Bei allen anderen Modellen muss der Tausch von einem Techniker durchgeführt werden.
+</p>
+
+<p>Falls Sie Fragen haben oder Unterstützung benötigen, wenden Sie sich bitte an unseren <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">Service Desk</a></b>. Das Client-Team unterstützt Sie gerne.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Fotoleiter">Herbert Lohninger</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

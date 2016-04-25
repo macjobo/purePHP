@@ -1,0 +1,56 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: Rückschau auf Seminar "POCSO-Netzwerk"</h1>
+<h2>Das Seminar "POCSO-Netzwerk", das sich an die EDV-Verantwortlichen im Betrieb wendet, stieß im Juni auf großes Interesse; Anregungen der Kursteilnehmer haben wir bereits umgesetzt.</h2>
+
+<img src="images/bild_kra.jpg" width="190" height="120" alt="POCSO-Netzwerk" />
+
+
+<p>Im Juni haben Bernhard Lackerbauer vom POCSO-Management-Center und Markus Watzik, der Leiter unseres Service Desks, in Salzburg und Wien vier Mal das <b>Seminar "POCSO-Netzwerk"</b> abgehalten, das sich speziell an EDV-Verantwortliche in POCSO-Betrieben richtet.</p>
+
+<p>Dabei wurden unter anderem die folgenden <b>Themen</b> behandelt:</p>
+
+
+<ul>
+
+<li><div>PC-Installationen
+</div></li>
+
+<li><div>Software-Installationen
+</div></li>
+
+<li><div>Integration von VAS-Geräten
+</div></li>
+
+<li><div>Häufig gestellte Fragen zu ETKA sowie Windows-7-Clientthemen.
+</div></li>
+
+</ul>
+
+<p>Von den Teilnehmern des Seminars haben wir auch viele wertvolle <b>Anregungen</b> erhalten. Die meisten konnten wir bereits umsetzen, beispielsweise:
+</p>
+
+<ul>
+
+<li><div>Eine <b>Übersicht über Softwareprodukte</b>, die bei POCSO-PC-Installationen standardmäßig installiert sind, sowie weitere, die Sie optional anfordern können, finden Sie nun im Dokument <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/3873a90d457994cec1257345002cdb87/d9aae49e2fa6bfe0c1257a3000231287?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"POCSO Standard PC - enthaltene Softwarepakete bei Client Neuinstallation"&nbsp;&raquo;</b></a>
+</div></li>
+
+<li><div>Die Ergänzung des POCSO-Handbuchs um <b>"Neue Funktionen in Windows 7"</b> finden Sie unter Start > "Anw.-Händler" > "POCSO-PC-Benutzerhandbuch"
+</div></li>
+
+
+
+</ul>
+
+
+
+<p>
+Wir bedanken uns für das Interesse und die aktive Mitarbeit aller Teilnehmer! Die nächste Seminarreihe planen wir für das  <b>Frühjahr 2013</b>. Sobald die neuen Termine fixiert sind, werden wir Sie darüber informieren.
+</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=POCSO-Netzwerk">Andreas Kronberger</a><br />
+Leitung POCSO-Management-Center
+</p>
+

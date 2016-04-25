@@ -1,0 +1,71 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Service Desk: Multibankensysteme</h1>
+
+<h2>Achtung beim Einsatz von Multibankensystemen, diese können nur mit erhöhtem Aufwand und Kosten integriert werden.</h2>
+
+<img src="images/bild_alk.jpg" width="190" height="120" title="Multibankensysteme" />
+
+
+
+<p>Viele Betriebe im Einzelhandel verwenden derzeit über <b>unsere Firewall</b>, <b>erfolgreich und sicher</b>, die unterschiedlichsten Telebanking Produkte diverser Banken.
+Zur Nutzung dieser Bankensysteme haben Sie von uns auf Anfrage entsprechende Host- und Proxydaten erhalten.</p>
+
+
+
+<p>Seit geraumer Zeit bieten einige Banken ihren Kunden neue, sogenannte  <b>"Multi Banken"-Produkte</b> an. Das bedeutet, über eine Haupt-Bank können mehrere Sub-Banken bedient werden.
+
+Wir möchten Sie daher informieren, dass diese Produkte "MBS" (Multi Bank Standard Banking-Plattform) und "HBP" (Home and Office Banking-Plattform) 
+nicht so entwickelt wurden, dass alle darin vorhandene Banken über eine <b>sichere Internetplattform</b> wie sie die Porsche Informatik 
+für die österreichischen VW-Audi-Seat-Skoda Betriebe betreibt, aufrufbar sind. Der Grund liegt in der fehlenden Möglichkeit dieser Systeme, 
+die voreingestellten Bankenzugriffsdaten in der Multibankensoftware so anzupassen, dass ein Zugriff über unsere Internetplattform möglich ist.</p>
+
+<p>Bitte <b>informieren Sie sich vor einem</b> etwaigen <b>Bankensoftware-Update</b> in Ihrem Unternehmen, dass diese durch ein Update nicht in ein "Multi Banken System" geändert werden. 
+Sollten Sie sich diese Software Produkte dennoch von Ihrem Bankbetreuer installieren lassen, würden Ihnen zusätzliche Kosten entstehen.
+
+Für die Nutzung dieser Multibankensysteme müsste in weiterer Folge, pro verwendeter "Sub-Bank", eine eigene <b>ISP-Firewall Freischaltung</b> durch A1 Telekom Austria kostenpflichtig durchgeführt werden.</p>
+
+
+<p>Für Fragen zu diesem Thema steht Ihnen der Porsche Informatik Service Desk gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Multibankensysteme">Michaela Alker</a><br />
+Teamleitung Service Desk</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

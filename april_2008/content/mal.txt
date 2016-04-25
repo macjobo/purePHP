@@ -1,0 +1,26 @@
+<div class="umbruch">&nbsp;</div>
+
+
+
+<h1>POCSO: POCSO-Übersicht neu</h1>
+<h2>Mit der aktualisierten Übersicht erhalten Sie weitere nützliche Informationen über Ihr POCSO-Netzwerk.</h2>
+
+
+<p>POCSO-Betrieben steht jetzt eine aktualisierte Version der <b>"POCSO-Netzwerkübersicht"</b> zur Verfügung. Diese EXCEL-Datei ist für alle Geschäftsführer, Finanzleiter und EDV-Verantwortlichen über "Anw.-Händler" im Windows-Startmenü aufrufbar.</p>
+
+<p>
+Die Übersicht wurde um folgende Informationen erweitert:
+<ul>
+<li><div><b>Aufrüstungs- und Austauschempfehlungen</b> für PCs und Notebooks für das Jahr 2008</div></li>
+<li><div>Information über <b>freie Speicherbänke</b> als Unterstützung bei der Hauptspeicheraufrüstung</div></li>
+<li><div>Information über den letztmaligen Verkauf des PCs durch S&T Austria und daraus abgeleitet die <b>Einsatzdauer</b> des PCs</div></li>
+<li><div>Grafische <b>Alterstatistik</b> der eingesetzten PCs sowie eine zusammengefasste Empfehlungsübersicht.</div></li>
+
+</ul></p>
+<p>POCSO-Serverinfo, Server-Festplatten-History und Netzwerkdruckerübersicht wurden nicht verändert.</p>
+<p>Sollten Sie Fragen zur POCSO-Übersicht oder zu den Aufrüstungs- oder Austauschempfehlungen haben, steht Ihnen Ihr Berater der Porsche Informatik gerne zur Verfügung.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=POCSO-Übersicht neu">Friedrich Malle</a></p>

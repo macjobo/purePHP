@@ -1,0 +1,24 @@
+<h1>Telefonie: Windows Phones 10</h1>
+<h2>Wie bereits im letzten Newsletter angekündigt, sind ab sofort auch Windows-Phone-10-Geräte im Konzern freigegeben. Sie stellen nun neben iPhones die zweite Plattform im Bereich der gemanagten Smartphones.</h2>
+
+<img src="images/bild_lo.jpg" width="120" height="120" title="Windows Phones" />
+
+<p>Die Modelle <b>Lumia 550</b> (Low Cost), <b>Lumia 650</b> (Midrange) und <b>Lumia 950</b> (Premium) können ab sofort in der Bestellplattform EASY bestellt werden. (Die Geräte sind bei A1 nur in der Farbe schwarz verfügbar.) </p>
+<p>Technisch werden die Geräte - wie auch die iPhones - mit unserer <b>MobileIron-Infrastruktur</b> abgesichert. Die monatlichen Kosten dafür entsprechen jenen der iPhones. Anders als die Touch-ID (Fingerabdruck) bei den iPhones bietet Microsoft am Premium-Gerät einen <b>Iris-Scan</b> zur Identifizierung.</p>
+<p>Weiterführende Informationen zu den Windows Phones finden Sie im <b>POCSO-PC-Benutzerhandbuch</b>. Die Verpflichtungserklärung finden Sie in der Notes-Datenbank "<b>ORG-Handbuch</b>" unter dem Punkt 6 "IT & Kommunikationsorganisation" im Dokument 6.07 "Vereinbarung über die Nutzung von mobilen Endgeräten".</p>
+<p>Derzeit gibt es bei den Windows Phones noch folgende Einschränkungen:</p>
+<ul>
+
+<li><div>Die <b>Planung und Änderung von Terminen</b> am mobilen Gerät ist noch nicht möglich.
+</div></li>
+
+<li><div>Beim <b>Abwesenheitsagenten</b> kann derzeit kein Enddatum gesetzt werden.
+</div></li>
+
+</ul>
+
+<p>Für Fragen kontaktieren Sie bitte den Service Desk der Porsche Informatik, die Kolleginnen und Kollegen helfen Ihnen gerne weiter.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Windows Phones">Herbert Lohninger</a><br />
+Teamleitung Corporate Workplace
+

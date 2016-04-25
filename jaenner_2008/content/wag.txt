@@ -1,0 +1,18 @@
+<h1>CROSS: Ablaufbeschreibungen zu SAGA/2</h1>
+<h2>Auf mehrfachen Wunsch haben wir die Infoline-Dokumentation "CROSS-SAGA/2-Themen" um eine Beispielliste für diverse Verrechnungen sowie um eine detaillierte Beschreibung der Vergütungsbearbeitung ergänzt.</h2>
+
+<p>Die Umstellung auf das Gewährleistungssystem SAGA/2 läuft auf Hochtouren. Mittlerweile arbeitet bereits mehr als die Hälfte aller Betriebe, die CROSS einsetzen, mit der optimal integrierten Werksapplikation.</p>
+
+<p>Mehrfach haben uns Kunden bereits gebeten, einen Vorschlag zur Erstellung von <b>diversen Verrechnungen</b> in CROSS zur Verfügung zu stellen. Diesem Wunsch haben wir nun Rechnung getragen: Sie finden diesen Vorschlag und eine Beispielliste für diverse Verrechnungen in der Dokumentation <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/56ea8a69cf8aa999c12572f20041cbda?OpenDocument" target="_blank" title="Zur Dokumentation CROSS-SAGA/2-Themen"><b>CROSS-SAGA/2-Themen</b></a> in der Porsche Informatik Infoline unter Punkt 3.1.</p>
+
+
+<p>Auch zur <b>Vergütungsbearbeitung</b> erreichen uns immer wieder Anfragen. Daher haben wir auch für diesen wichtigen Bereich eine eigene Beschreibung erstellt, die Sie in der Dokumentation "CROSS-SAGA/2-Themen" unter Punkt 6 finden können.</p>
+
+
+<p>Die gesamte SAGA/2-spezifische Systembeschreibung finden Sie unter Punkt 2.</p>
+
+<p>Übrigens: CROSS ist weltweit das einzige Werkstättensystem, das eine Schnittstelle zu SAGA/2 zur Verfügung stellt!</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Ablaufbeschreibungen zu SAGA/2">Gregor Wagner</a></p>
+
+

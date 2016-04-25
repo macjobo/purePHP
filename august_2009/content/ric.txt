@@ -1,0 +1,42 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS 2: Vorschau auf Release 2.11 - Handel</h1>
+<h2>Mitte September 2009 kommt das neue CROSS-Release 2.11 - die wichtigsten Neuerungen im Bereich Neu- und Gebrauchtwagen. </h2>
+
+
+<p>Das neue CROSS-Release 2.11 bringt auch im Bereich Neu- und Gebrauchtwagen interessante neue Funktionalitäten:</p>
+
+
+<ul>
+<li><div>Das <b>Garantiebeginn-Datum</b> (Neuwagen-Auslieferungsdatum) ist nun über den CARLOS-WEB-Link zu erfassen. Die eingegebenen Daten werden an die Werkssysteme gemeldet und an CROSS zurück übertragen.</div></li>
+
+<li><div><b>Überarbeitung Ausdruck "Fahrzeugdaten"</b>: Der Ausdruck der Fahrzeugdaten aus dem Neuwagen-Akt enthält nun auch die korrekten Informationen zur NoVA.</div></li>
+
+<li><div><b>Vergütungsübersicht von Importeurs-Aktionen</b>: Die Importeure haben die Informationen über Aktionen je Fahrzeug erweitert; in CROSS können Sie jetzt den Status der Vergütung von Aktionen auswerten und kontrollieren.</div></li>
+
+<li><div><b>Link in Weltauto-Fahrzeugwartung</b>: Um die Datenwartung in CROSS und Weltauto besser aufeinander abstimmen zu können, können Sie nun aus einem CROSS-Gebrauchtwagen-Akt heraus direkt die Weltauto-Fahrzeugdaten-Wartung öffnen.</div></li>
+
+<li><div><b>Berechnung der NoVA-Basis</b>: Die Berechnung der Basis für die NoVA bei importierten differenzbesteuerten Gebrauchtwagen wurde an die aktuellen gesetzlichen Richtlinien angepasst.</div></li>
+
+
+<li><div><b>Erfassung von Sammel-Eingangsrechnungen</b>: Eingangsrechnungen für mehrere Fahrzeuge, die verschiedene CROSS-Akte betreffen, können nun als Sammel-Eingangsrechnung erfasst und im Zuge der Erfassung auf die betroffenen Akte aufgeteilt werden.</div></li>
+
+
+
+</ul>
+
+<p>Details zu diesen und weiteren Neuerungen finden Sie in der <b>Änderungsbeschreibung</b> zu CROSS 2.11, die wir etwa drei Wochen vor der Programmaussendung mit allen Informationen rund ums neue Release im Partner.Net zur Verfügung stellen werden.
+
+<!--
+<p>Details zu diesen und weiteren Neuerungen finden Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/9B73386B758C8346C125758400487020?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>&raquo; Änderungsbeschreibung zu CROSS 2.10</b></a> in der Porsche Informatik Infoline.</p>
+-->
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorschau auf CROSS 2.11 - Handel">Günther Richter</a></p>
+
+
+
+
+
+

@@ -1,0 +1,20 @@
+
+<h1>SERVICE DESK: Neue Mitarbeiter</h1>
+<h2>Für die Bewältigung neuer Aufgaben wird der Service Desk personell verstärkt.</h2>
+
+
+
+<a class=info href="#"><img src="images/bild_alk.jpg" width="190" height="120" alt="Service Desk" /><span></span></a>
+
+
+<p>Das Aufgabengebiet unseres Service Desks steigt stetig weiter an. Nachdem in den letzten Jahren neben dem 1st-Level-Support für Lotus Notes und für Windows POCSO im Einzelhandel viele administrative Themen an den Service Desk übergeben wurden, kommen nun wieder <b>neue Herausforderungen</b> auf die zentrale Support-Drehscheibe zu.</p>
+
+<p>Aktuell übernimmt der Service Desk den <b>1st-Level-Support für Netzwerkanfragen</b> aller Kundenbereiche (Konzern, Einzelhandel, Partnerländer) und fungiert ab sofort als <b>Erstansprechpartner für unsere Konzern-KollegInnen aus Wien</b>. Zusätzlich gibt es mit neuen Kunden, Applikationen und den damit verbundenen administrativen Aufgaben ständig neue Betätigungsfelder in unserem dynamischen Umfeld.
+</p>
+
+<p>Um für die aktuellen Entwicklungen aufgestellt zu sein, verstärken uns im Service Desk neue KollegInnen, was nach deren Einarbeitungsphase sicherstellen soll, dass Leistung und Qualität auch mit gewachsenen Aufgaben auf dem gewohnt hohen Niveau bleiben.</p>
+
+<p>Als Service Desk Agents neu im Team sind: <b>Julia Stark</b> und <b>Olukayode Bello</b> und als freie Mitarbeiter unterstützen uns weiters <b>Theresa Thalhammer</b> und <b>Sandra Staib</b>.
+Im Bereich Netzwerk Support und Administration haben wir mit den freien Mitarbeitern <b>Fridolin Einböck</b> und <b>Thomas Winkler</b> ebenfalls tatkräftige Unterstützung erhalten.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Mitarbeiter">Markus Watzik</a></p>

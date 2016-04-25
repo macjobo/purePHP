@@ -1,0 +1,69 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Internet Explorer 7.0</h1>
+<h2>Nach erfolgreichen Tests aller wichtigen Web-Applikationen für Ihren Betrieb starten wir ab Oktober 2007 mit dem Massenrollout des neuen Internet Explorers 7.0.</h2>
+<p>
+Der neue Internet Explorer 7.0 bringt eine ganze Reihe von Neuerungen und Verbesserungen, im Folgenden ein Überblick über die Highlights:
+
+
+<ul>
+<li><div><b>Registernavigation</b>: Die wichtigste Neuerung ist die Möglichkeit, mehrere Webseiten in einem Programmfenster darzustellen. Zusätzlich aufgerufene Webseiten werden dabei nicht in jeweils neuen Fenstern, sondern innerhalb desselben Fensters in einer neuen Registerkarte geöffnet.</div>
+</li>
+
+<li><div><b>Integrierte Eingabeleiste für schnelle Internetsuche</b>: Im neuen Internet Explorer wurde eine Suchmaske integriert, mit der man schneller eine Websuche aufrufen kann. Standardmäßig haben wir hier die Suchmaschine Google hinterlegt.</div></li>
+
+<li><div> <b>Verbesserte Druckfunktionalität</b>: Der Internet Explorer 7 bietet eine komfortable Druckvorschau für mehrere Seiten, eine einfache Seitenrand-Anpassung und die Möglichkeit, die Textgröße zu verändern sowie nur ausgewählte Texte zu drucken. Eine ganz besondere Verbesserung aber ist die automatische Größenanpassung des Ausdrucks auf dem verwendeten Papier.</div></li>
+
+
+<li><div><b>Sicherheit</b>: Microsoft hat mit dieser Version viel Aufwand in das Thema Sicherheit investiert und einige Sicherheitslücken der Vorgängerversion geschlossen. Auch die Performance wurde bei dieser Version weiter optimiert.</div></li>
+
+
+</ul>
+Gleichzeitig mit der Einspielung des IE 7.0 bringen wir auch Ihr Client-Betriebssystem mit <b>Sicherheitsupdates</b> auf den neuesten Stand. Bezüglich des Termins für Ihren Betrieb wird Sie unser POCSO Management Center frühzeitig kontaktieren.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Internet Explorer 7.0">Herbert Harringer</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

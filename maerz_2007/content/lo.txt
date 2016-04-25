@@ -1,0 +1,42 @@
+<div class="umbruch"></div>
+<h1>POCSO: Microsoft Office 2007 Kompatibilität</h1>
+<h2>Bis Ende März werden alle POCSO-Arbeitsplätze mit einer Software ausgestattet, mit der Dateien des neuen Office-2007-Formats auch mit den Office-2000-Programmen bearbeitet werden können.</h2>
+
+
+<p>Vor kurzem hat Microsoft das neue <b>Office 2007</b> veröffentlicht. Die neuen Office-Dateien basieren auf einem völlig <b>neuen Dateiformat</b>, das ältere Office-Versionen nicht mehr anzeigen können. Deshalb hat Microsoft ein sogenanntes "Compatibility Pack" bereit gestellt, mit dem Sie neue Office-Dateien mit den Endung ".docx", ".xlsx" und ".pptx" auch mit dem im POCSO-Standard installierten <b>Office 2000</b> anzeigen, bearbeiten und speichern können. </p> 
+<p>Seit 26.02.2007 ist jeder neu installierte PC im POCSO-Umfeld mit dieser Software ausgestattet. Eine <b>Nachverteilung</b> an alle POCSO-Arbeitsplätze ist im März 2007 geplant. Eine kurze <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/501818f60553bc16c1256f1700433247/3a105ab3fd346c40c12572900041b52f?OpenDocument" alt="Anwenderbeschreibung Office 2007 Kompatibilität" title="Anwenderbeschreibung Office 2007 Kompatibilität"><b>Anwenderbeschreibung</b></a> finden Sie in der Porsche Informatik Infoline.</p>
+<p>Für weitere Fragen steht Ihnen unser Customer Care Center gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Office 2007 Kompatibilität">Herbert Harringer</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

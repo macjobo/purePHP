@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Statusmeldung POCSO-Fernwartung</h1>
+<h2>Mittels Symbol in der Taskleiste sind Sie ab sofort jederzeit über den Status der Fernwartungsverbindung auf Ihren PC-Arbeitsplatz informiert.</h2>
+
+<p>Mitte Dezember haben wir in allen POCSO-Betrieben die "<b>Statusmeldung POCSO-Fernwartung</b>" eingesetzt. Damit kann jeder Anwender erkennen, ob die POCSO-Fernwartung auf seinem PC geöffnet oder geschlossen ist.</p>
+
+<p>Mitarbeiter des Supports können nur dann eine Verbindung mit Ihrem Client herstellen, wenn Sie dies durch <b>Bestätigen</b> einer entsprechenden Meldung erlauben. In der Taskleiste können Sie dann jederzeit ersehen, ob die Fernwartungsverbindung noch aufrecht ist oder nicht.</p>
+
+<p>Mit dieser Lösung möchten wir Ihnen <b>Sicherheit</b> darüber geben, dass niemand unbefugt auf Ihren PC zugreift. Details dazu und wie die Meldungen im Einzelnen aussehen, finden Sie in einer <b><a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/f9ca8c1665df61b3c1257345002cdb8b/759cd80f2f7a0694c12573a700323a38?OpenDocument" target="_blank" title="Beschreibung 'Status POCSO-Fernwartung'">kurzen Beschreibung</a></b> in der Porsche Informatik Infoline.</p>
+
+<p>Als Ansprechpartner für Fragen steht Ihnen das Customer Care Center gerne zur Verfügung.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Statusmeldung POCSO-Fernwartung">Friedrich Malle</a></p>
+
+
+
+
+
+
+
+
+

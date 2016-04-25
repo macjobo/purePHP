@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Neues CROSS-Release 2.12: Teilebestellung im Verbund</h1>
+<h2>Sorgen Sie mit der neuen CROSS-Funktion "Teilebestellung im Verbund" für eine deutliche Prozessverbesserung!</h2>
+
+
+<img src="images/bild_wag5.jpg" width="190" height="120" alt="Teilebestellung im Verbund" />
+
+
+<p>Die <b>Filialen</b> Ihres Betriebsverbundes liegen alle in unmittelbarer Nähe zueinander? <b>Teilebestellungen und -lieferungen</b> zwischen den Filialen kommen häufig vor? Wenn Sie sich dabei über ineffiziente Bestellabwicklungen ärgern, dann können Sie mit der <b>elektronischen Teilebestellung</b> eine deutliche Prozessverbesserung erzielen!</p>
+
+<p>Über das gewohnte <b>Bestellmodul</b> in CROSS können Bestellungen der gewünschten Filiale zugeordnet werden. In der Filiale, die die Bestellung empfängt, werden definierte Mitarbeiter über einen <b>Bestelleingang</b> informiert und können die Bestellungen einem Auftrag zuordnen. Nach der Erstellung eines Lieferscheins oder der Rechnung wird im bestellenden Betrieb automatisch ein <b>CROSS-Lieferschein</b> erstellt.</p>
+
+<p>Details zur Teilebestellung im Filialverbund entnehmen Sie bitte dem Dokument "<b>Teiletransfer zwischen Betrieben</b>" in den <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/41ee254ae1710115c12577110027130d?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Änderungsbeschreibungen zu CROSS 2.12&nbsp;&raquo;</b></a>. Für die Freischaltung dieser lizenzfreien Funktion kontaktieren Sie bitte Ihren CROSS-Berater.</p> 
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Teilebestellung im Verbund">Gregor Wagner</a><br />
+CROSS-Fachkoordination</p>
+
+
+
+
+
+

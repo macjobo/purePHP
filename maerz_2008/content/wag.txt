@@ -1,0 +1,17 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS: Diverse Verrechnungen mit SAGA/2</h1>
+<h2>Alles, was Sie über "Diverse Verrechnungen" im Rahmen von SAGA/2 wissen müssen, haben wir in einer Dokumentation in der Porsche Informatik Infoline zusammengefasst.</h2>
+
+
+<p>Im Vorfeld der Umstellungen auf das neue Gewährleistungssystem SAGA/2 erhalten alle Betriebe eine umfangreiche Schulung, nach dem Umstieg auf SAGA/2 erfolgt ein eintägiger intensiver Erfahrungsaustausch.</p>
+<p>Aufgrund der Fülle von Informationen bleibt jedoch für das eine oder andere Thema zu wenig Zeit. Solche Themen haben wir mittels <b>Ablaufbeschreibungen</b> in der Porsche Informatik Infoline umfassend für Sie aufbereitet.</p>
+
+<p>Im Besonderen möchten wir Sie auf das Thema "<b>Diverse Verrechnungen</b>" hinweisen: Mit der Schnittstelle zu SAGA/2 können nun ja auch, anders als beim Vorgängersystem KD2, diverse Verrechnungen verwendet werden. Alles, was Sie im Zusammenhang damit beachten müssen, finden Sie in der Dokumentation "<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/d315ecc9ba5cf0a5c12573fa00484d66?OpenDocument" title="Link zu Diverse Verrechnungen - Verwendung im Rahmen von SAGA/2" target="_blank"><b>Diverse Verrechnungen - Verwendung im Rahmen von SAGA/2</b></a>" in der POI-Infoline.</p>
+<p>Weitere Themen rund um SAGA/2 haben wir im Dokument <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/56ea8a69cf8aa999c12572f20041cbda?OpenDocument" title="Link zu CROSS-SAGA/2-Themen" target="_blank"><b>"CROSS-SAGA/2-Themen"</b></a> für Sie zusammengefasst.</p>
+
+<p>Sollten für Sie noch Fragen offen bleiben, so weisen wir auf die Möglichkeit einer Vor-Ort-Betreuung durch einen CROSS-Berater hin. Die im Lizenzmodell von CROSS vorgesehene <b>kostenlose vierstündige Betreuung pro Kalenderjahr</b> deckt auch solche Beratungsfragen ab.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Diverse Verrechnungen mit SAGA/2">Gregor Wagner</a></p>
+

@@ -1,0 +1,29 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Neues CROSS-Release 2.12: Auftragsweitergabe</h1>
+<h2>Mit dem CROSS-Modul "Auftragsweitergabe" können Sie Aufträge an eine Filiale innerhalb eines Betriebsverbunds weiterleiten, ohne dass der Auftrag dort noch einmal erfasst werden muss.</h2>
+
+
+<img src="images/bild_wag4.jpg" width="190" height="120" alt="Auftragsweitergabe" />
+
+
+
+<p>Arbeiten Sie innerhalb eines <b>Betriebsverbunds</b>? Werden bestimmte Tätigkeiten, zum Beispiel Lackierungen, zentral in einem Betrieb durchgeführt? Dann ist das CROSS-Modul "Auftragsweitergabe" sicher eine interessante Alternative zur zeitaufwändigen telefonischen Auftragsvergabe!</p>
+
+<p>Im Betrieb, der eine Leistung anfordert, kann direkt aus dem Kundenauftrag heraus eine <b>Leistungsanforderung</b> bei jenem Betrieb erstellt werden, der die Leistung erbringen soll. Bei diesem wird wiederum automatisch ein <b>Auftrag</b> angelegt und definierte Benutzer werden verständigt, die eine Einplanung vornehmen können.</p>
+
+<p>Stellt dieser Betrieb nach Durchführung der Arbeiten seine <b>Rechnung</b> aus, so werden aus diesen Rechnungsdaten im Betrieb, der die Leistung angefordert hat, <b>Auftragspositionen</b> erzeugt. Der Betrieb muss nur noch die gewünschten Verkaufspreise für diese Auftragspositionen ergänzen und schon ist die Rechnung für den Kunden fakturierfähig!</p>
+
+
+<p>Detaillierte Informationen zum neuen <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/da0b5c41797e7decc125772600465c9a?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>CROSS-Modul "Auftragsweitergabe"&nbsp;&raquo;</b></a>  finden Sie in der POI-Infoline, auch Ihr Key Account Manager der Porsche Informatik berät Sie gerne.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Auftragsweitergabe">Gregor Wagner</a><br />
+CROSS-Fachkoordination</p>
+
+
+
+
+
+

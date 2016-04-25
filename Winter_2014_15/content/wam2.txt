@@ -1,0 +1,22 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Support: Benutzerauthentifizierung </h1>
+<h2>Die neue Lösung zur Identifizierung von Anrufern am Service Desk wird in den nächsten Wochen eingesetzt.</h2>
+
+<img src="images/bild_wam2.jpg" width="190" height="120" title="Benutzerauthentifizierung" />
+
+<p>Im letzten Newsletter haben wir es bereits angekündigt: Wir arbeiten gerade an einer Plattform, die unseren Supportmitarbeitern im Zweifelsfall die <b>einfache Identifizierung</b> eines Anrufers oder einer Anruferin ermöglicht. Die Anwender können in dieser Lotus-Notes-Datenbank <b>Frage-Antwort-Kombinationen</b> ausfüllen, die dann bei Bedarf vom Supportmitarbeiter abgefragt werden können.</p>
+
+
+<p>Im Fokus der neuen Lösung steht für uns die Erhöhung Ihrer <b>Sicherheit</b>: Kriminelle versuchen nicht nur über das Hacken von Systemen an Daten zu kommen; sie erschleichen sich oft auch Benutzernamen und Passwörter, in dem sie etwa eine Notsituation vorspielen oder Supportmitarbeiter unter Druck setzen.</p>
+
+<p>Wir möchten andererseits aber auch den <b>Aufwand</b> reduzieren, wenn die Identität von Benutzern festgestellt werden muss. Wenn erst ein Ausweis vorgelegt werden muss, was auch schon vorgekommen ist, ist das für alle Beteiligten unangenehm und verzögert die Lösung des anstehenden Problems erheblich.</p>
+
+<p>Aktuell testen wir die Lösung gerade mit einer Gruppe von <b>Pilotanwendern</b>; der Einsatz im Konzern erfolgt in den nächsten Wochen. Wir werden Sie gesondert per E-Mail darüber informieren.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Benutzerauthentifizierung">Markus Watzik</a><br />
+Leitung User Centric Services </p>
+
+
+

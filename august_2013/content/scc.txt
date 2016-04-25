@@ -1,0 +1,23 @@
+
+
+<h1>CROSS-Tipp: Mitarbeiter Ein- bzw. Austritt</h1>
+<h2>Welche Einstellungen sind in CROSS vorzunehmen, wenn ein Mitarbeiter ausscheidet bzw. ein neuer Mitarbeiter eingestellt wird?</h2>
+
+<img src="images/bild_scc.jpg" width="170" height="120" title="Mitarbeiter Ein- bzw. Austritt" />
+
+
+<p>Scheidet ein Mitarbeiter im Unternehmen aus, und/oder ersetzt ein neuer Mitarbeiter einen ehemaligen, sind je Rolle des Mitarbeiters einige <b>Einstellungen in CROSS</b> zu tätigen. </p>
+
+<p> 
+Wir haben für Sie <a href="http://kb.auto-partner.net/int/hilfe/klbpoial.nsf/f9ca8c1665df61b3c1257345002cdb8b/b9db3ed7e9154198c1257bb900489a7f?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">
+in der POI-Infoline&nbsp;&raquo;</a> eine <b>Checkliste</b> zur Verfügung gestellt, die Ihnen helfen soll, 
+die notwendigen Schritte schnell zur Hand zu haben, Ihr System stets sauber zu warten und dass Ihre 
+Mitarbeiter beim Einstieg in CROSS deren persönlichen Benutzernamen vorgeschlagen bekommen.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Mitarbeiter Ein- bzw. Austritt">Christian Schicht</a><br />
+CROSS-Beratung Österreich</p>
+
+
+

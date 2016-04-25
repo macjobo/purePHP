@@ -1,0 +1,20 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Letzte Softwareänderungen</h1>
+<h2>Ein neues Tool ermöglicht es Ihnen, die letzten SW-Änderungen auf Ihrem System nachzuverfolgen.</h2>
+
+<img src="images/SW-Änderung.jpg" width="300" height="120" alt="Letzte Softwareänderungen" />
+
+<p>Damit Ihre Client-Geräte Business-Anforderungen gerecht werden und auch aktuellen Sicherheitsstandards entsprechen, ist es notwendig, die Geräte laufend upzudaten. Dies geschieht zu 90% automatisch im Hintergrund.</p> 
+
+<p>Um in diesem Bereich mehr Transparenz zu schaffen, haben wir ein neues Tool entwickelt, das Ihnen ermöglicht, <b>die jeweils letzten zehn Änderungen am System</b> einzusehen, die von unserem Sofware-Verteilungssystem installiert wurden. Auch bei angekündigten Updates der Porsche Informatik (z. B. neuer Virenscanner) sehen Sie, ob diese bereits installiert sind.</p>
+
+<p>Zu finden ist das Tool unter <b>Start - Eigenentwicklungen (Windows XP)</b> beziehungsweise unter <b>Start - Anwendungen (Windows 7) - POCSO Letzte Softwareänderungen am System.</b></p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=SW-Änderungen">Herbert Lohninger</a></p>
+
+
+
+
+
+

@@ -1,0 +1,39 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS-Serie: CROSS.Controlling.Service Teil II</h1>
+
+<h2>Professionelles Controlling ist nicht nur für die Service-Verantwortlichen tägliches Brot. 
+Auch bei den Banken kommen klar strukturierte Kennzahlen und ein ganzheitliches Bild des Betriebes gut an. 
+Im zweiten Teil unserer Serie erfahren Sie, wie Sie CROSS.Controlling.Service dabei unterstützen kann.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="CROSS.Controlling.Service" />
+
+<p>Der Unternehmer/Geschäftsführer will die "förderungswürdigen" Schwerpunkte auf einen Blick erkennen. 
+"Ich schaue täglich zuerst auf die grünen und roten Balken, dann auf den Teileumsatz, die Auslastung, den Verrechnungsgrad und die nicht fakturierten Beträge. 
+Dann weiß ich, ob alles passt, oder weitere Analysen erforderlich sind". So der O-Ton eines Unternehmers. 
+Kennzahlen dazu liefern die <b>Betriebsübersicht</b>, die <b>Analyse der offenen Aufträge</b> und die bewährte Auftragsliste der offenen Subaufträge.</p>
+
+<p>Wird mehr repariert oder ausgetauscht? Erreiche ich den geplanten Lohnerlös je Leistungslöhner? Wie verteilen sich die Werte über die Abteilungen und Marken? 
+Welche Aufträge sind positiv, wo liegt der Soll/Ist-Vergleich im Minus? 
+Alles Fragen aus dem täglichen Servicegeschäft. Die <b>Serviceübersicht</b>, die <b>Leistungslöhneranalyse</b> und die nach Soll/Ist-Differenz sortierte <b>Auftragsanalyse</b> beantworten diese Fragen umgehend.</p> 
+
+
+
+<p>Ist der Bruttogewinn zum Vorjahr gestiegen, bei wem habe ich aus einer Warengruppe die meisten Teile eingekauft? 
+Wurden Bestände verändert? Zwei völlig neuartige Dashboards, die <b>Teileverkaufsanalyse</b> und die <b>Teilebestandsübersicht</b> 
+unterstützen den Teiledienstleiter bei seinen Controllingarbeiten.</p>
+
+<p>Zur Abrundung informiert die Auswertung der <b>Diversen Verrechnung</b> über die Nebenerlöse, 
+wie die Leihwagenverrechnung u. Ä.. Durch die absteigende Sortierung nach Erlösen erkennt der Betrachter sofort den Top-Seller der Nebenerlöse.</p>
+
+
+<p>Sogenannte Dashboards wurden entwickelt, damit die Informationen leicht vom menschlichen Auge und Gehirn verarbeitet werden können. 
+Stichwort "<b>Informationsdesign</b>". Wie das genau funktioniert, werden wir Ihnen im nächsten Newsletter erläutern.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Controlling.Service">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+

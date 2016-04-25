@@ -1,0 +1,9 @@
+<h1>POI Academy: Aktuelles Schulungsangebot</h1>
+<h2>lalala...</h2>
+
+<p>lalala...</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Aktuelles Schulungsangebot">Harald Rohrer</a></p>
+
+
+

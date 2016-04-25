@@ -1,0 +1,56 @@
+<h1>CROSS: Vorschau auf Release 2.16</h1>
+<h2>Ende Juni geht das neue CROSS-Release 2.16 in den Breiteneinsatz, hier ein Überblick über die wichtigsten Neuerungen im Bereich Service.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="CROSS 2.16 Highlights" />
+
+
+<p>Das neue CROSS-Release 2.16 bringt eine Reihe interessanter Neuerungen - hier die wichtigsten Änderungen im <b>Service-Bereich</b>:</p>
+
+<ul>
+
+<li><div>Mit CROSS Release 2.16 wird wieder der Standard im Bereich der <b>"Zubehöranalysegruppen" und "Zubehörarten"</b> hergestellt. Bitte beachten Sie in diesem Zusammenhang unbedingt die Informationen des entsprechenden <b>Partner.Net-Rundschreibens</b> "POI: System-Information Nr. 01/2011" vom 14.03.2011!!
+</div></li>
+
+<li><div>
+Das <b>CROSS-Mietvertragsmodul</b> unterstützt nun auch Ersatzfahrzeugprozesse, bei denen die Ausgabedaten erst nach dem Ausdruck des Mietvertrages bzw. Rückgabedaten nach der Rechnungslegung erfasst werden. Weiters können nun auch alle in CROSS gespeicherten Fahrzeuge bzw. diverse Fahrzeuge (welche nicht im Fahrzeugstamm erfasst werden müssen) vermietet werden.
+</div></li>
+
+<li><div>
+In diversen Ersatzfahrzeuglisten werden die <b>Ersatzfahrzeuge</b> nur noch dann standardmäßig angezeigt, wenn Sie zum aktuellen Zeitpunkt auch aktiv sind. Es können nun auch beliebige Fahrzeuge vermietet werden.
+</div></li>
+
+<li><div>
+In der <b>Eingangsrechnungskontrolle</b> wurden eine ganze Reihe von Verbesserungen umgesetzt, Details entnehmen Sie bitte der Änderungsbeschreibung zu CROSS 2.16.
+</div></li>
+
+<li><div>
+Im Anschluss an eine Teileselektion können nun bestimmte <b>Teilestammdaten</b> gelöscht werden (z.B. der Lagerort bei Teilen ohne Bestand).
+</div></li>
+
+<li><div>
+Wie bereits in den Schulungen der Händlerfinanzberatung angekündigt, kommt mit diesem Release die neue Kennzahl <b>"Verrechnungsgrad"</b> zum Einsatz. Mit dieser Kennzahl können Sie "Nachlässe" auf Arbeitserlöse besser nachvollziehen.
+</div></li>
+
+<li><div>
+Mit dem neuen Release werden folgende Änderungen auf der <b>Service-Rechnung</b> durchgeführt:<br />
+* Die <b>Markenlogos</b> können nun größer (den CI-Vorgaben entsprechend) angedruckt werden. <br />
+* Die Mengenangaben bei Teilen werden um die <b>Einheit</b> (Stück, Liter, Kilogramm, etc...) erweitert. <br />
+* Wird ein <b>Rabatt</b> vergeben, dann wird dieser auf zwei Stellen hinter dem Komma genau angedruckt. 
+</div></li>
+
+</ul>
+
+<p>Weitere wichtige Informationen zum neuen Release entnehmen Sie bitte einem gesonderten <b>Rundschreiben</b>, das wir rechtzeitig vor der Release-Einspielung zusammen mit einer ausführlichen <b>Änderungsbeschreibung</b> im Partner.Net veröffentlichen werden. Auch die MitarbeiterInnen unseres Service Desks stehen für Ihre Fragen gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS 2.16 Highlights">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

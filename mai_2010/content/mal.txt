@@ -1,0 +1,72 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Von den hunderten Änderungen, die wir Woche für Woche in Ihrem Netzwerk durchführen, merken Sie als Anwender meist nichts. Hier der Hinweis auf aktuelle Neuerungen, die sich spürbar auf Ihre tägliche Arbeit mit dem PC auswirken können.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" alt="Neu im Pocso-Netzwerk" />
+
+<ul>
+
+
+<li><div>Mit dem neuen <b>POCSO-Infotool</b>, das Ende Mai in den POCSO-Netzwerken eingesetzt wird, werden Sie durch das POCSO Management Center direkt am PC über <b>Systemzustände</b> informiert. Unterschiedliche Farben signalisieren dabei die Wichtigkeit und Dringlichkeit der Informationen. Eine detaillierte <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/3873a90d457994cec1257345002cdb87/c9b93079a29c9583c125771a004839f2?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Beschreibung zum neuen Infotool&nbsp;&raquo;</b></a> finden Sie in der POI-Infoline.</div></li>
+
+<li><div>
+Seit Ende April kann das neue Laptopmodell <b>HP Elitebook 8540P</b> installiert werden. <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/f001ce07db28243fc1257345002cdb93/c84fba5d04365fb0c12577060031664f?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Alle Informationen dazu&nbsp;&raquo;</b></a> finden Sie in der POI-Infoline. </div></li>
+
+
+
+<li><div>Das neue Software-Paket <b>"POI Client Netzwerk Performance Test"</b> führt umfangreiche Tests zur Performance von Arbeitsplätzen durch: Es ermittelt Netzwerkgeschwindigkeit, CPU-Auslastung, Logon-Zeit, Hauptspeicher- und Festplattenauslastung, Defragmentierungsgrad der Harddisk und einiges mehr. Bitte beachten Sie, dass dieser Test nur bei PCs sinnvoll ist, die den POCSO-Hardware-Mindestanforderungen entsprechen.</div></li> 
+
+<li><div>Das im April-Newsletter vorgestellte <b>Software-Paket zur Festplattenbereinigung</b> hat sich in der Praxis so gut bewährt, dass wir es nun auch auf PCs durchführen, die eigentlich keine Platzprobleme haben: Die Bereiningungsmenchanismen sind bis auf die Komprimierung des C-Laufwerks die gleichen.</div></li>
+</ul>
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der POI.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

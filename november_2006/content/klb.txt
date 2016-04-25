@@ -1,0 +1,12 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Lotus Notes: "Suche"-Mails an alle Betriebe</h1>
+<h2>E-Mails, die an alle Notes-User in den Betrieben versendet werden, verursachen bei den Empfängern große Verärgerung.</h2>
+<p>Leider kam es in den letzten Wochen wieder einige Male vor, dass per <b>Mail an alle Betriebe</b> nach bestimmten Teilen gesucht wurde oder gar "Fun-Mails" mit Fotos als Anhang an alle 4800 Notes-User unserer Organisation versendet wurden. Wenn auf diese Botschaften dann auch noch mit "Allen antworten" reagiert wird, verursachen solche Aktionen nicht nur spürbare <b>Performance-Einbußen</b>, sondern auch große <b>Verärgerung</b> bei den meisten Notes-Benutzern! So wurden wir in der Folge mehrfach von Kunden gebeten, von Seiten der Porsche Informatik gegen diesen <b>Missbrauch</b> der Mail-Infrastruktur vorzugehen.</p>
+<p>Wir bitten Sie daher eindringlich, vom Versenden derartiger "Rund-Mails" Abstand zu nehmen. Bitte haben Sie auch Verständnis, wenn wir uns in Zukunft vorbehalten, widrigenfalls den <b>Mail-Zugang</b> der Verursacher zu deaktivieren und nur nach Prüfung und kostenpflichtig wieder freizuschalten.</p>
+<p>Ein Tipp für alle, die auf der Suche nach Teilen auf Unterstützung durch Kollegen aus anderen Autohäusern hoffen: Nutzen Sie das "<b>Schwarze Brett</b>"! Diese Notes-Datenbank wurde eigens für diese Zwecke eingerichtet und steht allen Notes-Usern der Organisation zur Verfügung.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Suche-Mails an alle Betriebe">Barbara Klein</a></p>
+
+

@@ -1,0 +1,32 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Infrastruktur: Daten-Backup-Leitungen</h1>
+<h2>Erhöhen Sie die Verfügbarkeit Ihrer wichtigen Systeme mit dem Einsatz einer Daten-Backup-Leitung.</h2>
+
+<p>Immer mehr Systeme der Porsche Informatik, aber auch der Hersteller werden zentral betrieben. Verfügbarkeit und Ausfallssicherheit der Anwendungen werden damit immer wichtiger.</p>
+
+<p>Mit dem Einsatz einer Daten-Backup-Leitung "Porsche Business LIC plus - Kommunikationsart Secure" können Sie die Verfügbarkeit steigern: Eine <b>zweite Datenleitung</b> mit geringerer Bandbreite wird in das Rechenzentrum nach Salzburg geschaltet, die bei einem Ausfall der Hauptleitung automatisch die Datenkommunikation übernimmt. Damit stehen Ihnen für die Zeit des Leitungsausfalls folgende Systeme trotzdem zur Verfügung:</p>
+
+<ul>
+<li>CROSS RS</li>
+<li>VU2 Online</li>
+<li>SAP</li>
+<li>Carlos Web, Typenscheinausdruck</li>
+<li>VAS-Anfragen</li>
+</ul>
+
+<p>Sie können damit Ihre wichtigsten Tätigkeiten - wenn auch mit eingeschränkter Geschwindigkeit - fortführen und müssen nicht auf die Wiederherstellung der Datenleitung warten. Durch den Einsatz einer Backuplösung erreichen Sie eine mittlere Verfügbarkeit der Kommunikationsanbindung von <b>99,9 Prozent</b>. </p>
+
+
+<p>Für nähere Informationen zum Thema Daten-Backup-Leitungen steht Ihnen Ihr IT- und Organisationsberater gerne zur Verfügung. </p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Daten-Backup-Leitungen">Friedrich Malle</a></p>
+     
+
+
+
+
+
+
+
+

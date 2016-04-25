@@ -1,0 +1,38 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Neues Software-Paket für POCSO-PCs - Freigabe HP Laptop 9470M Ultrabook - Microsoft Windows XP Update.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+<li><div>
+Bisher reichte die in Windows integrierte Unterstützung für .zip-Dateien aus, in letzter Zeit werden aber immer mehr <b>.rar-Dateien</b> verwendet. 
+Das kostenlose Programm 7-Zip-Client ist zum Öffnen solcher Dateien geeignet. Ab sofort wird diese Software auf jedem neuen POCSO-PC installiert. Eine allgemeine Verteilung folgt.
+</div></li>
+
+<li><div>
+Auch bei POCSO gibt es ab sofort ein <b>Ultrabook im Standard</b>, das <b>HP 9470M</b>. Dieses Gerät besticht durch ein neues, noch schlankeres Design und gesteigerte Performance. 
+Die ersten Geräte sind bereits eingetroffen. Informieren Sie sich über die Vorteile und Möglichkeiten der neuen Notebookgeneration im e-Shop 
+" von S&T (Benutzer: "900959-VWAprodAT-1", Passwort: "VWAprodAT") im Bereich "Computersysteme > Notebooks" oder bei Herrn Markus Berghammer von S&T Austria GmbH (Tel.: 0662 - 850 285-1515).
+</div></li>
+
+
+<li><div>
+Das Laufwerk K: des CROSS-Servers machte immer wieder Probleme bei einem Leitungsausfall unter Windows XP. 
+Der Explorer, und damit der komplette PC, reagierten nicht mehr. Mit diesem <b>Update</b> wird die Problematik behoben, Windows 7 ist davon nicht betroffen. 
+Das Microsoft Update wurde bereits bei allen <b>Windows XP-Rechnern</b> eingespielt.
+</div></li>
+
+
+</ul>
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>

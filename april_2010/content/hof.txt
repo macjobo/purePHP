@@ -1,0 +1,22 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Typgruppen und Leistungspreise</h1>
+<h2>...</h2>
+
+
+<img src="images/bild_hof.jpg" width="190" height="120" alt="Tipp: Typgruppen und Leistungspreise" />
+
+
+....
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Tipp: Typgruppen und Leistungspreise">Georg Hofer</a><br />
+CROSS-Support</p>
+
+
+
+
+
+

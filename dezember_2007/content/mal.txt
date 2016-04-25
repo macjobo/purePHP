@@ -1,0 +1,23 @@
+<h1>CROSS: Produktende CROSS 1</h1>
+<h2>Die Umstellung der österreichischen CROSS-Betriebe von CROSS 1 auf CROSS 2 ist abgeschlossen!</h2>
+
+<p>Am 13.&nbsp;Dezember&nbsp;2007 wurde das <b><a href="index.php?page=bild_mal">Autohaus Stockinger in Haid</a></b> als letzter Betrieb in Österreich von CROSS 1 auf CROSS 2 umgestellt. Damit ist nun nach drei Jahren Entwicklungszeit und zweieinhalb Jahren Rollout eines der größten Projekte der Porsche Informatik abgeschlossen. In dieser Zeit wurde die neue CROSS-Version bei über <b>500 Betrieben</b> eingeführt, heute arbeiten <b>über 9000 Anwender</b> mit dem System.</p>
+
+<p>Als 1997 der Startschuss für CROSS 1 fiel, hatten wir das Ziel ein System zu entwickeln, das 
+
+<ul>
+<li><div>quer über Geschäftsbereiche und Mandanten</div></li>
+<li><div>quer über Marken</div></li>
+<li><div>quer über die Kette Händler - Importeur - Werk und</div></li>
+<li><div>quer über Länder</div></li>
+</ul>
+
+einsetzbar sein sollte.</p>
+
+<p>Mit CROSS 2 haben wir diese Ziele erreicht. Wir sind stolz darauf, Ihnen heute das <b>modernste und prozessorientierteste Dealer Management System</b> in der VW-Welt anbieten zu können.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Produktende CROSS 1">Friedrich Malle</a></p>
+
+
+

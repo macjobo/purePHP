@@ -1,0 +1,35 @@
+
+<h1>CROSS-Serie: CROSS.Controlling.Service Teil III</h1>
+
+<h2>Was ist jetzt eigentlich so neu an CROSS.Controlling?</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="80" title="CROSS.Controlling.Service" />
+
+<p>Die herausragende Neuerung an CROSS.Controlling ist die Art und Weise, wie Kennzahlen miteinander verknüpft dargestellt werden - das <b>Informationsdesign</b>.
+</p>
+
+<p>Zunächst wurden die <b>Bezeichnungen</b> der Kennzahlen vereinheitlicht. Da gibt es nur mehr "Stunden", "Erlöse", "Anzahl" und "Prozentwerte" mit jeweils fix eingestellten Nachkommastellen. In Verbindung mit eindeutig zugeordneten <b>Grafikelementen</b> erkennt der Betrachter unmittelbar die Bedeutung der Zahl.</p> 
+
+
+
+<p>Das eigentliche Highlight von CROSS.Controlling ist aber die vertikale und horizontale <b>Bewertung der Informationen</b>. Die Kennzahlen werden mit den Vorjahreswerten verglichen und die Abweichungen durch <b>Rot-Grün-Balken</b> herausgehoben. Durch die vertikale Reihung einer Kennzahl werden Stärken und Schwächen (z. B. die Abteilung mit der höchsten Produktivität) gewichtet und sind auf einen Blick erkennbar.</p>
+
+<p>Zusätzliche <b>Filter</b> ("Slicer") grenzen die Kennzahlen genauer ein. Damit können Sie z. B. direkt auf die weiteren Betriebe im Verbund wechseln oder ohne Seitenwechsel auf die Servicekennzahlen einer Marke umschalten, um die Kennzahlen für den Businessplan abzurufen.</p>
+
+
+<p>Im Juli-Newsletter stellen wir Ihnen zum Abschluss vor, wie die <b>Umstellung</b> auf CROSS.Controlling ablaufen wird.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Controlling.Service">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+
+

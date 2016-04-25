@@ -1,0 +1,27 @@
+<h1>Anwendungen: Unternehmer-Cockpit</h1>
+<h2>Die zweite Phase des Unternehmer-Cockpit-Pilotbetriebs steht kurz vor dem Abschluss.</h2>
+
+<!--
+
+<img src="images/bild_wit.jpg" width="190" height="120" alt="Unternehmer-Cockpit" />
+
+-->
+<a class=info href="#"><img src="images/bild_wit.jpg" width="190" height="120" alt="Unternehmer-Cockpit" /><span></span></a>
+
+<p>In der ersten Phase des Pilotbetriebs für das neue <b>Controlling-Tool "Unternehmer-Cockpit"</b> waren nur Kennzahlen aus Service, Teile und Finanzen vorgesehen. Mit Einsatz des CROSS Release 2.11 werden nun auch die wichtigsten Kennzahlen aus dem Bereich <b>Automobilverkauf</b> an das Unternehmercockpit gemeldet.</p>
+
+<p>Das bedeutet für den Chef, dass er auf einem Bild oder einer Tabelle <b>gleichzeitig</b> Informationen aus dem Service - z. B. Serviceerlös, Teileumschlag und Auslastung - und aus dem Automobilhandel dargestellt bekommt. Ein Beispiel wäre etwa: Auslieferungen, Abschlüsse und Bruttogewinne je Marke, verkaufbare bzw. bereits finanzierte Fahrzeugbestände - mit oder ohne Funktionsfahrzeuge und natürlich wo möglich auch nach Marken getrennt. Die Sollstückzahlen für die Abschlüsse kommen dabei direkt aus den Sollwerten von CROSS.</p>
+
+<p>Für den <b>GW-Handel</b> gibt es dann noch zusätzliche Kennzahlen wie die Lagerdrehung oder die durchschnittlichen Standtage. Abgerundet wird das Cockpit mit der Information der demnächst <b>angelieferten Neuwagen</b> (aus Carlos) und Anzahl der <b>Kundenkontakte</b> und <b>Angebote</b> (aus der VU).</p>
+
+<p>Damit ist Schluss mit der Papierwirtschaft! Was Sie sich als Unternehmer bis heute über mehrere Ausdrucke an operativen Unternehmensdaten beschafft haben, wird jetzt im Unternehmer-Cockpit auf Knopfdruck täglich für Sie auf <b>einer Bildschirmseite</b> für eine schnelle Beurteilung der aktuellen Situation Ihres Unternehmens zusammengestellt.</p>
+
+
+<p>Die Freigabe des Unternehmer-Cockpits für den Einsatz erfolgt im ersten Quartal 2010. Wir werden Sie zu diesem Zeitpunkt schriftlich informieren und Ihnen ein Angebot unterbreiten. Für Fragen zu MIK-BIS bzw. dem Unternehmercockpit wenden Sie sich bitte an Ihren Key Account Manager der Porsche Informatik.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Unternehmer-Cockpit">Christian Witibschlager</a></p>
+
+

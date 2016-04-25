@@ -1,0 +1,38 @@
+<div class="umbruch"></div>
+<h1>CROSS: Neuwagen-Jahresendverrechnung</h1>
+<h2>Im Jänner erfolgt die Neuwagen-Jahresendverrechnung (JEV) für das abgelaufene Jahr - alle Informationen über die Behandlung in CROSS finden Sie in der Porsche Informatik Infoline.</h2>
+
+<p>Gemäß den Vereinbarungen aus den Händlerverträgen werden die <b>Boni</b> für die heuer fakturierten Neuwagen im Jänner gutgeschrieben. Die Eingangsrechnungen werden an alle CROSS-Betriebe elektronisch in die Neuwagen-Akte eingespielt.
+</p>
+
+<p>In der Woche vor der eigentlichen JEV werden die <b>Großabnehmergeschäfte</b> berechnet und entsprechende Buchungsanzeigen ausgestellt. Anschließend erfolgt in einer Wochenend-Verarbeitung die Berechnung aller anderen <b>Neuwagengeschäfte</b>. Dazu haben Sie bereits detaillierte Informationen von den Importeuren erhalten.
+Die internen Umbuchungen für <b>Vorführautos</b> im GW-Stamm werden mit dem Buchungsdatum der NW-Gutschrift durchgeführt (für die JEV in der Regel der 31.&nbsp;Dezember).</p>
+     
+<p>Bitte beachten Sie, dass die GI-Eingangsrechnung für fehlende NW-Akte nicht eingespielt werden kann. In der Porsche Informatik Infoline finden Sie eine <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/fdf5425b4cd7ef6bc12570ca00720cd3?OpenDocument" target="_blank" title="Alle Informationen zur JEV-Behandlung in CROSS"><b>ausführliche Beschreibung</b></a>, wie die JEV in CROSS zu behandeln ist.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neuwagen-Jahresendverrechnung ">Christian Witibschlager</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

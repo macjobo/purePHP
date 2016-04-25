@@ -1,0 +1,22 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Benutzer-Service: WLAN für iPhone und iPad</h1>
+<h2>Aus organisatorischen Gründen verlieren in Zukunft iPhones und iPads, die unser "inHouse"-Gäste-WLAN drei Monate lang nicht genutzt haben, automatisch die Zugangsberechtigung.</h2>
+
+<img src="images/bild_lo2.jpg" width="190" height="120" alt="WLAN für iPhone und iPad" />
+
+
+<p>Wenn es gewünscht wird, berechtigen wir <b>iPhones</b> und <b>iPads</b>, die wir im Rahmen unseres "POCSO-managed.mobile"-Services betreuen, für die Nutzung unseres <b>WLAN-Gästenetzes</b>.</p>
+
+<p>Damit wir <b>unnötige Lizenzkosten</b> und "Systemleichen" vermeiden, nehmen wir hier nun eine organisatorische Änderung vor: Geräte, die sich länger als <b>drei Monate </b>nicht am System angemeldet haben, werden ab sofort automatisch bereinigt und verlieren damit die <b>Nutzungsberechtigung</b>. Bitte beachten Sie dies zum Beispiel bei längeren Auslandsaufenthalten.</p>
+
+
+<p>Natürlich können Sie jederzeit eine <b>neuerliche inHouse-WLAN-Freischaltung</b> per Ticket am Service Desk der Porsche Informatik beantragen. Für Fragen dazu dazu stehen Ihnen die KollegInnen unter 0662/4681-2222 bzw. im <a href="http://support.porscheinformatik.at" target="_blank" title="Zum Porsche-Informatik-Online-Support"><b>Online-Support&nbsp;&raquo;</b></a>  gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=WLAN für iPhone und iPad">Herbert Lohninger</a><br />
+Teamleitung Client-Team Konzern
+</p>
+
+

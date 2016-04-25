@@ -1,0 +1,40 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS-Tipp: Auswertungen für den GW-Manager</h1>
+<h2>Ankaufspreis, Standzeitmanagement und Aufbereitung - die drei wesentlichen Erfolgsfaktoren zur Überprüfung der Rendite eines Gebrauchtwagens.</h2>
+
+<img src="images/bild_fog.jpg" width="190" height="120" title="Auswertungen für den GW-Manager" />
+
+
+<p>Gerade im Gebrauchtwagenhandel ist es wichtig, die Rendite jedes einzelnen Fahrzeugs genau unter die Lupe zu nehmen. 
+Neben dem Ankaufspreis  sind dabei Faktoren wie Standzeitmanagement und Aufbereitung wesentliche Erfolgsfaktoren.
+CROSS bietet gerade in diesem Bereich eine Fülle von Listen und Selektionsmöglichkeiten, von denen wir  einige Beispiele erwähnen möchten:</p>
+
+<ul>
+
+<li><div>
+Prüfen Sie permanent die <b>Reparaturkosten</b> und <b>Standtage</b> Ihres GW Bestandes anhand der Auswertung "GW-Bestand RepVergleich nach Standzeit". 
+Erfassen Sie hierzu die geplanten Aufbereitungskosten laut elektronischem Testbericht  direkt im Fahrzeugakt in der Kalkulation des Verkaufsgewinnes als Ziel-Wert. 
+Dadurch haben Sie eine perfekte Kontrolle, ob die veranschlagten Reparaturkosten über- oder unterschritten wurden. 
+</div></li>
+
+<li><div>
+Prüfen Sie die <b>Reparaturdauer</b> bei Ihren Fahrzeugen, indem Sie im Aktdetail des GW-Aktes das Datum der Fertigstellung einer Reparatur erfassen. 
+Ausgehend vom Datum der Gutschrift ermittelt CROSS automatisch die Aufbereitungsdauer, also jene Zeit, die benötigt wird, um Ihre Gebrauchten salonfähig zu machen.
+</div></li>
+
+<li><div>
+Prüfen Sie die <b>Bruttogewinne</b> Ihrer Gebrauchtwagen z.B. mit Hilfe der Auswertung "GW-Auslieferungen RepVergleich nach Diff Rep". 
+Hier berücksichtigt CROSS auch jene Aufwände, die nach der Auslieferung die Rendite Ihrer Gebrauchtwagen verändert haben.
+</div></li>
+
+
+</ul>
+
+<p>Ih zuständiger CROSS-Berater hat nützliche Tipps und Tricks zum Thema für Sie und berät Sie gerne, falls Sie mehr Informationen zum Gebrauchtwagen-Management mit CROSS wünschen.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Auswertungen für den GW-Manager">Georg Föttinger</a><br />
+CROSS-Beratung Österreich</p>
+

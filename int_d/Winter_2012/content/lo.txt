@@ -1,0 +1,17 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Merkblatt Mitarbeiter mit Auslandseinsätzen</h1>
+<h2>Um unsere KollegInnen, die im Auftrag der PHS in unseren Ländern unterwegs sind, seitens IT optimal zu unterstützen, haben wir ein Merkblatt für Sie erstellt.</h2>
+
+<img src="images/Merkblatt.PNG" width="109" height="154" alt="Merkblatt" />
+
+<p>Wir haben das <a href="http://kb.auto-partner.net/int/hilfe/klbisinf.nsf/AllByID/29A6203C6294A914C1257A9F0040C201?OpenDocument
+" target="_blank"title="Merkblatt"><b>Merkblatt &nbsp;&raquo;</b></a>so gestaltet, dass es grundlegend zwischen einem <b>kurz- und langfristigen Auslandsaufenthalt</b> unterscheidet. 
+Speziell eingegangen wird auf die Themen Notebook, Smartphone/Tablet und Telefonie. 
+Dabei werden die <b>Möglichkeiten</b>, der von der Porsche Informatik angebotenen Lösungen, näher erläutert, aber auch auf die vorhandenen <b>Einschränkungen</b> hingewiesen, die in gewissen Konstellationen bestehen.
+Wir möchten Ihnen damit vor Antritt eines Auslandsaufenthaltes einen optimalen Überblick über die Möglichkeiten und nötigen Vorbereitungen (z. B. Produktbestellungen) geben.</p>
+
+<p>Wir werden dieses Merkblatt ständig aktualisieren und sind natürlich für jegliches Feedback von Ihnen dankbar. Ab <b>Jänner 2013</b> finden Sie auch einen Link in unserem <b>POCSO-PC-Benutzerhandbuch</b> dazu.
+</p>
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=Merkblatt Expatriates">Herbert Lohninger</a></p>

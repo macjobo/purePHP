@@ -1,0 +1,75 @@
+<div class="umbruch">&nbsp;</div>
+<h1>SAP: Rollout Successful</h1>
+<h2>SAP already in use for  accounting in 7 company countries!</h2>
+
+<p>SAP has been used by Porsche since 1992. In 2004 Porsche Holding decided that the software successfully implemented in accounting in Austria should also be implemented as the <b>international company standard in partner countries</b>.</p>
+<p>In recent years we have, as planned, in cooperation with the countries, <b>introduced the SAP system</b> in accounting for the following Porsche daughter companies:</p>
+
+<ul>
+<li>Retail Hungary</li>
+<li>Wholesale Hungary</li>
+<li>Eurent Hungary</li>
+<li>Retail Czech Republic</li>
+<li>Wholesale Slovakia</li>
+<li>Retail Slovakia</li>
+<li>Porsche Bank Slovenia</li>
+<li>Porsche Bank Croatia</li>
+<li>Retail Germany</li>
+</ul>
+
+<p>The following <b>projects</b> are currently being prepared for SAP implementation:</p> 
+     
+<ul>
+<li>Porsche Bank Group Hungary</li>
+<li>Retail Italy</li>
+<li>Wholesale Slovenia</li>
+<li>Wholesale Romania</li>
+</ul>
+
+<p>After these projects the next companies are already waiting for the planned switch to SAP.</p>	
+
+<p>We would like to extend our heartfelt thanks to everyone involved, especially the contact persons and users in the companies, who contributed to the successful switch to SAP in accounting.</p>
+
+<!-- <img src="C:\Programme\xampp\htdocs\int_e\June_2007\images\Reichl_Norbert_03.jpg" alt="" align=""/>
+ -->
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SAP Rollout">Norbert Reichl</a><br>
+Manager Consulting and Engineering SAP<br>
+Porsche Informatik</p>
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

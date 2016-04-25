@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Auflösen der Reservierungsübersicht NEU</h1>
+<h2>Wir haben die POI-Infoline-Dokumentation zum Auflösen der Reservierungsübersicht um die Kapitel "Bestellprozess" und "Spezialfälle" erweitert.</h2>
+
+
+<img src="images/bild_wag1.jpg" width="190" height="120" alt="Teilebestände in Filialbetrieben" />
+
+
+<p>Im Dezember-Newsletter haben wir schon einmal eine Beschreibung zur <b>Auflösung der Reservierungsübersicht</b> veröffentlicht. Die Bearbeitung der Reservierungsübersicht sollte jedoch nicht nur im Zusammenhang mit der Inventur erfolgen, sie sollte eigentlich zum "Tagesgeschäft" gehören.</p>
+
+<p>Daher haben wir die <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/a3e72dd8281cee17c125768000557da6?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Dokumentation in der POI-Infoline&nbsp;&raquo;</b></a> um die Kapitel "<b>Bestellprozess</b>" und "<b>Spezialfälle</b>" erweitert. Die Ergänzungen sollen Sie dabei unterstützen, auch "problematische" Reservierungen aufzulösen und damit Ihre Reservierungsübersicht stets aktuell zu halten.</p>
+
+<p>Für Fragen dazu stehen Ihnen die Mitarbeiter unseres Service Desks gerne zur Verfügung.</p>
+
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Auflösen der Reservierungsübersicht NEU">Gregor Wagner</a><br />
+CROSS-Fachkoordination</p>
+
+
+
+
+
+

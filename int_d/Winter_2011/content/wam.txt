@@ -1,0 +1,14 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Service Desk: Supportzeiten zum Jahreswechsel</h1>
+<h2>Rund um die Feiertage steht Ihnen der Service Desk wie gewohnt zur Verfügung.</h2>
+
+<img src="images/bild_wam.jpg" width="190" height="120" alt="Support" />
+
+<p>Vor den <b>Weihnachtsfeiertagen</b> bis inkl. Freitag, dem 23. Dezember 2011 und vor dem <b>Jahreswechsel</b> bis inkl. Freitag, dem 30. Dezember 2011 steht Ihnen der Service Desk wie gewohnt von <b>7:00 Uhr morgens bis 18:00 Uhr abends</b> zur Verfügung.<br>
+Bitte kontaktieren Sie uns telefonisch unter 0662 4670 6280 oder über den <a href="http://support.porscheinformatik.com" target="_blank" title="POI-Online-Support"><b>&raquo; Online-Support</b></a>.</p>
+
+<p>Wir bedanken uns für die hervorragende Zusammenarbeit und wünschen Ihnen <b>besinnliche Feiertage</b> und einen <b>ruhigen Jahresausklang!</b></p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Supportzeiten zum Jahreswechsel">Markus Watzik</a></p>

@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Passwörter und die Bequemlichkeit</h1>
+<h2>Würden Sie Ihr Fahrrad: a) unverschlossen b) mit einem Zahlenschloss mit nur zwei zu ändernden Zahlen c) mit einem guten Schloss versperrt und fest angehängt, in der Stadt stehen lassen?</h2>
+
+<p>Wenn Sie auf mindestens zwei der gestellten Fragen mit nein geantwortet haben, dann verwenden Sie sicher bereits ein <b>Passwort</b>, das den folgenden <b>Kriterien</b> entspricht:</p>
+
+<ul>
+<li><div>Das Passwort sollte nicht leicht zu erraten sein. Namen, Kfz-Kennzeichen, Geburtsdatum etc. sind als Passwörter daher ungeeignet.</div></li>
+<li><div>Innerhalb des Passwortes sollten Groß- und Kleinbuchstaben und mindestens ein Sonderzeichen oder eine Zahl vorkommen.</div></li>
+<li><div>Das Passwort sollte  mindestens 8 Zeichen lang sein.</div></li>
+<li><div>Voreingestellte Passwörter müssen durch individuelle Passwörter ersetzt werden.</div></li>
+<li><div>Passwörter müssen geheim gehalten werden und sollten nur dem Benutzer persönlich bekannt sein.</div></li>
+<li><div>Das Passwort sollte wenn möglich nicht schriftlich hinterlegt werden. Falls es jedoch aufgeschrieben wird, sollte es zumindest so sicher wie eine Kreditkarte oder ein Geldschein aufbewahrt werden.</div></li>
+<li><div>Ein Passwortwechsel ist sofort durchzuführen, wenn das Passwort nicht autorisierten Personen bekannt geworden ist oder der Verdacht besteht.</div></li>
+<li><div>Alte Passwörter sollten nach einem Passwortwechsel nicht mehr verwendet werden.</div></li>
+<li><div>Die Eingabe des Passwortes sollte unbeobachtet stattfinden.</div></li>
+<li><div>Das Passwort sollte aber nicht allzu kompliziert sein, damit der Besitzer in der Lage ist, es mit vertretbarem Aufwand auswendig zu lernen.</div></li>
+</ul>
+
+<p>Nur durch ein sicheres Passwort lässt sich ein <b>unbefugter Zugriff auf vertrauliche Informationen</b> verhindern.
+Wenn Sie ein sicheres, aber leicht zu merkendes Passwort vergeben, ist <b>Sicherheit und Bequemlichkeit kein Widerspruch</b> mehr.<br />
+Sollten Sie Beispiele für derartige Passwörter suchen, helfe ich Ihnen gerne weiter.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Passwörter">Anton Spitzer</a></p>
+
+

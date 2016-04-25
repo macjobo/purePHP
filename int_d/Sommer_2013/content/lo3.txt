@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Abkündigung Microsoft Windows XP</h1>
+<h2>Das Betriebssystem Windows XP wird von Porsche Informatik noch bis Ende 2014 unterstützt.</h2>
+
+<img src="images/bild_lo3.jpg" width="190" height="120" alt="Windows XP" />
+
+
+
+<p><b>Microsoft Windows XP </b>ist seit Oktober 2001 auf dem Markt, für die IT-Welt ein fast unvorstellbar langer Zeitraum. Nun naht das offizielle Ende des Betriebssystems: Microsoft wird <b>per 8. April 2014</b> den erweiterten Support von Windows XP abkündigen. Ab diesem Zeitpunkt wird das Unternehmen keine Sicherheitsupdates mehr zur Verfügung stellen und bei Problemen keine Unterstützung mehr leisten.</p>
+
+<p>Porsche Informatik versucht, Windows XP noch <b>bis Ende 2014</b> zu unterstützen, auch wenn dies nach der offiziellen Abkündigung nur mehr eingeschränkt möglich sein wird.
+Bis Ende 2014 müssen daher alle Windows-XP-Geräte auf <b>Windows 7</b> umgestellt bzw. durch neue Windows-7-fähige Hardware ausgetauscht werden.</p>
+
+<p>Die EDV-Koordinatoren im Konzern wurden bereits über alle Details informiert. Sollten Sie Fragen zum Wartungsende von Windows XP haben, wenden Sie sich bitte an Ihre/n EDV-KoordinatorIn.</p>
+
+
+<a href="mailto:info@porscheinformatik.at ?subject=Windows XP">Herbert Lohninger</a> </p>

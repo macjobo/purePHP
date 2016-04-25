@@ -1,0 +1,68 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neues Desktop-Management</h1>
+<h2>Seit einigen Wochen ist unser neues Desktopmanagement-System CA Release 11.2 in der Einzelhandelsorganisation im Einsatz, mittlerweile sind alle Arbeitsplätze in das neue System migriert.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" alt="Neues Desktop-Management" />
+
+
+<p>Das neue Desktop-Management <b>beschleunigt</b> sowohl die Windows-Erstinstallation als auch die Verteilung von Software-Paketen. Beschleunigt werden auch Rückmeldungen - damit sind Fehlerzustände von Software-Paketen für uns rascher ersichtlich. Mit der neuen Desktop-Verwaltung haben wir die Voraussetzungen für die künftige Installation von Windows 7 geschaffen.</p>
+
+
+
+<p>Außerdem wurde die <b>POCSO-Netzwerkübersicht</b> erneuert und um einige Informationen erweitert - sie steht berechtigten Personen (Geschäftsführern, Finanzleitern, EDV-Verantwortlichen) für Auswertungen zur Verfügung:
+
+<ul>
+
+<li><div><b>POCSO-PC-Empfehlung</b> für die Jahre 2009, 2010, 2011</div></li>
+<li><div>Installierte <b>MS-Office-Version</b> je Arbeitsplatz - als Information für Ihren Office-2007-Umstieg</div></li>
+<li><div>Information über die Installation je Arbeitsplatz über weitere <b>Standardsoftware</b> (SAP, EBV, Autowert Plus, ETKA7 und PET7)</div></li>
+</ul>
+
+Generell empfehlen wir eine <b>Hauptspeicher-Mindestausstattung</b> von 1 GB (Mindesvoraussetzung für MS Office 2007 und zukünftige Lotus Notes 8.5 Version).</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neues Desktop-Management">Friedrich Malle</a>
+</p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

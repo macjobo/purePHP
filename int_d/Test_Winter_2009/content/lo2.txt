@@ -1,0 +1,82 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Tipp: Neue Software</h1>
+<h2>Wir sind laufend auf der Suche nach guten Softwareprodukten, die es Ihnen ermöglichen, Ihre tägliche Arbeit noch effizienter zu gestalten.</h2>
+
+<img src="images/bild_lo2.jpg" width="190" height="120" alt="NXPOWERLITE" />
+<!-- 
+<p>Diesmal möchten wir Ihnen gerne folgende Produkte vorstellen:</p> -->
+<ul>
+<li><div><b>NXPowerlight Pro - Komprimieren von Office Dokumenten:</b>
+Komprimiert Office Dokumente (2000-2007) sehr stark.
+			Dies spart Speicherplatz auf dem Server und in Ihrer Mailbox
+			und somit auch Kosten für Ihre Abteilung.<br />
+
+			Preis Lizenz:	35,00 Euro exkl. MwSt.<br />
+
+			Preis Installation:	25 min laut Client-Installationspauschale</div></li></ul>
+<ul><li><div><b>XMind - MindMapping Tool:</b>
+Erstellen Sie Mindmaps zu aktuellen Themen.
+			XMind ist kompatibel zu Mindmanager und Freemind.
+			Außerdem bietet das Programm sehr gute
+			Exportmöglichkeiten.<br />
+
+Preis Lizenz:	kostenlos<br />
+
+Preis Installation:	25 min laut Client-Installationspauschale</div></li></ul>
+
+<ul><li><div><b>CDBurnerXP:</b>
+Schlankes CD/DVD Brennprogramm, das alle
+			notwendigen Funktionen bündelt.<br />
+	
+Preis Lizenz:	kostenlos<br />
+
+Preis Installation:	25 min laut Client-Installationspauschale</div></li></ul>
+
+<p>Für Rückfragen steht Ihnen das Client-Team gerne zur Verfügung.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neue Software">Herbert Lohninger</a>
+</p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

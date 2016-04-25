@@ -1,0 +1,58 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>VU2: Vorschau auf Release 2.3.5</h1>
+<h2>Die neue VU-Version 2.3.5 wird seit Anfang August bei einigen Betrieben intensiv getestet, der Breiteneinsatz wird Mitte September abgeschlossen sein.</h2>
+
+<p>
+Neben einigen kleineren Änderungen und Verbesserungen ist das Hauptthema der Version 2.3.5. eine bessere Darstellung von <b>Aktionen und Stützungen</b>.
+Transparent werden Aktionen und Stützungen in der Modellgruppenübersicht, in der Preisliste, in der Mehrausstattungsliste, bei Lagerfahrzeugen und im Kundenangebot.</p>
+
+<p>Der große <b>Vorteil</b> dieser Lösung: Der Verkäufer wird vom System auf Aktionen bzw. Stützungen aufmerksam gemacht, während er ein Lagerfahrzeug sucht oder ein Auto individuell konfiguriert. Wahlweise Aktionen (wie z.&nbsp;B. Eintauschbonus) können auch zu Lagerfahrzeugen gebucht werden - die umständliche Abwicklung über Zubehör entfällt.</p>
+
+<p>Eine detaillierte Beschreibung erhalten Sie wie gewohnt in der VU2-Versionsinfo nach Einspielung der neuen Version.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorschau auf Release 2.3.5">Heinz Strutzmann</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

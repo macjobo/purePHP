@@ -1,0 +1,63 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Auslieferungsprozess</h1>
+<h2>Der Auslieferungsprozess für neue Hardware wurde wesentlich anwenderfreundlicher gestaltet.</h2>
+
+<img src="images/Notebook.jpg" width="190" height="165" alt="officeatwork" />
+
+<p>Wir sind bemüht, unsere Services laufend zu verbessern und weiter zu optimieren. Unser Ziel ist es, Sie als Endbenutzer
+nicht mit IT-Themen zu belasten, damit Sie sich voll auf Ihre Aufgaben konzentrieren können.</p>
+
+<p>Unter diesem Aspekt haben wir im Bereich <b>Client-Auslieferungen</b> eine kleine Änderung eingebaut, die bereits große Wirkung zeigt.</p>
+
+<p>Vor dem Erhalt eines neuen Gerät (PC oder Notebook) muss von Ihnen oder Ihrem EDV-Koordinator im Anforderungsformular nicht mehr die komplette Software angegeben werden, die benötigt wird.
+Wir senden Ihnen jetzt ein <b>vorausgefülltes Formular</b> zu, in dem die Standardsoftware Ihres alten Gerätes angeführt ist.
+
+Sie brauchen dies nur mehr zu kontrollieren und gegebenenfalls anzupassen. Ermöglicht wurde dies durch Schaffung einer 
+Schnittstelle zwischen der Bestellplattform POI-Easy und unserem POCSO-Desktopmanagement-System.
+</p>
+
+<p>
+<a href="mailto:info@porscheinformatik.at ?subject=Auslieferungsprozess">Herbert Lohninger</a> </p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

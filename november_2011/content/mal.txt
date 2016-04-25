@@ -1,0 +1,28 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Neue USV-Software - Verlagerung von Windows-Systemeinhalten - vorgezogener Start der POCSO-Server-Datensicherung - Firmware-Updates - Software-Update für Adobe Flash Player und Shockwave Player - Neue CROSS-Ping-Software</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+
+<li><div>
+SW Paket: Microsoft NET Framework Vers.4.0_AG 1.0
+Als Vorbereitung für das MIK-BIS Update Ende November verteilen wir .NET 4.0 auf alle POCSO Arbeitsplätze. Nachdem wir aktuell noch keine .Net 4.0 Anwendungen im Einsatz haben, ist die Verteilung unproblematisch unter Tags möglich. Der Change dazu lautet CRQ000000015892. 
+
+</div></li>
+
+
+
+
+</ul>
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>

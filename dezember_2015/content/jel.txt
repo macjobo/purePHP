@@ -1,0 +1,39 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neue Patchkabel mit LED-Funktion</h1>
+<h2>S&T Austria bringt rechtzeitig zur Weihnachtszeit Licht in Ihren Kabelsalat!</h2>
+
+<img src="images/bild_jel.jpg" width="190" height="120" title="Patchkabel mit LED-Funktion" />
+
+
+<p>Kennen Sie das? Ein EDV-Arbeitsplatz funktioniert plötzlich nicht mehr, und Sie möchten im EDV-Schrank die Anschlüsse überprüfen. Ein Blick auf die Vielzahl kreuz und quer laufender Patchkabel und Sie wissen, dies wird keine leichte Aufgabe. 
+Für dieses Problem gibt es jetzt aber eine Lösung, die <b>neuen Patchkabel mit LED-Funktion</b>.</p>
+
+
+<p>Diese Patchkabel dienen zur Verbindung der Netzwerkswitches und Patchpanels in Serverschränken mit mehreren Switches. 
+Lästiges Suchen, "wo geht denn das Kabel hin" entfällt auch bei umfangreichen Kabelsträngen. 
+Einfach die zusätzlich benötigte <b>Lichtquelle auf den Kabelanfang setzen</b>, das gut verborgene Ende wird durch Aufleuchten markiert. Zur Trennung nach unterschiedlichen Netzwerksegmenten (z.B. Wireless LAN) 
+können die grauen Kabel mit Farbclips in unterschiedenen Farben versehen werden.</p>
+
+
+<p>Details zur LAN "LED" light source,  den Patch "LED" RJ45 -Kabeln sowie Preisinformationen erhalten Sie 
+im <a href="http://www.snt.at/eshop" target="_blank" title="zum e-Shop"><b>e-Shop&nbsp;&raquo;</b></a> von S&T (Benutzer: "900959-VWAprodAT-1", Passwort: "VWAprodAT") 
+im Bereich "Zubehör/Kabel u. Adapter" oder bei Herrn Markus Berghammer von S&T Austria GmbH (Tel.: 0662 - 850 285-1515).</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Patchkabel mit LED-Funktion">Heimo Jelovcan</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+ 
+
+
+
+
+
+
+
+
+

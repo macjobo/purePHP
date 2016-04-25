@@ -1,0 +1,120 @@
+/* CSS Document */
+
+body {
+  font-family: Arial, Verdana, Sans-serif;
+  font-size: 11pt;
+  margin: 0 0 0 0;
+  padding:0 0 0 0;
+
+}
+
+#logo {
+  display: none;
+}
+
+#logo img {
+  display: none;
+}
+
+
+
+#streifen {
+  display: none;
+
+}
+
+#streifen p {
+  display: none;
+}
+
+
+
+
+#inhalt h1 {
+   display: none;
+}
+
+
+
+
+#inhalt ul {
+  display: none;
+  
+  }
+  
+  
+  
+#inhalt ul ul {
+  display: none; 
+  
+  }  
+
+.umbruch {
+  display: none; 
+}
+
+  
+
+#zurueck {
+  display: none;
+}
+
+
+#haupt {
+  text-align: justify;
+  margin-top: 20px;
+  line-height:120%;
+ 
+
+}
+
+#haupt h1 {
+  margin-top: 0px;
+  color: #5a5d60;
+  font-size: 12pt;
+  font-family: Arial;
+}
+
+
+#haupt h2 {
+  color: #5a5d60;
+  font-size: 11pt;
+  font-style: italic;
+  font-weight: normal;
+}
+
+#haupt ul {
+  list-style-type: square;
+}
+
+
+#haupt a:link, #haupt a:visited, #haupt a:active {
+  color: #5a5d60;
+  text-decoration: none;
+  
+}
+
+.fett {
+  font-weight: bold;
+
+}
+
+
+
+.bild {
+  text-align: center;
+}
+
+
+.bild img {
+  border: 5px solid #f0f0f0;
+}
+
+#imp {
+display: none;
+}
+
+
+
+
+

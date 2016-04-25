@@ -1,0 +1,17 @@
+<div class="umbruch">&nbsp;</div>
+
+
+
+<h1>POCSO: Übersicht Hardware-Wartung</h1>
+<h2>Im Windows-XP-Menü können Sie nun eine Liste über alle Geräte Ihres Betriebs aufrufen, für die eine Hardware-Wartung abgeschlossen wurde.</h2>
+
+<p>Ab sofort ist bei POCSO-Betrieben für Personen, die am Netzwerkserver Zugriff auf die Datenverzeichnisse O:\GF, \SVHDL oder \FLZ haben, im Windows XP Menü unter "Start" > "Anw. Händler" > "HW-Wartungsliste_Standort" eine Übersicht über jene Hardware abrufbar, für die Sie eine <b>Wartungsvereinbarung</b> abgeschlossen haben.</p>
+
+<p>Wir haben die Aufstellung übersichtlich nach <b>Gerätehauptgruppen</b> - Drucker, PC, Notebook, Server, etc. -  sortiert. Die Daten werden einmal pro Monat aktualisiert.</p>
+
+<p>Bitte überprüfen Sie regelmäßig, ob Sie die angeführten Geräte noch im Betrieb verwenden. Achtung: Die <b>Kündigung von Hardwarewartungen</b> muss in jedem Fall schriftlich durch den Betrieb selbst erfolgen - auch für den Fall, dass ein Gerät durch einen S&T-Techniker ausgetauscht wird.</p>
+
+Für Fragen stehen Ihnen Frau Christine Gastberger von S&T (Tel.: 0662/850285-1509) oder Ihr Kundenbetreuer der Porsche Informatik gerne zur Verfügung. 
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Übersicht Hardware-Wartung">Friedrich Malle</a></p>

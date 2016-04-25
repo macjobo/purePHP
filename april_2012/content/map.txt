@@ -1,0 +1,27 @@
+<h1>CROSS: Neue Archiv-Lösung</h1>
+
+<h2>Mit dem Einsatz der neuen Archiv-Lösung "CROSS.INTERFACES.archive" werden automatisch aufbewahrungspflichtige CROSS-Ausdrucke Ihres Unternehmens gesetzeskonform in einem elektronischen Archiv gespeichert. </h2>
+
+<img src="images/bild_map.jpg" width="190" height="120" alt="CROSS.INTERFACES.archive" />
+
+
+<p>
+Ab sofort können wir Ihnen mit <b>"CROSS.INTERFACES.archive"</b> eine automatische, gesetzeskonforme Speicherung Ihrer CROSS-Dokumente in einem <b>elektronischen Archiv</b> anbieten. Die Dokumente, die im CROSS-Archiv aufbewahrt werden, stehen in der Folge jederzeit zur Ansicht, zum Nachdruck oder zum E-Mail-Versand zur Verfügung.</p>
+
+<p>Besondere Vorteile bietet die neue Lösung Betrieben, die <b>SAP FI/CO</b> im Rechnungswesen einsetzen: CROSS-Rechnungen werden im Archiv automatisch mit den Buchungen in SAP verknüpft. Die Archivdokumente können direkt aus SAP FI/CO aufgerufen werden. Eine standortunabhängige Archivabfrage steht auch über das <b>Partner.Net</b> zur Verfügung.</p>
+
+<p>Mit CROSS.INTERFACES.archive wird die Archivierung in Ihrem Autohaus <b>wirtschaftlich</b> optimal gelöst: Sie haben keine Anschaffungskosten für einen Archivserver bzw. für Speicherplatz - die Daten werden im <b>CROSS-Rechenzentrum</b> sicher aufbewahrt. 
+Die Archivierung entspricht allen unternehmerischen und gesetzlichen Anforderungen an Ihren Betrieb. Nach Ablauf der gesetzlich vorgeschriebenen Aufbewahrungsfrist werden die Daten automatisch gelöscht. </p>
+
+
+
+
+<p>Detaillierte <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/53b54b40920b31cdc125770b0044d6b3?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Informationen zur neuen Archivlösung&nbsp;&raquo;</b></a> finden Sie in der Porsche-Informatik-Infoline; auch Ihr Key Account Manager der Porsche Informatik berät Sie gerne. Darüber hinaus stellen wir die neue Lösung auch im Rahmen der CROSS-Anwendertage vor.</p>
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.INTERFACES.archive">Petra Macher</a><br />
+
+Key Account Management</p>

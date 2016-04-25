@@ -1,0 +1,69 @@
+
+<h1>IT-Leiter-Meeting: Rückblick auf Themen und Ergebnisse</h1>
+<h2>Umsetzung von IT-Standards und Nutzung von Synergiepotentialen</h2>
+
+<p>Im Jahr 2004 übernahm die Porsche Informatik die IT-Prozessverantwortung in den Partnerländern der Porsche Holding, um dort IT-Standards zu etablieren und Synergien zu nutzen. Um dieses Ziel zu erreichen, sind regelmäßige Abstimmungen zwischen den IT-Leitern der Länder, den Verantwortlichen von Großhandel Ausland und der Porsche Informatik unerlässlich. Mitte Juni fand das IT-Leiter-Meeting, an dem erstmalig auch IT-Leiter aus dem Finanzbereich teilnahmen, in Umag an der kroatischen Küste statt.</p>
+
+<p><b>Themenschwerpunkte:</b>
+<ul>
+<li>Diskussion möglicher Synergiepotentiale durch Umsetzung von IT-Standards über die drei Geschäftsbereiche Einzelhandel, Großhandel und Finanzdienstleistung hinweg</li>
+<li>Vorstellung des neuen Betreuungskonzepts der Porsche Informatik</li>
+<li>Erfahrungsberichte zu Produkteinführungen in Ungarn, Rumänien und Bulgarien</li>
+<li>Beschreibung der zukünftigen Behandlung von Anforderungen an IT-Produkte</li>
+<li>Vorstellung von geplanten Produktneuerungen bzw. -einführungen für CROSS, VU2, SAP und IS</li>
+<li>Informationen zu den Projekten SAGA2, IZUB und KD</li>
+</ul>    
+</p>
+
+<p><b>Workshop "3 G's":</b><br>
+
+In drei Gruppen wurde anhand eines vorgestellten "IT Process Model" analysiert, inwiefern die Prozesse über die drei Geschäftsfelder im jeweiligen Land abgedeckt sind. Anschließend wurden Möglichkeiten und Beispiele für Standards und Synergiepotentiale ausgearbeitet.</p>
+
+<p><b>Workshop "Rolle des IT-Leiters":</b><br>
+
+In einem zweiten Workshop wurden die wesentlichen Aufgaben und Verantwortungen der IT-Leiter besprochen und Probleme bzw. Stolpersteine analysiert. Im Anschluss wurden mögliche Lösungswege aufgezeigt und diskutiert. Die Teilnehmer erstellten einen persönlichen Maßnahmenplan für das nächste halbe Jahr, der zur persönlichen "Kontrolle" im Dezember wieder an seinen Verfasser (vertraulich) zurückgesendet wird.</p>
+
+<p><b>Ergebnisse</b><br>
+
+Es herrschte Einigkeit, dass es trotz der unterschiedlichen Bedürfnisse und Arbeitsweisen je Land Möglichkeiten gibt, Standards in allen drei Geschäftsbereichen einzuführen. Als Erstes soll mit der Standardisierung der IT-Infrastruktur begonnen werden (gemeinsame Hardware-Betreuung, Backup- und Recovery-Lösungen, Support, Wartung und Betreuung von Standard-Software). Vorreiter sind hier Rumänien und Ungarn, die sich bereits in der Umsetzung bzw. Planung eines gemeinsamen Rechenzentrums befinden. Die Teilnehmer möchten sich auch im Anforderungsmanagement verbessern und eine standardisierte Vorgehensweise hierzu überlegen. <br>Problematisch zeigte sich bei fast allen Ländern, dass wenige Mitarbeiter sowohl das Tagesgeschäft als auch parallele Projekte bewältigen müssen.
+Ziel ist es nun, die zahlreichen Ideen und Vorschläge, die während des IT-Leiter-Meetings entstanden sind, zu konkretisieren und je Land umzusetzen. Die Porsche Informatik wird Sie dabei gerne aktiv unterstützen.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=IT-Leiter-Meeting">Josef Hagler</a>
+<br>Geschäftsführer														
+<br>Porsche Informatik</p>										
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

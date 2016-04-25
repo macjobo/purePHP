@@ -1,0 +1,47 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Benutzer-Service: Neue Kollegen im Team "IS Client Konzern"</h1>
+<h2>Wir stellen Ihnen die neuen Kollegen vor, die in den letzten Monaten zu unserem Team gestoßen sind.</h2>
+
+<img src="images/bild_lo.jpg" width="209" height="286" alt="Neue Kollegen im Team IS Client Konzern" />
+
+<p>Lukas Klampferer und Johannes Schey, langjährige Mitarbeiter unseres Teams "IS Client Konzern", haben sich innerhalb der Porsche Informatik neu orientiert. Daher haben wir im Team jetzt einige neue Gesichter:</p>
+
+
+<ul>
+
+<li><div><b>Michael Mitter</b> trat die Nachfolge von Johannes Schey an und ist bereits seit Mitte März im Team.
+</div></li>
+
+<li><div><b>Stefan Wels</b> ersetzte Lukas Klampferer und ist Anfang Juli zu uns gestoßen.
+</div></li>
+
+
+</ul>
+
+
+
+<p>Und wir sind stolz darauf, nach einer längeren Pause jetzt auch wieder Lehrlinge auszubilden:</p>
+
+
+
+<ul>
+
+<li><div><b>Eric Vitzthum </b>ist seit 1. Oktober 2013 in unserem Team und absolviert mit einer Gesamtlehrzeit von dreieinhalb Jahren die Lehre zum <b>Informationstechnologen</b>.
+</div></li>
+
+
+
+</ul>
+
+
+Die drei neuen Kollegen kümmern sich wie das gesamte Team "IS Client Konzern" gerne darum, dass Sie an Ihrem PC-Arbeitsplatz stets so reibungslos wie möglich arbeiten können!
+
+
+
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=Neue Kollegen im Team IS Client Konzern">Herbert Lohninger</a><br />
+Teamleitung Client-Team Konzern
+</p>
+
+

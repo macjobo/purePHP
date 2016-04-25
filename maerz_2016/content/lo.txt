@@ -1,0 +1,19 @@
+<div class="umbruch">&nbsp;</div>
+<h1>POCSO: Windows 10</h1>
+<h2>Microsoft hat Ende Juli 2015 Windows 10, den Nachfolger von Windows 7, veröffentlicht. Porsche Informatik hat das Umstellungsprojekt auf das neue Betriebssystem gestartet.</h2>
+
+<img src="images/bild_lo.jpg" width="190" height="120" title="Windows 10" />
+
+<p>Das neue Microsoft-Betriebssystem <b>Windows 10</b> bietet unter anderem erheblich verbesserten Features im Bereich <b>Mobilität</b> an, z.&nbsp;B.  eine touchoptimierte Oberfläche oder Apps, wie wir sie aus der Welt von Apples iPad kennen. </p>
+<p>Daher legen wir im Rahmen unseres Umstellungsprojektes einen klaren Fokus auf das Thema <b>Tablet</b>. Dabei setzen wir auf sogenannte Hybrid-Tablets, das sind Geräte, die die Form und das Gewicht eines Tablets haben, sich jedoch einfach mit einer - ebenfalls sehr leichten - Tastatur erweitern lassen.</p>
+<p>Der Vorteil dabei ist, dass sich Windows 10 automatisch nach Ab- oder Andocken der Tastatur von der <b>Oberfläche</b> und vom <b>Verhalten</b> her anpasst. Das sollte es möglich machen, in Zukunft  zwei Geräte - Notebook und z. B. iPad - durch ein Gerät zu ersetzen.</p>
+<p>Wo stehen wir gerade im Umstellungsprojekt? In einem ersten Schritt haben wir der Softwareentwicklung der Porsche Informatik Ende November einen <b>Prototypen unseres Standardclients</b> zur Verfügung gestellt, damit alle POI-Applikationen auf dem neuen Betriebssystem getestet werden können.</p>
+<p>Aufgrund des hohen Qualitätsanspruches in der POI werden diese Tests einige Zeit in Anspruch nehmen. Sobald die Ergebnisse vorliegen, planen wir gemeinsam mit der Entwicklung die weiteren Schritte. Bis dahin widmen wir uns im Bereich Infrastruktur Themen wie Auswahl der <b>Tablet-Geräte</b>, <b>Benutzerfreundlichkeit</b> oder <b>Sicherheitsaspekten</b> rund um Windows 10.</p>
+<p>Wenn Sie Fragen oder Anregungen zu diesem Thema haben wenden Sie sich bitte an Ihren Key Account Manager der Porsche Informatik.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Windows 10">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+
+

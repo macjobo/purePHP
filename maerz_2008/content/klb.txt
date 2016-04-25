@@ -1,0 +1,18 @@
+<h1>POI allgemein: POI-Informationen nur mehr im Partner.Net</h1>
+<h2>Ab 1. April finden Sie Informationen über Programmaussendungen, Wartungsarbeiten etc. als Rundschreiben im Partner.Net.</h2>
+
+<p>Porsche Informatik wird ab 1. April 2008 Informationen nicht mehr wie bisher als E-Mail versenden, sondern <b>als Rundschreiben im Partner.Net veröffentlichen</b>. Sie finden unsere Mitteilungen dann in der Übersicht über alle Rundschreiben, die als erste Ansicht nach dem Einstieg ins Partner.Net erscheint.</p>
+
+
+<p>Was ist für Sie in diesem Zusammenhang wichtig?
+<ul>
+<li><div>Nutzen Sie die Möglichkeit, sich <b>automatisch per E-Mail über neue Rundschreiben der POI informieren zu lassen</b>. Klicken Sie dazu im Partner.Net auf den Reiter "Aktuell" und anschließend auf den Menüpunkt "Porsche Informatik". Wählen Sie im folgenden Fenster den Menüpunkt "Newsletter" und folgen Sie den Anleitungen.</div></li>
+
+<li><div>Stellen Sie sicher, dass die <b>Ansprechpartner für POI-Informationen</b> einen Partner.Net-Zugang haben und in den entsprechenden Funktionen bzw. Infobereichen definiert sind. Beachten Sie in diesem Zusammenhang bitte das <b>Rundschreiben "POI: Allgemein 01/2008" vom 12. März 2008 </b>im Partner.Net.</div></li>
+</ul>
+</p>
+<p>Wenn <b>rascher Informationsbedarf</b> besteht, etwa bei Systemausfällen, werden wir Sie natürlich auch weiterhin per E-Mail informieren.</p>
+<p>Haben Sie Fragen oder Anregungen zu diesem neuen Kommunikationsweg der Porsche Informatik? Dann wenden Sie sich bitte an Ihren POI-Berater oder an unser Customer Care Center.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=POI-Informationen im Partner.Net">Barbara Klein</a></p>
+

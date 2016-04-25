@@ -1,0 +1,24 @@
+<h1>Support: Neue Version unserer Service-Management-Lösung eingesetzt.</h1>
+<h2>Die neue Version unserer IT-Service-Management-Lösung ging am 7. Dezember erfolgreich in den Produktiveinsatz.</h2>
+
+<img src="images/bild_wam1.jpg" width="190" height="100" title="BMC ITSM Suite" />
+
+<p>Die neue ITSM-Suite wurde am 7. Dezember in <b>allen 23 Ländern</b> der Porsche Holding als Online-Support-Tool eingesetzt. Innerhalb der Porsche Informatik arbeiten täglich mehrere hundert Personen mit den unterschiedlichen Modulen, um <b>Anwenderanfragen</b> und Störungen zu bearbeiten, <b>Änderungen</b> in unseren Services zu planen und durchzuführen sowie die unterschiedlichen <b>Einzelkomponenten</b> all unserer Lösungen zu verwalten - vom einzelnen Server über die jeweilige Applikationsversion bis zum Datenbankschema.</p>
+
+<p>Die neue Lösung kann jetzt direkt über das <b>Partner.Net</b> aufgerufen werden; dadurch steht unser Support-Tool noch mehr Anwendern als bisher zur Verfügung. 
+Die <b>einfachere Erfassung</b> von Anfragen durch Vorschläge bei den sogenannten Ausfüllhilfen durch <b>"Type ahead search"</b> und eine treffsichere <b>Volltextsuche</b> verbessern den Komfort unserer Online-Support-Applikation.</p>
+
+
+<p>An dieser Stelle auch ein herzliches Dankeschön an alle Kolleginnen und Kollegen, die uns Ende November mit <b>Vorab-Tests</b> geholfen haben, auch das Modul für die Erfassung von Anfragen, die "Requester Console", für all unsere Anwender reibungslos zu starten!</p>
+
+
+<p>Mit dem Einsatz dieser aktuellen und modernen Applikation sind wir in der Lage, das immer anspruchsvollere Dienstleistungsgeschäft der unterschiedlichen <b>Service-Management-Disziplinen</b> zu unterstützen und sowohl den Anwendern unserer Produkte als auch unseren Mitarbeitern ein effektives Werkzeug zur Verfügung zu stellen.</p> 
+
+<p>Wir freuen uns über Ihr <b>Feedback</b> zur neuen Applikation!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=BMC ITSM Suite">Markus Watzik</a><br />
+Leitung User Centric Services </p>
+
+
+

@@ -1,0 +1,17 @@
+
+<h1>Netzwerk: WLAN in Besprechungsräumen</h1>
+<h2>Sämtliche Besprechungsräume im Porschehof und Bergheim wurden in den letzten zwei Monaten mit WLAN-Accesspoints ausgestattet.</h2>
+
+<img src="images/Besprechungsraum.jpg" width="190" height="120" alt="Support" />
+
+<p>Die Ausstattung mit WLAN ermöglicht eine <b>drahtlose Nutzung des Firmennetzwerk</b> mit ab jetzt neu ausgelieferten Notebooks in den Besprechungsräumen.
+Teilweise ist die Option WLAN auch schon auf installierten Notebooks aktiviert. Falls dies bei Ihrem Gerät noch nicht der Fall sein sollte, wenden Sie sich bitte an
+unseren Service Desk.</p>
+
+<p>Auch für externe Gäste haben wir eine Lösung implementiert, die es Besuchern ohne viel Aufwand ermöglicht, einen <b>zeitlich beschränkten Internet-Zugang</b> zu erhalten.
+Der Besucherzugang ist komplett von unserer internen Infrastruktur getrennt, um die nötige Sicherheit für unser Firmennetzwerk zu gewährleisten.</p>
+
+<p>Sollten Sie externe Gäste erwarten, stellen Sie Ihre diesbezügliche Anfrage bitte mit einer Vorlaufzeit von mindestens zwei Tagen an unseren Service Desk <a href="http://support.porscheinformatik.com" target="_blank" title="POI-Online-Support"><b>&raquo; Online-Support</b></a>.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=WLAN in Besprechungsräumen">Herbert Lohninger</a></p>

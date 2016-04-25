@@ -1,0 +1,22 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Lotus Notes: Größe von E-Mails und Mailfiles</h1>
+<h2>In den nächsten Wochen treten Anpassungen bei der Größe von Mailfiles und E-Mails in Kraft.</h2>
+
+
+<p>Mit einem neuen Modell zur Verrechnung von Mailfilegröße einerseits und einer Limitierung beim Versand von E-Mails andererseits tragen wir den Entwicklungen im Mailbereich Rechnung:</p>
+
+<ul>
+<li>Wir erhöhen die kostenlos zur Verfügung gestellte <b>Mailfilegröße</b> je Notes-Anwender von 30 MB auf <b>50 MB je Notes-Anwender</b>.
+</li>
+<li>Den so genannten <b>Power-Usern</b> standen bisher gegen einen Aufpreis von &euro; 15,--/ Monat 80 MB zur Verfügung. Kaum jemand schöpfte dieses Limit jedoch wirklich aus. Daher stellen wir dieses Modell auf eine Verrechnung der <b>tatsächlichen Überschreitung</b> um: Für jedes volle MB, das über 50 MB hinausgeht, wird ein Betrag von &euro; 0,30 pro Monat verrechnet. Detaillierte Informationen dazu erhalten Sie mit der nächsten Monatsfaktura.</li>
+
+<li>
+Über die neue <b>Mail-Größen-Limitierung</b> haben wir alle Notes-User bereits in einem gesonderten Schreiben informiert. Die <a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/b00d4cf946308426c1256ed9004402bd/1ccb5210583449c7c125729100482e6a?OpenDocument" title="Details zur Mailgrößenbeschränkung" alt="Details zur Mailgrößenbeschränkung" target="_blank"><b>neuen Limits im Einzelnen</b></a> können Sie in der Porsche Informatik Infoline nachlesen. Mit dieser Maßnahme möchten wir in unserer Organsation Engpässe aufgrund von großen Maildatenmengen sowie unerwünschte Massenmails an alle Notes-User unserer Organisation verhindern.
+</li>
+</ul>
+
+<p>Für Fragen zu den neuen Bestimmungen stehen Ihnen die Mitarbeiter des CCC sowie Ihr IT- und Organisationsberater gerne zur Verfügung.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Größe von E-Mails und Mailfiles">Friedrich Malle</a></p>
+

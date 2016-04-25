@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Großgebinde-(Autopart)-Abwicklung</h1>
+<h2>
+Eine neue Ablaufdokumentation in der Porsche-Informatik-Infoline beschreibt, wie Großgebinde in CROSS korrekt in Kleingebinde aufgeteilt und zugebucht werden können.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Großgebinde-Abwicklung" />
+
+<p>In nahezu allen Betrieben ist es üblich, dass speziell bei <b>Betriebsflüssigkeiten</b> (Öl, Bremsflüssigkeit, etc.) der Einkauf in <b>Großgebinden</b> erfolgt. Verkauft werden diese Flüssigkeiten jedoch mittels <b>Kleingebinde</b>, die eine andere Ersatzteilnummer als das Großgebinde haben.</p>
+
+<p>Dabei sind einige Punkte zu beachten, so etwa die korrekte Erfassung des tatsächlichen Einkaufspreises. Speziell bei der Verwendung des CROSS-Moduls <b>"Eingangsrechnungskontrolle"</b> bedarf es eines angepassten Ablaufs. </p>
+
+<p>In der Infoline-Dokumentation <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/3a87f86f9177b00ac12579ae004d33e0?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Großgebinde-(Autopart)-Abwicklung"&nbsp;&raquo;</b></a> haben wir alle erforderlichen Schritte für Sie zusammengefasst. Sollten Sie darüber hinaus Fragen haben, stehen Ihnen die MitarbeiterInnen unseres Service Desks gerne zur Verfügung.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Großgebinde-Abwicklung">Gregor Wagner</a><br />
+CROSS-Fachkoordination</p>
+
+
+
+
+
+
+
+
+
+
+

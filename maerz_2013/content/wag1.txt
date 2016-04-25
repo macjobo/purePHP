@@ -1,0 +1,29 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS Tipp: Berechnung durchschnittlicher Einkaufspreis</h1>
+
+<h2>Erfahren Sie, wie der durchschnittliche Einkaufspreis in CROSS berechnet wird und an welchen Stellen er sich auswirkt.</h2>
+
+<img src="images/bild_wag1.jpg" width="190" height="120" title="Berechnung durchschn. Einkaufspreis" />
+
+<p>Haben Sie sich schon einmal gefragt, <b>wofür</b> der durchschnittliche Einkaufspreis eines Teiles berechnet wird? Oder <b>wie</b> dieser berechnet wird?
+Gab es möglicherweise schon einmal große <b>unerklärliche Differenzen</b> zwischen dem CROSS- und dem SAP-Lagerbestand?</p>
+
+
+<p>Wenn Sie zumindest eine dieser Fragen mit "Ja" beantworten können, 
+sollten Sie unsere Dokumentation <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/e6a0c1eba386f012c1257b19004cf321?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">
+"Berechnung und Verwendung des durchschnittlichen Einkaufspreises"&nbsp;&raquo;</a> in der Porsche Informatik-Infoline lesen. 
+Hier erfahren Sie, <b>wie</b> der durchschnittliche Einkaufspreis <b>berechnet wird</b> und an welchen Stellen er sich <b>auswirkt</b>.</p>
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Berechnung durchschnittlicher EK-Preis">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+

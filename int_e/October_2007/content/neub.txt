@@ -1,0 +1,103 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Requirements databases: Process for new requirements</h1>
+<h2>New requirements on Porsche Informatik software products via a dedicated database</h2>
+
+
+<p>In order to structure and standardise the processes for the new requirements on these products, we request that you immediately start utilising the <a href="index.php?page=bild_neub" title="requirements database"><b>requirements database</b></a> for the respective Porsche Informatik software product.</p>
+
+<p><b>Area of application</b><br>
+
+The requirements database is a web-based Notes Database that supports the requirements management of our software products. The database makes the entire lifecycle of a specific requirement more transparent, from the compilation of the requirement to the approved solution. Moreover, the database facilitates the specification of a feasible solution for the respective client, and offers an overview of all existing requirements. In addition to this, the interaction between requester and product manager is thus facilitated.</p>
+
+<p><b>Access</b><br>
+
+You can access the requirements database via your Partner.Net by means of the existing Partner.Net password (Brand -> Porsche Informatik -> Product Requirements). In the case of countries or business areas which do not use Partner.Net, there is an access option via Lotus Notes Domino.</p>
+
+<p><b>Compilation of a new requirement</b><br>
+
+Click the <i>'New Requirement'</i> button after selecting the appropriate product. Fill in (as a minimum requirement) the fields <i>Topic, Requester, Responsible POI, Category, Country</i> and <i>Specification of Requirement</i>. Save the requirement by clicking the menu bar button <i>'Save and Close'</i>. This saves the requirement in the database and an email is sent to the employee responsible at Porsche Informatik.<br>
+The following products already use a requirements database:</p>
+
+<ul>
+<li>CROSS</li>
+<li>CARLOS</li>
+<li>VU2</li>
+<li>SPS</li>
+<li>SABIS</li>
+<li>Weltauto  [= Used car Internet marketplace]</li>
+<li>Neuwagen Internet [= Internet marketplace for new cars]</li>	
+<li>Partner.Net-Portal</li>	
+<li>Service Desk Solution</li>	
+</ul>
+
+<p>As you will see from the explanation given above, it is really very easy to compile a new requirement! We would welcome many requirements via this database. Should you have any further questions or desire access to a requirements database, then please contact us.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=requirements database">Michael Neubacher</a>
+<br>Team leader Support & QS
+<br>Porsche Informatik</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

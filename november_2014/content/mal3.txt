@@ -1,0 +1,22 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Laserdrucker Lexmark MX710DE</h1>
+<h2>Der neue "leistungsstarke" Mono-Multifunktions-Laserdrucker für das POCSO-Netzwerk.</h2>
+
+<img src="images/bild_mal3.png" width="120" height="120" title="Lexmark-Drucker" />
+
+
+
+<p>Ab sofort steht Ihnen mit dem <b>Lexmark MX710DE</b> ein leistungsstarker Schwarz-Weiß-Multifunktionsdrucker für den Einsatz im POCSO-Netzwerk zur Verfügung. Das Gerät ist für größere Arbeitsgruppen oder als <b>netzwerkweiter Allgemeindrucker</b> konzipiert. Es benötigt nur etwa vier Sekunden bis zum Druckbeginn und druckt dann bis zu 60 Seiten in der Minute.</p> 
+
+<p>Gedacht ist der Lexmark MX710DE für ein monatliches Druckvolumen von <b>5.000 bis 30.000 Seiten</b> mit Multifunktionsanforderungen, z. B. Auftragsdruck in einem größeren Betrieb, regelmäßiges Anfertigen von Kopien  oder Einscannen von Dokumenten. Wird ein geringeres Druckaufkommen erwartet, empfehlen wir das Modell MX410DE.</p>
+
+<p>Sie können mit dem Gerät im Netzwerk <b>scannen</b> und <b>faxen</b>, sich also zum Beispiel vom Drucker aus gescannte Dokumente an Ihre Mailadresse senden und damit am eigenen Rechner weiterarbeiten.</p> 
+
+
+<p>Details zum Lexmark MX710DE finden Sie im <a href="http://www.snt.at/eshop" target="_blank" title="zum e-Shop"><b>e-Shop&nbsp;&raquo;</b></a> mit Ihren persönlichen Benutzerdaten oder dem Infoaccount ohne Bestellmöglichkeit (Benutzer: "900959-VWAprodAT-1", Passwort: "VWAprodAT") im Bereich "Drucker" oder bei Herrn Markus Berghammer von S&T Austria GmbH (Tel.: 0662 850 285-1515). Weitere Informationen zum Drucker erhalten Sie auch bei <a href="http://www.lexmark.com/AT/de/catalog/product.jsp?catId=cat1150011&prodId=AT7745" target="_blank" title="Details zum Drucker"><b>Lexmark im Internet&nbsp;&raquo;</b></a>. </p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Lexmark-Drucker">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

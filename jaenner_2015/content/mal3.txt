@@ -1,0 +1,52 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Erneute Spamwelle - Online Training Informationssicherheit</h1>
+<h2>Auf Grund aktueller Vorkommnisse in unserem Umfeld möchten wir Sie erneut auf die enormen Risiken im Zusammenhang mit Spam-E-Mails hinweisen.</h2>
+
+<img src="images/bild_mal3.jpg" width="190" height="120" title="Erneute Spamwelle" />
+
+
+
+<p>
+Seit einigen Wochen schwappt eine nicht enden wollende Spam-Welle über uns herein; 
+die neuesten Spam-E-Mails schmückten sich passend zum Jahreswechsel als Weihnachts- und Neujahrsgrüße.
+</p>
+
+
+<p>
+Zurzeit grassieren sogenannte Cryptolocker. Das ist <b>Schadsoftware</b>, eingepackt in Spam-E-Mails, die Daten auf dem PC, 
+aber auch auf Netzwerklaufwerken (z. B. unserem X-Laufwerk), unwiederbringlich verschlüsselt. In nur wenigen Minuten werden so unbemerkt zehntausende Dateien zerstört!
+
+</p>
+
+
+<p>
+Die Folge können <b>tagelange Betriebsausfälle</b> sein, hervorgerufen durch Eindämmungs- und Wiederherstellungsarbeiten auf PCs und Servern. Sie können sich vorstellen, 
+welch immenser Schaden in einem Netzwerk wie dem unseren entsteht, das über tausende Arbeitsplätze verfügt und geschäftskritische IT-Systeme für den Gesamtkonzern bereitstellt. 
+Der Schaden geht in die Millionen! Mit einem einzigen Mausklick auf einen bösartigen Link oder Anhang kann jeder von uns eine solch verheerende Lawine lostreten.
+
+</p>
+
+
+
+
+<p>
+Und es ist leider traurige Realität, dass Benutzer nach wie vor in ganz offensichtlich bösartigen Spam-E-Mails auf Links klicken oder Anhänge öffnen. 
+Daher können wir nicht oft genug auf 
+die <a href="http://newsletter.porscheinformatik.at/august_2014/index.php?page=mal2" target="_blank" title="Zum Newsletter August 2014"><b>Verhaltenstipps&nbsp;&raquo</b></a> hinweisen, die wir Ihnen bereits ans Herz gelegt haben.
+
+</p>
+
+
+<p>
+Darüber hinaus werden wir im Jänner an die Betriebe z.Hd. GF und IT-Verantwortlichen ein <b>Online-Training</b> zum Thema <b>"Informationssicherheit"</b> mit dem Ersuchen versenden, 
+dies in Ihren Betriebe zu verteilen und alle Mitarbeiter mit Zugang zu einem PC-Arbeitsplatz zu schulen.
+</p>
+
+<p>
+Bitte nehmen Sie das Thema sehr ernst! Seien Sie äußerst vorsichtig im Umgang mit E-Mails und halten Sie sich vor Augen, wie wichtig Ihr richtiges Verhalten ist.
+</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Online Training Informationssicherheit">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>

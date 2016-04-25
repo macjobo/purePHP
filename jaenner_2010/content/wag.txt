@@ -1,0 +1,21 @@
+<h1>CROSS Tipp: Auftragseröffnung optimieren</h1>
+<h2>In CROSS gibt es mehrere Möglichkeiten, die Auftragseröffnung zu optimieren und dadurch die tägliche Arbeit zu erleichtern.</h2>
+
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Auftragseröffnung optimieren" />
+
+
+<p>Optimales Arbeiten mit CROSS bedeutet für viele Anwender in erster Linie <b>Zeit zu sparen</b>. Lassen Sie sich doch von CROSS immer wiederkehrende gleiche Eingaben bei der <b>Auftragseröffnung</b> abnehmen! Oder lassen Sie sich nach dem Auftrag  z. B. gleich die Teileergänzungsmaske öffnen!</p>
+
+<p>Dies bringt eine erhebliche Reduktion der Eingaben und Mausklicks und <b>beschleunigt</b> damit die Auftragseröffnung deutlich, was auch Ihre Kunden zu schätzen wissen werden! Wie Sie diese Optimierung vornehmen können, erklären wir Ihnen in einer <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/b29aac933124633fc12576a20032c0b2?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Dokumentation in der POI-Infoline&nbsp;&raquo;</b></a> anhand des <b>Beispiels "Zubehörverkaufsplatz"</b>.</p> 
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Auftragseröffnung optimieren">Gregor Wagner</a></p>
+
+
+
+
+
+

@@ -1,0 +1,94 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Hardware: Vorteile von SSD-Laufwerken</h1>
+
+<h2>SSD-Laufwerke erweisen sich als Turbo für den PC.</h2>
+
+
+
+<img src="images/bild_wit2.jpg" width="190" height="120" alt="Vorteile von SSD-Laufwerken" />
+
+<p>SSD steht für <b>"Solid State Drive"</b> - auf Deutsch Festkörper-Laufwerk - und ist die Alternative zu herkömmlichen motorgetriebenen Festplatten. Die Daten werden nicht mehr auf eine rotierende Magnetplatte geschrieben, sondern auf einen <b>Speicherchip</b>, der keine mechanischen Bauteile aufweist, sondern nur mehr aus Halbleitern besteht.</p>
+
+<p>Darin liegt auch der eigentliche Vorteil. Die <b>Input/Output Operations per Second (IOPS)</b> - ein Wert, der angibt, wie viele Ein- und Ausgabe-Befehle pro Sekunde durchgeführt werden können - liegt nämlich bei einem SSD bei rund <b>40.000 IOPS</b>. Zum Vergleich: Eine herkömmliche Festplatte schafft da bestenfalls <b>400 IOPS</b>. Da bleibt dann nicht mehr so viel Zeit mehr fürs Kaffee holen, während der PC am Morgen hochstartet!!</p>
+
+
+<p>Der zweite spürbare Vorteil liegt im geringeren <b>Stromverbrauch</b>. Das wirkt sich vor allem bei Notebooks bei der Akkulaufzeit sehr positiv aus. Darüber hinaus sind SSD-Notebooks auch noch <b>leichter</b> und der Lüftungsmotor ist im Betrieb nur mehr zeitweise zu hören - <b>Plattengeräusche</b> gehören damit der Geschichte an. </p>
+
+
+<p>Die <b>Performance-Steigerung</b> mit SSD ist so enorm, dass sich der Aufpreis von rund &euro;&nbsp;100,-- in kürzester Zeit bezahlt macht! Fast alle aktuellen <b>HP-Desktops und -Laptops</b> werden bereits mit der SSD angeboten.</p>
+
+<p>Herr Markus Berghammer von S&T Austria GmbH (Tel.: 0662 - 850 285-1515) oder Ihr Key Account Manager der Porsche Informatik beraten Sie dazu gerne!</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Datenaustausch im Service-Kernprozess">Christian Witibschlager</a><br />Key Account Management</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

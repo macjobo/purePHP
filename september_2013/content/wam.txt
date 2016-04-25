@@ -1,0 +1,28 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Support-Tipp: Geregelter Mitarbeitereintritt</h1>
+<h2>Bitte informieren Sie uns frühzeitig, wenn ein Mitarbeiter in Ihr Unternehmen eintritt - auch im Interesse Ihres Betriebs!</h2>
+
+<img src="images/bild_wam.jpg" width="170" height="120" title="Mitarbeiter Ein- bzw. Austritt" />
+
+
+<p>Wenn Mitarbeiter in Ihr Unternehmen eintreten, sind einige administrative Vorbereitungen notwendig: 
+die Benutzerdaten müssen angelegt, Passwörter, Benutzerrechte und Lizenzen vergeben und eingerichtet werden.  Es ist daher für uns wichtig, dass Sie uns die Daten der neuen Mitarbeiter möglichst 
+<b>frühzeitig</b>, zumindest aber 3 Werktage vor Eintritt bekannt geben. </p>
+
+<p> 
+Geben Sie uns den Eintrittstag bekannt, können wir Ihren neuen Mitarbeitern ermöglichen, bereits am ersten Arbeitstag die EDV Systeme zu verwenden. 
+Wir haben für Sie in unserem Online-Support entsprechende <b>Ausfüllhilfen</b> unter dem jeweiligen Service erstellt. 
+Sie finden sie z.B. unter "POCSO-EH" und "Lotus Notes Mailing" eine eigene Vorlage  > "Anfrage: Neuer Benutzer". 
+Bitte beachten Sie, für die Administration der Benutzerdaten von Applikationen wie Partner.Net, CROSS, ELSA oder Händlerportal ist der Betrieb selbst verantwortlich!</p>
+
+<p>
+Denken Sie bitte auch daran uns zu verständigen, wenn Mitarbeiter das Unternehmen verlassen - die Zugangsdaten sowie Berechtigungen, Lizenzen, 
+Passwörter und eventuell <b>bestehende kostenpflichtige Services</b> müssen deaktiviert bzw. gelöscht werden. Nicht zuletzt wird damit auch verhindert, dass unberechtigter oder ungewollter 
+Zugriff auf die Daten Ihres Betriebes stattfindet oder Daten missbräuchlich verwendet werden.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Geregelter Mitarbeitereintritt">Markus Watzik</a><br />
+Leitung User Centric Services</p>
+

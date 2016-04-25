@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+
+
+<h1>Anwendungen: MIK-BIS</h1>
+<h2>Nutzen Sie die Vorteile von MIK-BIS, einem Analyse- und Planungswerkzeug, das speziell für die österreichischen VW/Audi-, Seat-, Skoda- und Porsche-Betriebe adaptiert wurde.</h2>
+
+<p>Das Management-Informationssystem MIK-INFO ist bereits seit zehn Jahren in unserer Organisation im Einsatz. Nun wird das System durch <b>MIK-BIS</b>, die neueste Version des Lieferanten MIK AG abgelöst.</p>
+
+<p>Mit MIK-BIS können Sie betriebswirtschaftliche Daten <b>grafisch und tabellarisch</b> sehr flexibel aufbereiten. Das System dient Ihnen dadurch im Zusammenspiel mit dem Betriebsvergleich und den automatisch aus CROSS und SAP übernommenen Daten einfach und schnell als <b>Führungsinformations- und Controlling-Instrument</b>.</p>
+
+<p>Die wichtigsten <b>Vorteile</b> von MIK-BIS:</p>
+
+<ul>
+<li><div>Sie erhalten eine Auswahl an vordefinierten Grafiken, Tabellen, Tachos und MIK-XLReports, die gemeinsam mit der Händlerfinanzberatung (HFB) entwickelt wurden.</div></li>
+<li><div>Betriebe mit Handelsvertrag können Ihre Eigenwerte mit den Händler-Durchschnittswerten (analog dem Betriebsvergleich) vergleichen.</div></li>
+<li><div>Mit MIK-XLReport können betriebsindividuelle Standard-Reports selbst erzeugt und ohne manuelle Dateneingabe aktualisiert werden.</div></li>
+<li><div>Mit einem Servicevertrag haben Sie die Möglichkeit, Ihre monatlich an die HFB übermittelten Serviceberichts-Daten mit den von der HFB errechneten Schnittwerten (analog dem Servicebericht) zu vergleichen.</div></li>
+</ul>
+
+<p><a href="http://kb.auto-partner.net/int/hilfe/klbmik.nsf/f9ca8c1665df61b3c1257345002cdb8b/d35946ec5d92f638c125741900351ee0?OpenDocument" title="Produktinformation MIK-BIS" target="_blank"><b>Weitere Informationen zu MIK-BIS und ein Bestellformular</b></a> finden Sie in der POI-Infoline.</p> Sollten Sie Fragen zu MIK-BIS haben, stehen Ihnen Herr Alfred Danner oder Ihr Berater der Porsche Informatik gerne zur Verfügung.
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=MIK-BIS">Alfred Danner</a></p>

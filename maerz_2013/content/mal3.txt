@@ -1,0 +1,40 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Hardware: Installationsende Drucker</h1>
+
+<h2>Einige Drucker können mittels Druckerinstallationstool nicht mehr installiert werden.</h2>
+
+<img src="images/bild_mal3.jpg" width="190" height="120" title="Installationsende Drucker" />
+
+
+
+
+
+
+<p>Bereits im März 2012 wurden diverse Drucker aus dem POCSO-Standard <b>abgekündigt</b>. Ab sofort sind diese mittels Druckerinstallationstool,
+das auf jedem POCSO Server verfügbar ist, <b>nicht mehr installierbar</b>. </p>
+
+
+
+<p>Die Modelle nochmals zum Nachlesen finden Sie im Partner.Net unter Rundschreiben - Porsche Informatik - Archiv - <b>Wartung/Support Nr. 03/2012</b>.
+Bereits installierte Modelle sind natürlich weiterhin verwendbar.</p>
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Diverse Neuerungen Drucker">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+
+
+
+

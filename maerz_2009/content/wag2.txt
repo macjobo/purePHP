@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS 2 Tipp: Umgang mit EBV-Schnittstelle</h1>
+<h2>Durch den Wegfall der Fahrzeugschnittstelle in der EBV werden Kunden- und Fahrzeugdaten nicht mehr in einem Zug übermittelt; Sie können sie aber jederzeit manuell übertragen.</h2>
+
+
+
+<p>Mit der EBV-Version 3.1 erfolgte eine Umstellung von einer "Fahrzeug-" auf eine <b>"Auftragsschnittstelle"</b>. Seither werden die Fahrzeug- und Kundendaten aus CROSS nicht mehr in einem Zug komplett an die EBV übermittelt; die alleinige Änderung dieser Daten löst keine Änderungsmeldung an CROSS aus. Durch die "Auftragsschnittstelle" ist es notwendig, dass ein <b>Auftrag</b> erstellt wird, damit geänderte Daten im darauf folgenden Tagesende an die EBV übertragen werden.</p>
+
+<p>Sie können seit dieser Umstellung Daten und Änderungen allerdings <b>jederzeit manuell</b> von CROSS an die EBV übermitteln. Nähere Informationen finden Sie im Dokument <b><a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/2b92c0325c374c0fc125757400227cae?OpenDocument" target="_blank" title="Zur POI-Infoline">&raquo;&nbsp;Funktionsweise EBV-Schnittstelle</a></b> in der POI-Infoline</p>
+
+<p>Bitte beachten Sie dieses geänderte Schnittstellenverhalten, damit Sie in der EBV immer die <b>aktuellsten Daten</b> verwenden.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=EBV-Schnittstelle">Gregor Wagner</a></p>
+

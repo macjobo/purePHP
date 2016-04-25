@@ -1,0 +1,25 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS Tipp: Reifenkennzeichnung</h1>
+
+<h2>Mit 1. November tritt die neue EU-Verordnung zur Kennzeichnung von Reifen in Kraft. Wir zeigen Ihnen Lösungsvorschläge in CROSS für die Übergangsfrist bis zum neuen CROSS Release 2.22 Mitte November.</h2>
+
+<img src="images/bild_wag3.jpg" width="190" height="120" title="Reifenkennzeichnung" />
+
+<p>Anfang November 2012 tritt die neue <b>Europäische Reifen-Kennzeichnungs-Verordnung</b> in Kraft. Diese Verordnung sieht vor, dass Informationen zu Kraftstoffeffizienz, Nasshaftung und externem Rollgeräusch von Reifen unter anderem <b>auf der Rechnung</b> ausgewiesen werden müssen.
+Diese Verordnung hat daher auch eine Auswirkung auf CROSS. Mit dem <b>Release 2.22</b> haben wir für die verschiedenen Auftragspositionen Erfassungsmöglichkeiten für diese Werte geschaffen.</p>
+
+
+<p>Weiters werden Ihnen in Zukunft die Importeure Reifendaten, die diese gesetzlichen Angaben bereits enthalten, in Form einer <b>Teilepreisliste in CROSS</b> zur Verfügung stellen. Nähere Informationen dazu haben Sie bereits bzw. werden Sie noch von den Importeuren erhalten.</p>
+
+<p>Da das CROSS-Release 2.22 erst <b>Mitte November</b> zur Verfügung steht, die EU-Verordnung aber bereits am 01. November in Kraft tritt, haben wir für Sie <b>Lösungsvorschläge</b> für diese Übergangsfrist erarbeitet. Alle Informationen zu diesem Thema finden Sie im Dokument <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/fe9c0dcb69e8c83ec1257a8600451c80?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>"EU-Verordnung zur Reifenkennzeichnung"&nbsp;&raquo;</b></a> in der Porsche-Informatik-Infoline.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Reifenkennzeichnung">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+

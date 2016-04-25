@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS 2 Tipp: Wartung von Leasingfirmen</h1>
+<h2>Mit den richtigen Einstellungen in CROSS wird das Erstellen von Service-Rechnungen an Leasingfirmen optimal abgewickelt!</h2>
+
+
+
+
+<p>In CROSS gibt es für die Erstellung von <b>Service-Rechnungen an Leasingfirmen</b> eine eigene Abwicklung. Diese kommt zum Beispiel bei der Verrechnung von Wartungsleistungen an eine Leasingfirma im Rahmen eines Wartungsvertrags zum Tragen.</p>
+<p>In der Praxis setzen viele Betriebe die Leasingfirma als Rechnungskunde im Auftrag ein. Das hat jedoch mehrere <b>Nachteile</b>: Zum einen ist auf der Rechnung nicht sofort ersichtlich, welcher Leasingkunde der Auslöser für eine Faktura ist. Zum anderen müssen gegebenenfalls Rabatte, die der Leasingfirma nicht gewährt werden, bzw. Aufschläge, die der Fahrzeugkunde auslöst, die Leasingfirma aber nicht akzeptiert, <b>manuell korrigiert</b> werden.</p>
+
+<p>Mit den richtigen Einstellungen in CROSS können Sie diesen Mehraufwand vermeiden. Wie Sie dabei am besten vorgehen, haben wir Ihnen in einem Infoline-Dokument über die korrekte <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/8a77f04d84834dfac125748700275fe8?OpenDocument" title="Leasingfirmen - Wartung und Verwendung in CROSS" target="_blank"><b>Wartung von Leasingfirmen und deren Verwendung in CROSS</b></a> zusammengestellt.</p>
+
+<p>Für Fragen dazu stehen Ihnen die Mitarbeiter unseres Customer Care Centers gerne zur Verfügung!</p>
+
+
+
+</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS 2 Tipp: Wartung von Leasingfirmen">Gregor Wagner</a></p>
+

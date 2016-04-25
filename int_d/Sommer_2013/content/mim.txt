@@ -1,0 +1,53 @@
+
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Broschüre zur Informationssicherheit</h1>
+<h2>In einem kleinen Folder haben wir Ihnen die wichtigsten Tipps zum Thema Informationssicherheit zusammengefasst.</h2>
+
+ <img src="images/bild_mim.jpg" width="190" height="120" alt="Informationssicherheit" />
+ 
+
+<p>Informationssicherheit wird oft mit hochtechnischen und komplizierten Maßnahmen in Verbindung gebracht. Das ist aber nur bedingt richtig. Mit <b>einfachen Verhaltensregeln</b> kann jeder einen wertvollen Beitrag zur Informationssicherheit leisten.</p>
+
+<p>Wir haben dazu eine kleine Broschüre zusammengestellt und empfehlen Ihnen, diese Tipps sowohl im <b>beruflichen</b> als auch im <b>privaten Umfeld</b> zu beherzigen.</p>
+
+
+<a target="_blank" href="pdf/Folder_zur_Informationssicherheit.pdf">Folder zur Informationssicherheit zum Herunterladen [606 KB]</a>
+
+<p>Viel Spaß beim Lesen!</p>
+ 
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Informationssicherheit">Marcus Michalek</a></p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

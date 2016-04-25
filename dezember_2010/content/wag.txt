@@ -1,0 +1,41 @@
+
+
+<h1>CROSS: Vorschau auf Release 2.14</h1>
+<h2>Ende Jänner geht das neue CROSS-Release 2.14 in den Breiteneinsatz, hier ein Überblick über die wichtigsten Neuerungen im Bereich Service.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="CROSS 2.12 Highlights" />
+
+
+<p>Am Wochenende vom <b>22. bis 23. Jänner 2011</b> wird das neue CROSS-Release 2.14, das in einigen Autohäusern bereits in Einsatz ist, für alle übrigen Betriebe eingespielt. Es bringt eine Menge interessanter Neuerungen - hier ein kleiner Auszug der Änderungen für den <b>Service-Bereich</b>:</p>
+
+<ul>
+
+<li><div> Rechnungs-Beträge werden jetzt nur noch dann zur Tageslosung gezählt, wenn die Rechnung den <b>Status "kassiert"</b> hat. Da viele Betriebe den Kassiervorgang nicht durchführen, versetzt eine Komfortfunktion die Rechnungen nach dem Fakturieren automatisch in den Status "kassiert".</div></li>
+
+<li><div>Mit dem neuen Release wird in allen CROSS-Systemen die Funktion <b>"Freie Rechnung"</b> aktiviert. Diese Aktivierung erfolgt im Auftrag von Porsche Austria. Ziel ist es, dass der sogenannte "Datenauszug für Eigenimport" über diese Funktion verrechnet wird. Darüber hinausgehende Nutzungsmöglichkeiten können Sie über das <a href="http://kb.auto-partner.net/int/hilfe/klbsap.nsf/f9ca8c1665df61b3c1257345002cdb8b/17f5387a96753670c125754000377464?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Produktblatt "Freie Rechnung"&nbsp;&raquo;</b></a> anfordern.</div></li>
+
+
+
+<li><div>Wird im Betrieb eine Hardware-Kasse über CROSS betrieben, so kann nun mit einer eigenen Schaltfläche im Kassabuch die <b>Kassenlade geöffnet</b> werden.</div></li>
+
+<li><div>Im Kassabuch können nun <b>Zwischenabschlüsse</b> erfolgen. Somit kann eine Übergabe eines Kassenbestandes an einen anderen Mitarbeiter unter Tags geordnet erfolgen.</div></li>
+
+<li><div>Mit Einführung des CROSS-Releases 2.14 können nun <b>Zahlscheine im "SEPA-Format" </b>bedruckt werden. Parallel dazu wird das "herkömmliche Format" (mit Bankleitzahl und Kontonummer) bis zur Ablöse des CROSS-Releases 2.14 unterstützt. <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/fdbe2237d813f369c12576e70033c4b8?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Nähere Informationen zum SEPA-Zahlschein&nbsp;&raquo;</b></a> finden Sie auch in der POI-Infoline.
+"SEPA-Zahlscheine" können Sie in Kürze im TVZ/LVF über Marco unter "Geschäftspapiere und Formulare" > "Formulare für CROSS" bestellen.</div></li>
+
+</ul>
+
+<p>Alle wichtigen Informationen zum neuen Release im Detail entnehmen Sie bitte einem gesonderten <b>Rundschreiben im Partner.Net</b> sowie den <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/5023e5b47563b7dac12577bd00237301?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Änderungsbeschreibungen zu CROSS 2.14&nbsp;&raquo;</b></a> in der POI-Infoline, auch die MitarbeiterInnen unseres Serice Desks stehen für Ihre Fragen gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS 2.14 Highlights">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

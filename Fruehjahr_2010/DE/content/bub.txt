@@ -1,0 +1,38 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Infrastruktur: Neuigkeiten</h1>
+<h2>Aktuelle Informationen in aller Kürze.</h2>
+
+<img src="../images/bild_bub.jpg" width="190" height="120" alt="Workshop" />
+
+<p><b>Ankündigung: 3. Infrastruktur Workshop 12.-13. April 2010</b><br />
+ Der nächste Workshop steht ganz im Zeichen von Desktop Management. Wir werden gemeinsam Lösungsvorschläge für die Themen Softwareverteilung, Patch-Management und Erstinstallation erarbeiten. Unser Ziel ist es, ein internationales Projektteam zusammenzustellen, das die Konzeption und Realisierung einer Desktop-Management-Lösung übernimmt. Andreas Kronberger wird dieses Team leiten und koordinieren.</p>
+
+<p><b>Diskussionsforum</b><br />
+Das neue Forum zum Informationsaustausch aller Länderkollegen steht ab sofort zur Verfügung. Der Aufruf erfolgt über die POI Infoline im Partner.Net&nbsp;&raquo; Allgemein 
+&nbsp;&raquo; Diskussionsforum.
+Nutzen Sie die Möglichkeit, sich mit Ihren internationalen Kollegen rasch und unkompliziert auszutauschen!
+</p>
+
+<p><b>POI Infoline</b><br />
+Alle wichtigen und aktuellen Infrastruktur-Informationen finden Sie in unserer POI Infoline. Die Dokumentationen werden regelmäßig aktualisiert und erweitert. Die neue Version der "POI Guideline for the operation of IT infrastructure" ist ab sofort gültig.
+</p>
+
+<p><b>Kommunikation mit externen Firmen</b><br />
+Als Ersatz für Skype oder ähnliche Instant-Messaging-Tools steht Ihnen seit Dezember Lotus Sametime zur Verfügung. Die Freischaltung der User muss über die Anforderungs-Datenbank angefordert werden. Nähere Informationen zur Konfiguration finden Sie in der POI Infoline&nbsp;&raquo; Betriebsführung&nbsp;&raquo; Documentation&nbsp;&raquo; Client. 
+</p>
+
+<p><b>Firewall-Freischaltungsdatenbank</b><br />
+Wir möchten Sie nochmals daran erinnern, dass alle von Porsche Informatik durchgeführten Firewall-Änderungen, sowohl zentral in Salzburg als auch lokal in Ihrem Land, über diese Datenbank angefordert und dokumentiert werden müssen. 
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=IT-Infrastruktur">Barbara Buber</a></p>
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,75 @@
+
+<h1>Customer Care Center: The central Service Desk</h1>
+<h2>The Porsche Informatik Customer Care Center has been the central Service Desk for our customer queries for almost seven years.</h2>
+
+<p>The <b>"Single point of contact"</b> concept - a single central access point for an organisation - is useful for both the user and IT service provider. A central access point is easier for customers to use and saves them time. The data gained allows Porsche Informatik to better identify customer needs and serves as the basis for improvements of our products and services.</p>
+
+<p>What exactly do we do for our customers? 
+
+<ul>
+<li><div><b>Customer support:</b> We receive customer queries and analyse them. If we can not immediately resolve a query, it is forwarded to the relevant specialists.</div></li>
+<li><div><b>Escalation management:</b> To ensure quality, we check whether the agreed reaction-and solution times are being adhered to. Additionally we ensure that urgent support requests are dealt with in a timely fashion.</div></li>
+<li><div><b>Problem management:</b> We point out repeated or frequently occurring problems and deal with special topics.</div></li>
+</ul>
+</p>
+
+<div class="bild">  
+
+<img src="images/ccc_und_markus.jpg" width="537" height="244" alt="Our Team" >
+
+</div>
+
+<p>Our team also has additional core competencies such as reporting and cooperation with suppliers and external domains. 
+</p>
+
+<p><b>Outlook</b><br>
+Currently we are working on a project which aims to evolve our Customer Care Center into a Service Desk in accordance with the internationally recognised "De-facto standard" for IT companies <b>ITIL</b> (IT Infrastructure Library). Detailed information about the project will be provided in the next issue of our newsletter.</p>
+
+<p><b>Key data:</b>
+
+<ul>
+<li><div>Eight staff - located in Bergheim, Salzburg, Austria</div></li>
+<li><div>Volume of queries: 375 support cases per day, approx. 90,000 queries per year</div></li>
+<li><div>Countries served: 13</div></li>
+<li><div>Service times/availability: 24 hour online support on: <b><a href="http://support.porscheinformatik.com" target="_blank" title="" alt="">POI Online Support</a></b><br>Monday - Friday (Austrian working days) from 07:00 to 18:00, telephone: +43 662 4670 6280</div></li>
+</ul>
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Customer Care Center">Markus Watzik</a>
+<br>Service Desk Manager
+</p>								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

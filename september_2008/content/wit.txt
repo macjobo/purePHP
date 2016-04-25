@@ -1,0 +1,12 @@
+<h1>CROSS 2: Schnittstelle zu asanet-Prüfgeräten</h1>
+<h2>Eine neue Funktion in CROSS ermöglicht den zentralen Zugriff auf die Prüfdaten von Werkstattprüfgeräten.
+</h2>
+
+
+<p>Abgastester, Bremsenprüfstand, Achsvermessung, Prüfstraßen und viele weitere Geräte liefern im Werkstattbereich <b>Prüfwerte</b> und speichern diese Daten im geräteeigenen Computer ab. Im Zuge einer § 57/a-Überprüfung werden dann vom Mechaniker noch zusätzlich <b>kundenspezifische Daten</b> erfasst, um den Ausdruck eindeutig dem Prüfbericht zuordnen zu können. Diese Erfassungen kosten natürlich jedes Mal Zeit und vor Übertragungsfehlern ist man auch nicht gefeit.</p>
+
+<p>Wenn das Prüfgerät asanet-fähig ist, lassen sich diese Schritte wesentlich vereinfachen: Wird aus <b>CROSS</b> ein Prüfauftrag mit den Kunden- und Fahrzeugdaten an das Prüfgerät übermittelt, können anschließend die Prüfdaten von CROSS abgerufen werden. Kommt der Prüfauftrag aus dem <b>EBV-Programm</b>, können die Prüfdaten direkt für den <b>Begutachtungsbericht</b> übernommen und verwendet werden. Die Speicherung der Daten erfolgt im Regelfall bis zu fünf Jahre rückwirkend.</p>
+
+<p>Das alles funktioniert über die <b>Schnittstellen</b> zwischen CROSS bzw. EBV, dem asanetwork und dem jeweiligen Prüfgerät. Details zur <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/4189459E8349A8C4C125747A00387804?OpenDocument" title="Produktblatt Einrichtung Schnittstelle asanetwork-Prüfgerät" target="_blank"><b>Einrichtung der Schnittstelle zu asanetwork-Prüfgeräten</b></a> finden Sie in der POI-Infoline; auch Ihr Key Account Manager der Porsche Informatik informiert Sie dazu gerne.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Schnittstelle zu asanet-Prüfgeräten">Christian Witibschlager</a></p>

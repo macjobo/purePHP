@@ -1,0 +1,61 @@
+
+<div class="umbruch">&nbsp;</div>
+<h1>POCSO: POCSO Teleworker - Einführung SMS-Pin</h1>
+<h2>Einführung der 2 Faktor-Authentifizierung mit SMS-Pin.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="POCSO Teleworker Neu" />
+
+
+
+<p>
+Der technologische Fortschritt und höhere Sicherheitsanforderungen machen auch vor dem POCSO Teleworker nicht halt. 
+Bis Ende April 2015 planen wir alle bestehenden POCSO Teleworker auf den "neuen" POCSO Teleworker umzustellen. Folgende Punkte ändern sich damit in der Handhabung:
+</p>
+
+<ul>
+
+<li><div>
+Der POCSO Teleworker wird <b>personalisiert</b>. Für die Einwahl sind <b>Benutzer/Passwort</b> und <b>SMS-Pin</b> für eine Anmeldung erforderlich.
+ </div></li>
+
+<li><div>
+Für die Zusendung des SMS-PINs muss jedem POCSO Teleworker eine <b>fixe Mobiltelefonnummer</b> zugeordnet werden.
+ </div></li>
+
+<li><div>
+Im Fall der Fälle können Ihnen neue <b>Zugangsdaten</b> automatisiert auf Ihr Mobiltelefon gesendet werden.
+ </div></li>
+ 
+ <li><div>
+<b>Geschwindigkeitssteigerung</b> beim Arbeiten mit dem POCSO Teleworker.
+ </div></li>
+
+</ul>
+ 
+ <p>
+ Durch die Personalisierung des POCSO Teleworkers sind jedoch keine "POCSO Teleworker Light" Zugänge mehr möglich. 
+ Mehrere Benutzer können sich nicht mehr wie bisher einen POCSO Teleworker teilen. Diese müssen jeweils auf einen vollwertigen Zugang umgestellt werden.
+</p>
+ 
+ 
+<p>
+Jene Betriebe, die POCSO Teleworker bereits im Einsatz haben, wurden bereits über die Vorgangsweise zur Umstellung informiert. 
+Die Kosten bleiben unverändert, auch die Umstellung von bestehenden Zugängen erfolgt für Sie <b>kostenlos</b>.
+</p>
+
+<p>
+Falls Sie noch keinen POCSO Teleworker verwenden um damit die Freiheit zu genießen, 
+weltweit auf Ihr Firmennetzwerk zu greifen, können Sie diesen mittels 
+<a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/00c567a14adc06b6c1257345002cdb8c/b85525dcdc2b1e3bc125746400315b81?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>Produktblatt&nbsp;&raquo;</b></a> bestellen.
+</p>
+
+<p>
+Für Fragen steht Ihnen der Key Account Manager der Porsche Informatik zur Verfügung.
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=POCSO Teleworker Neu">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

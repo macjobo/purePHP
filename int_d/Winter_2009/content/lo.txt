@@ -1,0 +1,70 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Office 2007</h1>
+<h2>Microsoft Office 2007 ist nun offiziell zum Einsatz im Porsche-Konzern freigegeben. Für einen möglichen Umstieg bietet das Schulungsinstitut Wintersteiger ein spezielles Schulungsangebot an.</h2>
+
+<img src="images/bild_office.jpg" width="190" height="120" alt="Office 2007" />
+
+<p>Office 2007 ist seit ca. zwei Jahren auf dem Markt und steht nun in einer stabilen Version zur Verfügung. Einen baldigen Umstieg auf die neue Office Version empfehlen wir <b>intensiven Nutzern der Office-Produkt-Palette</b>, wie <br />
+z. B. Excel-Spezialisten. Für alle anderen Anwender wird Office 2000/2003 noch bis Ende 2011 von der Porsche Informatik unterstützt.
+</p>
+
+<p>Um Ihnen den Umstieg zu erleichtern, bietet das Schulungsinstitut Wintersteiger spezielle Umsteigerkurse an, die voraussetzen, dass der Teilnehmer schon <b>sehr gute Kenntnisse </b>in der vorhergehenden Office-Version hat:</p>
+
+<ul>
+<li><div>Microsoft Office 2007 Excel-Powerpoint Umsteiger Kompaktkurs für Fortgeschrittene</div></li>
+<li><div>Microsoft Office 2007 Word Umsteiger Kompaktkurs für Fortgeschrittene</div></li>
+</ul>
+
+
+<p>
+Natürlich gibt es auch die bereits bekannten Einführungsseminare für Office 2007 Excel, Office 2007 Powerpoint und Office 2007 Word.</p>
+
+
+<p>Sie finden das <b>aktuelle Schulungsangebot</b> mit allen Details und den Terminen im <a href="http://www.auto-partner.net" title="Partner.Net" target="_blank"><b>&raquo;&nbsp;Partner.Net</b></a> unter Schulungen - Kursangebot - Fachgebiet - Porsche Informatik - Anwendungen, Betriebssystem. Bei Fragen zu einem etwaigen Umstieg wenden Sie sich bitte an Ihren zuständigen EDV-Koordinator. 
+</p>
+
+<p>
+<a href="mailto:porsche-informatik@porsche.co.at ?subject=Office 2007">Herbert Lohninger</a> </p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

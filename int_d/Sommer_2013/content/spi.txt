@@ -1,0 +1,19 @@
+
+<h1>Anwendungen: Einhaltung der Lizenzbestimmungen</h1>
+
+<h2>Mehrere Lizenzüberprüfungen seit Beginn des Jahres zeigen, wie wichtig es ist, dass wir im Konzern nur lizensierte Software verwenden!</h2>
+
+<img src="images/bild_spi.jpg" width="170" height="120" alt="Einhaltung der Lizenzbestimmungen" />
+
+<p>Porsche Informatik wurde im ersten Halbjahr 2013 drei <b>Lizenzüberprüfungen</b> verschiedener Hersteller unterzogen. Erfreulicherweise wurden dabei insgesamt nur relativ geringe Lizenzverstöße festgestellt.</p>
+
+
+<p>Gerade deshalb möchten wir aber einmal mehr darauf hinweisen, dass auf den Firmen-PCs und -Laptops ausschließlich <b>lizenzierte Software</b> verwendet werden darf! Lizenzverstöße können - abhängig vom jeweiligen Hersteller - zu erheblichen <b>rückwirkenden Zahlungen</b> führen.</p>
+
+<p>Laut  Org-Richtlinie 6.03 "Vereinbarung der Geheimhaltungspflicht vertraulicher Art" hat sich jeder Mitarbeiter dazu verpflichtet, auf die <b>Einhaltung der Lizenzbestimmungen</b> zu achten. Fast alle Kolleginnen und Kollegen halten sich auch daran.</p>
+
+<p>Wie die Audits der Hersteller zeigen, ist das auch unbedingt notwendig! Es schützt uns vor Regressansprüchen und lässt uns die <b>Partnerschaften</b> und die <b>Verhandlungen</b> mit den Softwareunternehmen weiterhin auf einer positiven Grundlage gestalten.</p>
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=Einhaltung der Lizenzbestimmungen">Anton Spitzer</a></p>
+
+

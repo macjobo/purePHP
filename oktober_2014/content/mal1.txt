@@ -1,0 +1,55 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Geänderte Passwortrichtlinie - Allgemeine Softwareupdates.</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+
+
+
+
+
+
+<li><div><b>Passwortrichtlinie im Privaten EH wird geändert</b><br />
+Per 1. Oktober wurde die Windows Passwortrichtlinie an die aktuellen Anforderungen angepasst. 
+Diese tritt mit der nächsten Änderung nach jeweils 90 Tagen in Kraft. 
+Damit wurden die Hauptsysteme CROSS, SAP, POCSO und Partner.Net vereinheitlicht.
+
+
+ </div></li>
+
+
+<li><div>
+<b>Softwareupdate: POI Shutdown Scheduler Eintrag Vers.1.0_AG 1.2</b><br />
+
+Die aktuelle Umsetzung der „Scheduled Task" für den Client Shutdown hat 
+Probleme mit dem Windows 7 Ruhemodus. Dieses aktualisierte Paket behebt die Problematik. 
+Sie können zwischen einer Ausschaltzeit um 23:00 Uhr oder - jetzt neu - 21:00 Uhr wählen.
+
+
+</div></li>
+
+
+<li><div>
+<b>Softwareupdate: CPSD Crypto Pro Secure Disk Client Vers.4.1.0_AG 1.1</b><br />
+
+Für das Update im EH von Version 3 auf 4.1 unserer Festplattenverschlüsselung gibt es eine neue Version 
+vom CPSD SW Paket. Das Update wird in Kürze auf allen betroffenen Clients durchgeführt.
+
+
+
+</div></li>
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

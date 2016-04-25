@@ -1,0 +1,47 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neues WLAN-Barcodereader Modell im POCSO Standard</h1>
+<h2>Ab sofort sind zwei neue WLAN-Barcodereader Modelle von Datalogic für das CROSS Modul CROSS.SERVICE.Barcode verfügbar.</h2>
+
+<img src="images/bild_mal3.jpg" width="190" height="120" title="Highlights NW/GW" />
+
+
+
+<p>
+Die Neuigkeiten im Überblick:
+</p>
+
+
+<ul>
+
+<li><div><b>Datalogic Memor X3</b><br />
+
+Klein, schmal und leicht ist der Memor X3, ausgesprochen ergonomisch und mit einer Hand zu bedienen. Das neue Modell hat gegenüber dem Vorgänger ein leicht vergrößertes 6 cm Display 
+und wartet mit gesteigerter Scanperformance auf. Wir empfehlen aufgrund des größeren Displays als Erstgerät jedoch den Skorpio X3.
+</div></li>
+
+
+<li><div><b>
+Datalogic Skorpio X3</b><br />
+Dieses Modell ist der Ersatz für Falcon X3. Er ist um ca. € 200,-- günstiger und mit einem um 7,62 mm kleineren Display ausgestattet. Er kann sowohl ohne 
+als auch mit Griff verwendet werden und bietet dadurch eine höhere Variabilität. Die Prozessorleistung ist vergleichbar mit dem Falcon X3.
+</div></li>
+
+
+</ul>
+
+<p>
+Beide Modelle halten wiederholtem zu Boden fallen stand und sind staub- und wasserfest. 
+Die in unserem Umfeld verwendeten Varianten zur Erfassung von 1D-Strichcodes sind mit einem Scanfenster ausgestattet, 
+das optimale Scanleistung gewährt.
+</p>
+
+<p>
+Details zu den Datalogic WLAN-Barcodescannern sowie Preisinformationen 
+erhalten Sie im <a href="http://www.snt.at/eshop" target="_blank" title="zum e-Shop"><b>e-Shop&nbsp;&raquo;</b></a> von S&T 
+(Benutzer: "900959-VWAprodAT-1", Passwort: "VWAprodAT") im Bereich "POS / Barcodescanner" oder bei Herrn Markus Berghammer von S&T Austria GmbH (Tel.: 0662 - 850 285-1515).
+</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neues WLAN-Barcodereader Modell">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>

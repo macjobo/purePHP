@@ -1,0 +1,31 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Ende Windows-XP</h1>
+<h2>Die Umstellung auf Windows 7 in den POCSO Netzwerken läuft auf Hochtouren.</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Ende Windows-XP" />
+
+
+<p>Wie bereits im Porsche Informatik-Newsletter vom Juni 2013 berichtet, wird per 8. April 2014 der <b>Support von Microsoft für Windows XP eingestellt</b>. 
+Bitte planen Sie die Umstellung Ihrer Windows XP Arbeitsplätze auf Windows 7 bereits jetzt ein. Im <b>POCSO Umfeld</b> werden wir Windows XP noch <b>bis zum 31.12.2014 unterstützen</b>. 
+Ab dem Jänner 2015 kann jedoch auch hier Windows XP nicht mehr verwendet werden. </p>
+
+
+<p>Die Umstellung kann mittels Ticket am <b>ServiceDesk der Porsche Informatik</b> angefordert werden. Betriebe, 
+die POCSO Diagnosetester im Einsatz haben, werden wir gesondert über den Umstellungsablauf informieren. Ob Ihr PC bereits mit einer Windows 7 Lizenz ausgestattet ist und weiterverwendet werden kann, 
+können Sie der POCSO-Netzwerkübersicht entnehmen, auf die Ihr EDV-Verantwortlicher Zugriff hat. Informationen über den Ablauf der Uminstallation erhalten Sie auch in der POCSO-Onlinehilfe unter Start/Anwendungen Händler.</p>
+
+<p>
+Für Fragen steht Ihnen der Service Desk und Ihr Key Account Manager der Porsche Informatik zur Verfügung.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Ende Windows-XP">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+

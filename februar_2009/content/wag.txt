@@ -1,0 +1,28 @@
+<h1>CROSS 2: Silverdat-Schnittstelle</h1>
+<h2>Mit CROSS 2.09 wurde nun auch das Schadenskalulationsprogramm "SilverDat" mittels Schnittstelle an CROSS angebunden.</h2>
+
+
+
+
+<p>Im CROSS Release 2.09 wurde die Schnittstelle zum <b>Schadenskalkulationssystem "SilverDat"</b> der Firma DAT umgesetzt. Diese Schnittstelle ermöglicht die einfache Übernahme einer in SilverDat erzeugten Schadenskalkulation. Damit wird der Ablauf vom Kostenvoranschlag bis zur Verrechnung in CROSS vereinfacht und beschleunigt.</p>
+
+
+<p>Die Vorteile dieser Lösung:
+
+<ul>
+<li><div>Direkte Übernahme der <b>Arbeitspositionen und Ersatzteile</b> einer Schadenskalkulation in CROSS.</div></li>
+<li><div><b>Zeitersparnis</b> durch Beschleunigung der Kalkulationsübernahme</div></li>
+<li><div>Vermeidung von <b>Doppelterfassung bzw. Erfassungsfehlern</b>.</div></li>
+<li><div>Der Auftrag steht sofort zur weiteren Bearbeitung zur Verfügung.</div></li>
+</ul>
+
+</p>
+
+<p><a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/db87666234c97bfcc1257441003504b7?OpenDocument" target="_blank" title="Produktblatt CROSS 2 Schnittstelle zu Schadenskalkulationsprogramm"><b>&raquo; Details zu dieser neuen optionalen Schnittstelle</b></a> finden Sie in der POI-Infoline, auch Ihr Key Account Manager der Porsche Informatik berät Sie gerne.</p>
+
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Silverdat-Schnittstelle">Gregor Wagner</a></p>
+

@@ -1,0 +1,46 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>SAP: SEPA Umstellung</h1>
+<h2>SEPA (Single Euro Payment Area) ist das Projekt eines einheitlichen europäischen Zahlungsverkehrsraumes für Transaktionen in Euro.</h2>
+
+<img src="images/bild_wap1.jpg" width="190" height="120" alt="SEPA" />
+
+
+<p>Ab <b>spätestens 1. August 2014</b> wird es verpflichtend sein (der Termin wurde im Jänner 2014 um 6 Monate verlängert), 
+bei Zahlungen im Euroraum statt "Kontonummer und Bankleitzahl" die international gültige Kontonummer IBAN und die internationale Bankleitzahl BIC zu verwenden.
+</p>
+
+<p>
+Im Zeitraum von August bis Dezember haben wir gemeinsam mit den Anwendern, jene österreichischen Betriebe, 
+die den <b>automatischen Zahlungsverkehr über das RW-System SAP</b> verwenden, auf den neuen SEPA Standard umgestellt. 
+Der Umstellungsprozess lief sehr reibungslos und konnte zeitgerecht umgesetzt werden.</p>
+
+<p>Falls Sie den automatischen Zahlungsverkehr noch nicht mittels SAP-Unterstützung durchführen, 
+empfehlen wir Ihnen, sich mir Ihrem Key Account Manager der Porsche Informatik in Verbindung zu setzen. 
+Wir unterstützen Sie gerne bei der Einführung dieser Arbeitserleichterung.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=SEPA Umstellung">Petra Wambacher</a><br />
+SAP-Beratung und Support</p>
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ 

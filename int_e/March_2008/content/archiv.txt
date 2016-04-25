@@ -1,0 +1,25 @@
+<h1>Archiv </h1>
+
+
+
+<h2>Newsletter</h2>
+
+
+<ul>   
+
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/int_e/June_2007/index.php"archiv" target="_blank")>Newsletter June 2007</a>
+      </li>
+ 
+ <li><A HREF="http://newsletter.porscheinformatik.at/int_e/October_2007/index.php"archiv" target="_blank")>Newsletter October 2007</a>
+      </li>
+                
+     <!--  <li>
+      <A HREF="#" OnClick=window.open("http://poinfo.szg.porsche.co.at/extern/firmeninfo/inhalt/newsletter//newsletter_07_2006.htm","pop_upa","toolbar=no,location=no,directories=no,status=no,menubar=yes,scrollbars=no,resizable=no,width=770,height=600")>Newsletter Juli 2006</a>
+      </li>
+											
+			<li><A HREF="#" OnClick=window.open("http://poinfo.szg.porsche.co.at/extern/firmeninfo/inhalt/newsletter/newsletter_06_2006.htm","pop_upa","toolbar=no,location=no,directories=no,status=no,menubar=yes,scrollbars=no,resizable=no,width=770,height=600")>Newsletter Juni 2006</a>
+      </li>
+  -->
+												
+  </ul>

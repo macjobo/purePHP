@@ -1,0 +1,28 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Service Desk: Neue Mitarbeiter für wachsende Aufgaben</h1>
+<h2>Für die Bewältigung neuer Aufgaben haben wir den Service Desk personell nochmals aufgestockt.</h2>
+
+
+
+<a href="index.php?page=bild_sd"><img src="images/bild_alk.jpg" width="190" height="120" alt="Service Desk" /><span></span></a>
+
+
+<p>Um unseren Kundenservice weiter zu verbessern, haben wir unseren Service Desk nochmals verstärkt. In den letzten Wochen sind vier neue Kollegen zu uns gestoßen: <b>Fabian Helminger</b>, <b>Stefan Nagl</b> und <b>Reinhard Gehmaier</b> unterstützen den Service Desk in Vollzeit, Herr <b>Andreas Klonz</b> steht uns als freier Mitarbeiter für 20 Wochenstunden zur Verfügung.</p>
+
+<p>Es ist uns gelungen, die <b>Lösungsrate</b> am Service Desk auf <b>35 Prozent</b> zu steigern. Das heißt, über ein Drittel aller eingehenden Anfragen aus  Österreich (Einzelhandel und Porsche-Konzern) und den 15 Partnerländern zu den <b>mehr 
+als 180 IT-Anwendungen</b> der Porsche Informatik werden heute direkt am Service Desk bearbeitet und erfolgreich abgeschlossen. </p>
+
+
+<p>Anfragen, die nicht vom Service Desk selbst gelöst werden können, leiten wir an die MitarbeiterInnen unseres Second-Level-Supports zur Bearbeitung weiter. Unser Ziel für 2012 ist es, die Eigenlösungsrate auf <b>40 Prozent</b> zu erhöhen, um unseren Anwendern noch schnelleren und umfassenderen Support zu bieten. </p>
+
+<p>Ab Jänner 2012 wird der Service Desk auch <b>Kolumbien</b> betreuen, wo dann ebenfalls IT-Lösungen von Porsche Informatik im Einsatz sein werden. </p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Mitarbeiter">Michaela Alker</a><br />
+Incident Management Service Desk
+</p>
+
+
+
+

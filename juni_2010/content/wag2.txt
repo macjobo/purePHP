@@ -1,0 +1,28 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Neues CROSS-Release 2.12: Vermietung</h1>
+<h2>Mit dem neuen CROSS-Modul "Vermietung" erstellen Sie komfortabel Mietverträge für die Miet- und Ersatzfahrzeuge Ihres Betriebs.</h2>
+
+<img src="images/bild_wag2.jpg" width="190" height="120" alt="Vermietung" />
+
+
+<p>Neben der dauerhaften Erfassung aller notwendigen <b>Vertragsdaten</b> (z. B. Führerscheindaten des Entleihers) und der Übernahme des Verleihzeitraums aus dem <b>Werkstattplaner</b> erleichtert diese Zusatzfunktion auch die Berechnung der Verleihgebühren und übernimmt diese auf die Werkstattrechnung.</p> 
+
+<p>"CROSS Vermietung" verfügt über eine Anbindung an den <b>Service-Key</b>: Dadurch erfolgen die Identifizierung und der Aufruf Ihres Mietfahrzeugs
+in CROSS automatisch. Eine <b>Auswertung</b> der Verleihdaten (Stichwort "Radarstrafen") komplettiert dieses Modul.</p>
+
+<p>Detaillierte Informationen zum neuen <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/83709b75744375a1c125772600460d7a?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>CROSS-Modul "Vermietung"&nbsp;&raquo;</b></a>  finden Sie in der POI-Infoline, auch Ihr Key Account Manager der Porsche Informatik berät Sie gerne.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vermietung">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

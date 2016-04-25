@@ -1,0 +1,50 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>SERVICE DESK: Neues vom Service Desk</h1>
+<h2>Vordefinierte Ausfüllhilfen bei der Ticketerstellung sowie neue Service Desk-Mitarbeiter.</h2>
+
+<img src="images/bild_alk.jpg" width="190" height="120" alt="Neues vom Service Desk" />
+
+
+<p>In den letzten Wochen hatten wir im Service Desk ein <b>erhöhtes Anrufaufkommen</b> zu verzeichnen.
+Dadurch kam es leider vereinzelt zu längeren Wartezeiten bis ein Service Desk Mitarbeiter das Kundengespräch entgegen nehmen konnte. <br />
+
+Im Januar als auch im Februar dieses Jahres hatten wir jeweils ein Plus von ca. 500 Kundenanrufen. Viele dieser Anrufe betrafen das Thema: "Umstellung von Windows XP auf Windows 7". </p>
+
+<p>An dieser Stelle möchte ich Ihnen auch die Möglichkeit anbieten, dass Sie für PC-Umstellungen die <b>vordefinierten Ausfüllhilfen</b> via unseren Online Support verwenden.
+Bei Ticketerstellung finden Sie unter der Kurzbeschreibung: "POCSO-EH" das Template: "Umstellung Betriebssystem von XP auf Win7".
+</p>
+
+<p>
+Mit Freude darf ich Ihnen auch unsere <b>neuen Mitarbeiter</b> im "Service Desk-Team" vorstellen.
+Herr <b>Andreas Klonz</b>, der uns bereits einige Jahre als Teilzeitmitarbeiter unterstützt hat, wurde mit Januar 2014 in Vollzeit übernommen.
+Neu im Team heißen wir auch, <b>Michael Willinger</b> und <b>Ismail Colak</b> willkommen.<br />
+Nach erfolgreicher Einarbeitung in ein umfangreiches Tätigkeits- und Wissensfeld werden 
+Ihnen unsere "Neueinsteiger" in gewohnter Qualität, "Hilfe & Support" in allen "IT-Lebenslagen" bieten können.
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neues vom Service Desk">Michaela Alker</a><br />
+Teamleitung Service Desk</p>
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ 

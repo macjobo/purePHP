@@ -1,0 +1,50 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neue Mitarbeiter</h1>
+<h2>Seit November unterstützen uns zwei neue Mitarbeiter im POCSO-Client-Team, die wir Ihnen kurz vorstellen möchten.</h2>
+
+ <img src="images/tobias.jpg" width="115" height="175" alt="Tobias Dußmann" /><img src="images/andreas.jpg" width="115" height="175" alt="Andreas Hufnagel" />
+<p></p>
+
+
+<p><b>Andreas Hufnagl</b><br> (linkes Bild) trat Anfang November die Nachfolge von Wolfgang Haring an, der mit 15.11.2010 in die Porsche Bank wechselte.</p>
+
+<p><b>Tobias Dußmann</b><br> (rechtes Bild) ist IT-Student im 1. Semester an der Fachhochschule in Puch und unterstützt uns als geringfügiger Mitarbeiter im Bereich Hardware-Auslieferungen.
+
+</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Mitarbeiter">Herbert Lohninger
+</a></p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

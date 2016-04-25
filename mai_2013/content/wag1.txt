@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Fahrerdatenerfassung</h1>
+<h2>Steuern Sie Ihre Kommunikation aus CROSS und stellen Sie sicher, dass der richtige Ansprechpartner Ihre Informationen erhält.</h2>
+
+<img src="images/bild_wag1.jpg" width="190" height="120" title="Fahrerdatenerfassung" />
+
+
+<p>In vielen Fällen sind Firmenfahrzeuge <b>einem einzigen Fahrer</b> zugeordnet. In dieser Situation ist der Fahrer der <b>erste Ansprechpartner</b> wenn es um das Fahrzeug geht.
+Werden Informationen zum Fahrzeug an eine allgemeine Adresse der Firma gesendet, bedeutet dies für Ihren Kunden erhöhten Aufwand. In manchen Fällen hat dies sogar zur Folge,
+dass die Informationen gar nicht zum richtigen Adressaten, nämlich dem Fahrer, kommen.</p>
+
+<p>Um dies zu vermeiden, <b>steuern</b> Sie Ihre Kommunikation <b>zielgenau</b> und verwenden Sie die <b>Fahrerfunktionalität</b> in CROSS! Dadurch ist gewährleistet, dass der Fahrer Einladungen zu Werkstattterminen, 
+Promotionsaktionen, Auto-Fertig-Informationen usw. erhält.
+
+Wie Sie diese Funktion richtig nutzen, erfahren Sie in unserem Infolinedokument <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/0d17af8fc5a6b2bcc1257799003250bd?OpenDocument" 
+target="_blank" title="Zur Porsche-Informatik-Infoline">&nbsp;&raquo;"Fahrerdaten - Erfassung und 
+Verwendung"</a>, welches wir neu überarbeitet und um das Thema Werkstatt-Terminbuchung-Online erweitert haben.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Fahrerdatenerfassung">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+

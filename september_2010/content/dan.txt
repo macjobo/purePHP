@@ -1,0 +1,31 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>MIK-BIS: Betriebsindividuelle Beratung</h1>
+<h2>Optimieren Sie Ihr Berichtswesen und Controlling mit einer MIK-BIS-Beratung vor Ort.</h2>
+
+<img src="images/bild_dan.jpg" width="190" height="120" alt="Eingangsrechnungskontrolle" />
+
+<p>Sie haben bereits ein standardisiertes <b>Berichtswesen</b> mit MIK-BIS oder planen eines einzusetzen? Sie benötigen aber Unterstützung dabei, Daten aus unterschiedlichsten Quellen (CROSS, SAP, VU2, BV, etc.) und Zeiträumen individuell zusammenzustellen?</p>
+
+<p>Unser MIK-BIS-Berater unterstützt Sie dabei, das Controlling und Berichtswesen Ihres Betriebs zu <b>optimieren</b>. Er analysiert gemeinsam mit Ihnen das bestehende Berichtswesen und erarbeitet mit Ihnen Wege, Ihre Berichte mithilfe von MIK-BIS in Zukunft auf <b>Knopfdruck</b> zu erstellen.</p>
+
+<p>Die <b>Schwerpunkte</b> der Beratung liegen dabei auf folgenden Themen:
+
+<ul>
+
+<li><div><b>Analyse</b> der bestehenden Berichte und Aufnahme der zukünftigen Anforderungen</div></li>
+<li><div>Gemeinsame Erstellung eines <b>automatisierten Excel-Berichts</b> mit Anbindung an die MIK-Datenbank</div></li>
+<li><div>Verbindung bestehender Berichte mit der <b>MIK-Datenbank</b></div></li>
+<li><div><b>Konvertierung</b> alter MIK-Info-Berichte auf MIK-BIS</div></li>
+<li><div>Gemeinsames Erarbeiten von individuellen <b>Grafiken und Tabellen</b></div></li>
+</ul>
+Selbstverständlich beraten wir Sie aber auch zu andere MIK-BIS-Themen, die für Ihr Unternehmen im Vordergrund stehen.
+
+</p>
+
+<p>Haben Sie Interesse an einer Vor-Ort-Beratung zu MIK-BIS? Dann kontaktieren Sie bitte Ihren Key Account Manager der Porsche Informatik, er koordiniert einen Termin für Sie.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Betriebsindividuelle MIK-BIS-Beratung">Alfred Danner</a><br />
+MIK-BIS-Beratung </p>

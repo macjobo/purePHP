@@ -1,0 +1,43 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Release 2.30: Highlights Neu- u. Gebrauchtwagen</h1>
+<h2>Mitte März geht das neue CROSS-Release 2.30 in den Breiteneinsatz – Hier finden Sie die wichtigsten Neuerungen im Bereich Neu- und Gebrauchtwagen.</h2>
+
+<img src="images/bild_scc2.jpg" width="190" height="120" title="Highlights NW/GW" />
+
+
+
+<p>
+Das neue CROSS-Release 2.30  bringt eine Reihe interessanter Neuerungen - hier die wichtigsten Änderungen im <b>Bereich Neu- und Gebrauchtwagen</b>: 
+</p>
+
+
+<ul>
+
+<li><div><b>
+Änderung bei Datenübernahme von Kaufvertrag ins Fahrzeug</b><br />
+
+Wenn die Daten im Kaufvertrag von jenen im Fahrzeug abweichen, wird das Fenster Datenübernahme von Aktdokumenten ins Fahrzeug angezeigt.
+</div></li>
+
+
+<li><div><b>
+Optionen aus der Fahrzeugspezifikation können am Fahrzeugdatenblatt angedruckt werden</b><br />
+Auf dem Fahrzeugdatenblatt können auch Optionen, die in der Fahrzeugspezifikation erfasst wurden, angedruckt werden.
+</div></li>
+
+<li><div><b>
+Korrekte Berechnung des NW-Listenpreises</b><br />
+Zur Berechnung des NW-Listenpreises hat CROSS bisher den in der Fahrzeugspezifikation ausgewählten MWST-Steuersatz herangezogen.<br />
+Neu ist, dass<br />
+- zum Zeitpunkt der Auslieferung, CROSS den NW-Listenpreis auf Basis des eingestellten Standardsteuersatzes (MWST-Steuer) berechnet. 
+Diese Berechnung ist unabhängig davon welche Einstellung für den MWST-Steuersatz in der Fahrzeugspezifikation gewählt wurde.<br />
+- das Feld "NW-Listenpreis" im Fahrzeugfenster unter dem Reiter "Garant.+Ausl." in "NW-Listenpreis (Brutto)" umbenannt worden ist. 
+Somit ist der NW-Listenpreis für den Benutzer in CROSS klar als Bruttobetrag erkennbar.
+</div></li>
+
+
+  </ul>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Highlights CROSS Release 2.30">Christian Schicht</a><br />
+POI PHS CROSS Consulting</p>

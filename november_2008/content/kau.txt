@@ -1,0 +1,15 @@
+<h1>CROSS 2: Aktivitätenmanager</h1>
+<h2>Optimieren Sie Ihre Informationsverwaltung im Service-Bereich mit dem kostenlosen CROSS-Aktivitätenmanager!</h2>
+
+
+<p>CROSS 2 bietet im Bereich <b>Informationsverwaltung</b> umfangreiche Möglichkeiten: So können Informationen kategorisiert, mit Dateianhängen versehen und mit anderen Informationen - von Kunden/Fahrzeugen bis hin zu Aufträgen - verknüpft werden.</p>
+
+<p><b>Aktivitäten</b> bauen auf diesen Informationen auf. Ähnlich dem Kontaktmanager der VU2 bieten Aktivitäten den Vorteil, dass Informationen mit Terminen versehen (Eintritt und Vorlagetermin) und einem bestimmten Benutzer zugeordnet werden können.</p>
+
+<p>Ein <b>eigenes Menü</b> listet die offenen Aktivitäten je Benutzer, wodurch eine Vertretung einfacher wird. Aktivitäten werden mit Kommentaren versehen und sowohl offene als auch erledigte Aktivitäten können über "CROSS Infos" ausgewertet werden.</p>
+
+<p>Mehr Informationen, Beispiele, Beratung gefällig? Ihr <b>CROSS-Berater</b> hilft Ihnen gerne beim Aufsetzen einer Rückrufverwaltung bis hin zum beim Aufbau einer ISO-tauglichen Abwicklung der C-Reparaturenkontrolle über CROSS. Auch Reparaturerweiterungen, Teilebestellungen für Kunden oder sogar Marketingaktionen werden vom Aktivitätenmanager unterstützt.</p>
+
+<p>Und das Beste zum Schluss: Die Funktionalität "Aktivitätenmanager" ist bereits in Ihrem CROSS-System <b>integriert</b> - Sie müssen sie nur noch nutzen!</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Aktivitätenmanager">Christian Kaufmann</a></p>

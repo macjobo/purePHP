@@ -1,0 +1,33 @@
+<h1>Anwendungen: Zentrale Begutachtungsdatenbank</h1>
+<h2>Die Zentrale Begutachtungsdatenbank (ZBD) für §-57a-Überprüfungen steht kurz vor der Einführung; wir informieren Sie darüber, was Sie dabei in Zusammenhang mit dem EBV-System beachten müssen.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="Zentrale Begutachtungsdatenbank" />
+
+
+<p>Mit 1. Oktober beginnt die Übergangsphase von der dezentralen auf die <b>zentrale Verwaltung der Plakettenausgabe</b> und der berechtigten Gutachter. Porsche Austria hat bereits mittels Partner.Net-Rundschreiben vom 4.6.2014 vorinformiert und kürzlich gab es dazu auch ein umfassendes Rundschreiben der Wirtschaftskammer Österreich.</p>
+<p>Ab diesem Zeitpunkt dürfen Plaketten nur mehr an Begutachtungsstellen ausgegeben werden, die bereits an die <b>Zentrale Begutachtungsdatenbank</b> (ZBD) angebunden sind und die <b>EBV-Version 5.x</b> im Einsatz haben. Achten Sie darauf, dass Ihr Plakettenvorrat bis in den Übergangszeitraum - zumindest für Oktober - reicht.</ br>
+Ab 1. Jänner 2015 dürfen von den Betrieben nur mehr Plaketten ausgestellt werden, die bereits in der ZBD erfasst wurden.</p>
+
+<p>Der Österreichische Wirtschaftsverlag hat gemeinsam mit der ZBD eine spezielle <b>EBV-Übergangsversion</b> entwickelt, die vor Einsatz der EBV 5.x zum Zuge kommt. Alle Partner mit einem POCSO-Netzwerk erhalten automatisch <b>beide Versionen</b> eingespielt. Wir werden Sie zeitgerecht mit separaten Rundschreiben darüber informieren, wie die Einspielung abläuft und was dabei zu beachten ist.</p>
+<p>Einen wichtigen Hinweis möchten wir Ihnen aber schon jetzt geben: Wenn Sie den Andockprozess an die ZBD einmal gestartet haben, können Sie mit der EBV-Zwischenversion <b>kein Gutachten mehr</b> erstellen. Da die Einspielung von EBV 5.x für POCSO-Betriebe jedoch nur über Nacht möglich ist, dürfen Sie den Andockprozess erst am Abend aktivieren.</p>
+
+<p>Bei Fragen rund um EBV und den Andockprozess wenden Sie sich bitte an die <a href="http://ebv-hotline@wirtschaftsverlag.at" target="_blank" title="Zur EBV-Hotline"><b>EBV-Hotline&nbsp;&raquo;</b></a>.</p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Zentrale Begutachtungsdatenbank">Christian Witibschlager</a><br />
+Key Account Management Einzelhandel Österreich</p>
+
+
+
+ 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,28 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Release 2.12: Neu- Und Gebrauchtwagen</h1>
+<h2>...</h2>
+
+
+<img src="images/bild_ric.jpg" width="190" height="120" alt="Tipp: Typgruppen und Leistungspreise" />
+
+
+Die Regelungen zum Abgasverhalten von Fahrzeugen werden immer vielfältiger, immer mehr Motoren und Antriebsvarianten kommen auf den Markt. Daher stehen Ihnen ab sofort die Abgasemissionsklassen in CROSS zur Verfügung, außerdem wurden die möglichen Treibstoffkennzeichen auf Basis international üblicher Definitionen erweitert. Neben CROSS wurden auch die Importeurssysteme, die VU2  und der Datenaustausch von CROSS mit diesen Systemen entsprechend angepasst.
+
+Die Information, ob ein Fahrzeug vorsteuerabzugsberechtigt ist, kann nun systemübergreifend (Importeurssysteme, VU, CROSS) verarbeitet und angezeigt werden.
+
+Die Buchungsanzeige in einem Neu- oder Gebrauchtwagen-Akt kann nun auch bereits vor der Erstellung der Fahrzeug-Ausgangsrechnung erzeugt werden. Im Zuge dieser Erweiterung werden auch neue Geschäftsfälle mit Standard-Verbuchung für Buchungsanzeige, Eingangsrechnungen sowie Kaufvertragsoptionen angeboten.
+
+Die von CROSS berechneten NoVA-Zu- bzw. Abschläge sowie die Nova-Rückvergütung können nun manuell geändert werden, wenn eine von der CROSS-Berechnung abweichende Berechnungsmethode anzuwenden ist.
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Tipp: Typgruppen und Leistungspreise">Georg Hofer</a><br />
+CROSS-Support</p>
+
+
+
+
+
+

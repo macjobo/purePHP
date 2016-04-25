@@ -1,0 +1,55 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Desktopmanagement wird Windows 10-fähig - Neuer VLC Mediaplayer - Umstellung POCSO Teleworker abgeschlossen - Java Updatemeldungen</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+
+<li><div><b>Desktopmanagement: CA DSM Update auf die Version 12.9</b><br />
+Das Desktopmanagement, die Software für die Verwaltung Ihrer POCSO-Umgebung, wird mit diesem Update Windows 10-fähig, 
+im Testsystem war diese Version schon einige Monate in der Porsche Informatik im Einsatz, per 19. Jänner 2016 haben wir es 
+nun in der Produktivumgebung eingesetzt. Damit sind wir auch in diesem Umfeld für Windows 10 gerüstet.
+
+ </div></li>
+
+
+
+
+<li><div>
+<b>SW Paket: VideoLan VLC Mediaplayer Vers.2.2.1_AG</b><br />
+Der Wunsch nach dieser Software war schon lange zu hören, bei Windows 7 kann bei Bedarf die Installation via Service Desk angefordert werden, 
+wenn der Standard Windows Media Player ein Format nicht unterstützt. Ab dem Einsatz von Windows 10 wird dieser Player standardmäßig installiert.
+
+</div></li>
+
+<li><div>
+<b>POCSO Teleworker: Umstellung EH VPN Lösung auf Cisco Anyconnect abgeschlossen  </b><br />
+Ein wenig hat es doch gedauert, aber jetzt ist es vollbracht. Die Umstellung des POCSO Teleworker auf den Cisco Annyconnect Client im Einzelhandel ist erledigt, 
+die alten Accounts wurden von A1 gelöscht. Vielen Dank für die Unterstützung bei der Umstellung auf die neue POCSO Teleworker Version. 
+Haben Sie Bedarf an weiteren mobilen Zugängen zum POCSO Netzwerk? Informationen zu den Möglichkeiten erhalten Sie in der 
+<a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/00c567a14adc06b6c1257345002cdb8c/b85525dcdc2b1e3bc125746400315b81?OpenDocument" 
+target="_blank" title="Zur Porsche-Informatik-Infoline"><b>Porsche Informatik Infoline&nbsp;&raquo;</b></a>.
+</div></li>
+
+<li><div>
+<b>Java Updatemeldungen</b><br />
+Die lästigen Java Updatemeldungen, die dazu verleiteten eine aktuellere Version am PC zu installieren und in den meisten Fällen zu Problemen mit installierten Softwareprodukten führte, 
+konnte beseitigt werden. Damit werden nur mehr geprüfte Versionen am Desktop installiert.
+</div></li>
+
+
+
+
+</ul>
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

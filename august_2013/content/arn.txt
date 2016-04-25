@@ -1,0 +1,36 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS-Tipp: Automatischer Mietvertragsdruck für Serviceersatzwagen</h1>
+
+<h2>Das manuelle Ausfüllen von Durchschreibeformularen kann der Vergangenheit angehören.</h2>
+
+<img src="images/bild_arn.jpg" width="190" height="120" title="Automat. Mietvertragsdruck für Serviceersatzwagen" />
+
+
+
+
+<p>Die Erfahrungen aus den bisherigen Starts des CROSS Moduls Service.Vermietung haben gezeigt, dass sich der systematische Druck von Mietverträgen 
+über CROSS sehr rasch amortisiert.  Wesentliche <b>Vorteile</b> gegenüber dem manuellen Ausfüllen des Durchschreibeformulars sehen die Anwender insbesondere 
+in einer exakten <b>Verrechnung der Mobilität inkl. Versicherungsleistung</b>. CROSS berechnet abhängig von der Ersatzfahrzeugkategorie eines Wagens automatisch 
+den fälligen Rechnungsbetrag und berücksichtigt auch allfällige Vertragsgebühren.</p>
+
+<p> 
+Das Formular des Mietvertrags kann sehr einfach per Mausklick <b>direkt vom Serviceauftrag</b> aus gedruckt werden. 
+Das spart Zeit und garantiert, dass auch alle gesetzlich erforderlichen Daten von Mieter und Mietgegenstand lückenlos erfasst werden. 
+Die Ablage von Führerscheinkopien ist somit nicht mehr erforderlich. Selbstverständlich werden alle CROSS Mietverträge <b>archiviert</b>,  
+deren Status kann jederzeit geprüft werden. Daraus ergibt sich für Sie auch eine lückenlose Auswertungsmöglichkeit über die Verwendung und die Verrechnung Ihrer Ersatzfahrzeuge.</p>
+
+<p>Haben wir Ihr Interesse an dem Produkt <b>CROSS.Service.Vermietung</b> geweckt? 
+Details finden Sie <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/ee75596659850e1bc1256ed900447337/83709b75744375a1c125772600460d7a?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">in der POI-Infoline&nbsp;&raquo;</a>. 
+Selbstverständlich steht Ihnen auch Ihr Key Account Manager für Fragen gerne zur Verfügung.</p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Automatischer Mietvertragsdruck für Serviceersatzwagen">Michael Arndt</a><br />
+CROSS-Beratung Österreich</p>
+
+
+

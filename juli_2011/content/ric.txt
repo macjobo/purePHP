@@ -1,0 +1,52 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS: Neue NoVA-Abwicklung</h1>
+<h2>Mit dem CROSS-Release 2.16 stehen Ihnen mehrere neue Möglichkeiten zur 
+Verfügung, die Normverbrauchsabgabe (NoVA) gesetzeskonform abzubilden.</h2>
+
+<img src="images/bild_ric.jpg" width="190" height="120" alt="NoVA Neu" />
+
+
+<p>Mit 30.6.2011 endet die <b>Übergangsregelung</b> des Finanzministeriums, die es 
+Unternehmern gestattet, bei der Lieferung von Neufahrzeugen die NoVA weiterhin 
+in die Bemessungsgrundlage der <b>Umsatzsteuer</b> einzubeziehen. Damit ist ab spätestens 
+1.7.2011 der errechnete NoVA-Betrag um 20 Prozent zu erhöhen und steuerfrei 
+abzuwickeln.</p>
+
+
+<p>Eine Ausnahme stellt die Verrechnung an <b>Leasingfirmen</b> dar: Hier entfällt die 
+20-prozentige Erhöhung der errechneten NoVA, wenn die NoVA in der <b>Leasingrate</b> und damit in der Basis für die Umsatzsteuerberechnung enthalten ist.</p>    
+
+<p>Weitere Ausnahmen im Bereich der NoVA-Berechnung gibt es für bereits zugelassene 
+<b>Vorführwagen</b>: Für sie gilt das Datum der erstmaligen Zulassung für die Berechnung 
+der NoVA-Zu- bzw. Abschläge. Die Rundschreiben der Händlerfinanzberatung informieren Sie dazu im Detail.</p>
+
+
+<p>Im <b>CROSS-Kaufvertrag</b> für einen Neu- oder Gebrauchtwagen können Sie ab Release 2.16 folgende Möglichkeiten nutzen, um die korrekte Berechnung der NoVA zu erreichen:</p>
+
+
+<ul>
+
+<li><div>ohne NoVA > Auswahl <b>"nicht NoVA-pflichtig"</b></div></li>
+<li><div>alte Regelung (nur noch für die Abbildung der alten Kaufverträge und Storni) > Auswahl <b>"NOVA-Pflicht mit USt"</b></div></li>
+<li><div>normale NoVA-pflichtige Verkäufe > Auswahl <b>"mit §6 Abs 6 Zuschlag"</b></div></li>
+<li><div>NoVA-plichtige Verkäufe ohne 20% Aufschlag (z. B. Leasing) > Auswahl <b>"ohne §6 Abs 6 Zuschlag"</b></div></li>
+<li><div>Eingabe eines <b>Stichtags-Datums</b> für die Berechnung der NoVA-Zu- und -Abschläge (bei internen Fahrzeugen automatisch vorgegeben)</div></li>
+<li><div><b>manuelle Änderbarkeit</b> der errechneten NoVA-Zu- und -Abschläge (wenn zukünftige gesetzliche Änderungen kurzfristig von den aktuell in CROSS vorgesehenen Rechenregeln abweichen).</div></li>
+
+</ul>
+
+<p>Für Ihre Fragen zur Abwicklung der neuen NoVA-Bestimmungen in CROSS stehen die Mitarbeiter unseres Service Desks gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=NoVA Neu">Günther Richter</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+

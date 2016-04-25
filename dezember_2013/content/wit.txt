@@ -1,0 +1,32 @@
+
+<h1>CROSS: Auftragsselektion</h1>
+
+<h2>Neben der CROSS.Controlling-Auftragsanalyse liefert die Auftragsselektion sehr gute ergänzende Informationen.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="Auftragsselektion" />
+
+
+<p>Die Auftragsanalyse zielt auf alle abgerechneten Aufträge ab, egal ob mit oder ohne Betrag. Man kann sagen, es handelt sich um alle Aufträge, für die die Rechnung dem Rechnungsempfänger ausgehändigt wird.</p>
+
+<p>Es gibt aber auch abgerechnete Aufträge, die <b>weder</b> eine <b>Stempelung</b>, <b>noch Auftragspositionen</b> enthalten. Man spricht auch oft 
+von <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/07a2980519e96483c1257c3000391326?OpenDocument"
+ target="_blank" title="Zur Porsche-Informatik-Infoline"><b>"Auftragsstorni"&nbsp;&raquo;</b></a> , 
+Aufträgen, bei denen der Kunde gar nicht erschienen ist.<br />
+
+In diesen Fällen sollten die Aufträge eigentlich noch im Status Voranmeldung stehen.
+Mit der Auftragsselektion nach Historydaten und einem speziellen Selektionskriterium lassen sich auch diese Aufträge ermitteln.
+</p>
+
+<p>Einfach den <b>Download ausführen</b> und in der Auftragsselektion nach Historydaten auf den Button "Konfg-Ausw." klicken und Import wählen.
+Das einzige Kriterium, das anschließend zu verändern ist, ist im Reiter Kopf-1 das Abrechnungsdatum. 
+Nach durchgeführter Selektion können Sie die Kriterien für Ihr Servicemodul speichern.
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Auftragsselektion">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+

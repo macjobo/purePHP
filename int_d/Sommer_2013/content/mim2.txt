@@ -1,0 +1,68 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Neue Passwort-Bestimmungen</h1>
+<h2>Die Passwort-Bestimmungen für die Porsche-Organisation werden verschärft.</h2>
+
+ <img src="images/bild_mim2.jpg" width="190" height="120" alt="Passwort-Bestimmungen" />
+ 
+<p>Internationale Best-Practice-Standards und Empfehlungen von Wirtschaftsprüfern bringen zum Ausdruck, dass Passwörter heutzutage erst ab einer Länge von acht Stellen ein <b>vertretbares Sicherheitsniveau</b> ermöglichen. Zu einfach ist es mittlerweile, Passwörter mit handelsüblicher PC-Hardware in nur wenigen Sekunden zu knacken.</p>
+
+<p>In Abstimmung mit der Geschäftsführung der Porsche Holding werden die Passwort-Bestimmungen daher <b>per 1.7.2013</b> geändert. Die neuen Vorgaben lauten:</p>
+
+
+
+<ul>
+
+<li><div>mindestens <b>8 Stellen</b> (bisher 6)
+</div></li>
+
+<li><div>Gültigkeit <b>90 Tage</b> (bisher 120 Tage)
+</div></li>
+
+</ul>
+
+<p>Die Komplexität mit <b>"3 aus 4"</b> - Großbuchstaben, Kleinbuchstaben, Ziffern oder Sonderzeichen - bleibt unverändert. Bis auf Weiteres unberührt bleiben auch die Passworteinstellungen für Smartphones (Blackberry, iPhone, iPad). Sie finden die Passwortpolicy wie gewohnt im Porsche Holding <b>Org-Handbuch unter Punkt 6.04.</b></p>
+
+<p>Die Systeme werden ab 1. Juli sukzessive umgestellt, sodass die neuen Vorgaben im Lauf des Sommers bei Passwortänderungen schlagend werden. Sollten also bei einer Passwortänderung Probleme auftreten, so denken Sie bitte daran, dass Sie nun mindestens acht Stellen eingeben müssen.</p>
+
+<p>Wir empfehlen Ihnen auch für Ihr <b>privates Umfeld</b> die Verwendung von starken Passwörtern. Nur so können Sie Ihre persönlichen Daten effektiv vor unberechtigtem Zugriff schützen.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Passwort-Bestimmungen">Marcus Michalek</a></p>
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

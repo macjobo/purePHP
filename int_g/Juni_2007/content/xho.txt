@@ -1,0 +1,17 @@
+#3300cc
+
+Als Tochter der Porsche Holding sind wir einem großen Namen verpflichtet.
+
+
+<h1>
+Unser Anspruch:</h1> Die besten <b>Softwarelösungen</b> im Automobilhandel herzustellen.
+
+
+<p>Unser Prinzip: Konzentration auf den automobilen Bereich. Der Effekt: Weil wir das Geschäft genauer kennen, als jeder andere, entwickeln wir wirksamere Lösungen als jeder andere. Deshalb setzen immer mehr Kunden in ganz Europa auf Porsche Informatik - und steigern so ihre Wertschöpfung.</p>
+
+
+<p><ul>
+<li>Unser Prinzip: Konzentration auf den automobilen Bereich.</li> 
+<li>Der Effekt: Weil wir das Geschäft genauer kennen, als jeder andere,</li>
+entwickeln wir wirksamere Lösungen als jeder andere. Deshalb setzen immer mehr Kunden in ganz Europa auf Porsche Informatik - und steigern so ihre Wertschöpfung.
+</ul></p>

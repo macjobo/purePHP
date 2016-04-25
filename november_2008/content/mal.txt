@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Mobil mit VU2 mittels Vodafonekarte</h1>
+<h2>Der POCSO-Teleworker ermöglicht nun auch den mobilen und gesicherten Zugriff auf Ihr VU2-System!</h2>
+
+
+<p>Ab sofort haben Sie als Anwender eines <b>POCSO-Teleworkers</b> auch die Möglichkeit, über die Vodafone-Karte die <b>Onlineversion der Verkäuferunterstützung VU2</b> zu nutzen.</p>
+<p>Damit stehen Ihnen <b>alle VU2-Funktionen online</b> zur Verfügung, während Sie unterwegs sind. Sie können die VU2 beim Kunden vor Ort "online" fast genauso nutzen, wie Sie es im Betrieb gewohnt sind. Der große <b>Vorteil</b>: Die Daten müssen dabei nicht "lokal" am Gerät gespeichert sein. </p>
+<p>Zwei <b>Ausnahmen</b> gibt es aufgrund der großen Datenmengen, die übertragen werden müssten:
+
+<ul>
+	<li><div>Das Preislistenupdate ist nur im Netzwerk am Betriebsstandort möglich.</div></li>
+	<li><div>Kaufverträge- und Leasinganträge können ebenfalls nur am Betriebsstandort gesendet werden.</div></li>
+</ul></p>
+
+<p>Für Fragen stehen die Mitarbeiter unseres Service Desk gerne zur Verfügung.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=VU2 über den POCSO-Teleworker">Friedrich Malle</a></p>

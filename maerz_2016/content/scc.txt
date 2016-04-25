@@ -1,0 +1,38 @@
+
+
+<h1>CROSS: Großgebindeumbuchung</h1>
+<h2>Systemparameter zur automatischen Anpassung des Kleingebinde-Einkaufspreises aktiviert.</h2>
+
+<img src="images/bild_scc.jpg" width="190" height="120" title="Großgebindeumbuchung in CROSS" />
+
+
+
+<p>
+Viele Betriebe haben bereits die CROSS-Funktion "GEBINDEUMBUCHUNGEN" in Verwendung, mit der Großgebinde automatisch in Kleingebinde umgebucht werden können.
+</p>
+
+<P>
+Bei <b>Einkaufspreis-Änderungen des Großgebindes</b> ist es erforderlich, dass der <b>Einkaufspreis des Kleingebindes</b> ebenfalls angepasst wird. 
+Einige Betriebe haben dafür bereits in der Vergangenheit den Systemparameter DEK_BESTANDSKORRPLUS aktiviert, damit eine manuelle Anpassung 
+des Kleingebinde-Einkaufspreises und des durchschnittlichen Einkaufspreises nicht mehr erforderlich sind, da diese automatisch bei der Gebindeumbuchung aktualisiert werden.
+</p>
+
+
+<P>
+Wir haben nun am 29. Februar 2016 österreichweit für alle Betriebe diesen <b>Systemparameter aktiviert</b>! Damit entfällt die manuelle Anpassung 
+des Kleingebinde-Einkaufspreises, wenn sich der Einkaufspreis des Großgebindes ändert.</p>
+
+
+<P>
+Auf die <b>manuelle Bestandskorrektur</b> hat dieser Systemparameter keine Auswirkungen! 
+Der durchschnittliche Einkaufspreis wird bei manuellen Bestandskorrekturen weiterhin nicht verändert, 
+da bei einer manuellen Bestandskorrektur als letzter Einkaufspreis ohnehin der bestehende durchschnittliche Einkaufspreis des jeweiligen Ersatzteiles herangezogen wird. 
+</p>
+
+<P>
+Sollten Sie die Großgebinde-Umbuchung noch nicht im Einsatz haben, unterstützt Sie Ihr CROSS Berater – z.B. im Zuge der kostenlosen CROSS 4-Stunden-Beratung – gerne bei der Einrichtung.
+</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS: Großgebindeumbuchung">Christian Schicht</a><br />
+POI PHS CROSS Consulting</p>

@@ -1,0 +1,42 @@
+
+<h1>CROSS: Zubehöranalyse</h1>
+
+<h2>Die Teileverkaufsanalyse hat der innerbetrieblichen Zubehöranalyse ein neues Kleid verpasst.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="Zubehöranalyse" />
+
+
+<p>Nachdem die "alte" innerbetriebliche Zubehöranalyse bereits seit geraumer Zeit keine brauchbaren Werte lieferte, 
+war es höchste Zeit die Erlöse für diesen wichtigen Geschäftsbereich wieder richtig ins Spiel zu bringen.</p>
+
+<p>Der Informationsblock <b>Teilekennzahlen nach Zubehöranalysegruppen</b> liefert eine Aufstellung des Teileverkaufs
+gruppiert nach Zubehöranalysegruppen und Zubehörarten, absteigend nach den Erlösen sortiert.
+In weiteren Spalten wird außerdem die verrechnete Menge, der Bruttogewinn (BGW vor Bonus) und der Teile-BGW in Prozent aufgelistet. 
+Die Analysegruppen können wie gewohnt gefiltert und auf der Folgeseite "Fabrikatsgruppen" auch noch mit dem Vorjahr verglichen werden. 
+Filter nach Serviceberater oder Fahrzeugfabrikate verstehen sich von selbst.
+</p>
+
+<p>Uns ist aufgefallen, dass bei vielen Betrieben der Originalteileerlös <b>fälschlicherweise</b> unter dem Begriff Originalzubehör zusammengefasst ist.
+In der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/f2a1a3ca7553b9e0c1257c5b006a22ec?OpenDocument
+" target="_blank" title="Zur Porsche-Informatik-Infoline">POI-Infoline&nbsp;&raquo;</a> finden Sie eine Anleitung, wie Sie die falsche Zuordnung wieder in Ordnung bringen können.
+</p>
+
+<p>Bei Fragen dazu hilft Ihnen unser Service-Desk oder Ihr CROSS-Berater.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Zubehöranalyse">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

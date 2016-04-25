@@ -1,0 +1,21 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>New search function</h1>
+                
+<div class="bild">        
+    
+<img src="images/my_console.jpg" width="424" height="172" alt="my_console" />
+      
+</div>                    
+                    
+<p>
+Via "My Console" > "Request Search Parameter" > "Show" you can choose between four display options:
+<br />
+<br />
+
+<div class="bild">  
+<img src="images/search_menu1.jpg" width="422" height="167" alt="search_menu1" />
+
+</div> 
+</p>
+<p id="back"><a href="index.php?page=wam">&raquo;&nbsp;Back to Article</a></p>

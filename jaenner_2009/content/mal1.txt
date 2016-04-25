@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neuer Datensicherungsstandard</h1>
+<h2>Das Wechseldatenträger-Sicherungssystem StorageWorks RDX von HP bietet eine benutzerfreundliche, kostengünstige und robuste Datensicherungslösung für den POCSO-Server in Ihrem Unternehmen.</h2>
+
+
+<p>Das <b>RDX Wechseldatenträger-Sicherungssystem</b> speichert mit Geschwindigkeiten bis zu 108 GB pro Stunde je nach Modell 160 bzw. 320 GB Daten auf einer einzigen Wechseldatenträgerkassette. Tragbare, strapazierfähige und robuste Wechselkassetten ermöglichen es Ihnen, Backups an einem anderen Standort einfach und sicher aufzubewahren.</p>
+
+<p>Die <b>Gesamtbetriebskosten</b> werden durch Wechseldatenträgerkassetten mit hoher Lebensdauer und eine aufwärts- und abwärtskompatible Dockingstation gesenkt. Durch die geschlossene Bauweise ist diese Sicherungstechnologie weitgehend sicher vor Verschmutzung und sonstigen Umwelteinflüssen.</p>
+
+<p>Voraussetzung für den Einsatz dieses Laufwerks ist ein <b>USB-2.0-Anschluss</b> am Server (ab Modell ML350 G4). Bei allen geeigneten sowie neuen Servern in POCSO-Netzwerken bietet S&T Austria in Zukunft nur mehr diese Laufwerksart an.</p>
+
+<p>Detaillierte Informationen über das RDX-Wechseldatenträger-Sicherungssystem erhalten Sie bei <a href="http://h10010.www1.hp.com/wwpc/at/de/sm/WF05a/12169-304616-3755725-3755725-3755725-3741006.html?jumpid=reg_R1002_ATDE" target="_blank" title="Detailinformationen zu HP StorageWorks RDX"><b>&raquo; HP im Internet</b></a>, im  <a href="https://www.domino.porsche.at/int/db/pub/ehnprod.nsf" target="_blank" title="zum e-Shop"><b>&raquo; e-Shop</b></a> (Benutzer: "Poiprod-VWA", Passwort: "Poiprod-VWA") im Bereich "Server Optionen" oder bei Herrn Markus Berghammer (Tel.: 0662 - 850 285-1515).</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neuer Datensicherungsstandard">Friedrich Malle</a></p>

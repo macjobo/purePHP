@@ -1,0 +1,80 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: E-Mail Sicherheit</h1>
+
+<h2>Das Thema E-Mail-Sicherheit ist akuter denn je. Regelmäßig kommt es durch unachtsames Öffnen von E-Mail-Anhängen zu Virusinfektionen, die sehr oft nur durch die 
+Neuinstallation des PC's beseitigt werden können.</h2>
+
+<img src="images/bild_kab.jpg" width="190" height="120" title="E-Mail Sicherheit" />
+
+
+
+
+
+<p>Immer öfter tarnen Kriminelle ihre bösen Absichten mit vertrauenswürdigen Namen, Adressen, Logos, usw. 
+(z.B. Amazon, Deutsche Post, Bundeskriminalamt, interne E-Mailadressen). Deshalb ist grundsätzlich Ihre <b>Achtsamkeit</b> im Umgang mit E-Mail so wichtig. Wir möchten Ihnen nochmals 
+konkrete <b>Verhaltensregeln</b> mitgeben:</p>
+
+
+<ul>
+
+<li><div>Seien Sie sehr vorsichtig bei E-Mails, die als "<b>Possible SPAM</b>" gekennzeichnet sind. Es handelt sich in der überwiegenden Zahl der Fälle um echte SPAM-Mails, deren Anhänge oder Links mit hoher Wahrscheinlichkeit 
+bösartig sind.</div></li>
+
+<li><div>
+Seien Sie äußerst skeptisch, wenn Benutzername, Passwort, Zugangscodes, o.ä. <b>in einem einzigen E-Mail abgefragt</b> werden. Seriöse Partner praktizieren dies nicht.</div></li>
+
+<li><div>
+Seien Sie sehr vorsichtig, wenn Sie <b>E-Mails von Unbekannten</b> erhalten. Verlassen Sie sich auch nicht auf die Absenderadresse im E-Mail, diese kann - wie bei einer Postkarte - sehr einfach gefälscht werden.</div></li>
+
+<li><div>
+Überlegen Sie stets vor dem Klicken auf Anhänge oder Links, ob das E-Mail von einer <b>vertrauenswürdigen Quelle</b> stammt. Auch wenn Sie eine Zusendung erwarten, 
+woher sollte z.B. die Deutsche Post oder ein anderer Paketdienst Ihre E-Mail-Adresse kennen? Bei geringstem Verdacht: Finger weg!</div></li>
+
+<li><div>
+
+Achten Sie auf die gesamte <b>Erscheinungsform</b> eines E-Mails. Fehlende Grußformeln, Rechtschreibfehler, seltsame Informationen, fremde Absenderadressen, usw. können Indizien für böse Absichten sein.
+</div></li>
+
+
+
+</ul>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Multibankensysteme">Bernd Käferböck</a><br />Teamleitung Windows Services</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

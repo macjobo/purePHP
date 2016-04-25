@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS 2: POI-Infoline und Suchfunktion</h1>
+<h2>Die Neustrukturierung des CROSS-Bereichs und Tipps zum Umgang mit der Suchfunktion sollen Ihnen die Orientierung in der POI-Infoline erleichtern.</h2>
+
+<p>Als wir vor einigen Jahren die <b>POI-Infoline</b> ins Leben gerufen haben, verfolgten wir damit das Ziel, Ihnen hilfreiche Informationen zu unseren Systemen zur Verfügung zu stellen, die Sie rund um die Uhr aufrufen können. Mit den Jahren wuchs vor allem im<b> Bereich CROSS</b> die Zahl der Dokumente und mit ihnen die Zahl der übergeordneten <b>Kategorien</b>. Damit wurde die Infoline zuletzt etwas unübersichtlich.</p>
+
+<p>Wir haben den CROSS-Bereich nun <b>überarbeitet</b> und vor allem die Zahl der Kategorien stark reduziert. Damit sollte sich die Übersichtlichkeit nun wesentlich verbessert haben.</p>
+
+<p>Nutzen Sie für Ihre Suche nach Dokumenten auch die <a href="http://kb.auto-partner.net/int/hilfe/klbase.nsf/DomainQuery?OpenForm" title="Infoline-Suche" target="_blank"><b>integrierte Suchfunktion</b></a> der Infoline. Mit wenigen kleinen "Tricks" bei der Wahl der Suchbegriffe erzielen Sie sehr einfach Ihr gewünschtes Suchergebnis.</p>
+
+<p>Wir haben Ihnen Hinweise zur Suche und die neuen Kategorien im CROSS-Bereich der Infoline in einer <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/CE62A4260FD376CAC12574DC002B189C?OpenDocument" title="POI-Infoline: Gliederung Bereich CROSS - optimale Suche" target="_blank"><b>kurzen Dokumentation</b></a> zusammengestellt. Wir hoffen, damit Ihre Zufriedenheit mit der POI-Infoline weiter zu erhöhen!</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=POI-Infoline und Suchfunktion">Gregor Wagner</a></p>
+

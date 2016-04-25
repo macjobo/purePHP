@@ -1,0 +1,49 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: Microsoft Internet Explorer 11</h1>
+<h2>Neue Version des Microsoft Internet Explorers auf POCSO Arbeitsplätzen.</h2>
+
+<img src="images/bild_alk1.jpg" width="190" height="120" alt="IE 11" />
+
+
+<p>Damit eine neue Browserversion auf POCSO Arbeitsplätzen ausgerollt werden kann, muss diese davor <b>ausgiebig getestet</b> werden.
+Die POI hat mittlerweile über 200 verschiedene Applikationen im Einsatz, viele davon sind webbasierend oder haben Browser-Schnittstellen.</p>
+<p>
+In der Praxis heißt das, es müssen nicht nur alle Applikationen im Zusammenspiel mit einer neuen Browserversion aus den verschiedenen Fachbereichen ausgiebig getestet werden,
+sondern <b>teilweise</b> müssen diese auch <b>angepasst</b> werden und das erfordert in einer komplexen Umgebung sehr viel Zeit.
+
+</p>
+
+<p>
+<b>Ganz besonderen Wert legen wir dabei auf securitytechnische Aspekte.</b><br />
+Dies ist auch einer der Gründe, warum wir uns nun gegen den Einsatz des Internet Explorers 10 entschlossen haben.
+Da wir auf Sicherheit ganz besonderen Wert legen, werden wir nun den Einsatz des IE 11 forcieren. Unser ganzer Fokus liegt darauf, diesen Browser nun schnellstmöglich für Sie zur Verfügung zu stellen.
+Die Installation erfolgt dann, wie gewohnt, vollautomatisch über unsere Software Verteilung auf Ihren Arbeitsplätzen.
+
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=IE 11">Michaela Alker</a><br />
+Teamleitung Service Desk</p>
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ 

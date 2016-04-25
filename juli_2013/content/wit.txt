@@ -1,0 +1,62 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS-Serie: CROSS.Controlling.Service Teil IV</h1>
+
+<h2>Der Wechsel auf die neue Generation der Auswertungstechnologie steht bevor.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="CROSS.Controlling.Service" />
+
+<p>In Kürze steht auch Ihnen CROSS.Controlling.Service für Ihre täglichen Führungsaufgaben zur Verfügung.
+Die Umstellung wird auf 4 Tranchen aufgeteilt und erfolgt in jeweils 3 Phasen:</p>
+
+<ul>
+
+<li><div>
+Die <b>Beladung des Datawarehouse</b> mit den Auswertungsdaten. Ab diesem Zeitpunkt werden die Daten dann täglich von CROSS an den CROSS.Controlling-Cube übermittelt.
+</div></li>
+
+
+<li><div>
+Die Vorabinformation der betroffenen Betriebe und die <b>Freischaltung</b> des Menüpunktes CROSS.Controlling Portal im Hauptmenü Auswertungen.
+</div></li>
+
+
+
+<li><div>
+Die <b>Deaktivierung der alten CROSS-Statistiken</b> Werkstatt/Teilekennzahlen, Produktivitätsanalyse nach Mechaniker und Aufträgen, Serviceberater-Umsatzstatistik, 
+Anwesenheitskontrolle und Innerbetriebliche Zubehöranalyse jeweils ca. 1 Monat nach der Freischaltung.
+</div></li>
+
+
+</ul>
+
+
+<p>
+Die Kennzahlen werden Sie sofort wieder erkennen, jedoch Technologie und Bedienung (drill down) sind völlig neuartig. 
+Daher ist es sehr wichtig, dass Sie unser <b>Web Based Training Schulungsprogramm</b> nutzen, um sich mit dem Umgang vertraut zu machen. 
+Den Link zur Schulungsseite erhalten Sie mit der oben genannten Vorabinformation.</p>
+
+
+
+<p>Legen Sie sich Ihr neues Auswertungsschema sofort nach der Freischaltung fest. Ab Herbst erhalten Sie im Rahmen des neuen Seminars <b>"Workshop Führen mit CROSS.Controlling.Service"</b> weitere Informationen. 
+Die Termine sind schon jetzt buchbar.</p>
+
+<p> 
+Wenn Sie weitere Fragen haben, wenden Sie sich an Ihren CROSS-Berater bzw. Ihren Kundenbetreuer der Porsche Informatik. </p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Controlling.Service">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+
+

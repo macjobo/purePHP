@@ -1,0 +1,46 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS: Lohnverrechnung in CROSS.Controlling</h1>
+<h2>Nachdem die Produktivitätsanalyse je Mechaniker deaktiviert wurde, taucht immer wieder die Frage auf, wie komme ich zu meinen Lohnverrechnungsdaten?</h2>
+
+<img src="images/bild_wit1.jpg" width="190" height="120" alt="Lohnverrechnung" />
+
+
+<p>In <b>CROSS.Controlling</b> haben wir eine eigene <b>Auswertung</b> unter dem Namen <b>Lohnverrechnung</b> geschaffen, die zur Kontrolle einzelner Mechanikerdaten dient.
+Betriebe, die mit SAP-HR über die Porsche Informatik ihre Lohnverrechnung abwickeln, 
+nutzen neben den Vorteilen einer kompetenten Unterstützung und der automatischen Verbuchung des internen Berichts in SAP, eine sehr hilfreiche Zusatzfunktion.
+</p>
+
+<p>Über eine Schnittstelle können die relevanten Daten aus CROSS mit dem Programm <b>Lohnvaria im Partner.Net</b> an SAP-HR übermittelt werden.
+Lohnvaria liest die Gesamtstunden (= Lohnart 066) und die unproduktiven Stunden (088) aus CROSS und listet diese je Personalnummer auf.
+</p>
+
+
+
+<p>Außerdem werden bei richtiger Zuordnung der W-Zeiten <b>Urlaub und Krankenstand</b> detailliert 
+nach den gestempelten Tagen übernommen und lohnverrechnungsgerecht an SAP-HR übertragen. Ein Protokoll, sortiert nach Mechanikername oder Nummer, 
+bietet abschließend den Überblick über die übermittelten Lohnverrechnungsdaten.</p>
+
+
+
+<p>Weitere Details zu dieser Schnittstelle erfahren Sie bei unserem Lohnverrechnungsteam bzw. in der entsprechenden Dokumentation Lohnvaria im Partner.Net.</p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Lohnverrechnung">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+
+
+
+ 

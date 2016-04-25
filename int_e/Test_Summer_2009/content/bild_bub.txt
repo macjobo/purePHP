@@ -1,0 +1,14 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Video conference system</h1>
+                
+<div class="bild">        
+    
+
+
+<img src="images/Videokonferenz2.jpg" alt="Video conference system" title="Video conference system" border="0" height="541" width="575">
+      
+</div>                    
+ 
+</p>
+<p id="Back"><a href="index.php?page=bub">&raquo;&nbsp;Back to Article</a></p>

@@ -1,0 +1,47 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Cooperation model</h1>
+                
+<div class="bild">        
+    
+<img src="images/Zusammenarbeit.gif" alt="Cooperation model" title="Cooperation model" border="0" height="373" width="570">
+
+</div> 
+<ul>
+<div><li>Please report problems and faults to our <a href="http://newsletter.porscheinformatik.at/int_e/Autumn_2008/index.php?page=wam" target="_blank"><b>&raquo;&nbsp;Service Desk</b></a>, as accustomed.</li></div>
+
+<div><li>Requirements and queries for the POI infrastructure team can be submitted via the <a href="http://newsletter.porscheinformatik.at/int_e/Autumn_2008/index.php?page=bub" target="_blank"><b>&raquo;&nbsp;IS requirements database</b></a>.</li></div>
+
+<div><li>Up-to-date information and documentation regarding standards, applications, security and operations are available via the <b>POI Infoline</b>.</li></div>
+</ul>      
+                   
+ 
+<p id="zurueck"><a href="index.php?page=bub">&raquo;&nbsp;Back to Article</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

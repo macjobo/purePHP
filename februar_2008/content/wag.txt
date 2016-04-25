@@ -1,0 +1,14 @@
+<h1>CROSS: Funktionsweise ELSA-Schnittstelle</h1>
+<h2>Die Beschreibung über die Funktionsweise der ELSA-Schnittstelle wurde komplett überarbeitet und um eine Anleitung zur Konfiguration für Betriebe mit selbst betreutem Netzwerk erweitert.</h2>
+
+
+<p></p>
+<p>Nutzen Sie die Möglichkeiten der einfachen Übertragung von Arbeitspositionen aus ELSA nach CROSS: Mit einer richtig bedienten ELSA-Schnittstelle erreichen Sie eine <b>optimale Prozessabwicklung</b> und sparen damit viel Zeit bei der Auftragserstellung!</p>
+<p>Da die ELSA-Schnittstelle mit dem DMS-Backbone nun auch Betrieben mit <b>selbst betreutem Netzwerk</b> zur Verfügung steht, haben wir die <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/9171e8c96ad226fac12573f300357ff6?OpenDocument" title="ELSA-Schnittstelle zu CROSS" target="_blank"><b>Dokumentation der ELSA-Schnittstelle zu CROSS</b></a> komplett überarbeitet und um eine <a href="http://kb.auto-partner.net/int/hilfe/klbghinf.nsf/f9ca8c1665df61b3c1257345002cdb8b/3a17d561605cf32dc12572ff0031990c?OpenDocument" title="Anleitung zur Konfiguration" target="_blank"><b>Anleitung zur Konfiguration bei selbst betreutem Netzwerk</b></a> erweitert. Doch auch in Betrieben mit POCSO-Netzwerk sollte die Beschreibung für den einen oder anderen "Neueinsteiger" in die Thematik eine Hilfe sein.
+</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Funktionsweise ELSA-Schnittstelle">Gregor Wagner</a></p>
+
+
+

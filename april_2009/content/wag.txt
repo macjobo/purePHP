@@ -1,0 +1,36 @@
+<h1>CROSS 2: Vorschau auf Release 2.10</h1>
+<h2>Mitte Mai 2009 kommt das neue CROSS-Release 2.10 - die wichtigsten Neuerungen im Überblick. </h2>
+
+
+Im kommenden Release können wir Ihnen wieder eine Reihe interessanter neuer Funktionalitäten anbieten! Werfen wir einen Blick auf die Highlights:
+
+<ul>
+<li><div>Sie können nun für Neuwagen auf Bestand einen <b>Gebrauchtwagenfolgeakt</b> erzeugen. Somit besteht die komfortable Möglichkeit, z.&nbsp;B. für Leasingrückläufer einen Gebrauchtwagenakt anzulegen, damit diese Fahrzeuge frühzeitig in der Weltautobörse beworben werden können.</div></li>
+
+<li><div><b>Werkstatt-Termin@</b>:<br />
+Die <b>Telefon-Einladungsliste</b> wurde um den/die Verkäufer erweitert. Damit kann nun auch der betreuende Verkäufer zu einem Werkstatt-Termin einladen. <br />
+<b>E-Mail-Text</b> und <b>E-Mail-Absenderadresse</b> für Einladungen können nun je Fabrikat definiert werden. </div></li>
+
+<li><div>Sie können jetzt eine <b>Sublager-Bestandsliste</b> mit der Menge eines einzelnen Sublagers erzeugen.</div></li>
+
+<li><div>Mit der neuen <b>Exportmöglichkeit für Kundendienst-Überleitungen</b> können Sie die komplette Kundendienst-Überleitung z.&nbsp;B. in ein Excel-Formular übernehmen.</div></li>
+
+<li><div><b>Automatische Endtexte für Kundenlieferscheine</b>:  
+Sie können nun eigene automatische Endtexte für Kundenlieferscheine aus einem Auftrag heraus definieren. Dies ermöglicht z.&nbsp;B. den Hinweis auf spezielle "Teile-Rückgabemodalitäten" etc.</div></li>
+
+</ul>
+
+<p>Details zu diesen und weiteren Neuerungen finden Sie in der <b>Änderungsbeschreibung</b> zu CROSS 2.10, die wir etwa drei Wochen vor der Programmaussendung mit allen Informationen rund ums neue Release im Partner.Net zur Verfügung stellen werden.
+
+<!--
+<p>Details zu diesen und weiteren Neuerungen finden Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/9B73386B758C8346C125758400487020?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>&raquo; Änderungsbeschreibung zu CROSS 2.10</b></a> in der Porsche Informatik Infoline.</p>
+-->
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorschau auf CROSS 2.09">Gregor Wagner</a></p>
+
+
+
+
+
+

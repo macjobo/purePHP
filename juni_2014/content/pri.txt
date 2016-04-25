@@ -1,0 +1,30 @@
+
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Rückschau CROSS-Anwendertage</h1>
+
+<h2>Auch heuer waren unsere österreichweit veranstalteten "CROSS-Anwendertage" wieder gut besucht. 
+Die Unterlagen zum Nachlesen finden Sie in der Porsche Informatik Infoline.</h2>
+
+<img src="images/bild_pri.jpg" width="190" height="120" alt="CROSS Anwendertage" />
+
+
+
+<p>Im Rahmen der diesjährigen CROSS-Anwendertage, die wir im Mai in Hall/Tirol, Mondsee, Wien und Völkermarkt veranstaltet haben, 
+konnten wir wieder einen breiten Informationsbogen über viele CROSS-Bereiche spannen - und das für eine/n Mitarbeiter/in je Betrieb kostenlos!</p>
+
+<p>Kernpunkte der Anwendertage waren die Änderungen der <b>CROSS-Releases 2.25 bis 2.27</b>, das <b>Digitale Autohaus</b> sowie die <b>Mobile Serviceannahme in CROSS</b>.</p>
+
+<p>Für all jene, die diesmal nicht dabei sein konnten, haben wir die Unterlagen zu den CROSS-Anwendertagen in die
+<a href="http://kb.auto-partner.net/int/hilfe/klbpoial.nsf/f9ca8c1665df61b3c1257345002cdb8b/4140e0e232747bb5c1257cd2004c5a3d?OpenDocument" 
+target="_blank" title="Zur Porsche-Informatik-Infoline">&nbsp;&raquo;POI-Infoline</a> gestellt.</p>
+
+<p>Wir freuen uns darauf, Sie auch nächstes Jahr zu den Anwendertagen zu begrüßen, und wünschen Ihnen weiterhin viel Erfolg mit CROSS.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS Anwendertage">Nicola Priol</a><br />
+Marketing & Vertriebsassistenz</p>
+
+
+

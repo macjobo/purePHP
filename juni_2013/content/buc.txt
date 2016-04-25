@@ -1,0 +1,86 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Infrastruktur: Neuer zentraler Datenspeicher im POI-Rechenzentrum</h1>
+
+<h2>Mit einem neuen Speichersystem haben wir uns für das Datenwachstum der nächsten Jahre gerüstet.</h2>
+
+<img src="images/bild_buc.jpg" width="190" height="120" title="Neues Speichersystem" />
+
+
+<p>Egal ob CROSS, SAP, CARLOS, ET oder Lotus Notes - in allen Anwendungen werden täglich Daten eingegeben, übermittelt, verändert, neu zusammengestellt und schließlich an zentraler Stelle gespeichert. Der stetig wachsender <b>Berg an Daten</b>, der dadurch entsteht, muss von der Porsche Informatik professionell gemanagt werden - unsere Kunden verlassen sich mit Recht auf optimale <b>Verfügbarkeit</b> und <b>Performance</b>.</p>
+
+<p> Daher haben wir in den letzten Wochen unser altes <b>Speichersystem</b> durch eine hochmoderne neue Lösung ersetzt. Nach einem intensiven Auswahlprozess haben wir uns für ein Produkt von <b>Hitachi Data Systems</b> entschieden, das den Kriterien</p>
+
+<ul>
+
+<li><div>technisches Gesamtkonzept,
+</div></li>
+
+<li><div>Verfügbarkeit,
+</div></li>
+
+<li><div>Performance,
+</div></li>
+
+<li><div>Erweiterbarkeit,
+</div></li>
+
+<li><div>Servicefähigkeit online 7x24
+</div></li>
+
+<li><div>und nicht zuletzt Wirtschaftlichkeit
+</div></li>
+
+
+
+
+</ul>
+
+
+
+<p>am besten entsprach. Das System ist redundant ausgelegt, fasst derzeit eine <b>Kapazität von 100 Terabyte</b> netto und kann bei Bedarf um ein Vielfaches erweitert werden.</p>
+
+<p>Mit der neuen Lösung sind wir in den nächsten vier Jahren für das zu erwartende Datenwachstum und alle damit verbundenen Anforderungen bestens vorbereitet.</p>
+
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Multibankensysteme">Christoph Buchstätter</a><br />Leitung Data Center Services</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

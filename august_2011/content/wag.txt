@@ -1,0 +1,50 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Vorschau auf Release 2.17 - Service</h1>
+<h2>Im September geht das neue CROSS-Release 2.17 in den Breiteneinsatz, hier ein Überblick über die wichtigsten Neuerungen im Bereich Service.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="CROSS 2.17 Highlights" />
+
+
+<p>Das neue CROSS-Release 2.17 bringt auch im <b>Service-Bereich</b> eine Reihe interessanter Neuerungen:</p>
+
+<ul>
+
+<li><div>
+Im <b>Kassabuch</b> ändert sich die Steuerung der Verbuchung maßgeblich: Das Zahlungskennzeichen steuert nun nicht mehr die Forderungsverbuchung. Bezahlt ein Kunde seine Servicerechnung am Tag der Ausstellung in "bar", so wird die Rechnung im Kassabuch "kassiert". Diese "Kassierung" verbucht die Forderung und die Zahlung auf das "Barlosungskonto", somit sind Abweichungen ausgeschlossen.
+</div></li>
+
+
+
+<li><div>
+Im Auftrag werden nun im Ergänzungsfenster für Ersatzteile <b>optionale Teile</b> angezeigt; damit kann die Ersatz- bzw. Aufbrauchkette eines Teiles sehr rasch geprüft werden. Das hilft, Ihre Teilebestände zu reduzieren und in weiterer Folge den Obsoletteilebestand zu verringern. 
+</div></li>
+
+
+
+<li><div>
+Das <b>Fenster "Auftragspositionen sortieren"</b> wurde vergrößert und ermöglicht nun eine bessere Übersicht beim Sortiervorgang.
+</div></li>
+
+<li><div>
+In Vorbereitung auf die Verwendung des Barcodescanners in CROSS wurde nun die Möglichkeit geschaffen, <b>Teileetiketten</b> aus dem Teilestamm, dem Lieferschein und aus Teileselektionen heraus zu drucken. Diese Funktion ermöglicht in Zukunft zum Beispiel die Etikettierung von Zubehör im Zubehörshop und die spätere Erfassung mittels eines Barcodescanners auf einem Auftrag.
+</div></li>
+
+
+</ul>
+
+
+<p>Weitere wichtige Informationen zum neuen Release entnehmen Sie bitte einem gesonderten <b>Rundschreiben</b>, das wir rechtzeitig vor der Release-Einspielung zusammen mit einer ausführlichen <b>Änderungsbeschreibung</b> im Partner.Net veröffentlichen werden. Auch die MitarbeiterInnen unseres Service Desks stehen für Ihre Fragen gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS 2.17 Highlights">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

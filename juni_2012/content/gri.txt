@@ -1,0 +1,28 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>SAP: "Papierlose" Lohnabrechnung</h1>
+
+<h2>Dem Wunsch vieler Kunden nachkommend, erhalten Sie ab der Lohnabrechnung für Juli nur mehr die Lohnzettel Ihrer Dienstnehmer in Papierform; alle übrigen Belege werden als PDF-Dateien am CROSS-Server abgelegt.</h2>
+
+
+<img src="images/bild_gri.jpg" width="190" height="120" alt="Papierlose Lohnabrechnung" />
+
+
+<p>Seit der Umstellung des Lohnverrechnungssystems auf SAP im Jahr 2004 haben wir unseren Lohnpartnern, die auch CROSS einsetzen, einen Teil der Auswertungen - Buchungsanweisung, Kostenstellenaufteilung, Jahresauswertungen, etc. - in Form von PDF-Dateien auf dem <b>CROSS-Webserver</b> zur Verfügung gestellt.</p> 
+
+<p>Andere Auswertungen wie die Abgabenaufstellung für die Gebietskrankenkasse, das Finanzamt und die Gemeinde sowie die Lohnzettel im Kuvert haben Sie bisher <b>per Post</b> erhalten.</p>
+
+
+<p>Um dem Wunsch vieler unserer Lohnpartner nachzukommen, werden wir jetzt den Ausdruck und Versand in Papierform stark reduzieren: Ab der Lohnverrechnung für Juli 2012 werden am Versandtag <b>alle Auswertungen</b> auf dem CROSS-Webserver abgelegt und stehen damit sofort zur Verfügung. Ausgenommen davon sind nur mehr die <b>Lohnzettel</b> für den Dienstnehmer im Kuvert.</p>
+
+<p>Wir freuen uns, mit dieser neuen Abwicklung nicht zuletzt einen Beitrag zur <b>Ressourcenschonung</b> zu leisten. Für Fragen dazu stehen Ihnen die KollegInnen des SAP-Partnerlohn-Teams Frau Sabine Thaller (DW 6514), Frau Christine Waldmann (DW 6511) und Herr Johann Grill (DW 6510) gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Papierlose Lohnabrechnung">Johann Grill</a><br />
+Leitung SAP Partnerlohn</p>
+
+
+
+
+

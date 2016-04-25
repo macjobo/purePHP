@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+
+
+
+<h1>CROSS 2 Tipp: Teilmengen zubuchen</h1>
+<h2>Wenn Sie Teile benötigen, die schon im Lager, aber noch nicht zugebucht sind, können Sie innerhalb eines Lieferscheins Lieferpositionen splitten und einzeln zubuchen.</h2>
+
+<p>CROSS erlaubt nur das Ausfassen von Ersatzteilen, die im System ausreichend <b>Bestand</b> haben. Nun kommt es immer wieder vor, dass Sie Teile benötigen, die aufgrund einer Volumensbestellung bereits <b>im Lager</b> stehen, aber noch nicht eingeräumt und daher auch noch nicht zugebucht sind.</p>
+
+
+<p>In diesem Fall haben Sie die Möglichkeit, innerhalb des Lieferscheins <b>Lieferpositionen zu splitten</b> und einzeln zu zubuchen. Somit müssen Sie nicht die ganze Lieferposition zubuchen, sondern Sie können Teilmengen einer Lieferposition sofort zubuchen und die restliche Menge später.</p> 
+
+<p>Wie Sie dabei vorgehen, haben wir Ihnen in einer <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/e3f52caa3abdffd5c1257609004b93e0?OpenDocument" target="-blank" title="Zur POI-Infoline"><b>&raquo;&nbsp;kurzen Beschreibung</b></a> in der POI-Infoline zur Verfügung gestellt.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Teilmengen zubuchen">Gregor Wagner</a></p>
+
+
+
+
+
+

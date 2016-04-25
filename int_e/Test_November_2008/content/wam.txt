@@ -1,0 +1,63 @@
+
+<h1>Support: CCC is becoming the Service Desk</h1>
+<h2>The Customer Care Center is becoming the "Service Desk", and from 1 December 2008 the new Online Support will be deployed!</h2>
+
+<p>"Welcome to the  Porsche Informatik Service Desk!" - this is how we will greet our callers from <b>1 December 2008</b>.</p>
+
+<p>More than just our telephone greeting is changing. As the <b>"Service Desk"</b> our tasks and responsibilities have increased, as has our range of services. To this end we have restructured within our support departments: four support / administration specialists have joined our team. This brings them  "closer to the customer" and they can respond more quickly to your queries in these areas.</p>
+
+<p>As announced in <a href="http://newsletter.porscheinformatik.at/int_e/March_2008/">the March 2008 Newsletter</a>, our project represents a major step towards <b>ITIL</b>, the recognised "De facto standard" for IT enterprises (IT Infrastructure Library) - an important milestone.</p>
+
+<p>From 1 December we will be using new, <b>more powerful software</b>, which will support us in all Service Desk processes (Incident, Problem, and Service Level Management) as well as the processes for Change and Configuration Management.</p>
+
+<p><b><a href="http://support.porscheinformatik.com" target="_blank" title="" alt="">POI Online Support</a></b>, the Internet platform that you have been using for support queries (link to instructions), is also being replaced by this new application.
+The description of the new Online Support can be found already via <a href="">Description Online Support</a>. Registered Online Support users will receive their access data via e-mail before deployment.</p>
+
+<p>These measures will lead to further improvements and a greater degree of greater transparency efficiency for query processing.</p>
+
+<!-- <div class="bild">  
+
+<img src="images/ccc_und_markus.jpg" width="537" height="244" alt="Our Team" >
+
+</div>
+ -->
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Service Desk">Markus Watzik</a>
+<br>Service Desk Manager
+</p>								
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

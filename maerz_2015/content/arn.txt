@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS-Tipp: Inventur</h1>
+<h2>Eine Dokumentation in der POI-Infoline fasst alle wichtigen Schritte im Zuge der Inventur zusammen.</h2>
+
+<img src="images/bild_arn.jpg" width="190" height="120" title="Inventur" />
+
+
+
+<p>
+Die meisten Betriebe verwenden die Funktion "Inventur" in CROSS nur einmal im Jahr. 
+Daher ist mancher Anwender, der zum Kalender- oder Wirtschaftsjahresende eine <b>Inventur</b> durchführen muss, nicht mehr sicher, <b>welche Schritte</b> dabei durchzuführen sind.
+</p>
+
+
+<p>Wir haben daher für Sie zur Unterstützung die Beschreibung 
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/e5e35bdcaa149d94c1257cc3002a496e?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">"Inventur abwickeln"&nbsp;&raquo;</a> zusammengestellt, die Sie in der POI-Infoline aufrufen können. 
+Weiters stellen wir Ihnen eine <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/edc32b9dcbac8b59c1256fb2003f8ee1?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">"Checkliste"&nbsp;&raquo;</a> 
+für die Vorbereitung der ET-Inventur zur Verfügung.</p>
+
+<p>
+Sollten Sie darüber hinaus Fragen zur Inventur haben, helfen Ihnen die MitarbeiterInnen unseres Service Desks gerne weiter.
+</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS Inventur">Michael Arndt</a><br />
+POI PHS CROSS Consulting</p>
+

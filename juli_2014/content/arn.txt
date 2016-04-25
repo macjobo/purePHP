@@ -1,0 +1,89 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS-Tipp: CROSS.Service.Auftragsweitergabe</h1>
+<h2>Sparen Sie kostbare Zeit beim Weitergeben von Aufträgen innerhalb eines Betriebsverbundes.</h2>
+
+ <img src="images/bild_arn.jpg" width="190" height="120" alt="Auftragsweitergabe" />
+ 
+ <p>
+ In Betriebsverbünden ist es üblich, dass sich Filialen auf Leistungen wie z.B. Lackierungen <b>spezialisieren</b> 
+ und die restlichen Betriebe des Verbundes diese Leistungen von dieser Filiale <b>zukaufen</b>. 
+ Mit dem Zusatzmodul CROSS.SERVICE.Auftragsweitergabe werden Sie bei der Abrechnung dieser Geschäftsfälle optimal <b>unterstützt</b>.</p>
+ 
+ <p>
+ Durch die <b>Auftragsweitergabe-Funktion</b> können Sie einen anderen Arbeitsbereich für die Erstellung von Arbeiten für ein Fahrzeug  
+ beauftragen, während die Auftragsannahme und die Rechnungsausstellung im ursprünglichen Betrieb stattfinden.</p>
+ 
+  <p>
+ Um die Abwicklung von Auftragsweitergaben zusätzlich zu verbessern, wurden im <b>CROSS Release 2.27</b> einige Änderungen umgesetzt.</p>
+ 
+<ul>
+<li><div>Betrieb A führt einen Kostenvoranschlag durch und hat nun die Möglichkeit, Arbeitspositionen gezielt an Betrieb B zu <b>übermitteln</b>.
+</div></li>
+
+
+<li><div>
+Positionen können bei einer Auftragserweiterung auch <b>einzeln nachgemeldet</b> werden.
+</div></li>
+
+
+<li><div>
+Bei <b>Kundenangaben</b> kann festgehalten werden, ob diese für Betrieb A oder für Betrieb B gelten sollen. 
+Im Auftragsdruck kann somit der Mitarbeiter im jeweiligen Betrieb feststellen, welche Informationen für ihn relevant sind.
+</div></li>
+
+<li><div>
+Nach der Abrechnung in Betrieb B werden die Positionen in Betrieb A in <b>Fremdleistungen</b> umgewandelt.
+</div></li>
+
+<li><div>
+Einkaufspreise werden bei der Rückverrechnung in die ursprüngliche Auftragsposition im Vergabeauftrag in Betrieb A eingetragen. 
+Dadurch entfällt die manuelle Bereinigung der doppelten Positionen und die bereits abgestimmten Verkaufspreise (Kostenvoranschläge) <b>bleiben</b> nun <b>erhalten</b>.
+</div></li>
+
+</ul>
+
+<p>Detailliertere Informationen dazu finden Sie 
+in der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/7b84760286c0b191c1257b950024a05f?OpenDocument" target=
+"_blank" title="Zur Porsche-Informatik-Infoline">Cross Änderungsbeschreibung Release 2.27 inkl. 2.26&nbsp;&raquo;</a> in der POI-Infoline.<br />
+Bestellen Sie die CROSS.Service.Auftragsweitergabe gleich 
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/dcaa3b9e3621eb63c1256ed90043f5e7/da0b5c41797e7decc125772600465c9a?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">hier&nbsp;&raquo;</a>.
+</a>
+
+</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Rund um den Laserdrucker">Michael Arndt</a><br />
+Kundenprojektmanagement und Prozessberatung Einzelhandel
+</p>
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

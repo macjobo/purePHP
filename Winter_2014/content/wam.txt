@@ -1,0 +1,28 @@
+
+
+<div class="umbruch">&nbsp;</div>
+
+<h1>Lotus Notes: BlackBerry-10-Geräte freigegeben</h1>
+
+<h2>Ab sofort unterstützt der Lotus Notes Traveler auch die neuen BlackBerry-10-Geräte.</h2>
+
+<img src="images/bild_wam.jpg" width="190" height="120" title="BlackBerry 10" />
+
+
+<p>Als Highlight der neuen BlackBerry-10-Smartphones gilt neben gesteigerten Leistungsdaten die <b>Trennung des Gerätes </b>in einen <b>persönlichen</b> und einen <b>geschäftlichen Bereich</b>. 
+Der persönliche Bereich bleibt von Reglementierungen der Porsche Informatik unberührt; hier haben die BenutzerInnen völlig freie Hand.</p>
+
+<p>Im <b>geschäftlichen Bereich</b> gibt es einige Sicherheitsrichtlinien, die von Porsche Informatik vorgegeben sind, zum Beispiel Passwortpflicht. 
+Alle <b>dienstlichen Daten</b> befinden sich im verschlüsselten geschäftlichen Bereich; zwischen geschäftlichem und persönlichem Bereich können keine Daten übertragen werden!</p>
+
+<p>Nähere Informationen zu den neuen Blackberry-10-Geräten finden Sie in der Lotus-Notes-Bestell-Datenbank <b>"POI Easy"</b>; dort können die Geräte natürlich auch bestellt werden.</p>
+
+<p>Wenn Sie Fragen zu den neuen BlackBerry-Geräten haben, wenden Sie sich bitte an unseren <b>Service Desk</b> (+43 662 4670 2222 bzw. <a href="http://support.porscheinformatik.at" target="_blank" title="Zum Onlinesupport"><b>http://support.porscheinformatik.at&nbsp;&raquo;</b></a>). 
+</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=BlackBerry 10">Markus Watzik</a><br />
+Leitung User Centric Services </p>
+
+
+

@@ -1,0 +1,32 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Mangelhafte Sicherheit alter WLAN-Richtfunkverbindungen</h1>
+<h2>Alte WLAN-Richtfunkverbindungen zur Verbindung von zwei Gebäudeteilen entsprechen nicht immer den heutigen Sicherheitsanforderungen und sollten unbedingt überprüft werden.</h2>
+
+<img src="images/bild_kra.jpg" width="190" height="120" title="IT Sicherheit" />
+
+
+<p>Die Verbindung zweier Gebäudeteile für die gemeinsame Nutzung von IT-Systemen ist mittels Kabel nicht immer sinnvoll möglich.
+Als Alternative wird dafür seit vielen Jahren eine WLAN-Richtfunkverbindung genutzt. Diese <b>alten Funkverbindungen</b> entsprechen jedoch nicht immer den heutigen <b>Sicherheitsanforderungen</b>.</p>
+<p>
+Bestätigt wurde uns dies, als bei einem POCSO-Standort eine Vielzahl unbekannter Geräte im Netzwerk "aufgetaucht" sind.
+WLAN-Smartphones privater Personen hatten Zugriff auf das Netzwerk. Dank der <b>Sicherheitsvorkehrungen seitens POCSO</b> und damit abgewehrten Angriffen entstand durch dieses Sicherheitsleck kein Schaden.</p>
+
+
+<p>Achten Sie daher darauf, dass die Funkverbindung mittels Pre-Shared Key Authentication sowie WPA2-Verschlüsselung oder höherwertiger Methoden abgesichert ist.</p>
+<p>
+Sollten Sie eine andere Funkverbindung als das POCSO-WLAN in Ihrem Betrieb installiert haben, empfehlen wir diese unbedingt von der Montagefirma oder einem geeigneten IT-Unternehmen auf die erforderlichen Einstellungen
+<b>überprüfen</b> zu lassen.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Mangelhafte Sicherheit alter WLAN-Netzwerke">Andreas Kronberger</a><br />
+Leitung POCSO-Management-Center</p>
+
+
+
+
+
+
+
+

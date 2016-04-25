@@ -1,0 +1,40 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>"Full Scan" als erweiterter Virenschutz ab Juli 2011 - Neue Festplattenverschlüsselung - Neue EBV-Version 3.6.02 - Neuer Service Key 2.3
+</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+<ul>
+
+
+<li><div>Um unsere Organisation noch besser gegenüber Bedrohungen durch Schadsoftware abzusichern, werden wir unsere <b>Symantec-Antivirus-Konfiguration</b> ab 27. Juli um einen wöchentlichen sogenannten <b>"Full Scan" </b>erweitern. Damit wird nicht nur der laufenden Datenverkehr auf Viren gescannt, sondern die gesamte/n Festplatte/n eines Rechners. Der Full Scan wird jeweils am Mittwoch um 12:00 Uhr starten und etwa eine Stunde laufen. Sollte Ihr Rechner zu diesem Zeitpunkt nicht aktiv sein, wird der Scan zu einem späteren Zeitpunkt nachgeholt.<br />
+
+
+Bei Arbeitsplätzen, die nicht älter als zwei Jahre sind, werden kaum Einbußen in der <b>Performance</b> bemerkbar sein. Bei älteren Rechnern sind zugunsten der Sicherheit Performance-Einschränkungen leider nicht ganz vermeidbar.  </div></li>
+
+
+<li><div>Für Windows 7 ist bei Teleworker-Arbeitsplätzen eine neue <b>Festplattenverschlüsselung</b> notwendig. Wir haben uns hier für "Crypto Pro Secure Disk" der Firma CPSD entschieden. Mittelfristig löst dieses Produkt das derzeit eingesetzte im Rahmen von Geräte-Neuinstallationen ab. Mit dieser Lösung können wir die Datensicherheit weiter erhöhen, da außerhalb des Firmennetzwerkes vor dem Start von Windows eine <b>Benutzer-Authentifizierung</b> erfolgt. Im Rahmen der Installation erhalten Sie Detailinformationen dazu. </div></li>
+
+<li><div>Vom Wirtschaftsverlag wurde uns eine neue <b>EBV-Version 3.6.02</b> zur Verfügung gestellt, die nun auch Windows-7-fähig ist. Die Version wird von uns am Server installiert, die Clients erhalten das Update beim nächsten Start der EBV. Die <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/f9ca8c1665df61b3c1257345002cdb8b/373b0a68902b6295c1257893004bb90a?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Beschreibung der Updateprozedur&nbsp;&raquo;</b></a> finden Sie in der Infoline. Geplant ist das Rollout der neuen Version von Mitte bis Ende Juli.</div></li>
+
+
+<li><div>Vom Werk gibt es eine neue Version (2.3) der <b>Service-Key-Applikation</b>. In der Erstinstallation ist bereits die neue Version integriert, die bestehenden Arbeitsplätze haben das Update in den letzten Wochen erhalten.</div></li>
+
+
+</ul>
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>
+
+
+
+
+
+
+

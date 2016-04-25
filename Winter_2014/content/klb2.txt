@@ -1,0 +1,59 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Support: Wartungswochenenden 2015</h1>
+<h2>Auch 2015 müssen wir wieder zwei Wochenenden für umfangreichere Infrastrukturarbeiten einplanen.</h2>
+
+<img src="images/bild_klb2.jpg" width="190" height="120" alt="Wartungswochenenden 2015" />
+ 
+<p>Für das Jahr 2015 planen wir Wartungsfenster für Arbeiten an der zentralen Infrastruktur  zu folgenden Terminen:</p>
+
+<ul>
+
+<li><div>Samstag, 20. Juni ab 13:00 Uhr,<br /> bis Montag, 22. Juni, 04:00 Uhr</div></li>
+
+
+<li><div>Samstag, 21. November ab 13:00 Uhr,<br /> bis Montag, 23. November, 04:00 Uhr</div></li> 
+
+
+</ul>
+
+<p>Diese Wartungsfenster benötigen wir für Hardware-Umbauten, umfangreichere Software-Upgrades etc., mit denen wir langfristig die Qualität unserer Infrastruktur aufrechterhalten können. Sie müssen damit rechnen, dass Ihnen zu den genannten Terminen zentrale POI-Systeme sowie Werksverbindungen nicht zur Verfügung stehen! Bitte berücksichtigen Sie diese Termine in Ihren Planungen. </p>
+
+<p>Einige Wochen, bevor ein Wartungsfenster stattfindet, erhalten alle EDV-Koordinatoren im Konzern eine Erinnerung und ggf. weitere Informationen. Fragen dazu beantworten Ihnen gerne die Kolleginnen und Kollegen im Service Desk.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Wartungswochenenden 2015">Barbara Klein</a><br />
+Kommunikation</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

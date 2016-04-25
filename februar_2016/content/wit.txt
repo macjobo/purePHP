@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neue EBV-Version 5.1</h1>
+<h2>Die neue EBV-Version 5.1 steht in den Startlöchern.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="EBV-Version 5.5" />
+
+
+
+<p>
+Der Wirtschaftsverlag hat alle Betriebe darüber informiert, dass die neue <b>EBV-Version 5.1</b> bereit steht. 
+Diese Version muss <b>bis spätestens August 2016 aktiviert</b> werden.
+Wir erwarten die neue Software in den nächsten Tagen und werden im Rahmen der POCSO-Betreuung die Installation vorbereiten und auf Ihre Netzwerke verteilen. 
+Sie erhalten dazu noch eine gesonderte Information.
+
+</p>
+
+<P>
+Betriebe mit selbstbetreutem Netzwerk müssen das Softwarepaket direkt von der EBV-Seite runterladen und installieren.
+</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=EBV-Version 5.1">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>

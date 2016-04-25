@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO Tipp: USV - Schutz Ihres Datenservers</h1>
+<h2>
+Bitte beachten Sie die automatisierten Meldungen Ihrer USV und schützen Sie Ihren Betrieb so vor Schäden an Ihrer Serverhardware und vor Datenverlust! </h2>
+
+<img src="images/bild_mal4.jpg" width="190" height="120" title="USV" />
+
+
+
+<p>Im Energieversorgungsnetz kommt es immer wieder zu kleinen, manchmal aber auch größeren <b>Schwankungen</b>. Die Ursachen dafür sind vielfältig: Trafostationen werden zwecks Wartung abgeschaltet, große Energieverbraucher wie Elektromotoren oder Schweißgeräte werden aktiviert oder irgendwo schlägt ein Blitz ein.</p>
+
+<p>Zu <b>geringe Spannung</b> führt dann zu einer Unterversorgung und zum Absturz des Systems. Es können aber auch <b>Spannungsspitzen</b> auftreten, die im schlimmsten Fall Bauteile zerstören. Sie müssen dann Hardware austauschen und einen längeren Stillstand in Kauf nehmen.</p>
+
+<p>Genau dagegen schützt Sie eine <b>Unabhängige Stromversorgung (USV)</b>! Spannungsspitzen werden ausgefiltert, Unterspannung sowie Stromausfälle werden mittels Batteriebuffer ausgeglichen. Das bewahrt Sie vor <b>Datenverlust</b> bei Serverabstürzen oder Schäden an Ihrer Serverhardware. Beim Ausfall des Datenservers sind Netzwerkdrucker, gespeicherte Daten, ETKA, ELSA oder Schnittstellen in CROSS nicht mehr verfügbar, was Ihre Betriebsabläufe erheblich beeinträchtigen würde.</p>
+
+<p>Bei einer defekten USV wird Ihr Server im POCSO-System-Management <b>rot signalisiert</b>. Längere Störungen der USV überdecken andere Server-Probleme - eine einwandfreie <b>Systemüberwachung</b> ist nicht mehr möglich. Unsere POCSO-Dienstleistungen sind allerdings nur bei einer ordnungsgemäßen Klimatisierung sowie einer funktionstüchtigen USV sichergestellt.</p>
+
+<p>Wir bitten Sie daher, <b>Meldungen der USV</b> auf Ihrem POCSO-Arbeitsplatz bewusst wahrzunehmen und darauf zu reagieren. Diese Meldungen reichen von "Batterietausch notwendig" bis hin zu Meldungen des Servers, dass die Kommunikation zur USV abgebrochen ist. Abhängig vom Fehler sind unterschiedliche Maßnahmen zu treffen. Kontaktieren Sie bitte im Fall des Falles den Porsche Informatik Service Desk, der Sie bei Unklarheiten beraten kann.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=USV">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>

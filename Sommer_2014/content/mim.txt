@@ -1,0 +1,72 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Erneute Spamwelle</h1>
+<h2>Wir möchten Ihnen einmal mehr die wichtigsten Verhaltensregeln im Umgang mit Spammails in Erinnerung rufen.</h2>
+
+ <img src="images/bild_mim.jpg" width="190" height="120" alt="Spam-Mails" />
+ 
+
+<p>Sie haben es wahrscheinlich mitbekommen: In den letzten Wochen prasselten Unmengen an <b>Spammails</b> zu Vodafone, Telekom, Zalando usw. auf uns herein. In den überwiegenden Fällen waren die E-Mails mit "[Possible SPAM]" markiert. Trotzdem waren einige Benutzer verunsichert, ob die E-Mails nicht doch authentisch sind, und öffneten Links und Anhänge; wieder mussten einige PC-Arbeitsplätze <b>neu aufgesetzt</b> werden. </p>
+
+
+<p>Durch unachtsames Öffnen von E-Mail-Anhängen oder Klicken auf Links kann Ihr PC mit <b>Schadsoftware</b> befallen werden, die sich auf unser gesamtes <b>Konzernnetzwerk</b> ausbreiten und entsprechend hohen Schaden anrichten kann. Ihre Aufmerksamkeit und Vorsicht sind daher von größter Bedeutung!</p>
+
+<p>Daher möchten wir Sie einmal mehr auf folgende <b>Verhaltensregeln</b> hinweisen:</p>
+
+
+<ul>
+
+<li><div>Seien Sie sehr vorsichtig bei E-Mails, die als <b>"[Possible Spam]"</b> gekennzeichnet sind. Es handelt sich in der überwiegenden Zahl der Fälle um echte Spammails und deren Anhänge oder Links sind mit hoher Wahrscheinlichkeit bösartig.
+</div></li>
+
+<li><div>Seien Sie äußerst skeptisch, wenn in einem E-Mail <b>Benutzername, Passwort, Zugangscodes</b> oder Ähnliches abgefragt werden. Seriöse Partner praktizieren das nicht.
+</div></li>
+
+<li><div>Seien Sie sehr vorsichtig, wenn Sie E-Mails von <b>Unbekannten</b> erhalten. Verlassen Sie sich aber bitte auch nicht auf die Absenderadresse im E-Mail, da diese - so leicht wie bei einer Postkarte - <b>gefälscht</b> werden kann.
+</div></li>
+
+<li><div>Überlegen Sie vor dem Klicken auf Anhänge oder Links immer, ob das E-Mail aus einer <b>vertrauenswürdigen Quelle</b> stammt. Hinterfragen Sie E-Mails auch bei auf den ersten Blick <b>authentischen Absendern</b> (Deutsche Telekom, Vodafone). Mittlerweile werden Spammails immer raffinierter und tarnen sich hinter namhaften Absendern.
+</div></li>
+
+<li><div>Achten Sie auf die gesamte <b>Erscheinungsform</b> eines E-Mails. Fehlende Grußformeln, Rechtschreibfehler, seltsame Informationen, fremde Absenderadressen, usw. können Indizien für böse Absichten sein.
+</div></li>
+
+
+</ul>
+
+<p>Sollten Sie dennoch einmal einen Anhang geöffnet oder auf einen Link geklickt haben, so wenden Sie sich bitte umgehend an unseren <b>Service Desk</b> (+43 662 4670 2222 bzw. <a href="http://support.porscheinformatik.at" target="_blank" title="Zum Onlinesupport"><b>http://support.porscheinformatik.at&nbsp;&raquo;</b></a>).</p>
+
+
+
+
+
+<p>
+
+<a href="mailto:info@porscheinformatik.at ?subject=Spam-Mails">Marcus Michalek</a><br />
+IT-Sicherheitsbeauftragter
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

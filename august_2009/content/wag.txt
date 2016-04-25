@@ -1,0 +1,31 @@
+<h1>CROSS 2: Vorschau auf Release 2.11 - Service</h1>
+<h2>Mitte September 2009 kommt das neue CROSS-Release 2.11 - die wichtigsten Neuerungen im Bereich Service. </h2>
+
+
+<p>Im kommenden CROSS-Release 2.11, das wir ab 19. September in den Betrieben einspielen, können wir Ihnen wieder eine Reihe interessanter neuer Funktionalitäten anbieten! Werfen wir einen Blick auf die Highlights im Bereich Service:</p>
+
+<ul>
+<li><div><b>SAGA2-Preise nach Stornierung behalten</b>: Aus SAGA2 eingespielte Preise werden nun bei einer GWL-Stornierung nicht mehr gelöscht. Die aufwändige nachträgliche GWL-Korrektur, bei der zumeist mehrere Preise korrigiert werden mussten, entfällt - die eingespielten SAGA2-Preise können angepasst werden.</div></li>
+
+<li><div><b>Rabattierung auf Geschäftspartner-Ebene</b>: Mit dem neuen Release können nun Geschäftspartner-spezifische Rabatte für Teile und Arbeiten vergeben werden.</div></li>
+
+<li><div><b>§57a als "erledigt" kennzeichnen</b>: Sie können nun den berechneten §57a-Einladungstermin manuell als erledigt kennzeichnen, falls die Überprüfung bei einem anderen Dienstleister (z. B. ÖAMTC) durchgeführt wurde.</div></li>
+
+<li><div><b>Barverkaufsaufträge an alle "Marken-ETKA" übermitteln</b>: Barverkäufe ohne Verrechnungsfabrikat werden nun nicht mehr nur an den ETKA mit der "Hauptmarke", sondern immer an alle "Marken-ETKA" übermittelt.</div></li>
+
+</ul>
+
+<p>Details zu diesen und weiteren Neuerungen finden Sie in der <b>Änderungsbeschreibung</b> zu CROSS 2.11, die wir etwa drei Wochen vor der Programmaussendung mit allen Informationen rund ums neue Release im Partner.Net zur Verfügung stellen werden.
+
+<!--
+<p>Details zu diesen und weiteren Neuerungen finden Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/9B73386B758C8346C125758400487020?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>&raquo; Änderungsbeschreibung zu CROSS 2.10</b></a> in der Porsche Informatik Infoline.</p>
+-->
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorschau auf CROSS 2.11 - Service">Gregor Wagner</a></p>
+
+
+
+
+
+

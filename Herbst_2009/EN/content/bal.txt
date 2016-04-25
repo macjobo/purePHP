@@ -1,0 +1,74 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Freigabe von Office 2007</h1>
+<h2>Ab Oktober ist Microsoft Office 2007 im POCSO-Umfeld freigegeben.</h2>
+
+<img src="../images/bild_office.jpg" width="190" height="120" alt="bild_office (13K)" />
+
+<p>Im <a href="http://newsletter.porscheinformatik.at/februar_2009/index.php?page=mal1" target="_blank" title="Zum Office-2007-Artikel im Februar-Newsletter"><b>&raquo;&nbsp;Februar-Newsletter</b></a> haben wir Sie erstmals über das Projekt "Microsoft Office 2007" informiert. Nach intensiven <b>Produkttests und Adaptierungen</b> unserer Applikationen können wir Microsoft Office 2007 nun Mitte Oktober freigeben.</p>
+
+<p>Wie bei vorangegangenen Versionen steht Ihnen im POCSO-Netzwerk eine <b>vollautomatische Installation </b>durch das POCSO-Management-Center zur Verfügung. Voraussetzung dafür ist eine vorhandene Office-2007-Lizenz.</p>
+
+<p>Zwei Versionen sind verfügbar:
+
+<ul>
+<li><div><b>Office 2007 Standard</b> mit Word, Excel und Powerpoint</div></li>
+<li><div><b>Office 2007 Professional</b> mit Word, Excel, Powerpoint und Access</div></li>
+
+</ul>
+</p>
+
+
+<p>Für bestehende <b>Office-2000-Lizenzen</b> stellt POCSO auch weiterhin automatische Installation und technischen Support zur Verfügung. Wir müssen jedoch darauf hinweisen, dass Microsoft den  Support für Office 2000 vollständig eingestellt hat.</p>
+
+<p>Funktionale Probleme können nur durch ein Update gelöst werden. Neue Sicherheits-Lücken können somit bei Office 2000 nicht mehr behoben werden. Wir raten daher zu einem vollständigen <b>Umstieg auf Office 2007</b> in den nächsten ein bis zwei Jahren. </p> 
+
+
+
+<p>Für Fragen zu Office 2007 steht Ihr Key Account Manager der POI gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Freigabe Office 2007">Bernhard Lackerbauer</a>
+</p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

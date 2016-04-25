@@ -1,0 +1,37 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neue PC-Modelle</h1>
+<h2>Die neuen HP Desktop-Modelle sind verfügbar!</h2>
+
+<img src="images/bild_mal2.jpg" width="120" height="120" title="HP Desktop" />
+
+
+<p>Die neuen Desktops <b>HP Elitedesk 800 G1</b> zeichnen sich nicht nur durch <b>bessere Leistung</b>, sondern auch durch ein neues <b>elegantes Design</b> aus.</p> 
+
+<p>Sie werden jetzt nur mehr in zwei Baugruppen angeboten, dem kleinen <b>USDT-Modell</b> mit geringer Stellfläche und geringem Stromverbrauch sowie dem erweiterbaren <b>Tower-Modell</b> für jene, die einen noch stärkeren Intel i-5-Prozessor nutzen oder zusätzliche Komponenten einbauen möchten.</p>
+
+
+
+<p>Weitere Informationen zu den neuen Standardgeräten:</p>
+ 
+<ul>
+
+<li><div>
+Den <b>HP Elitedesk 800 G1 USDT</b> gibt es wahlweise mit schnellem <b>Solid-State-Laufwerk (SSD)</b> oder mit einer herkömmlichen Festplatte.
+
+</div></li>
+
+<li><div>Beim Tower-Modell sind <b>zwei Festplatten</b>, eine SSD und eine HDD, verbaut. 
+</div></li>
+
+
+
+
+</ul>
+
+
+<p>Details zu den neuen HP Elitedesk 800 erhält der EDV-Koordinator Ihres Bereichs in unserer Lotus-Notes-Bestell-Datenbank "POI Easy".</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue PC-Modelle">Herbert Lohninger</a><br />
+Teamleitung Client Konzern</p>

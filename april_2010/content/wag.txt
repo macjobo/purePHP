@@ -1,0 +1,28 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Gewährleistungsvergütung</h1>
+<h2>Eine neue Infoline-Dokumentation beschreibt den richtigen Ablauf bei der Kontrolle von Gewährleistungsvergütungen. </h2>
+
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Gewährleistungsvergütung" />
+
+
+<p>Die Kontrolle der Gewährleistungsvergütungen ist eine wichtige und permanente Aufgabe. Um diese Aufgabe möglichst effizient durchführen zu können, haben wir in CROSS die <b>Vergütungskontrolle</b> eingerichtet.</p>
+
+<p>Mittels dieser Funktion sind Sie schnell in der Lage, sich ein Bild über die <b>Gewährleistungsvergütungen</b> zu machen. Auch etwaig notwendige Bearbeitungen können von dieser zentralen Stelle aus durchgeführt werden. In der POI-Infoline-Dokumentation <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/501818f60553bc16c1256f1700433247/857ad0d1b4c3a794c12576e80044422e?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>SAGA-Vergütungskontrolle&nbsp;&raquo;</b></a> beschreiben wir die wichtigsten Funktionen in diesem Zusammenhang.</p>
+
+<p>Unser Tipp: Nutzen Sie Ihr jährliches Guthaben über <b>vier Stunden kostenlose CROSS-Beratung</b>, um sich von Ihrem CROSS-Berater die Bedienung der Vergütungskontrolle ausführlich erklären zu lassen und einen optimalen Kontrollprozess für Ihr Unternehmen zu etablieren.</p>
+
+
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Gewährleistungsvergütung">Gregor Wagner</a><br />
+CROSS-Fachkoordination</p>
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS: Vorschau auf Release 2.16</h1>
+<h2>Ende Juni geht das neue CROSS-Release 2.16 in den Breiteneinsatz, hier ein Überblick über die wichtigsten Neuerungen im Bereich Neu- und Gebrauchtwagen.</h2>
+
+<img src="images/bild_ric.jpg" width="190" height="120" alt="CROSS 2.16 Highlights" />
+
+
+<p>Das neue CROSS-Release 2.16 bringt auch im Bereich <b>Neu- und Gebrauchtwagen</b> einige Änderungen und neue Funktionalitäten:</p>
+
+<ul>
+
+<li><div>
+Die in CROSS angezeigte <b>Mahnstufe eines Geschäftspartners</b> entspricht nun der aktuellen Mahnstufe im SAP und nicht wie bisher der höchsten jemals erreichten Mahnstufe.
+</div></li>
+
+<li><div>
+Im Bereich der Geschäftspartner können nun <b>Beziehungen zwischen Geschäftspartnern</b> definiert werden. Im Zuge dieser Erweiterung wurden hier auch die <b>Kontaktpersonen</b> bei Firmen integriert
+</div></li>
+
+<li><div>
+<b>Debitoren</b> werden nun bereits zum Zeitpunkt des Kaufvertragsabschlusses in SAP angelegt und nicht wie bisher erst zum Zeitpunkt der Rechnungslegung. Weiters können nun bei Bedarf <b>Buchungen</b> sofort, also vor der Tagesendverarbeitung, an SAP übertragen werden.
+</div></li>
+
+<li><div><b>Sammelrechnungen</b> können nun auch mit Geschäftsfällen von Werkstatt-Eingangsrechnungen erfasst werden (z. B. von externen Gebrauchtwagen-Aufbereitern)
+</div></li>
+
+<li><div>
+Im neuen Release wurden die aktuellen gesetzlichen Änderungen bezüglich der <b>NoVA</b> umgesetzt. Neben der Möglichkeit, den NoVA-Zu-bzw. -Abschlag abhängig vom jeweils maßgeblichen Datum zu berechnen, wurde CROSS auch dahingehend angepasst, dass nun die NoVA nicht mehr der Umsatzsteuer unterliegt und daher eine erhöhte <b>USt-freie NoVA</b> zu berechnen ist. 
+</div></li>
+
+<li><div>
+Auf vielfachen Wunsch von Disponenten wird nun im Typenschein bei der Anforderung die aktuell im Kaufvertrag eingetragene <b>Großabnehmernummer</b> zu Kontrollzwecken angezeigt. Allfällige Änderungen sind nach wie vor im Kaufvertrag vorzunehmen.
+</div></li>
+
+<li><div>
+Um Weltauto und die VU darüber zu informieren, das es sich bei einem Gebrauchtwagen um eine <b>Tageszulassung</b> handelt, kann nun bei den Bewertungsdaten im Feld "Kategorie" der Buchstabe <b>"T"</b> eingegeben werden.
+</div></li>
+
+</ul>
+
+<p>Weitere wichtige Informationen zum neuen Release entnehmen Sie bitte einem gesonderten <b>Rundschreiben</b>, das wir rechtzeitig vor der Release-Einspielung zusammen mit einer ausführlichen <b>Änderungsbeschreibung</b> im Partner.Net veröffentlichen werden. Auch die MitarbeiterInnen unseres Service Desks stehen für Ihre Fragen gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS 2.16 Highlights">Günther Richter</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+

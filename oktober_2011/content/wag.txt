@@ -1,0 +1,29 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS Tipp: Partner-Net-Lieferschein</h1>
+<h2>Der TVZ-Lieferschein im Partner.Net kann direkt aus CROSS aufgerufen werden.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Partner-Net-Lieferschein" />
+
+<p>Suchen Sie Ihren täglichen TVZ-Lieferschein im Partner-Net? Sparen Sie sich doch die ständige Eingabe von Passwörtern und Kriterien! Mit der Funktion <b>"Partner.Net-LS"</b> im CROSS-Lieferschein können Sie den dazugehörigen TVZ-Lieferschein mit einem Mausklick öffnen und in weiterer Folge ausdrucken.</p>
+
+<p>Beim ersten Aufruf dieser Funktion müssen Sie Ihr <b>Partner.Net-Passwort</b> eingeben und ein Zertifikat anfordern. Dadurch wird Ihr Passwort gespeichert und Sie müssen es in weiterer Folge nicht noch einmal eingeben.</p>
+
+
+
+<p>Für Fragen stehen Ihnen die MitarbeiterInnen unseres Service Desks gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Partner-Net-Lieferschein">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

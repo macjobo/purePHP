@@ -1,0 +1,43 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Gebrauchtwagen-Eingangsrechnung</h1>
+
+<h2>Seit dem Release 2.10 unterstützt CROSS neben dem Gebrauchtwagen-Einkauf mit Gutschrift auch die Hereinnahme mittels Eingangsrechnung.</h2>
+
+<img src="images/bild_ric.jpg" width="190" height="120" alt="Gebrauchtwagen-Eingangsrechnung" />
+
+
+<p>Im Zuge unserer CROSS-Beratungen stellen wir immer wieder fest, dass viele Betriebe den <b>Gebrauchtwagen-Einkauf</b> nach wie vor ausschließlich mittels GW-Gutschrift abwickeln.</p>
+
+<p>Prinzipiell spricht nichts gegen diese Vorgehensweise. Im Zuge der <b>Gesetzesänderungen</b> im Bereich der NoVA kann es jedoch erforderlich werden, auf das Verfahren mit <b>Eingangsrechnung</b> umzustellen.</p>
+
+Bitte beachten Sie in diesem Zusammenhang die entsprechenden Dokumentationen in der POI-Infoline: <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/0b2243a870f13ebdc12575d1002d61b3?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Gebrauchtwagen-Hereinnahme mittels Eingangsrechnung"&nbsp;&raquo;</b></a> und <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/e80dfb25991e4730c1257864002c8890?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Gebrauchtwagen Eingangsrechnungen mit ausgewiesener USt-freier NoVA"&nbsp;&raquo;</b></a>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Gebrauchtwagen-Eingangsrechnung">Günther Richter</a><br />
+
+Fachkoordinator CROSS Neu- und Gebrauchtwagen</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

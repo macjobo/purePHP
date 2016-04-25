@@ -1,0 +1,42 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Anwendungen: Microsoft Internet Explorer 11</h1>
+<h2>Die nächste Version unseres Standard-Browsers, des Microsoft Internet Explorer 11, wird gerade im Zusammenspiel mit unseren Systemen auf Herz und Nieren getestet.</h2>
+
+<img src="images/bild_alk1.jpg" width="130" height="120" alt="IE 11" />
+
+
+<p>Die Porsche Informatik hat mittlerweile über 200 verschiedene Applikationen im Einsatz, viele davon sind webbasierend oder haben Browser-Schnittstellen. Bevor daher eine neue Browserversion im Konzern ausgerollt werden kann, muss sie <b>ausgiebig getestet</b> werden; vielfach müssen wir dann auch <b>Anpassungen</b> in den Systemen vornehmen. Das erfordert in einer so komplexen Umgebung wie der unseren sehr viel Zeit.
+</p>
+
+<p>
+Nicht zuletzt deshalb haben wir uns gegen den Einsatz des Internet Explorer&nbsp;10 entschlossen und richten unseren Fokus ganz auf den <b>Internet Explorer&nbsp;11</b>, der bereits die <b>modernsten Webstandards</b> unterstützt. Unsere Entwickler- und Testteams arbeiten aktuell daran, den IE&nbsp;11 so bald wie möglich zu Verfügung zu stellen.<br />
+Die Installation erfolgt dann, wie gewohnt, vollautomatisch über unsere Software-Verteilung auf Ihren Arbeitsplätzen.
+
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=IE 11">Michaela Alker</a><br />
+Teamleitung Service Desk</p>
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ 

@@ -1,0 +1,13 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neuer Adobe Acrobat Reader</h1>
+<h2>Der neue Acrobat Reader 7.0.9 wird bis Ende Juni auf allen POCSO-Arbeitsplätzen eingespielt - vom Einsatz der Version 8.0 raten wir ab.</h2>
+
+<p>Die Verwendung von <b>PDF-Dokumenten</b> im Internet steigt seit der kostenlosen Verfügbarkeit des Adobe Readers stetig an. Die Bedeutung des Dateibetrachters nimmt daher von Jahr zu Jahr zu. </p>
+
+<p>In den letzten Monaten hat sich die Porsche Informatik intensiv mit dem Thema Adobe Reader beschäftigt. Nach ausgiebigen Tests der aktuellen Version 8.0 haben wir uns aufgrund wichtiger <b>Qualitätskriterien</b> - etwa Speicherverbrauch oder generelle Produktreife -  für die Version 7.0.9 entschieden. Diese Version wurde kurz nach der Version 8.0 veröffentlicht und beinhaltet wie diese auch alle relevanten <b>Sicherheitskorrekturen</b>.</p>
+
+<p>Das Rollout wird noch im Mai 2007 auf allen POCSO-Arbeitsplätzen beginnen.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Adobe Acrobat">Herbert Harringer</a></p>

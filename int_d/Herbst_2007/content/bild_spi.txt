@@ -1,0 +1,11 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Windows-Taste</h1>
+                
+<div class="bild">        
+    
+<img src="images/taste.jpg" alt="Windows-Taste" title="Windows-Taste" border="0" height="76" width="101">
+      
+</div>                    
+ 
+<p id="zurueck"><a href="index.php?page=spi">Zurück zum Artikel</a></p>

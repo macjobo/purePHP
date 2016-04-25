@@ -1,0 +1,96 @@
+<div class="umbruch">&nbsp;</div>
+<h1>VU2: Support meets Support</h1>
+<h2>Porsche Informatik is now offering a VU2 Support Workshop</h2>
+
+<p>Porsche Informatik is offering a <b>VU2 Support Workshop</b> especially for the countries which are setting up their own VU2 support.</p>
+
+<p>Basically, support requests generated in the countries should be resolved and responded to by the local <b>VU2 support team</b> (1st Level Support). Of course there are also support requests which 1st Level Support can not resolve. These requests are then sent via Online Support <a href="http://support.porscheinformatik.at">http://support.porscheinformatik.at</a> to our VU2 support team (2nd Level Support).</p>
+
+<p>To <b>optimise VU2 support cooperation</b> between the support units in the partner countries and Austria, we are offering a workshop with the following content:</p>
+<p><b>Theoretical part:</b></p>
+<ul>
+<li>POI support process and POI requirement management, as well as the supporting tools</li>
+<li>Which tasks are handled by VU2 support and how is the support team structured?</li>
+</ul>
+
+<p><b>Practical part:</b></p>
+<ul>
+<li>Setting up the VU2 environment for Austria and partner countries</li>
+<li>Processing of typical support cases (Examples from partner countries and Austria)</li>
+</ul>
+
+<p><b>Duration:</b> approx. 1.5 to 2 days, whereby the focus is on the practical part of the workshop
+<br><b>Location:</b> Bergheim by Salzburg, Austria
+<br><b>Language:</b> German, the workshop is available in English on request</p>
+
+Interested? Then please contact Mr Michael Neubacher.
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=VU Support">Michael Neubacher</a>
+<br>Support & QS team leader	
+<br>Porsche Informatik</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

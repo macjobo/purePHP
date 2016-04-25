@@ -1,0 +1,21 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Jahresrückblick 2011</h1>
+<h2>Um unsere Leistungen besser steuern und messen zu können, setzt auch das Clientteam vermehrt auf Kennzahlen.</h2>
+
+<img src="images/kennzahlen.jpg" width="190" height="120" alt="kennzahlen" />
+
+<p>An dieser Stelle möchten wir Ihnen einen kurzen Überblick über unsere <b>Kennzahlen</b> aus dem Jahr 2011 geben.
+Die Kennzahlen untergliedern sich in Support, Soft- und Hardware Auslieferungen, Projekte und selbstverständlich in
+unsere Mitarbeiter- und Kundenzufriedenheit.</p>
+
+<ul>
+<li><div>Anzahl betreute Clients im Konzern in Österreich: 			 								 							 	<b>1908</b></div></li>
+<li><div>Software- und Hardwareauslieferungen:	 							 																<b>2425</b></div></li>
+<li><div>Rücklauf von ausgefüllten, digitalen Feedbackbögen bei Desktop/Notebook Auslieferung: 255</div></li>
+<li><div>Durchschnittswert Kundenzufriedenheit nach Schulnotensystem:	 				 		 									 <b>1,22</b></div></li>
+<li><div>Abgeschlossene Supporttickets:																												<b>4977</b></div></li>
+</ul>
+
+<p>
+<a href="mailto:info@porscheinformatik.at ?subject=Jahresrückblick Kennzahlen">Herbert Lohninger</a> </p>

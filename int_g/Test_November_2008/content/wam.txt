@@ -1,0 +1,27 @@
+
+<h1>Support: CCC wird zum Service Desk</h1>
+<h2>Das Customer Care Center wird zum "Service Desk" und ab 1. Dezember 2008 wird der neue Online Support eingesetzt!</h2>
+
+<p>"Herzlich Willkommen am Service Desk der Porsche Informatik!" - so werden Anrufer/innen ab <b>1. Dezember 2008</b> von uns begrüßt.</p>
+
+<p>Aber nicht nur unser Telefonauftritt ist neu. Als <b>"Service Desk"</b> erweitern wir unseren Aufgabenbereich und unseren Dienstleistungsumfang. Dafür haben wir uns innerhalb der Supportabteilungen neu organisiert: Seit Kurzem verstärken vier Kollegen für Support bzw. Administration unser Team. Sie rücken damit "näher zum Kunden" und können so noch rascher auf Ihre Anfragen in diesen Bereichen reagieren.</p>
+
+<p>Wie im <a href="http://newsletter.porscheinformatik.at/int_g/Maerz_2008/">März Newsletter 2008</a> angekündigt, erreichen wir mit unserem Projekt - näher an den anerkannten "De-Facto-Standard" für IT-Unternehmen <b>ITIL</b> (IT-Infrastructure Library) zu rücken - einen wichtigen Meilenstein.
+</p>
+
+<p>Ab 1. Dezember setzen wir eine neue, <b>leistungsfähigere Software</b> ein, welche uns in den Service Desk Prozessen (Incident-, Problem-, Service Level Management) sowie in den Prozessen für Change- und Configuration Management unterstützt.</p>
+
+<p>Somit wird auch die über Internet zugängliche Erfassungsplattform, der <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">POI Online Support</a></b>, den Sie für Ihre Support-Anfragen nutzen, abgelöst.</p> Die Beschreibung zum neuen Online Support können Sie schon jetzt unter <a href="">Beschreibung des neuen Online Support</a> aufrufen.
+Registrierte Benutzer des Online Support bekommen noch vor dem Einsatz die Zugangsdaten per E-Mail zugesendet.</p> 
+
+<!-- <div class="bild">  
+
+<img src="images/ccc_und_markus.jpg" width="537" height="244" alt="Unser Team" >
+
+</div> -->
+
+<p>Die Maßnahmen sollen weitere Verbesserungen bewirken und die Anfragebearbeitung noch transparenter und schneller machen.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Customer Care Center">Markus Watzik</a>
+<br>Teamleitung Service Desk 
+</p>

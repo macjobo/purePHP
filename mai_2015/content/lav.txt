@@ -1,0 +1,47 @@
+
+<h1>CROSS: Umweltplakette für Nutzfahrzeuge</h1>
+<h2>Verrechnung der Umweltplakette in CROSS</h2>
+
+<img src="images/bild_lav.jpg" width="190" height="120" title="Abgasklassen Kennzeichnungsverordnung" />
+
+
+
+<p>
+Zur Kontrolle der Verkehrsbeschränkungen in Österreich - wie Fahrverbote - 
+die auf dem Immissionsschutzgesetz Luft, kurz IG-L, basieren, ist auf Nutzfahrzeugen 
+eine Plakette anzubringen.
+
+</p>
+
+<p>
+Für die <b>Verrechnung</b> dieser Umweltplakette - auch Abgasklassen-Kennzeichnungsplakette - in CROSS wurden vom Importeur <b>zwei Fixpreis-Pakete</b> ausgespielt. 
+Eines wird im Zuge der § 57a Begutachtung verwendet, das andere unabhängig davon.
+
+</p>
+
+
+<p>
+Um die Plakette in den Paketen zu verwenden, legen Sie diese als Teil an und verknüpfen 
+sie mit der Umwandlungsposition Reparaturmaterial.
+Die genaue <b>Abwicklungsbeschreibung zur Wartung und Verrechnung der Pakete</b> 
+für die Umweltplakette finden Sie in der 
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/f1b16e0db90fb54bc1257e3c003f346c?OpenDocument" 
+target="_blank" title="Zur Porsche-Informatik-Infoline">Porsche Informatik Infoline &nbsp;&raquo;</b></a>.
+
+
+</p>
+
+
+<p>
+Die <b>gesetzlichen Regelungen</b>, wie der ab 01.07.2015 erweiterte Geltungsbereich 
+für die Umweltplakette, entnehmen Sie dem <b>Rundschreiben der Porsche Austria</b> unter:  
+News / Gesetzte & Technologien / Aktuell / Umweltrecht / Rundschreiben von 13.02.2015.
+<p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Umweltplakette für Nutzfahrzeuge">Klaudia Laverge-Winkler</a><br />
+Kundenprojektmanagement und Prozessberatung Einzelhandel</p>
+
+
+

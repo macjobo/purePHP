@@ -1,0 +1,91 @@
+<div class="umbruch">&nbsp;</div>
+<h1>SAGA2/KD3 Rollout: Erfahrungsbericht</h1>
+<h2>Pilotbetriebe in Österreich, Rumänien, Bulgarien und Mazedonien erfolgreich gestartet</h2>
+
+<p><b>Ausgangssituation</b><br>
+
+Im Jahr 2006 begannen die Startvorbereitungen für die SAGA2-Einführung, parallel dazu wurde ein Ablöseprodukt für KD2 als Auszahlungssystem entwickelt, naheliegender Name: KD3.<br>Da die bisherigen Werkssysteme unwiderruflich abgeschaltet werden, muss die Umstellung auf die neuen Systeme in Österreich und den Partnerländern bis 31.12.2007 abgeschlossen sein.</p>
+
+<p><b>Rollout/Status</b><br> 
+
+In Österreich und in Rumänien wurden die Pilotbetriebe im Juli 2007 gestartet, Bulgarien und Mazedonien folgten im August. In den übrigen Ländern starten die Pilotbetriebe zwischen September und November dieses Jahres.</p>
+
+<p><b>Vorteile</b><br>	 
+
+Die Gewährleistungsbearbeitung- und Prüfung in SAGA2 erfolgt beim Partner in Echtzeit. D.h. ob ein Antrag formal korrekt ist, entscheidet sich bei der Übertragung in SAGA2 sofort. Die Auszahlung erfolgt (wie bisher auch schon in KD2) unmittelbar nach dem Eintreffen der Werksvergütungsdaten 14-täglich.</p>  
+
+<p><b>Funktionalitäten von KD3</b>
+
+<ul>
+<li>Speicherung aller Anträge, welche täglich vom Werk an den Großhandel übertragen werden</li>
+<li>Auszahlung an die Partner 14-täglich, Druck und Archivierung der Belege</li>
+<li>Abwicklung von Garantieverlängerungen</li>
+<li>Abwicklung Mobilitätsgarantie</li>
+<li>Abwicklung von Fahrzeugaktionen (zum DMS)</li>
+<li>Abwicklung von Arbeitspositionen (zum DMS)</li>
+</ul>
+</p>
+
+<p><b>Ausblick</b><br>	
+
+KD3 wird laufend weiterentwickelt und um neue Funktionalitäten erweitert.
+Ein Folgeprojekt soll alle "nicht gewährleistungsrelevanten Leistungsfälle" wie Transportschaden, Reifengarantie, Marketingaktionen usw. abdecken.
+Da SAGA2 die Marke PORSCHE nicht unterstützt, wird auch dafür ein Ersatz in KD3 integriert (komplette Antragsprüfung).
+Einige Standard-Statistiken und Kontrolldaten zur Kostenkontrolle sind im Entstehen und werden so konzipiert, dass diese auch in den Partnerländern verwendet werden können.
+</p>
+
+<p><b>Bisherige Erfahrungen</b><br>	
+
+Der Piloteinsatz verlief plangemäß und unerwartete Probleme konnten immer rasch gelöst werden. Die Betriebe haben Vor- und Nachteile der neuen Abwicklung erkannt und kommen mit dem System schon nach kurzer Zeit gut zurecht. Das Zusammenspiel SAGA2/KD3 und CROSS funktioniert plangemäß.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SAGA2/KD3">Gerd Schöppl</a>
+<br>Entwicklung Großhandel
+<br>Porsche Informatik</p>  
+
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

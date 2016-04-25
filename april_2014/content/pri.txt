@@ -1,0 +1,21 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>PHS: Neue Stimme</h1>
+
+<h2>Frischer Wind in der Administration!</h2>
+
+<img src="images/bild_pri.jpg" width="190" height="120" alt="Kathrin Gmach" />
+
+
+
+<p>Mit Freude dürfen wir Ihnen unsere <b>neue Kollegin</b> in der Administration des Bereichs Kundenmanagement PHS CROSS vorstellen. </p>
+<p><b>Kathrin Gmach</b> (kathrin.gmach@porscheinformatik.at, DW 6318) 
+hilft Ihnen ab sofort an Stelle von Frau Kaserer bei Fragen rund um <b>Porsche Informatik Seminare</b> und unterstützt gemeinsam mit mir unsere Key Account Manager im <b>Innendienst</b>.</p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Mitarbeiterin">Nicola Priol</a><br />
+Marketing & Vertriebsassistenz</p>
+
+

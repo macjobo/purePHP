@@ -1,0 +1,61 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT Allgemein: Stromsparen</h1>
+<h2>Energiesparen ist in aller Munde. Daher wollen auch wir einige Potenziale aufzeigen, wie sich Energieverschwendung vermeiden lässt.</h2>
+
+<p>Eine Maßnahme wird bereits von Porsche Informatik durchgeführt: Wir wählen <b>energieeffiziente Geräte</b>, die sowohl im Betrieb als auch im ausgeschalteten Zustand möglichst wenig Strom verbrauchen. Aktuelle Geräte verbrauchen im Normalbetrieb ca. 50 Watt und ein LCD-Monitor ca. 30 Watt; ältere Modelle hingegen benötigten jeweils weit über 100 Watt.</p>
+
+
+<p>
+Was aber können Sie selbst dazu beitragen, um den Energieverbrauch einzuschränken?</p>
+<p>Schalten Sie Ihren Bildschirm aus, wenn Sie Ihren Arbeitsplatz für mehr als 15 Minuten verlassen! "Warum, ich habe doch einen <b>Bildschirmschoner</b>, der sich nach x Minuten automatisch einschaltet?", fragen Sie sich vielleicht. Dazu muss man wissen, dass Bildschirmschoner je nach Ausführung sogar zusätzlich Strom verbrauchen: Aufwändig programmierte Animationen können den Stromverbrauch des Rechners sogar <b>bis zu 80% erhöhen!</b></p>
+
+<p>Wenn bei uns im Konzern 500 Bildschirme täglich zwei Stunden bei Abwesenheit ausgeschaltet werden, spart das <b>ca. 1000 Euro pro Jahr!</b> Angesichts dieser Größenordnung bitten wir Sie, <b>Rechner und Peripheriegeräte</b> über Nacht unbedingt auszuschalten, auch wenn der Start am Morgen aufgrund der verschiedenen Startroutinen etwas länger dauert.</p>
+
+<p>Wir bei der Porsche Informatik haben inzwischen mehr als die Hälfte der früher stromfressenden Server auf eine extrem  <b>ressourceneffiziente virtualisierte Infrastruktur</b> umgestellt und suchen ständig nach weiteren Verbesserungen im Energieeffizienzbereich.</p>
+
+<p>Überlassen Sie das Stromsparen nicht den anderen - wir müssen alle unseren Teil dazu beitragen!</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Stromsparen">Anton Spitzer</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

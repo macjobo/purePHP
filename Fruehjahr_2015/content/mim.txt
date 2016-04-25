@@ -1,0 +1,83 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Dubiose Telefonanrufe</h1>
+<h2>"Social Engineering", der Versuch der zwischenmenschliche Beeinflussungen mit dem Ziel, unberechtigt an Informationen oder technische Infrastrukturen zu gelangen, findet auch am Telefon statt - seien Sie also bitte wachsam!</h2>
+
+
+
+<img src="images/bild_mim.jpg" width="190" height="120" alt="Dubiose Telefonanrufe" />
+<p> 
+In letzter Zeit berichten Mitarbeiter immer wieder, dass sie <b>dubiose Telefonanrufe</b> erhalten haben. Zwei Fallbeispiele:</p>
+
+
+<ul>
+
+<li><div>Jemand ruft im Auftrag von Microsoft an und behauptet, dass Microsoft eine <b>Störung</b> bei Ihrem PC-Arbeitsplatz registriert hat. Zur Behebung nennt Ihnen der Anrufer eine Internet-Adresse, über welche Sie ein Programm herunterladen sollen.
+</div></li>
+
+<li><div>Jemand ruft an und behauptet, dass sein Chef Ihnen ein <b>wichtiges E-Mail</b> senden will, jedoch nicht über die korrekte E-Mail-Adresse verfügt.
+</div></li>
+
+
+</ul>
+
+
+<p>Sie ahnen schon, worauf die Anrufe abzielen. Kriminelle versuchen, <b>Schadsoftware</b> auf Ihren Arbeitsplatz bzw. in unser Netzwerk zu bekommen - z. B. für eine <b>Erpressung</b>, indem Daten verschlüsselt und nur gegen Bezahlung wieder entschlüsselt werden. Oder zum <b>Mitlesen von Passworteingaben</b>. Oder gar zum <b>Einbrechen</b> in unser Unternehmensnetzwerk und zum <b>Diebstahl von Daten</b>.</p>
+
+<p>Was könnte Sie darauf hinweisen, dass Sie es am Telefon mit einem <b>Kriminellen</b> zu tun haben?</p>
+
+<ul>
+
+
+
+<li><div>Ist die Nummer des Anrufers <b>unterdrückt</b>?
+</div></li>
+
+<li><div>Erklärt der Anrufer bei Nachfragen nicht genau, <b>worum es geht</b>?
+</div></li>
+
+<li><div>Fragt der Anrufer nach <b>sensiblen</b> oder <b>betriebsinternen Daten</b> (z. B. Passwörter, Namen, o. Ä.)?
+</div></li>
+
+<li><div>Möchte der Anrufer, dass Sie <b>etwas tun</b>, z. B. ein E-Mail öffnen, etwas herunterladen?
+</div></li>
+
+<li><div>Setzt Sie der Anrufer unter <b>Druck</b> oder stellt Ihnen etwas <b>Lukratives</b> in Aussicht, verbunden mit einer Aktivität von Ihnen?
+</div></li>
+
+</ul>
+	
+<p>Bitte zeigen Sie auch bei Telefonanrufern ein gesundes Misstrauen! Durch Ihr sorgsames Verhalten leisten Sie einen immens wichtigen Beitrag zur <b>Sicherheit im Unternehmen</b>.</p>
+
+
+
+<p>
+
+<a href="mailto:info@porscheinformatik.at ?subject=Dubiose Telefonanrufe">Marcus Michalek</a><br />
+IT-Sicherheitsbeauftragter
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,14 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Welcome Terminal</h1>
+                
+<div class="bild">        
+    
+
+
+<img src="images/bam.jpg" alt="Welcome Terminal" title="Welcome Terminal" border="0" height="381" width="508">
+      
+</div>                    
+ 
+</p>
+<p id="zurueck"><a href="index.php?page=bam">&raquo;&nbsp;Back to Article</a></p>

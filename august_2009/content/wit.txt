@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS 2 Tipp: Individuelles Benutzerprofil</h1>
+<h2>Auch in CROSS sollte sich jeder Benutzer mit eigenen Zugangsdaten anmelden; jedem Benutzer sollte sein eigenes Profil zugeordnet sein.</h2>
+
+<p>Was für das Netzwerk selbstverständlich ist, gilt leider vielerorts nicht für CROSS: Bei Gesprächen in den Betrieben hören wir immer wieder, dass oft an mehreren Arbeitsplätzen, im schlimmsten Fall sogar im gesamten Betrieb <b>mit denselben Zugangsdaten</b> gearbeitet wird!</p>
+
+<p>Eigentlich kein Problem, solange im Betrieb alles "glatt" verläuft. Was aber, wenn festgestellt werden muss, wer einen Kundennamen oder andere Stammdaten <b>verändert</b> hat? Oder wenn es notwendig wird herauszufinden, wer preisliche Änderungen vorgenommen bzw. Bestandsveränderungen durchgeführt hat? Unsere <b>Empfehlungen</b> lauten hier ganz klar:
+
+<ul>
+<li><div>Jeder Benutzer meldet sich mit seinem <b>Benutzernamen und Kennwort</b> in CROSS an. Selbst an gemeinsam genutzten Arbeitsplätzen sollten sich die Benutzer immer ummelden!</div></li>
+
+<li><div>Es gibt im Betrieb eine Person, die für die <b>Vergabe von Benutzerrechten</b> verantwortlich ist und diese auch im System verwaltet.</div></li>
+
+<li><div>Dem Benutzernamen werden auf seine Funktion zugeschnittene <b>Benutzerrollen</b> zugeordnet. Die Rolle und die damit verbundenen Rechte des <b>Systemverantwortlichen</b> und des Stellvertreters gibt es <b>maximal zweimal</b> im Betrieb.</div></li>
+</ul>
+Nach dem Motto "Gut, wenn man es dann hat, wenn es gebraucht wird" sollte diese gute IT-Praxis in jedem Betrieb beachtet werden.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Europcar-Schnittstelle">Christian Witibschlager</a></p>
+

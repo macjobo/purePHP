@@ -1,0 +1,28 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Reservierungsübersicht auflösen</h1>
+<h2>Lösen Sie die Ersatzteile-Reservierungsübersicht auf, um Ihren Lagerbestand bei der Inventur nicht zu verfälschen.</h2>
+
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Reservierungsübersicht auflösen" />
+
+
+<p>Das Jahr neigt sich dem Ende zu und dies bedeutet für viele Betriebe, dass der <b>Jahresabschluss</b> durchgeführt werden muss. Einige vorbereitende Tätigkeiten können Sie bereits jetzt durchführen!  </p>
+
+<p>Ein wesentlicher Punkt ist dabei die <b>Kontrolle der Reservierungsübersicht</b>. Teile, die bereits aus dem Lager ausgegeben worden sind, die sich aber noch im Status "reserviert" befinden, verfälschen nämlich den <b>Lagerbestand</b> in CROSS.</p> 
+
+
+ Wie Sie die "falschen" Reservierungen kontrolliert und effizient auflösen können, finden Sie in einer <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/a3e72dd8281cee17c125768000557da6?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Beschreibung&nbsp;&raquo;</b></a> in der POI-Infoline.</p>
+
+<p>Für Fragen dazu stehen Ihnen die Mitarbeiter unseres Service Desk gerne zur Verfügung. </p> 
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Reservierungsübersicht auflösen">Gregor Wagner</a></p>
+
+
+
+
+
+

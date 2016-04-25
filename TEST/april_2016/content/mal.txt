@@ -1,0 +1,29 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neues vom POCSO Teleworker</h1>
+<h2>Der POCSO Teleworker ist ab sofort auch für POCSO Diagnosetester verfügbar!</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="POCSO Teleworker nun auch für POCSO Diagnosetester verfügbar" />
+
+
+<p>
+Der POCSO Teleworker ermöglicht Ihnen einen <b>weltweiten Zugriff auf Ihr POCSO Netzwerk </b>(inkl. ODIS), 
+vorausgesetzt, Sie haben eine dementsprechende Datenverbindung mittels Kabel, xDSL oder eine mobile Breitbandverbindung (mindestens HSDPA). </p>
+<p>
+Ab sofort können nun auch <b>POCSO Diagnosetester</b> - ab dem Modell VAS6150C - mit dem POCSO Teleworker verwendet werden! 
+Damit haben Sie die Möglichkeit, nicht nur im eigenen Autohaus sondern auch <b>direkt beim Kunden</b> den POCSO Diagnosetester zu verwenden.</p>
+
+
+<p>
+Haben Sie Interesse, dann bestellen Sie unter Beachtung der Rahmenbedingungen den POCSO Teleworker anhand  
+
+<a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/00c567a14adc06b6c1257345002cdb8c/b85525dcdc2b1e3bc125746400315b81?OpenDocument" 
+target="_blank" title="Zur Porsche-Informatik-Infoline">unseres Produktblattes&nbsp;&raquo;</a>.</p>
+
+
+<p>Für Fragen steht Ihnen Ihr Key Account Manager oder der Service Desk Der Porsche Informatik gerne zur Verfügung.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=POCSO Teleworker nun auch für POCSO Diagnosetester verfügbar">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

@@ -1,0 +1,25 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: Tipps zum Energiesparen</h1>
+<h2>Einfachste Maßnahmen sparen Energie und damit bares Geld!</h2>
+
+
+<p>Die POI hat in letzter Zeit einige Anstrengungen unternommen, um den <b>Energieverbrauch</b> der zentralen Systeme im Rechenzentrum in Salzburg zu reduzieren. Wir haben hier schon viel erreicht, es geht aber noch mehr: Jeder von uns kann mit unaufwändigen <b>Verhaltensänderungen</b> seinen Beitrag dazu leisten - im Folgenden einige Tipps dazu.</p>
+<p><ul>
+
+
+<li><div>Schalten Sie Ihren Rechner zumindest in <b>Standby</b> und den Bildschirm ganz aus, wenn Sie längere Zeit nicht an Ihrem Arbeitsplatz sind.</div></li>
+<li><div>Schalten Sie Ihren <b>Drucker</b> aus, wenn Sie nicht drucken wollen.</div></li>
+<li><div>Schalten Sie beim nach Hause gehen <b>alle Geräte</b> aus (PC, Bildschirm, alle Drucker und auch die Testgeräte) - nur die Geräte im EDV-Raum bleiben eingeschaltet.</div></li>
+<li><div>Verwenden Sie wo möglich einen <b>Bildschirmschoner</b>, der den Schirm nur verdunkelt - der Mehrbedarf an Strom bei animierten, CPU-intensiven Bildschirmschoner beträgt 50% und mehr!</div></li>
+<li><div>Durch den Einsatz von neuen, <b>energieeffizienten</b> PCs, Bildschirmen und Druckern reduzieren Sie auch im normalen Betrieb den Verbrauch.</div></li>
+
+</ul></p>
+<p>Mit diesen Maßnahmen kann jeder von uns seinen Beitrag dazu leisten, möglichst wenig Energie zu verschwenden. Sie sparen damit <b>bares Geld</b> und tun Gutes für die <b>Umwelt</b>!</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Tipps zum Energiesparen">Friedrich Malle</a></p>
+

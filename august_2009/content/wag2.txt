@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+
+
+
+<h1>CROSS 2 Tipp: Umlaute und Sonderzeichen bei E-Mail-Versand</h1>
+<h2>Verzichten Sie bei automatischen E-Mail-Benachrichtigungen aus CROSS auf Umlaute und Sonderzeichen - einige Mailprogramme haben Probleme bei der Darstellung. </h2>
+
+<p>Bei den CROSS-Anwendertagen im Juni kam die Frage auf, warum aus den CROSS-Vorlagen für automatische E-Mail-Benachrichtigungen alle <b>Umlaute</b> und <b>Sonderzeichen</b> entfernt wurden. Hier ist festzuhalten, dass es seitens CROSS keinerlei Einschränkungen bei der Verwendung von Umlauten und Sonderzeichen gibt.</p>
+
+<p>Allerdings hat sich bei Tests zum E-Mail-Versand gezeigt, dass es auf Seiten der <b>E-Mail-Provider</b> zu Problemen kommen kann: Wir haben bei Einführung des E-Mail-Versands die E-Mail-Clients Hotmail, AON Webmail, UTA-/Tele2-Mail, Yahoo-Mail und Gmail getestet; dabei kam es immer wieder zu unterschiedlichen Ergebnissen in der <b>Darstellung</b>.</p>
+
+<p>Daher empfehlen wir, beim E-Mail-Versand aus CROSS heraus generell auf Umlaute und Sonderzeichen zu verzichten! Beim <b>SMS-Versand</b> bestehen diese Einschränkungen nicht: Hier können Sie sowohl Umlaute als auch Sonderzeichen problemlos verwenden.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Umlaute und Sonderzeichen bei E-Mail-Versand">Gregor Wagner</a></p>
+
+
+
+
+
+

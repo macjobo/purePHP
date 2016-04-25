@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS 2 Tipp: Abwicklung Kompletträder</h1>
+<h2>Wenn Sie im Betrieb Kompletträder erstellen, sollten Sie einige Dinge beachten.</h2>
+
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Abwicklung Kompletträder" />
+
+
+<p>Werden Kompletträder erstellt, so müssen die verwendeten Einzelpositionen vom <b>Bestand</b> abgebucht werden. Das erstellte Komplettrad muss dem Bestand zugefügt  und die dabei anfallende <b>Arbeitsleistung</b> von der Kostenstelle "Werkstatt" an die Kostenstelle "Lager" verrechnet werden.</p>
+
+
+<p>Die Korrektur des Bestandes mittels <b>Bestandskorrektur</b> oder das Unterlassen der Weiterverrechnung der Erstellungskosten z.&nbsp;B. durch <b>Stempelung auf "W-Zeiten"</b> erschwert die Nachvollziehbarkeit der Lagerbewegungen und verfälscht Statistiken.</p>
+
+<p>Wie Sie diese Abwicklung <b>korrekt</b> durchführen, haben wir für Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/a22bd2061629fceec125764a002c61a7?OpenDocument" target="blank" title="Zur POI-Infoline"><b>Dokumentation "Komplettradabwicklung"&nbsp;&raquo;</b></a> zusammengefasst, die Sie in der POI-Infoline abrufen können.</p>
+
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Kompletträder">Gregor Wagner</a></p>
+
+
+
+
+
+

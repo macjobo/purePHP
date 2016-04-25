@@ -1,0 +1,62 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Security News: Security Policy</h1>
+<h2>Security Policy and new Security Guidelines</h2>
+
+<p>We have developed and adopted a <b>Security Policy</b> based on ISO/ IED 17799  & 27001 for Porsche Informatik. In this central document we specify how, at an organisational level,  security is to be handled at Porsche Informatik, and which rules apply, because:</p>
+
+<ul>
+<li>Business processes that don't work,</li>
+<li>unauthorised access,</li>
+<li>unauthorised modification of data and information</li>
+</ul>
+
+<p>cause <b>corporate damage</b>, which is measurable through:</p>
+
+<ul>
+<li>reduced turnover</li>
+<li>loss of positive image</li> 
+<li>unsatisfied customers, partners and employees</li>
+</ul>
+
+<p><b>These potential dangers to successful business must be prevented as best as possible!</b></p>
+
+<p>On the one hand, this means that every Porsche Informatik employee is required to obey the guidelines laid out in the Security Policy, such as due diligence, the relevant valid guidelines for data confidentiality, etc.. On the other hand <b>does not mean that anything not specified is automatically allowed for employees.</b></p>
+
+<p>Additionally, <b>new password guidelines</b> and <b>modified guidelines for E-mail and Internet</b> use are being developed. We will consecutively develop further guidelines in this area (e.g. regarding the use of mobile devices), to appropriately meet our security standards.</p>
+
+<p>These guidelines will be made available for you. Currently the documents are available in German, if required they can be translated into English.</p>
+
+<!-- <img src="http:newsletter.porscheinformatik.at\int_e\June_2007\images\Spitzer_A_03_notes.jpg" alt="" align=""/> -->
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Security Policy">Anton Spitzer</a>
+<br>Infrastructure Services Manager
+<br>Porsche Informatik</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

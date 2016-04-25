@@ -1,0 +1,26 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>"Mein Auto" - rundum mobil!</h1>
+<h2>Mit der neuen mobilen App können Sie Ihren Kunden ein Tool anbieten, das diese in alle wichtigen Situationen rund um das Fahrzeug unterstützt.</h2>
+
+<img src="images/bild_alk.jpg" width="190" height="120" title="Mein Auto-App" />
+
+
+<p>Die App ist ab sofort für alle Autohäuser kostenlos und mit geringem Aufwand nutzbar.
+
+Informationen dazu finden Sie im <b>Partner.Net</b> unter dem Menüpunkt <b>"Marketing" - "Mein Auto"</b>.</p>
+
+<p>Hinweis: Bei "Mein Auto" handelt es sich um eine <b>Webapplikation</b>, welche der Kunde mittels eines Links über den QR-Code <b>am Handy aufruft</b>.
+Es handelt sich nicht um eine downloadbare App aus einem Appstore.</p>
+
+<p>Für Supportanfragen rund um dieses neue Feature haben wir Ihnen in unserem Online Support eine <b>neue Ausfüllhilfe</b> zur Verfügung gestellt.
+Bitte beantworten Sie die Fragen in der Ausfüllhilfe, diese sind mit der Abteilung "Neue Medien" abgestimmt und ermöglichen eine schnelle, zielorientierte Lösung durch unsere Support-Teams!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject="Mein Auto"">Michaela Alker</a><br />
+Incident Management Service Desk</p>
+
+
+
+
+

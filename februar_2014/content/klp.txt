@@ -1,0 +1,38 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: WLAN</h1>
+
+<h2>Tipps und Tricks fürs WLAN von KLP.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="Zubehöranalyse" />
+
+
+<p>.............</p>
+
+<p>blablalba
+</p>
+
+<p>blabliblo
+</p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Zubehöranalyse">Peter Klinger</a><br />
+xxxxxx</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,61 @@
+<h1>Archiv </h1>
+
+
+
+<h2>Die Newsletter der letzten zwölf Monate zum Nachlesen.</h2>
+
+
+<ul> 
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/maerz_2007/index.php"archiv" target="_blank")>Newsletter März 2007</a>
+ </li>
+ 
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/februar_2007/index.php"archiv" target="_blank")>Newsletter Februar 2007</a>
+ </li>
+
+ 
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/jaenner_2007/index.php"archiv" target="_blank")>Newsletter Jänner 2007</a>
+ </li>
+
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/dezember_2006/index.php"archiv" target="_blank")>Newsletter Dezember 2006</a>
+ </li>
+ 
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/november_2006/index.php"archiv" target="_blank")>Newsletter November 2006</a>
+ </li>
+								 
+
+
+  <li><A HREF="http://poinfo.szg.porsche.co.at/extern/firmeninfo/inhalt/newsletter/2006_10/index.php" target="_blank")>Newsletter Oktober 2006</a>
+  </li>
+								 
+
+											
+  <li><A HREF="http://poinfo.szg.porsche.co.at/extern/firmeninfo/inhalt/newsletter/2006_09/index.php" target="_blank")>Newsletter September 2006</a>
+  </li>
+												
+															
+  <li><A HREF="http://poinfo.szg.porsche.co.at/extern/firmeninfo/inhalt/newsletter/2006_08/index.php" target="_blank")>Newsletter August 2006</a>
+  </li>			     
+                
+  <li>
+      <A HREF="#" OnClick=window.open("http://poinfo.szg.porsche.co.at/extern/firmeninfo/inhalt/newsletter//newsletter_07_2006.htm","pop_upa","toolbar=no,location=no,directories=no,status=no,menubar=yes,scrollbars=no,resizable=no,width=770,height=600")>Newsletter Juli 2006</a>
+  </li>
+											
+	<li><A HREF="#" OnClick=window.open("http://poinfo.szg.porsche.co.at/extern/firmeninfo/inhalt/newsletter/newsletter_06_2006.htm","pop_upa","toolbar=no,location=no,directories=no,status=no,menubar=yes,scrollbars=no,resizable=no,width=770,height=600")>Newsletter Juni 2006</a>
+   </li>
+      
+  <li><A HREF="#" OnClick=window.open("http://poinfo.szg.porsche.co.at/extern/firmeninfo/inhalt/newsletter/newsletter_05_2006.htm","pop_upa","toolbar=no,location=no,directories=no,status=no,menubar=yes,scrollbars=no,resizable=no,width=770,height=600")>Newsletter Mai 2006</a>
+  </li>
+											
+											
+	<li><A HREF="#" OnClick=window.open("http://poinfo.szg.porsche.co.at/extern/firmeninfo/inhalt/newsletter/newsletter_04_2006.htm","pop_upa","toolbar=no,location=no,directories=no,status=no,menubar=yes,scrollbars=no,resizable=no,width=770,height=600")>Newsletter April 2006</a>
+   </li>
+								
+													
+					
+												
+  </ul>

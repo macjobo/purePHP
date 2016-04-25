@@ -1,0 +1,52 @@
+<div class="umbruch">&nbsp;</div>
+<h1>CARLOS in Ungarn: Erfahrungsbericht Porsche Informatik</h1>
+<h2>Neuwagen-Importeurssystem CARLOS (Car Logistics System) seit Februar 2007 bei Porsche Hungaria in Betrieb</h2>
+
+<p>Seit 19.2.2007 ist bei Porsche Hungaria das <b>Neuwagen-Importeurssystem CARLOS (Car Logistics System)</b> in Betrieb. Bis zu diesem Zeitpunkt arbeitete Porsche Hungaria mit dem von PoHu IT entwickelten System NWGI, das in eine sehr komplexe Systemumgebung mit Schnittstellen zu vielen weiteren Programmen eingebettet war: Lagermax-Logistik-System, VU2, Car Configurator / Sofort Lieferbar, CROSS, PoHu-Fuhrpark, KD2, SAP, ....
+NWGI musste zu einem Stichtag durch CARLOS ersetzt werden, gleichzeitig mussten geänderte Versionen der anderen betroffenen Programme eingesetzt werden. Das war eine enorme Herausforderung für alle Beteiligten bei Porsche Hungaria, Porsche Austria Großhandel Ausland, Porsche Informatik und Lagermax. Manche nannten es eine <b>gleichzeitige Herz- und Lungentransplantation!</b>
+</p>
+<p>Das Zusammenspiel aller Systeme hat ab Beginn funktioniert, das Tagesgeschäft konnte ohne schwerwiegende Probleme abgewickelt werden. Im ersten Monat waren noch Fehlerbehebungen und kleine Funktionalitäts-Erweiterungen notwendig, aber seit April gehen nur mehr vereinzelt Supportanfragen bei uns ein. Bereits <b>mehr als 6000 Neubestellungen und Auslieferungen </b>wurden über CARLOS abgewickelt.</p>     
+
+<p>Der <b>Aufwand bei Porsche Hungaria</b> war sehr hoch, vor allem für die Datenmigration, Datenpflege und die Tests aller Systeme. Parallel zu CARLOS setzte Porsche Hungaria auch SAP ein und führte umfangreiche Händlerschulungen sowie das CROSS-2- und VU2-Rollout  durch. Trotz alledem musste das Tagesgeschäft natürlich höchste Priorität haben. Alle Beteiligten haben vor allem in den letzten Monaten vor dem Produktionsbetrieb 200 % gegeben und dadurch den erfolgreichen Start ermöglicht. Essentiell war auch die dauernde Vor-Ort-Verfügbarkeit des Neuwagen-Prozess-Verantwortlichen der Porsche Austria in den Wochen vor und nach dem CARLOS-Einsatz.</p>
+
+<p>Eine <b>besondere Herausforderung</b> war, dass Porsche Hungaria in der Neuwagenimporteursabwicklung weitestgehend auf den CARLOS-Standardprozess umgestellt wurde, jedoch sinnvolle und nützliche Erweiterungen für Ungarn und andere Partnerländer trotzdem wahrgenommen und berücksichtigt wurden. Das ist bei diesem Projekt sehr gut gelungen.</p>
+
+<p>Durch den Einsatz von CARLOS in Ungarn hat sich der <b>Funktionsumfang für alle Länder</b> erweitert. Die ungarische IT und die Fachabteilungen in Ungarn haben durch ihre guten Ideen und ihre Erfahrung viel dazu beigetragen. Die Erweiterungs-Anforderungen, die derzeit in der CARLOS-Produktanforderungs-Datenbank auf Umsetzung warten, versprechen weitere Verbesserungen des Systems.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CARLOS Ungarn">Silvia Rössler</a>
+<br>Software Entwicklung Neuwagen
+<br>Porsche Informatik</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

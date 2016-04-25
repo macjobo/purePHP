@@ -1,0 +1,21 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Windows 7 und Office-Strategie</h1>
+<h2>Porsche Informatik hat sich auf die Vorgehensweise für zwei wichtige Produkte im POCSO-Netzwerk festgelegt.</h2>
+
+
+<p><b>Strategie Betriebssystem - Einsatz Windows Vista?</b><br />
+Windows Vista wird im POCSO-Netzwerk nicht eingesetzt, da es gegenüber Windows XP keine Vorteile bringt. Wir werden <b>Windows 7</b> testen, sobald das fertige Produkt verfügbar ist. Wenn es den Erwartungen entspricht, werden wir das Betriebssystem frühestens <b>ab Herbst 2010</b> in POCSO-Netzwerken einsetzen. </p>
+
+<p><b>Einsatz von Microsoft Office 2007</b><br />
+In den POCSO-Netzwerken ist der Einsatz von MS Office 2007 <b>ab Herbst 2009</b> geplant. Ab diesem Zeitpunkt können dann zwei Office-Versionen im POCSO-Netzwerk verwendet werden, MS Office 2000 und MS Office 2007. Ein genereller Umstieg auf MS Office 2007 ist aus heutiger Sicht nicht notwendig.<br />
+Wir haben uns für den weiteren Einsatz von MS Office entschieden, da die Lösung  mit den Softwareprodukten in unserer Systemlandschaft <b>hoch kompatibel</b> ist. Die lange <b>Nutzungsdauer</b> der Lizenzen macht die Entscheidung auch aus wirtschaftlicher Sicht sinnvoll: Office 2000 wird in unserer Organisation seit acht Jahren eingesetzt.</p>
+
+
+
+<p> Detaillierte Informationen zum Einsatz der beiden Produkte erhalten Sie vor der jeweiligen Produktfreigabe. Sollten Sie Fragen dazu haben, steht Ihnen Ihr Key Account Manager der POI gerne zur Verfügung.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Windows 7 und Office-Strategie">Friedrich Malle</a></p>

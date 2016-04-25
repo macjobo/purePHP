@@ -1,0 +1,52 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Fehlermeldung "Mechaniker ohne Zeitmodell"</h1>
+
+
+<h2>Wenn Sie den Fehler beheben, der die Meldung "Mechaniker XY: kein gültiges Zeitmodell" im Tagesendprotokoll auslöst, kann CROSS den Zeitausgleichssaldo des betroffenen Mechanikers wieder korrekt berechnen.</h2>
+
+<img src="images/bild_hof.jpg" width="190" height="120" alt="Fehlermeldung Mechaniker ohne Zeitmodell" />
+
+<p>Im CROSS-Support erhalten wir immer wieder Anfragen bezüglich der <b>Fehlermeldung "Mechaniker XY: kein gültiges Zeitmodell"</b>, die im Tagesendprotokoll für die Aktualisierung der Zeitausgleichssalden aufscheint.</p>
+
+<p>Wenn dieser Fehler nicht korrigiert wird, kann CROSS für den betroffenen Mechaniker den <b>ZA-Saldo nicht errechnen</b>. Wie es zu diesem Fehler kommt und wie Sie bei seiner Behebung vorgehen können, haben wir Ihnen in einer <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/68cd11cfc9420b14c12576c4005110de?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>kurzen Dokumentation&nbsp;&raquo;</b></a> in der POI-Infoline zusammengefasst.</p>
+
+<p>Für Fragen stehen Ihnen die Mitarbeiter unseres Service Desks gerne zur Verfügung.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Fehlermeldung Mechaniker ohne Zeitmodell">Georg Hofer</a><br />
+CROSS-Support</p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

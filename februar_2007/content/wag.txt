@@ -1,0 +1,47 @@
+<div class="umbruch"></div>
+<h1>CROSS: Vorschau auf Release 2.04</h1>
+<h2>Das neue CROSS Release 2.04 wird im März bei den CROSS-2-Betrieben eingespielt - freuen Sie sich auf eine Vielzahl interessanter neuer Funktionalitäten.</h2>
+
+<p>Die CROSS Version 2.04 ist durch eine Vielzahl von kleineren Veränderungen und Erweiterungen geprägt. Hervorzuheben sind dabei folgende Neuerungen:</p>
+<ul>
+<li>Das <b>Einlagerungsprogramm</b> wurde weitreichend umgearbeitet: So haben wir die Auslagerung von Depots wesentlich flexibler gestaltet. Auch das Layout der Einlagerungsmasken ist nun viel übersichtlicher.</li>
+
+<li>Im <b>Teilelieferschein</b> sollen Erweiterungen die Arbeit erleichtern: So wurde z.B. die Möglichkeit geschaffen, Lieferscheinpositionen mengenmäßig aufzusplitten und sofort zuzubuchen.</li>
+
+<li>Betriebe mit eine großen Zahl von CROSS-Benutzern werden durch die Funktionen <b>"Rollenvergleich"</b> und  <b>"Übersicht Rollen/Benutzer"</b> in der Wartung der Berechtigungen besser unterstützt.</li>
+
+<li>Mit der neuen Version besteht nun auch die Möglichkeit, das <b>Rechnungsformular inklusive Firmen- und Markenlogo</b> zu drucken (Voraussetzung dafür ist ein Farblaserdrucker aus dem POCSO-Standard).</li>
+</ul>
+
+<p>Detailinformationen über den Einspielzeitpunkt und die Änderungsbeschreibungen erhalten Sie rechtzeitig vor der Einspielung in Ihr CROSS-System.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorschau CROSS Release 2.04">Gregor Wagner</a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

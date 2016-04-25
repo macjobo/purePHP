@@ -1,0 +1,37 @@
+<h1>CROSS: Schnittstelle Schadensabwicklung</h1>
+<h2>Nicht bei allen Versicherungen, die über das Quick-Check-Portal angebunden sind, reicht die Übermittlung der elektronischen Rechnung, um die Zahlung anzustoßen.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="Schnittstelle Schadensabwicklung" />
+
+
+
+<p>Seit einigen Jahren nutzen Sie die Schnittstelle zwischen CROSS und den <b>Schadensportalen</b> der Porsche Bank und Quick-Check. Der wesentliche Vorteil dieser Schnittstelle ist die direkte <b>Datenkommunikation</b> zwischen den CROSS-Werkstattaufträgen und der teilnehmenden Versicherung inkl. der elektronischen Übermittlung der Rechnung.</p>
+
+
+<p>Im System der <b>Porsche Bank</b> wurde von Anfang an geregelt, dass nach entsprechender Freigabe durch die Versicherung automatisch die <b>Zahlung</b> angestoßen wird, sobald eine elektronische Rechnung übermittelt wurde. Dasselbe gilt auch für für die folgenden Versicherungsunternehmen:
+
+<ul>
+
+<li><div>Volkswagen Versicherungsdienst (VVD)
+</div></li>
+
+<li><div>UNIQA
+</div></li>
+
+<li><div>Generali
+</div></li>
+
+<li><div>SK-Versicherung
+</div></li>
+
+
+</ul>
+
+Bitte beachten Sie, dass laut Auskunft von EurotaxGlass's an <b>alle anderen Versicherungen</b>, die im Quick-Check-Portal zu finden sind, die Rechnungen nach wie vor in <b>Papierform</b> übermittelt werden müssen, damit die Zahlung erfolgen kann.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Schnittstelle Schadensabwicklung">Christian Witibschlager</a><br />
+Key Account Management Einzelhandel Österreich</p>
+
+

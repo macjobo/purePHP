@@ -1,0 +1,69 @@
+
+<h1>Service Desk: Neues Support-Tool</h1>
+<h2>Ein erstes Fazit zu den Neuerungen im Support nach vier Monaten Laufzeit.</h2>
+
+<p>"Herzlich Willkommen am Service Desk der Porsche Informatik!" - nicht nur die Begrüßung ist seit dem ersten Dezember 2008 neu.
+<br />
+Eine <b>standardisierte Softwareapplikation</b> unterstützt nun unseren gewachsenen Aufgabenbereich am Service Desk und bietet  Ihnen mit dem <b><a href="http://support.porscheinformatik.at" target="_blank" title="POI Online Support" alt="">POI Online-Support</a></b> eine neue Online-Erfassungsmöglichkeit für Ihre Anfragen. 
+</p>
+
+<p>Die <b>neue Plattform wird rege genutzt</b>. So hat sich der Anteil der "online" erstellten Anfragen gegenüber dem Vorsystem von <b>28% auf 35%</b> erhöht. 
+<br />
+Die <b>Verteilung aller Anfragen</b> belief sich auf: 
+<ul>
+<li><div>60 Prozent fachliche Anfragen</div></li>
+<li><div>25 Prozent Störungsmeldungen</div></li>
+<li><div> und 15 Prozent automatisch generierter Tickets aus unserer Systemüberwachung.</div></li>
+</ul>
+
+Die <b>Erstlösungsrate</b> im Service Desk lag bei guten <b>32 Prozent</b> und die <b>durchschnittliche Wartedauer am Telefon </b> hat sich - nach einer kurzfristigen Erhöhung in den Umstellungsmonaten Dezember und Jänner - im Februar 2009 wieder auf ein Normalmaß von <b>11 Sekunden</b> eingependelt.</p> 
+
+<p>Dank Ihrer Anregungen und Rückmeldungen haben wir <b>neue Anfrage-Vorlagen</b> (wie z.B. "Anlage neuer Notes Benutzer") zur Verfügung gestellt und eine Lösung für die KollegInnen mit mehreren Firmenzuordnungen implementiert. <br />
+Wir danken Ihnen an dieser Stelle für die aktive Verwendung und freuen uns über weitere Anregungen und Verbesserungsvorschläge!</p>
+
+<p>Bitte beachten Sie, dass die <b>Stammdaten</b> - speziell zu <b>Personendaten</b> wie z.B. Telefonnummer oder Emailadresse - aus dem <b>Partner.Net</b> bezogen werden und sorgen Sie dort für die entsprechende Aktualität.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Service Desk">Markus Watzik</a>
+</p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

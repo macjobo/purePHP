@@ -1,0 +1,84 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Customer Care Center: Ihr zentraler Ansprechpartner</h1>
+<h2>Seit mittlerweile sechs Jahren ist das Customer Care Center der Porsche Informatik der zentrale Ansprechpartner für unsere Kunden bei allen Anfragen zu IT-Themen.</h2>
+
+
+<p>Das Konzept eines sogenannten <b>"Single point of contact"</b> - einem einzigen zentralen Anlaufpunkt innerhalb einer Organisation - nützt sowohl den Anwendern als auch dem IT-Dienstleister. Für Sie als Anwender erhöht eine zentrale Schaltstelle den Komfort und spart Ihnen Zeit. Für die Porsche Informatik dienen die gewonnenen Daten zur Identifizierung des Kundenbedarfs und als Basis zur Verbesserung unserer Produkte und Dienstleistungen.</p>
+
+<p>... aber was machen wir nun konkret für Sie? 
+
+<ul>
+<li><div><b>Kundensupport:</b> Wir nehmen Ihre Anfragen entgegen und analysieren sie. Ca. 20 Prozent lösen wir sofort, die übrigen Anfragen leiten wir an die entsprechenden Spezialisten weiter.</div></li>
+<li><div><b>Eskalationsmanagement:</b> Als Beitrag zur Qualitätssicherung überprüfen wir, ob die vereinbarten Reaktions- und Lösungszeiten eingehalten werden. Außerdem stellen wir sicher, dass dringende Supportanfragen zeitgerecht behandelt werden.</div></li>
+<li><div><b>Problemmanagement:</b> Wir weisen auf sich wiederholende oder vermehrt auftretende Probleme hin und behandeln Spezialthematiken.</div></li>
+</ul>
+</p>
+
+<p><img src="images/ccc_klein.jpg" width="565" height="255" alt="Unser Team" ></p>
+
+<p>Weitere Kernkompetenzen unseres Teams sind:
+
+<ul>
+<li><div>Informationsverteilung bei Systemstillständen</div></li>
+<li><div>Reporting</div></li>
+<li><div>Zusammenarbeit mit Lieferanten und externen Bereichen</div></li>
+</ul>
+</p>
+
+<p><b>Eckdaten:</b>
+
+<ul>
+<li><div>Neun Mitarbeiter - Standort Bergheim (1. Stock)</div></li>
+<li><div>Anfragevolumen:  375 Supportfälle pro Tag, entspricht ca. 90.000 Anfragen im Jahr</div></li>
+<li><div>
+Betreute Kunden: 1.200 User Konzern, 5.600 User Einzelhandel und Partnerländer</div></li>
+<li><div>Servicezeiten/Erreichbarkeit: 24 Stunden online unter: <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">POI Online Support</a></b><br>Montag - Freitag von 07:00 Uhr bis 18:00 Uhr, telefonisch unter:	DW 2222 </div></li>
+</ul>
+</p>
+
+<!-- <p><img src="images/Watzik_Markus_klein.jpg" width="95" height="120" alt="Markus Watzik" ></p>
+ -->
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Customer Care Center">Markus Watzik</a> </p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

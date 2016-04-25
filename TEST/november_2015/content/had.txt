@@ -1,0 +1,23 @@
+
+
+<h1>CROSS: Materialpreisänderungen für Plaketten</h1>
+<h2>Wartung des Materialpreises für Begutachtungsplaketten.</h2>
+
+<img src="images/bild_had.jpg" width="190" height="120" title="Paketauswahl in CROSS" />
+
+
+
+<p>
+
+Für die §57a Begutachtungsplaketten wurde der <b>Materialpreis der Plakette</b> auf EUR 1,90 angepasst. 
+Dieser Preis muss nun in CROSS eingepflegt bzw. gewartet werden.
+</p>
+
+<p>
+Warten Sie diese <b>Einstellung in CROSS</b> unter folgendem Pfad: Wartung / Betriebsvoreinstellungen / §57a Plakettenpreis / Betrag von EUR 1,90 eingeben und speichern.
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Materialpreisänderungen">Daniel Hammerl</a><br />
+POI PHS CROSS Consulting</p>

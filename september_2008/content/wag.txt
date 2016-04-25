@@ -1,0 +1,16 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS 2 Tipp: Gratis-Check</h1>
+<h2>Die Funktionalität "Gratis-Check" wird von CROSS weiter unterstützt, auch wenn die Einreichung bei der Porsche Austria seit Ende März nicht mehr möglich ist.</h2>
+
+<p>Im Service-Rundschreiben "Organisation 08/2008" vom 12. März hat die Porsche Austria bekannt gegeben, dass die Stützung des <b>Gratis-Checks</b> per 31. März eingestellt wird. Der Gratis-Check selbst kann aber <b>weiterhin angeboten</b> werden, lediglich die Einreichung beim Importeur ist nicht mehr möglich!</p>
+
+<p>Daher ist die entsprechende Funktionalität in CROSS auch in Zukunft verfügbar. Der Gratis-Check wird im Fahrzeug und im Auftrag unter den <b>Werkstattterminen</b> angezeigt bzw. kann optional bei den <b>Werkstatttermin-Selektionen</b> berücksichtigt werden.</p>
+
+Jeder Betrieb entscheidet also selbst, ob er seinen Kunden den Gratis-Check weiterhin anbietet. Bitte informieren Sie gegebenenfalls die betroffenen Mitarbeiter, ob der Eintrag "Gratis-Check" in CROSS für sie eine relevante Information darstellt oder nicht.
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS 2 Tipp: Gratis-Check">Gregor Wagner</a></p>
+

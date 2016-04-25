@@ -1,0 +1,40 @@
+<h1>CROSS: Vorschau auf Release 2.22 - Service</h1>
+<h2>Mitte November geht das neue CROSS-Release 2.22 in den Breiteneinsatz, hier ein Überblick über die wichtigsten Neuerungen im Bereich Service.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" title="CROSS 2.122 Highlights" />
+
+
+<p>Das neue CROSS-Release 2.22 bietet Ihnen auch im <b>Service-Bereich</b> eine Reihe interessanter Neuerungen:</p>
+
+<ul>
+
+
+
+<li><div>Aufgrund der neuen <b>Europäischen Reifen-Kennzeichnungs-Verordnun</b>g müssen beim Verkauf von Reifen Informationen zur Kraftstoffeffizienz, Nasshaftung und externem Rollgeräusch auf der Rechnung ausgewiesen werden. Die geforderten Werte können nun im Teilestamm und bei Durchläufern erfasst werden. Diese Werte werden in weiterer Folge auf den Rechnungen angedruckt. Darüber hinaus werden durch Porsche Austria die Reifenstammdaten für Continental und Semperit-Reifen in Ihrem CROSS System eingespielt. Detaillierte Informationen folgen rechtzeitig vor der CROSS Releaseaussendung.
+</div></li>
+
+<li><div>Zur Kontrolle und zur Kennzeichnung von Bestellungen können aus einem <b>Lieferschein Kontrolllisten</b> ausgedruckt werden, die alle Teile eines auf dem Lieferschein enthaltenen Auftrages zusammenfassen. Dieser Ausdruck stellt eine Alternative zum Ausdruck eines Greiferzettels zum Zwecke der Lieferungskennzeichnung dar.
+
+</div></li>Wird der <b>Barcodescanner</b> zur Warenübernahme verwendet, so kann bei der Warenübernahme zu gelieferten Teilen eines Auftragsbestellwunsches ein <b>Übernahmeetikett</b> gedruckt werden. Auch dies kann eine Alternative zum Greiferzetteldruck sein.
+
+<li><div>Im Falle von Gewährleistungs- und Kulanzaufträgen wird automatisch die <b>Kundenersparnis</b> berechnet und im Auftrag angezeigt. Diese Kundenersparnis wird entweder auf der Kundenrechnung (Kulanzen mit Kundenbeteiligung) oder in Form eines Leistungsnachweises (Kulanz ohne Kundenbeteiligung oder Gewährleistung) angedruckt.
+
+</div></li>
+
+<li><div>Wird im Zuge einer <b>Teileergänzung</b> auf einem Auftrag der Teilestatus geändert, dann wird dieser geänderte Teilestatus bei der Ergänzung weiterer Teile beibehalten.
+</div></li>
+
+
+<li><div>Neu ist die Bildung der sogenannten <b>Steuerbasis</b>. Auf Servicerechnungen wird nun eine Summe für Arbeit und Material pro Steuersatz gebildet.
+</div></li>
+
+
+</ul>
+
+<p>Weitere wichtige Informationen zum neuen Release entnehmen Sie bitte einem gesonderten <b>Rundschreiben</b>, das wir rechtzeitig vor der Release-Einspielung zusammen mit einer ausführlichen <b>Änderungsbeschreibung</b> im Partner.Net veröffentlichen werden. Auch die MitarbeiterInnen unseres Service Desks stehen für Ihre Fragen gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS 2.22 Highlights">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+

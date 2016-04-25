@@ -1,0 +1,50 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: Sicherheitstipp "Passwörter"</h1>
+<h2>Der richtige Umgang mit Benutzerkonten und Passwörtern ist ein wichtiger Beitrag dazu, Unternehmensdaten zu schützen und unerlaubten Zugriff zu verhindern.</h2>
+
+<img src="images/bild_kra.jpg" width="190" height="120" alt="Sicherheitstipp Passwörter" />
+
+
+<p>Achten Sie bei der Wahl eines Passwortes darauf, dass es eine Mindestlänge von <b>6 Zeichen</b> hat und eine gewisse Komplexität aufweist: "1234" ist als Passwort genau so ungeeignet wie gängige Namen oder Begriffe, die in einem Wörterbuch oder Lexikon aufscheinen. Auch gilt als Standard bei Unternehmensprüfungen, dass das Passwort regelmäßig geändert wird (mindestens <b>alle 120 Tage</b>).</p>
+
+
+<p>Darüber hinaus sollte ein Passwort drei der folgenden vier <b>Zeichentypen</b> enthalten:</p>
+
+<ul>
+
+<li><div><b>Kleinbuchstaben</b>: abc...z
+</div></li>
+
+<li><div><b>Großbuchstaben</b>: ABC...Z
+</div></li>
+
+<li><div><b>Sonderzeichen</b>: _!¡§%/()=?\<>+*#.,:-
+</div></li>
+
+<li><div><b>Ziffern</b>: 0..9
+</div></li>
+
+
+</ul>
+
+<p>Besonders kritisch ist der Benutzer für die <b>Windows-Anmeldung</b>: Nach der Anmeldung ist sowohl der Zugriff auf Anwendungen als auch auf Daten möglich! Daher ist die Umsetzung der Passwort-Vorgaben für Ihr Windows-Passwort unabdingbar!</p>
+
+
+<p>Benutzerkonten müssen immer einer Person zugeordnet werden; Benutzername und Passwort dürfen <b>nicht</b> an anderen Personen <b>weitergegeben</b> werden. Verlässt ein Mitarbeiter das Unternehmen, sind daher auch alle Benutzerkonten umgehend zu deaktivieren!</p>
+
+
+<p>Den aktuellen Stand der im System definierten Benutzer inklusive zugeteilter Berechtigungen kann der Systemverantwortliche in Ihrem Betrieb unter "Start" > "Händleranwendungen" > <b>"User-Gruppenliste erstellen"</b> zur Kontrolle abrufen. Länger inaktive Benutzer werden in der POCSO-Netzwerkübersicht rot markiert.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Passwörter">Andreas Kronberger</a><br />
+Leitung POCSO-Management-Center
+</p>
+
+
+
+
+
+

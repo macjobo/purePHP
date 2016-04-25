@@ -1,0 +1,19 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Service Desk: Dringlichkeit von Anfragen</h1>
+<h2>Eine realistische Kategorisierung der Dringlichkeit Ihrer Anfragen ist für den reibungslosen Ablauf im Service Desk von großer Bedeutung!</h2>
+
+
+
+<p>Im Schnitt bearbeiten wir im Support der POI etwa 300 Tickets pro Tag, ca 36% dieser Anfragen erreichen uns bereits via Online-Support. In diesem Zusammenhang ein wichtiger Hinweis: Bitte nehmen Sie eine <b>realistische Kategorisierung</b> der Dringlichkeit Ihrer Anfrage vor und geben Sie bei Auswahl einer hohen Dringlichkeit immer auch eine <b>Begründung</b> an, damit wir schnell und nachvollziehbar eine Analyse starten können.</p>
+
+<p>Das Anlegen eines neuen Benutzers oder das Aufsetzen eines neuen POCSO-PCs sind in der Regel <b>planbare Ereignisse</b>, hier sollte die Dringlichkeitsstufe "niedrig" der Normalfall sein. Wählen Sie aus den Online-Support-Vorlagen für diese Anfragen den Vorschlag "Allgemeine Anfrage" der jeweiligen Kategorie.</p>
+
+<p>Störungen sind nicht planbare oder vorhersehbare Ereignisse, die oft eine <b>geschäftskritische Auswirkung</b> haben: etwa defekte PCs oder Drucker ohne Ausweichmöglichkeit, massive Performance-Probleme oder die Nichterreichbarkeit eines Servers. Hier versteht sich die hohe Dringlichkeit von selbst. Wählen Sie dazu im Online-Support immer jene Vorlagen, die mit "Fehler/Problem" beginnen. </p>
+
+<p>Wir sind bemüht, alle Support-Anfragen so schnell wie möglich zu bearbeiten und zu lösen. Dabei ist es für uns aber unumgänglich, eine <b>Priorisierung</b> der Anfragen vorzunehmen. Nur so ist gewährleistet, dass schwerwiegende Probleme etwa gegenüber einer fachlichen Anfrage vorrangig behandelt werden. Ihre realistische Beurteilung der Dringlichkeit ist für uns dafür von großer Bedeutung!</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Dringlichkeit von Anfragen">Michaela Alker</a></p>
+
+

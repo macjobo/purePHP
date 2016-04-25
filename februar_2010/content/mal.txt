@@ -1,0 +1,62 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Von den hunderten Änderungen, die wir Woche für Woche in Ihrem Netzwerk durchführen, merken Sie als Anwender meist nichts. Hier der Hinweis auf aktuelle Neuerungen, die sich spürbar auf Ihre tägliche Arbeit mit dem PC auswirken können.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" alt="Neu im Pocso-Netzwerk" />
+
+<ul>
+
+
+<li><div>Die neueste Version des Anti-Virus-Programms <b>Symantec Endpoint Protection </b>ist ab sofort im POCSO-Standard verfügbar. Die Einspielung war ursprünglich erst für ein umfassendes POCSO-Client-Update im April geplant. Damit Sie aber unverzüglich von der erwarteten <b>Performance-Verbesserung</b> profitieren können - besonders spürbar vor allem in der VU2 - haben wir dieses Update vorgezogen. Nähere Informationen zum Einspieltermin erhalten Sie in einem <b>gesonderten Partner.Net-Rundschreiben</b>.</div></li>
+
+<li><div>In den letzten Tagen haben Sie die neuen Versionen des <b>Adobe Shockwave Players</b> (11.5.2) sowie des <b>Adobe Flash Players </b>(10.0.42) erhalten - diese beiden Versionen sind in puncto Sicherheit auf den neuesten Stand gehoben.</div></li>
+</ul>
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der POI.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,60 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Weihnachtszeit=Malware-Zeit</h1>
+<h2>Die Vorweihnachtszeit ruft wie jedes Jahr viele Cyberkriminelle auf den Plan; einmal mehr bitten wir um Ihre Achtsamkeit und weisen auf Verhaltenstipps im Umgang mit verdächtigen E-Mails hin.</h2>
+
+<img src="images/bild_mim.jpg" width="190" height="120" alt="Weihnachtszeit=Malware-Zeit" />
+ 
+
+<p>Viele von uns machen ihre Weihnachtseinkäufe im Internet und lassen sich die Geschenke für ihre Lieben bequem nach Hause liefern. Ungeduldig erwarten wir <b>Versandbestätigungen</b> oder Rückmeldungen der Onlinehändler und Zustelldienste - eine ideale Ausgangslage für Kriminelle, ihre <b>bösartigen E-Mails</b> als DHL, Amazon, Paypal oder Post zu tarnen und ihren Opfern Malware unterzuschieben. </p>
+
+<p>Dabei wird versucht, diese Schadprogramme über verschiedene Wege zu übermitteln: als <b>Anhang</b>, z. B. als Word- oder exe-Datei, oder als <b>Link</b> auf eine Internetseite. Immer beliebter werden Links zu den sehr verbreiteten <b>Cloud-Diensten</b> wie DropBox oder Wetransfer.</p>
+
+
+<p>Was aber wollen diese Kriminellen erreichen? Zwei Beispiele für weit verbreitete Schadprogramme:</p>
+
+<ul>
+
+<li><div><b>Cryptolocker</b> verschlüsseln Daten auf dem PC und angeschlossenen Netzlaufwerken. Sie werden erpresst, gegen Bezahlung die Daten wieder entschlüsseln zu können. Fakt ist, Sie müssen Ihre Daten rücksichern und können nur hoffen, keinen ernsthaften Datenverlust zu erleiden.
+</div></li>
+
+<li><div><b>Trojaner</b> steuern Ihren PC von der Ferne und bringen ihn z. B. dazu, selbst Spam-Mails zu versenden oder als Ausgangspunkt für weitere cyberkriminelle Handlungen zu dienen. 
+</div></li>
+</ul>
+
+
+<p>Daher können wir nicht oft genug auf die <a href="../Sommer_2014/index.php?page=mim" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>Verhaltenstipps&nbsp;&raquo;</b></a> hinweisen, die wir Ihnen bereits mehrfach ans Herz gelegt haben.</p>
+
+	
+<p>Auch wenn Sie eine Zusendung erwarten: Woher sollte z. B. die Deutsche Post oder ein anderer Paketdienst Ihre E-Mail-Adresse (vor allem die geschäftliche) kennen? Bei geringstem Verdacht: <b>Finger weg!</b> Sollten Sie dennoch einmal einen Anhang geöffnet oder auf einen Link geklickt haben, so wenden Sie sich bitte unverzüglich an den <b>Service Desk</b> (+43 662 4670 2222).</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Weihnachtszeit=Malware-Zeit">Marcus Michalek</a><br />
+IT-Sicherheitsbeauftragter</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

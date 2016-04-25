@@ -1,0 +1,31 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS: Highlights Release 2.20 - "Verrechnungsgrad"</h1>
+
+<h2>Die Auswertung "Verrechnungsgrad" wurde im Release 2.20 nochmals verbessert.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="Neuer Bericht Verrechnungsgrad" />
+
+
+<p>Bis vor wenigen Jahren war die <b>Auswertung "Umsätze nach Verrechnungssätzen"</b> ein probates Mittel, um auf die verkauften Stunden zurückzurechnen und daraus den <b>wertmäßigen Leistungsgrad</b> zu ermitteln. Durch den Mehrmarkenbetrieb und den verstärkten Einsatz von marktgerechten Paketen und hauseigenen Positionen wurde die Ermittlung dieser Kennzahlen jedoch ungenau und damit unzuverlässig.</p>
+
+<p>Hier kommt der <b>"Verrechnungsgrad"</b> und seine Auswertungs- und Analysemöglichkeiten ins Spiel, die seit Mitte 2010 in CROSS zur Verfügung stehen. Mit CROSS Release 2.20 wurde die <b>Darstellung</b> nun weiter verbessert.</p>
+
+<p>Sie erhalten nun je <b>Verrechnungssatz-Kennzeichen</b> eine Gegenüberstellung des tatsächlich verrechneten Lohnerlöses zum Sollerlös. Das Verhältnis daraus nennt sich "Verrechnungsgrad" und spiegelt Ihnen wieder, wie viel von den veranschlagten <b>Vorgabezeiten</b> im Zuge der Abrechnung wirklich "auf die Straße gebracht" werden konnte.</p>
+
+<p>Die <b>"Auftragsselektion nach Buchhaltungsdaten"</b> ergänzt diese Erkenntnis durch eine detaillierte Analysemöglichkeit der einzelnen verrechneten Positionen und schafft damit in Verbindung mit der Produktivitätsanalyse nach Aufträgen die volle Transparenz über die Arbeitszeit-Verrechnung.</p>
+
+
+<p>Für die Kennzahlen "Verkaufte Stunden" und "Wertmäßiger Leistungsgrad" sowie für die Auswertung "Umsätze nach Verrechnungssätzen" leisten wir daher <b>keinen Support</b> mehr.</p>
+
+
+
+<p>
+Bei weiteren Fragen zum Verrechnungsgrad nutzen Sie bitte die <b>CROSS-Onlinehilfe</b> bzw. die <b>Änderungsbeschreibung zu CROSS 2.20</b> oder wenden Sie sich an Ihren CROSS-Berater.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neuer Bericht Verrechnungsgrad">Christian Witibschlager</a><br />
+Key Account Management
+</p>

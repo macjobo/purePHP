@@ -1,0 +1,72 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Hohe Bildschirmauflösung</h1>
+<h2>Auch ältere POCSO-PCs können hohe Bildschirmauflösungen darstellen.</h2>
+
+<img src="images/bild_mal2.jpg" width="190" height="120" alt="24-Zoll-Monitor" />
+
+
+<p>Vor einigen Jahren fast noch undenkbar, heute Standard: 24-Zoll-Monitore arbeiten mit Auflösungen von 1920 x 1200 Pixel und mehr! Wichtig für Sie: Auch <b>ältere PCs im POCSO-Standard</b> können solche Bildschirmauflösungen richtig darstellen (bis zurück zum HP D530, der ab August 2003 verkauft wurde!)</p>
+
+<p>Bei Rechnern, die schon länger im Einsatz sind, muss dafür allerdings mittels Software-Paket ein aktuelles <b>Treiber-Update</b> installieren werden. Sie können die Installation dieses Pakets bei unserem <b>Service Desk</b> anfordern. </p>
+
+
+<p>Generell sollten Sie bei Bildschirmen für Ihr Unternehmen qualitativ höherwertige <b>"Business-Modelle"</b> auswählen. Sie profitieren von Vorteilen, durch die sich ein geringfügig höherer Preis gegenüber "Home-Produkten" durchaus rechnet:</p>
+
+
+
+<ul>
+<li><div>Business-Modelle bieten erweiterte <b>Funktionen</b> und komfortorientiertes, ergonomisches <b>Design</b>.</div></li> 
+<li><div>Die konsistente <b>Bildqualität</b> sichert längere Lebensdauer, weniger Pixelfehler und kontrastreichere Bilder.</div></li>
+<li><div>Mit geringerem Stromverbrauch, Wiederverwendbarkeit und besserer Recyclingfähigkeit der eingesetzten Materialien wird die <b>Umweltverantwortung</b> groß geschrieben.</div></li>
+</ul>
+
+
+<p>Detaillierte Informationen über die aktuellen Business-Bildschirmmodelle sowie Lieferinformationen erhalten Sie im <a href="https://www.domino.porsche.at/int/db/pub/ehnprod.nsf" target="_blank" title="zum e-Shop"><b>e-Shop&nbsp;&raquo;</b></a> (Benutzer: "Poiprod-VWA", Passwort: "Poiprod-VWA") im Bereich "Monitore/Beamer" oder bei Herrn Markus Berghammer von S&T (Tel.: 0662 - 850 285-1515).</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Hohe Bildschirmauflösung">Friedrich Malle</a>
+</p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

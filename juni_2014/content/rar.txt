@@ -1,0 +1,43 @@
+
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Digitales Autohaus</h1>
+
+<h2>Sparen Sie Zeit und Kosten mit Hilfe der Elektronischen Rechnungslegung aus CROSS!</h2>
+
+<img src="images/bild_rar.jpg" width="190" height="120" title="Digitalisierung" />
+
+
+<p>Auf den CROSS Anwendertagen im Juni 2013 haben wir Ihnen dieses Thema vorgestellt. 
+Damals gab es noch viele Unklarheiten, insbesondere auf Seiten der Behörden, da Anforderungen und Ansprechpersonen fehlten. 
+Heute, knapp ein Jahr später, funktioniert die elektronische Rechnungslegung aus CROSS an die Behörden klaglos.
+Die Porsche Informatik hat damit eine Basis für Sie gelegt, Rechnungen <b>elektronisch an alle beteiligten Behörden</b> zu übermitteln.</p>
+
+
+<p>Aufgrund der Vorreiterrolle der Behörden und den entsprechenden gesetzlichen Rahmenparametern springen jetzt <b>immer mehr Unternehmen</b> auf diesen Zug auf.</p>
+
+<p>Für Sie heißt das, es gibt mehrere Gesichtspunkte, wo Sie sich die elektronische Rechnungslegung zu Nutze machen können. Folgende weitere Beispiele:</p>
+
+<ul>
+
+<li><div>
+Großkunden
+</div></li>
+
+<li><div>
+Porsche Austria, Intercar, Allmobil
+</div></li>
+
+<li><div>
+Porsche Bank
+</div></li>
+
+</ul>
+
+<p>Mit dem Einsatz der elektronischen Rechnungslegung aus CROSS <b>sparen Sie Zeit und Kosten</b> (Papier, Briefmarken etc.)!</p>
+<p>Gehen Sie aktiv auf Ihren CROSS Berater oder Key Account Manager zu und lassen sich beraten. Es wird sich für Sie lohnen!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Digitales Autohaus">Robert Rauter</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+

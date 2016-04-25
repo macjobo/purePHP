@@ -1,0 +1,82 @@
+<h1>Archiv </h1>
+
+
+
+<h2>Die Newsletter der letzten zwölf Monate zum Nachlesen.</h2>
+
+
+<ul> 
+
+
+  <li><A HREF="http://newsletter.porscheinformatik.at/september_2013/index.php"archiv" target="_blank")>Newsletter September 2013</a>
+ </li>
+
+
+<li><A HREF="http://newsletter.porscheinformatik.at/juli_2013/index.php"archiv" target="_blank")>Newsletter August 2013</a>
+ </li>
+<li><A HREF="http://newsletter.porscheinformatik.at/juni_2013/index.php"archiv" target="_blank")>Newsletter Juli 2013</a>
+ </li>
+
+<li><A HREF="http://newsletter.porscheinformatik.at/mai_2013/index.php"archiv" target="_blank")>Newsletter Juni 2013</a>
+ </li>
+ 
+ <li><A HREF="http://newsletter.porscheinformatik.at/april_2013/index.php"archiv" target="_blank")>Newsletter Mai 2013</a>
+ </li>
+
+<li><A HREF="http://newsletter.porscheinformatik.at/april_2013/index.php"archiv" target="_blank")>Newsletter April 2013</a>
+ </li>
+
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/maerz_2013/index.php"archiv" target="_blank")>Newsletter März 2013</a>
+ </li>
+
+<li><A HREF="http://newsletter.porscheinformatik.at/februar_2013/index.php"archiv" target="_blank")>Newsletter Februar 2013</a>
+ </li>
+
+<li><A HREF="http://newsletter.porscheinformatik.at/jaenner_2013/index.php"archiv" target="_blank")>Newsletter Jänner 2013</a>
+ </li>
+
+ <li><A HREF="http://newsletter.porscheinformatik.at/dezember_2012/index.php"archiv" target="_blank")>Newsletter Dezember 2012</a>
+ </li>
+ 
+ <li><A HREF="http://newsletter.porscheinformatik.at/oktober_2012/index.php"archiv" target="_blank")>Newsletter Oktober 2012</a>
+ </li> 
+
+<li><A HREF="http://newsletter.porscheinformatik.at/september_2012/index.php"archiv" target="_blank")>Newsletter September 2012</a>
+ </li> 
+
+  
+ 
+
+
+
+
+	
+
+ 
+ 
+ 
+  
+ 
+
+
+ 
+	
+
+
+ 
+ 
+
+ 
+
+ 
+
+
+  
+ 
+	 
+
+
+
+
+</ul>

@@ -1,0 +1,18 @@
+<h1>CROSS: Auftragsdruck mittels Laserdrucker</h1>
+<h2>Beim Auftragsdruck mittels Laserdrucker ist einiges zu beachten - insbesondere die Forderung der Herstellerwerke, dass der Kunde ein exaktes Duplikat des Werkstättenauftrages erhält.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" title="Auftragsdruck mittels Laserdrucker" />
+
+<p>Immer mehr Betriebe sind von den Vorteilen des Auftragsdruckes mittels Laserdrucker überzeugt und setzen diesen auch ein. Ein zeitgemäßes <b>Schriftbild</b>, hohe <b>Flexibilität</b> durch den Einsatz von Laserdruckern und deutliche <b>Lesbarkeit</b> bis zur letzten Kopie sind nur einige der Argumente, die für diese Variante des Auftragsdruckes sprechen.</p>
+
+<p>Bei all diesen Vorteilen darf jedoch auch nicht darauf vergessen werden, dass weiterhin die <b>Form- und Prozessvorschriften der Herstellerwerke</b> eingehalten werden müssen. Durch die geänderte Technologie muss bei der Umstellung auf den Auftragsdruck mittels Laserdrucker unter Umständen der <b>Auftragserstellungsprozess</b> angepasst werden.</p>
+
+<p>Gemeinsam mit den Importeuren haben wir für Sie ein Infoblatt rund um den <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/c7db3461d4c90227c125798700350cb6?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Auftragsdruck mittels Laserdrucker&nbsp;&raquo;</b></a> erstellt, das Ihnen Detailinformationen zu dieser Thematik bietet.</p>
+<p>
+Für Fragen dazu stehen Ihnen die MitarbeiterInnen unseres Service Desks gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Auftragsdruck mittels Laserdrucker">Gregor Wagner</a><br />
+CROSS Fachkoordination
+</p>

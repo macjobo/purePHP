@@ -1,0 +1,62 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS-Tipp: CROSS.Controlling Auftragsselektion</h1>
+
+<h2>Finden Sie mit der Auftragsselektion rasch auf den Punkt!</h2>
+
+<img src="images/bild_wit1.jpg" width="170" height="120" title="CROSS.Controlling Auftragsselektion" />
+
+
+<p>Mit Hilfe der Auftragsselektion können punktgenau jene Aufträge ausgeforscht und analysiert werden,  die durch die Auswertungen in den Controllingfokus gerückt sind.
+Als Selektionsergebnis können wahlweise eine Übersicht über die Aufträge oder Subaufträge oder die Auftragspositionen, die den Kriterien entsprechen, angezeigt werden. 
+Die Spalten der Ergebnisliste sind sortierbar und der jeweilige Auftrag kann aus der Liste direkt geöffnet werden. Ideal also, um <b>rasche Ursachenforschung</b> zu betreiben.</p>
+
+<p>Ein paar Beispiele, die mit der Auftragsselektion optimal analysiert werden können:</p>
+
+<ul>
+
+<li><div>
+Aufträge mit <b>Rechnungssumme = 0</b>
+</div></li>
+
+<li><div>
+Aufträge mit <b>verrechneten Fremdleistungen</b> einer ausgewählten Abteilung
+</div></li>
+
+
+<li><div>
+Aufträge mit <b>suboptimalem Verrechnungsgrad</b> (z. B. nur Aufträge mit VG < 80%)
+</div></li>
+
+<li><div>
+<b>Verrechnungsgrad einzelner Arbeitspostionen je Verrechnungssatzkennzeichen</b> (auch für die Sonderfälle). 
+Über die Listkonfiguration lassen sich dann das Referenz- und das tatsächlich verwendete Verrechnungssatz-Kennzeichen gegenüberstellen.
+</div></li>
+
+</ul>
+
+
+<p> 
+Die Selektionskriterien und die ausgewählten Spalten können in einer Vorlage gespeichert und somit  ohne weitere Eingaben jederzeit wieder gestartet werden.
+Ein kleiner Trick, wenn Sie eine Auftragsselektion nach Historydaten speichern wollen und die Auftragsnummer unbekannt ist: 
+da das Programm eine Auftragsnummernbegrenzung verlangt, geben Sie neben den "echten" Selektionskriterien zusätzlich im Kopf1 unter Auftragsnummer von 2000000001 bis 2099999999 ein. </p>
+
+<p>Wenn Sie weitere Informationen zur Auftragsselektion benötigen, fordern Sie bitte eine Unterstützung durch Ihren CROSS-Berater an.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Controlling Auftragsselektion">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+
+
+
+
+

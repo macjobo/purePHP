@@ -1,0 +1,31 @@
+
+<h1>POCSO: Ausschreibung Stockwerksdrucker</h1>
+<h2>Die Ablöse der derzeitigen Stockwerksdrucker steht kurz bevor.</h2>
+
+<img src="images/Drucker.bmp" width="125,7" height="82,5" alt="Drucker" />
+
+<p>Die Abteilung POA-Produktion rund um Frau Pirchl führt seit Herbst gemeinsam mit dem Zentraleinkauf und dem Clientteam der Porsche Informatik
+eine <b>Ausschreibung für die Ablöse der bestehenden</b> und in die Jahre gekommenen <b>Canon Stockwerksdrucker</b> durch. Seit Anfang November 2011 steht nun die Short-List fest.
+Auf dieser befinden sich nur mehr die Hersteller <a href="http://www.canon.at/For_Work/Products/Office_Print_Copy_Solutions/Office_Colour_Printers/C5030i/">Canon</a> und <a href="http://www.konicaminolta.at/business-solutions/products/copier-print-systems/multifunctional-systems-colour/bizhub-c360.html">Konica-Minolta</a>, mit deren Modellen wir eine umfangreiche Testphase durchlaufen haben.</p>
+
+<p>Die Geräte umfassen folgende <b>Funktionen</b>:</p>
+
+<ul>
+<li><div>30 Seiten pro Minute</div></li>
+<li><div>A3/A4</div></li>
+<li><div>Druck, Kopie, Scan in Farbe und s/w</div></li>
+<li><div>Scan to Email</div></li>
+<li><div>Sicheres Drucken über Follow-me (Ausdrucke werden mit Mitarbeiterkarte abgeholt)</div></li>
+<li><div>Direktes Drucken z.B. für SAP Ausdrucke</div></li>
+<li><div>OCR - Schrifterkennung beim Scan</div></li>
+<li><div>einfache Drucklösung für Gäste z.B. VW-Mitarbeiter (von einem Hersteller unterstützt)</div></li>
+<li><div>Faxen über Faxserver (wie in Lotus Notes)</div></li>
+<li><div>Finishen (Klammern bzw. bei einem Gerät auch Lochen)</div></li>
+<li><div> u.v.m.</div></li>
+</ul>
+
+<p>Die Tests werden in den nächsten Tagen abgeschlossen und eine <b>Entscheidung</b> ist noch für <b>Dezember 2011</b> geplant.
+Das <b>Rollout</b> der Geräte erfolgt im <b>Q1/2012</b>.</p>
+
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=Ausschreibung Stockwerksdrucker">Herbert Lohninger</a></p>

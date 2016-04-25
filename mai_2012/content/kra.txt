@@ -1,0 +1,29 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: 15 Jahre POCSO</h1>
+<h2>Seit 15 Jahren betreuen wir mit unserem maßgeschneiderten Betriebsführungskonzept POCSO nun schon die IT-Systeme unserer Einzelhandelskunden in Österreich.
+
+</h2>
+
+<img src="images/bild_kra.jpg" width="190" height="120" title="15 Jahre POCSO" />
+
+
+<p>Die Zielsetzung für die Entwicklung der Dienstleistung <b>POCSO (Porsche Client Server Operation)</b> im Jahr 1996 war, den Betrieb des zukünftigen DMS-Systems CROSS optimal zu unterstützen. Den Mitarbeitern im Autohaus sollte POCSO den Freiraum schaffen, sich voll auf die Betreuung der Kunden konzentrieren zu können - ganz nach dem Motto "Kümmern Sie sich um Ihr Geschäft, die Porsche Informatik kümmert sich um Ihre IT".
+</p>
+
+
+<p>Daraus ist ein modulares <b>Client-Server-System</b> entstanden, das in der VW-Welt einzigartig ist und alle Kernanwendungen im Autohaus umfasst. POCSO deckt alle Vorgaben der Herstellerwerke an die IT im Autohaus in vollem Umfang ab, ohne dass Sie sich um Hard- oder Softwareinstallationen kümmern müssen. In enger <b>Zusammenarbeit mit den Herstellern</b> integrierten wir Anwendungen wie ELSAWin, ETKA, ASAnet-Systeme, VU2 mit Eurotax, EBV §57a und einige andere mehr, zuletzt die <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/f9ca8c1665df61b3c1257345002cdb8b/f70c71be9184fc4fc125791a0035bbdd?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>VAS-Diagnosegeräte&nbsp;&raquo;</b></a>.</p>
+
+<p>Heute werden rund <b>6000 Arbeitsplätze</b> und <b>300 Server</b> an mehr als 300 Standorten von Salzburg aus zentral mit der aktuellsten Software beschickt, die das POCSO-Team zuvor ausführlich getestet hat. Noch 2010 wurden je Arbeitsplatz ca. 20 <b>Softwareupdates</b> pro Jahr installiert. Heute sind es rund 150, bedingt durch die höhere Anzahl von Anwendungen und die gestiegenen Anforderungen bezüglich Sicherheit. </p>
+
+<p>Die Philosophie von POCSO garantiert Ihnen eine hohe <b>Verfügbarkeit</b> und <b>Stabilität</b> Ihrer EDV-Systeme zu äußerst attraktiven Kosten. Dies erreichen wir durch die <b>Minimierung</b> der eingesetzten Produkte und deren permanenten <b>Optimierung</b> und <b>Aktualisierung</b>. </p>
+
+<p>Wir freuen uns, Sie auch in den kommenden Jahren mit POCSO bestmöglich bei Ihren Geschäftsprozessen zu unterstützen!</p>
+
+<p>Sollten Sie noch kein POCSO-Netzwerk einsetzen, dann sprechen Sie mit Ihrem Key Account Manager der Porsche Informatik! Er wird Ihnen die Vorteile von POCSO für Ihr Autohaus darlegen.</p> 
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=15 Jahre POCSO">Andreas Kronberger</a><br />
+Leitung POCSO-Managementcenter
+</p>

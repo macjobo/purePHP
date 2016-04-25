@@ -1,0 +1,78 @@
+<h1>Infrastruktur: Neue Telefonanlage</h1>
+<h2>Seit Mitte September 2013 ist die neue Telefonanlage der Porsche Informatik im Einsatz, die Umstellung ging reibungslos und ohne Ausfälle über die Bühne.</h2>
+
+ <img src="images/bild_wam2.jpg" width="190" height="120" alt="Neue Telefonanlage" />
+ 
+
+<p>Unsere alte Telefonanlage hat ihre Dienste <b>ein Jahrzehnt</b> lang hochstabil und zuverlässig geleistet. Zuletzt war es aber nicht mehr möglich, neue Geräte zu bestellen; außerdem hat der Hersteller unsere Systemversion nur mehr unzureichend unterstützt. Damit war der Zeitpunkt für den <b>Umstieg</b> auf eine neue Anlage gekommen.</p>
+
+<p>Mit dem <b>CISCO-Callmanager in der Version 9</b> haben wir nun ein zukunftssicheres System im Einsatz. Die Lösung ist nicht nur sehr stabil, sie bietet auch die gewünschte Kontinuität in der Anwendung sowie einige interessante neue Funktionalitäten und Sicherheitsfeatures, wie z. B.:</p>
+
+
+<ul>
+
+<li><div>eine leistungsstarke Lösung für unsere <b>Telefonvermittlung,</b>
+</div></li>
+
+<li><div>eine hochprofessionelle Abwicklung für den <b>Service Desk </b>als Kommunikationsdrehscheibe,
+</div></li>
+
+<li><div>erhöhte <b>Ausfallssicherheit</b> durch entsprechende Backupmechanismen und Redundanzen sowie
+</div></li>
+
+<li><div>erhöhte <b>Netzwerksicherheit</b> durch die Verwendung von zertifikatsbasierter Netzwerkauthentifizierung.
+</div></li>
+
+
+
+
+</ul>
+
+<p>Im Zuge des Umstiegs haben wir mehr als <b>400 Endgeräte</b> ausgetauscht.</p>
+
+<p>Als Partner für den Betrieb von Infrastruktur und Software konnten wir <b>A1 Telekom </b>gewinnen. Das Unternehmen hat für uns bereits vergleichbare Projekte umgesetzt, etwa  Voice-over-IP-Telefonie für alle PIA-Betriebe österreichweit.</p>
+
+
+<p>Mit unserer neuen Telefonanlage sind wir nun wieder bestens dafür gerüstet, für Ihre IT-Anliegen erreichbar zu sein!</p>
+
+
+
+<p>
+<a href="mailto:info@porscheinformatik.at ?subject=Neue Telefonanlage">Gernot Striednig, Tobias Oberascher</a><br />
+Telefonteam<br />
+<a href="mailto:info@porscheinformatik.at ?subject=Neue Telefonanlage">Markus Watzik</a><br />
+Leitung User Centric Services
+</p>
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

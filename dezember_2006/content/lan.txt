@@ -1,0 +1,64 @@
+<div class="umbruch">&nbsp;</div>
+<h1>CROSS: Vorschau auf Release 2.04</h1>
+<h2>Das neue CROSS-2-Release wird im März für die CROSS-2-Betriebe eingespielt - werfen Sie jetzt schon einen Blick auf die wichtigsten neuen Funktionalitäten.</h2>
+
+<p>
+Für den <b>Werkstättenbereich</b> und das <b>Ersatzteilelager</b> bringt CROSS 2.04 folgende Neuerungen:
+<ul>
+<li>Bei den Fahrzeugdaten wurde die <b>vierstellige Motornummer</b> berücksichtigt.</li>
+<li>Die Abwicklung für die <b>Gewährleistungs-Einreichung</b> von Fremdleistungen und Fremdteilen wurde neu gestaltet.</li>
+<li>In der GWL-Ergänzung wurde ein neues Feld für die <b>DISS-Beanstandungs-nummer</b> aufgenommen, die für alle GWL-Einreichung erforderlich sein wird.</li>
+<li><b>Leistungpreise</b> in CROSS können nun betriebsindividuell und nachhaltig angepasst werden.</li>
+<li>Die <b>Auftragsauswahl</b> der offenen Subaufträge nach Werkstatt und Teileverkauf ist nun getrennt möglich.</li>
+<li><b>Stempelkorrekturen</b> sind nun direkt aus dem Auftrag  heraus möglich (Reiter 5 - Druckfreigabe).</li>
+
+
+</ul>
+</p>
+
+<p>Detailinformationen über den Einspielzeitpunkt sowie die Änderungsbeschreibungen erhalten Sie rechtzeitig vor der Einspielung in Ihr CROSS-System.</p>
+     
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorschau auf Release 2.04">Hans Peter Landl</a></p>
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

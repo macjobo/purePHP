@@ -1,0 +1,20 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Neue Suchfunktionen im Online-Support-Tool</h1>
+                
+<div class="bild">        
+    
+<img src="images/bild_wam1.gif" width="565" height="133" alt="bild_wam1 (20K)" />
+      
+</div>                    
+                    
+<p>
+Unter "Eigene Konsole" > "Suchparameter" > "Anzeigen" können Sie unter vier Anzeigevarianten wählen:
+<br />
+<br />
+<div class="bild">  
+<img src="images/bild_wam2.gif" width="565" height="133" alt="bild_wam2 (21K)" />
+</div>  
+
+</p>
+<p id="zurueck"><a href="index.php?page=hg">&raquo;&nbsp;Zurück zum Artikel</a></p>

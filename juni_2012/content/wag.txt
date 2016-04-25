@@ -1,0 +1,38 @@
+<h1>CROSS Tipp: Termineinladungen im Webdesign</h1>
+
+<h2>Nutzen Sie die kostenlose CROSS-Vier-Stunden-Betreuung für betriebsindividuelle Anpassungen bei Termineinladungen im Webdesign!</h2>
+
+
+
+
+<img src="images/bild_wag.jpg" width="140" height="120" alt="Termineinladungen im Webdesign" />
+
+
+<p>Seit einiger Zeit gibt es bereits die Möglichkeit, Einladungen zu Werkstatt-Terminen per E-Mail in einem optisch ansprechenden <b>Webdesign</b> zu gestalten. </p>
+
+<p>Die Eingabe von <b>firmenspezifischen Daten</b> stellt viele Benutzer aber vor eine schwer lösbare Aufgabe, da hierfür ein <b>HTML-Code</b> editiert werden muss. Ohne Vorkenntnisse erweist sich das trotz <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/2725441490e14980c12578e700513785?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>ausführlicher Dokumentation&nbsp;&raquo;</b></a> in der Praxis vielfach als Hürde.</p>
+
+<p>Wir möchten Sie daher in diesem Zusammenhang auf die <b>kostenlosen Vier-Stunden-CROSS-Betreuung</b> aufmerksam machen, die jedem Betrieb einmal jährlich zusteht. Unsere CROSS-Berater sind mit der Anpassung des Einladungstextes vertraut und können Sie optimal unterstützen. </p>
+
+<p>Weiters haben wir auf Anregung von Anwendern den <b>Einladungstext</b> für Betriebe, die nicht die CROSS-Option "Werkstatt-Terminbuchung Online" einsetzen, etwas angepasst: </p>
+
+<ul>
+
+<li><div>Der "Homepage-Hinweis" wurde umformuliert und als Link dargestellt.
+</div></li>
+
+<li><div>Die Schrift wurde bei allen Formularen vergrößert.
+</div></li>
+
+</ul>
+
+<p>Holen Sie sich die kostenlose Unterstützung eines CROSS-Beraters und versenden auch Sie Termineinladungen an Ihre Kunden künftig in einem <b>modernen Erscheinungsbild</b>. Sprechen Sie mit Ihrem Key Account Manager der Porsche Informatik; er vermittelt Ihnen gerne einen Termin.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Termineinladungen im Webdesign">Gregor Wagner</a><br />
+Fachkoordinator CROSS Service </p>
+
+
+
+
+

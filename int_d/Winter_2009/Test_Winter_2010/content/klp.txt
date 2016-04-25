@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Konzern PowerPoint-Vorlage</h1>
+<h2>Das Rollout von officeatwork ist abgeschlossen. Somit steht Ihnen auch die neue PowerPoint-Vorlage für den Porsche-Konzern zur Verfügung.</h2>
+
+<img src="images/Vorlage.jpg" width="190" height="120" alt="officeatwork" />
+
+<p>Wie wir bereits in der <a href="http://newsletter.porscheinformatik.at/int_d/Sommer_2010/index.php?page=haw" title="officeatwork" target="_blank"><b>&raquo;&nbsp;letzten Ausgabe </b></a>angekündigt haben, setzen wir derzeit das neue Office-Vorlagen-System <b>officeatwork</b> ein. 
+Das Rollout ist mittlerweile bis auf die Porsche Bank und die Firma Europcar, die wir in den nächsten Wochen umstellen werden, abgeschlossen und die Software
+steht Ihnen nun zur Verfügung.</p>
+
+<p>Bitte beachten Sie, dass wir die alten Vorlagen Anfang nächsten Jahres deaktivieren werden. Falls Ihnen wichtige Vorlagen im neuen System fehlen, nehmen Sie bitte mit den KollegInnen unseres Service Desks Kontakt auf.</p>
+
+<p>Im Zuge des officeatwork-Projektes haben wir uns auch zum Ziel gesetzt, die doch schon in die Jahre gekommene <b>Powerpoint-Vorlage des Konzerns</b> zu überarbeiten.
+
+In Zusammenarbeit mit der Abteilung Neue Medien ist eine neue, zeitgemäße und vor allem benutzerfreundliche Vorlage in zwei unterschiedlichen Farbtönen entstanden, die Sie über officeatwork aufrufen können. Anfang 2011 werden wir noch die <b>Farbschemen</b> der einzelnen Konzern-Marken (nur für Office 2007) implementieren.</p> 
+
+<p>Wir bedanken uns bei der Abteilung Neue Medien für die gute Zusammenarbeit und das gelungene Design!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Konzern PowerPoint-Vorlage">Herbert Lohninger</a></p>
+
+
+
+
+
+

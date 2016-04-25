@@ -1,0 +1,73 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>MIK-Bis Unternehmer-Cockpit: Neue Auswertungen</h1>
+<h2>Das Unternehmercockpit erhöht seinen Informationsgehalt: In Anlehnung an die Entwicklung des Performanceboards mit Unterstützung von MS Excel haben wir nun auch die Auswertungsmöglichkeiten im Unternehmercockpit erweitert.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="Neue UC-Auswertungen" />
+
+
+
+
+<p><b>MS Excel</b> bietet eine sehr einfach gestaltbare Oberfläche für die Darstellung von Kennzahlen. Sie können einzelne Zellen unterschiedlich formatieren oder markieren, aber auch Zeilen und Spalten beliebig miteinander kombinieren.</p>
+
+<p>Diese Möglichkeiten haben wir nun dazu genutzt, im Unternehmercockpit einen <b>Standortvergleich</b> zu implementieren. Das bedeutet, dass Sie ab sofort beliebig all jene Betriebe bzw. Standorte miteinander vergleichen können, für die Sie eine Zugriffsberechtigung haben. Sie finden die neue Auswertung unter "Übersicht Betriebe".</p>
+<p>
+Stellen Sie z.&nbsp;B. Auslastung und verplante Stunden oder NW-Stückzahlen und Nachlässe gegenüber, und das Unternehmercockpit zeigt Ihnen auf eine Blick auf, in welchen Bereichen Sie unmittelbaren <b>Handlungsbedarf</b> haben! Sie können diese Werte natürlich in gewohnter Weise als Tages-, kumulierte Monats- oder Jahreswerte darstellen.</p>
+
+
+
+<p>Für alle Kunden, die das Unternehmercockpit noch nicht im Einsatz haben: Wenn wir Ihr Interesse geweckt haben, kontaktieren Sie bitte unseren MIK-BIS-Berater Alfred Danner (DW 6214) oder Ihren Key Account Manager der Porsche Informatik.</p>
+
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neue Unternehmercockpit-Auswertungen">Christian Witibschlager</a><br />
+Key Account Management Einzelhandel Österreich
+</p>
+
+
+
+
+
+
+
+
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

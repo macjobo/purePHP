@@ -1,0 +1,27 @@
+
+<h1>CROSS Tipp: Standardschreiben</h1>
+<h2>Mit der "Standardschreiben-Funktion" in CROSS sparen Sie beim Erstellen von Kundenschreiben viel Zeit!</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Standardschreiben-Funktion" />
+
+<p>In der betrieblichen Praxis gibt es zumeist einige <b>Standardschreiben</b> oder auch Vorlagen, die tagtäglich benutzt werden. Hierbei kann es sich um Bestätigungen, Kundenschreiben, Briefbeschriftungen usw. handeln. Diesen Schreiben ist gemeinsam, dass der Inhalt unverändert bleibt, lediglich die <b>kundenspezifischen Daten</b> ändern sich. </p>
+
+<p>Um solche Schreiben möglichst rasch mit wenig Aufwand erstellen zu können, gibt es in CROSS die Funktion  <b>"Standardschreiben"</b>.</p>
+
+<p>Damit können Sie bei den genannten Schreiben die <b>variablen Daten von CROSS ausfüllen</b> lassen. Dadurch beschleunigen Sie die Erstellung solcher Dokumente und vermeiden Tippfehler bei der manuellen Erfassung. Wie Sie diese Funktion nutzen, können Sie in der Dokumentation <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/e1eaeb0d97c64a3fc125781e004a6dab?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Standardschreiben für CROSS-Objekte"&nbsp;&raquo;</b></a> in der POI-Infoline nachlesen.</p>
+
+<p>Sollten noch Fragen offen bleiben, stehen Ihnen die MitarbeiterInnen unseres Service Desks gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Standardschreiben-Funktion">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

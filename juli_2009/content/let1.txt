@@ -1,0 +1,66 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>SAP: Elektronischer Kontoauszug</h1>
+<h2>Mit dem "Elektronischen Kontoauszug" können Sie zeitintensive Routinearbeiten bei der Verbuchung von Kontobewegungen automatisieren.</h2>
+
+<p>Das SAP-Modul "<b>Elektronischer Kontoauszug</b>" verbucht die Bewegungen Ihres Bankkontos mittels Datenträger, der von Ihrer Bank zur Verfügung gestellt wird. Routinearbeiten wie das Verbuchung von eindeutig zuordenbaren Zahlungseingängen und bestimmten vordefinierten Geschäftsfällen (Geldtransit, Zinsabrechnung, etc.) werden damit automatisiert.</p>
+
+
+<p>Ihre Vorteile liegen auf der Hand: </p>
+
+<ul>
+<li><div>Die <b>Bewegungen</b> Ihres Bankkontos werden automatisch verbucht.</div></li>
+<li><div>Ihr <b>Banksaldo</b> ist täglich korrekt.</div></li>
+<li><div>Wenn die <b>CROSS-Rechnungsnummer</b> identifiziert werden kann, werden Zahlungseingänge automatisch verbucht und ausgeglichen.</div></li>
+<li><div>Bestimmte <b>Geschäftsfälle</b> (Zinsabrechnung, Kontogebühren, Geldtransit) werden automatisch verbucht.</div></li>
+<li><div>Nicht zuordenbare Ein- und Auszahlungen bleiben am <b>Bankunterkonto</b> stehen.</div></li>
+</ul>
+
+<p>Detaillierte <b><a href="http://kb.auto-partner.net/int/hilfe/klbsap.nsf/AllByID/4C0A8F902A434D8CC12574F6005BC1DF?OpenDocument" title="Produktblatt SAP - Elektronischer Kontoauszug" target="_blank">&raquo; Produktinformationen zum Elektronischen Kontoauszug in SAP</a></b> finden Sie in der POI-Infoline; auch Ihr Key Account Manager der POI berät Sie gerne.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Elektronischer Kontoauszug">Theresia Lechner</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

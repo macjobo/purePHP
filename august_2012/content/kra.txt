@@ -1,0 +1,22 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: Sicherheitstipp "Virenschutz"</h1>
+<h2>IT-Sicherheit ist für Ihr Unternehmen von enormer Bedeutung; ein nachlässiger Umgang damit kann erheblichen Schaden zur Folge haben. Das Thema "Virenschutz" ist dabei von besonderer Bedeutung.</h2>
+
+<img src="images/bild_kra.jpg" width="190" height="120" alt="POCSO-Netzwerk" />
+
+
+<p>Ein aktueller <b>Virenschutz</b> auf allen Arbeitsplätzen zählt zu den wichtigsten Maßnahmen zur Wahrung der Datensicherheit. Das Risiko der Veränderung bzw. des Verlusts von Daten wird dadurch maßgeblich minimiert.</p>
+
+<p>Entscheidend ist dabei, dass der Virenschutz täglich auf allen Arbeitsplätzen <b>aktualisiert</b> wird. Bei POCSO-Arbeitsplätzen stellt das POCSO-Management-Center die Aktualität aller POCSO-Systeme im Netzwerk sicher. Bei allen anderen <b>Spezial-Geräten </b>müssen Sie selbst dafür Sorge tragen!</p>
+
+<p>Teilweise <b>mutieren</b> Viren nach Befall des Gerätes und verteilen sich dann im Netzwerk. Selbst Geräte, die mit einem aktuellen Virenschutz ausgestattet sind, sind vor diesen Mutationen nicht mehr geschützt.</p>
+
+<p>Daher ist unbedingt dafür Sorge zu tragen, dass <b>ALLE Arbeitsplätze</b> (auch Test- und sonstige Spezialgeräte) mit einem aktuellen Virenschutz versehen sind.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Virenschutz">Andreas Kronberger</a><br />
+Leitung POCSO-Management-Center
+</p>
+

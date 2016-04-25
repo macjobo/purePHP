@@ -1,0 +1,26 @@
+
+<h1>IT-Sicherheit: Rollout Passwort-Safe und USB-Verschlüsselung</h1>
+<h2>Das Rollout der beiden neuen Lösungen "Passwort-Safe" und "USB-Verschlüsselung hat begonnen und soll in wenigen Wochen abgeschlossen sein; alle wichtigen Informationen dazu finden Sie im POCSO-Benutzerhandbuch.</h2>
+
+ <img src="images/bild_lo.jpg" width="190" height="120" alt=Jahresrückblick Client-Team" />
+ 
+ 
+<p>Zwei neue Lösungen werden die <b>Datensicherheit</b> im Konzern weiter erhöhen: In unserem Newsletter haben wir Ihnen sowohl den <a href="../Winter_2014_15/index.php?page=lo1" target="_blank" title="Zum Porsche Informatik Newsletter Winter 2014/2015"><b>Passwort-Safe&nbsp;&raquo;</b></a> als auch die <a href="../Sommer_2014/index.php?page=lo1" target="_blank" title="Zum Porsche Informatik Newsletter Sommer 2014"><b>USB-Verschlüsselung&nbsp;&raquo;</b></a> bereits angekündigt und vorgestellt. </p>
+
+<p>Aktuell sind wir nun dabei, die beiden Anwendungen im Konzern auszurollen. Über ein Viertel der Arbeitsplätze wurde bereits damit ausgestattet; wir planen, das Rollout <b>Mitte Juli 2015</b> abzuschließen.</p>
+
+<p>Der neue Passwort-Safe bietet Ihnen eine komfortable Unterstützung beim <b>Verwalten von Passwörtern</b> und schützt Ihre Zugangsdaten vor unberechtigtem Zugriff. Die Verschlüsselung von USB-Datenträgern soll die <b>Datensicherheit</b> in unserem Unternehmen weiter erhöhen.</p>
+
+
+<p>Detailliertere Informationen zu beiden Funktionen finden Sie im <b>POCSO-PC-Benutzerhandbuch</b> auf Ihrem Desktop im Ordner "Sicherheit/Updates" <b>unter "CPSD - Passwort Safe" bzw. "CPSD - Datenträgerverschlüsselung"</b>.
+</p>
+
+
+<p>Haben Sie dazu noch Fragen? Dann kontaktieren Sie einfach unseren Service Desk unter der Durchwahl 2222 bzw. über den <a href="http://support.porscheinformatik.at" target="_blank" title="Zum Onlinesupport"><b>Onlinesupport&nbsp;&raquo;</b></a>.</p>
+
+
+
+<a href="mailto:info@porscheinformatik.at ?subject=Jahresrückblick Client-Team">Herbert Lohninger</a><br />
+Teamleitung Client Konzern
+</p>
+

@@ -1,0 +1,49 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Erneute Spamwelle</h1>
+<h2>Auf Grund aktueller Vorkommnisse im Konzern möchten wir Sie erneut auf die enormen Risiken im Zusammenhang mit Spam-E-Mails hinweisen.</h2>
+
+<img src="images/bild_mim.jpg" width="170" height="120" alt="Spam-Mails" />
+ 
+<p>Seit einigen Wochen schwappt eine nicht enden wollende <b>Spam-Welle</b> über uns herein; die neuesten Spam-E-Mails schmücken sich passend zur Weihnachtszeit als <b>Weihnachtsgrüße</b>.</p>
+
+<p>Zurzeit grassieren sogenannte <b>Cryptolocker</b>. Das ist Schadsoftware, eingepackt in Spam-E-Mails, die Daten auf dem PC, aber auch auf Netzwerklaufwerken (z. B. unserem X-Laufwerk), <b>unwiederbringlich verschlüsselt</b>. In nur wenigen Minuten werden so unbemerkt zehntausende Dateien zerstört!</p>
+
+<p>Die Folge können <b>tagelange Betriebsausfälle</b> sein, hervorgerufen durch Eindämmungs- und Wiederherstellungsarbeiten auf PCs und Servern. Sie können sich vorstellen, welch immenser Schaden in einem Netzwerk wie dem unseren entsteht, das über tausende Arbeitsplätze verfügt und geschäftskritische IT-Systeme für den Gesamtkonzern bereitstellt. <b>Der Schaden geht in die Millionen!</b> Mit einem einzigen Mausklick auf einen bösartigen Link oder Anhang kann jeder von uns eine solch verheerende Lawine lostreten.</p>
+
+<p>Und es ist leider traurige Realität, dass <b>Benutzer im Konzern</b> nach wie vor in ganz offensichtlich bösartigen Spam-E-Mails auf Links klicken oder Anhänge öffnen. Daher können wir nicht oft genug auf die <a href="../Sommer_2014/index.php?page=mim" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>Verhaltenstipps&nbsp;&raquo;</b></a> hinweisen, die wir Ihnen in den letzten beiden Newslettern bereits ans Herz gelegt haben.</p>
+
+<p><b>Bitte nehmen Sie das Thema sehr ernst!</b> Seien Sie äußerst vorsichtig im Umgang mit E-Mails und halten Sie sich vor Augen, wie wichtig Ihr richtiges Verhalten ist.</p>
+
+
+
+<p>
+
+<a href="mailto:info@porscheinformatik.at ?subject=Spam-Mails">Marcus Michalek</a><br />
+IT-Sicherheitsbeauftragter
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

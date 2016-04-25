@@ -1,0 +1,28 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS: Neugestaltung der CO<sub>2</sub>-Besteuerung</h1>
+<h2>Mit 1.7.2008 tritt die neue Regelung der Kfz-Besteuerung gemäß dem Ökologisierungsgesetz in Kraft. Was bedeutet das für Ihre Arbeit mit CROSS?</h2>
+
+
+
+<p>Mit dem neuen CROSS-Release 2.08 ist sichergestellt, dass per 1.7.2008 die neuen <b>Vorschriften für NoVA-pflichtige Fahrzeuge</b> in allen Fakturen im Neu- und Gebrauchtwagenbereich berücksichtigt werden. Mit der monatlichen CROSS-Nutzungsgebühr ist diese umfangreiche Programmänderung abgedeckt.</p>
+ 
+<p>Um sicherzustellen, dass bei Rechnungsdruck nach dem 30.6. die richtige NoVA-Besteuerung ausgewiesen wird, fordert CROSS den Anwender bei allen Kaufvertragsabschlüssen vor dem 1.7. auf, die Preise im <b>Kaufvertrag</b> hinsichtlich der NoVA-Besteuerung nochmals zu überprüfen. Weitere Details finden Sie in der Änderungsbeschreibung zum Release 2.08, die wir rechtzeitig vor der Einspielung veröffentlichen werden.</p>
+
+<p>Beachten Sie bitte, dass die <b>GW-Preise</b> der NoVA-pflichtigen CROSS-Bestandsfahrzeuge knapp vor dem Stichtag eventuell neu zu kalkulieren und in CROSS manuell zu ändern sind, damit sie sowohl in der Weltauto-Börse als auch in der VU2 rechtzeitig zur Verfügung stehen.</p>
+
+<p>Das <b>Rundschreiben 175/2008 der Händerfinanzberatung</b> informiert Sie über die Übergangsbestimmungen; die damit verbundenen Besonderheiten in CROSS haben wir für Sie in einer kurzen <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f001ce07db28243fc1257345002cdb93/3d8c5e2fea2da9f3c12574100048a0c8?OpenDocument" title ="Abwicklung Übergangslösung NOVA für Funktionsfahrzeuge" target="_blank"><b>Anleitung</b></a> in der POI-Infoline zusammengefasst.</p>
+
+
+
+
+
+
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neugestaltung der CO2-Besteuerung">Christian Witibschlager</a></p>
+
+

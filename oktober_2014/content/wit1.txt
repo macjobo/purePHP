@@ -1,0 +1,33 @@
+<h1>CROSS: Neue EBV-Version</h1>
+<h2>Eine neue EBV-Version steht vor der Tür.</h2>
+
+<img src="images/bild_wit1.jpg" width="190" height="120" title="EBV" />
+
+
+<p>So viel vorweg: Sie erhalten <b>zuerst die Version 4.5.01</b> mit den laut EBV beschriebenen Erfassungsprogrammen für die Begutachter und die Plakettenerfassung 
+für ZBD und der ZBD-Andockfunktion. Erst nach dem durch Sie abgeschlossenen Andockprozess stellen wir Ihnen <b>über das Tagesende die Version 5.0.02</b> zur Verfügung.</p>
+
+
+<p>In den nächsten Tagen erhalten Sie von uns die Information zur EBV-Programmaussendung mit allen notwendigen Details.</p>
+
+
+
+<p>Bei weiteren Fragen zum EBV-Programm wenden Sie sich bitte an die EBV-Hotline (ebv-hotline@wirtschaftsverlag.at).</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=EBV Neu">Christian Witibschlager</a><br />
+Key Account Management Einzelhandel Österreich</p>
+
+
+
+ 
+
+
+
+
+
+
+
+
+

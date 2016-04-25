@@ -1,0 +1,15 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Porsche Informatik: Erweiterte Geschäftsführung</h1>
+<h2>Mag. Rainer Trischak verstärkt seit 1. Oktober 2015 die Geschäftsführung - Doppel-Geschäftsführung mit Mag. Günther Seifert und Mag. Rainer Trischak </h2>
+
+<img src="images/bild_klb1.jpg" width="190" height="120" alt=Jahresrückblick Client-Team" />
+
+<p>Mag. Rainer Trischak verstärkt seit 1. Oktober 2015 an der Seite von Mag. Günther Seifert die Geschäftsführung der Porsche Informatik. Der Grund dafür ist das starke Wachstum der Porsche Informatik in den vergangenen Jahren. So haben sich beispielsweise die Mitarbeiter seit 2011 auf mittlerweile 450 Mitarbeiter verdoppelt.</p>
+
+<p>Mag. Rainer Trischak (45; links) ist seit 1997 in unterschiedlichen Funktionen in der Porsche Holding tätig und hat umfangreiche Erfahrung im Groß- und Einzelhandel. Seit 2011 ist R. Trischak Geschäftsführer von Porsche Romania, dem rumänischen Importeur für die Marken des Volkswagen Konzerns.</p>
+
+<p>Mag. Günther Seifert (50; rechts) ist seit 1989 in verschiedenen Bereichen im Vertrieb, Marketing und der IT innerhalb der Porsche. 2006 bis 2011 war G. Seifert Geschäftsführer von Porsche Romania und seit 2011 ist er Geschäftsführer der Porsche Informatik.</p>
+
+<a href="mailto:info@porscheinformatik.at ?subject=Erweiterte Geschäftsführung">Barbara Klein</a><br />
+Kommunikation
+</p>

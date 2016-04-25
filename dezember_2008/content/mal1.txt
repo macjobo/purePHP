@@ -1,0 +1,25 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neue EBV-Version 3.2.01</h1>
+<h2>Die neue EBV Version 3.2.01 ist ab Jänner 2009 im POCSO-Netzwerk verfügbar.</h2>
+
+
+
+<p>Ab Mitte Jänner 2009 werden wir in allen POCSO-Netzwerken die neue <b>EBV-Version 3.2.01</b> einsetzen. Dieses Update ist für Sie <b>kostenlos</b>, da das Produkt EBV 3.x  Anfang 2008 in den <b>POCSO-Standard</b> aufgenommen wurde. </p>
+
+<p>Folgende Highlights beinhaltet die neue Version:
+
+<ul>
+<li><div>Neue <b>Fahrzeugkategorien</b> </div></li>
+<li><div>Neue <b>Anwenderoberfläche</b>, angelehnt an Office 2007 </div></li>
+<li><div>Microsoft Framework .net 2.0 als neue <b>technologische Basis</b>, die auf Ihrem Netzwerkserver bereits eingespielt wurde</div></li>
+
+</ul>
+</p>
+<p>Vor der Umstellung wird der EDV-Verantwortliche in Ihrem Unternehmen in einem gesonderten <b>Schreiben</b> über die notwendigen Schritte informiert. Betriebe mit selbst betreutem Netzwerk erhalten die neue Version unter <a href="http://www.mesensky.at" target="_blank" title="Mesensky-Homepage"><b>&raquo; www.mesensky.at</b></a>.</p>
+
+<p>Für Fragen zum geplanten EBV-Update stehen Ihnen die Mitarbeiter unseres Service Desk gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neue EBV-Version 3.2.01">Friedrich Malle</a></p>

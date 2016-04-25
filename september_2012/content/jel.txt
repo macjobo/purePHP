@@ -1,0 +1,30 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: Wireless LAN in der Praxis</h1>
+<h2>Das Tiroler Autohaus Picker in Schwaz setzt seit vier Monaten POCSO Wireless LAN ein.</h2>
+
+<img src="images/bild_jel.jpg" width="190" height="120" alt="Wireless LAN in der Praxis!" />
+
+<p>Seit Mai werden im Autohaus Picker <b>Diagnosetester</b> (VAS 6150A) und <b>WLAN Barcodescanner</b> über <b>POCSO Wireless LAN</b> betrieben.</p>
+<p>Die Lösung wurde von den Mitarbeitern in der Werkstätte und im Lager sehr positiv aufgenommen, so Geschäftsführer <b>Johann Köchl</b>. "Gebrochene Kabel oder ein eingeschränkter Bewegungsraum gehören damit der Vergangenheit an. Vor allem mit dem Einsatz der neuen <b>Diagnoselaptops</b> kommen die Vorzüge von POCSO Wireless LAN richtig zum Tragen."</p>
+
+
+<p>Nach vier Monaten Praxisbetrieb zieht Johann Köchl eine <b>positive Bilanz</b>: "Die Arbeit mit den Diagnosetestern ist jetzt viel flexibler! Außerdem ist nun jeder Diagnosetester ein <b>vollwertiger Arbeitsplatz</b>, mit CROSS, Lotus Notes, ELSA, usw. Durch den Einsatz der WLAN-Barcodescanner haben wir den Zeitaufwand für die Übernahme der <b>TVZ-Teilelieferungen</b> deutlich reduziert! Die Entscheidung für POCSO Wireless LAN hat sich für uns in jedem Fall gelohnt!"</p>
+
+
+
+<p>Haben auch Sie Interesse an einem Einsatz dieser Lösung? Alle Informationen dazu finden Sie in den Produktinformationen zu <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/30a20ad956fa226cc1257345002cdb88/b6bb0b88c33e3007c12573d10050683d?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>POCSO Wireless LAN&nbsp;&raquo;</b></a>, <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/1e774b77eba757fac1257345002cdb86/f70c71be9184fc4fc125791a0035bbdd?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>Integration Diagnosetester&nbsp;&raquo;</b></a> und <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/dce8df8f1710e0acc1256ed900439554/614845abc5b9f358c125790c0047499a?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>CROSS Barcode&nbsp;&raquo;</b></a> ; auch Ihr Key Account Manager der Porsche Informatik berät Sie gerne.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Wireless LAN in der Praxis">Heimo Jelovcan</a><br />
+Key Account Management Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+

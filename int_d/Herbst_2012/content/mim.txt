@@ -1,0 +1,58 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Mobile Datenträger</h1>
+<h2>Wie lassen sich Daten auf mobilen Geräten schützen?</h2>
+
+ <img src="images/iPad.jpg" width="151" height="126" alt="" />
+ 
+<p><b>Smartphones und Tablets</b> gehören mittlerweile zu unserem beruflichen und privaten Alltag. Smartphones sind schon lange keine herkömmlichen Telefone mehr, wie wir sie noch vor einigen Jahren kannten.
+Mit unzähligen Funktionen wie E-Mailing, Navigation, Social Media, Internet-Browser oder Apps und mit einer <b>enormen Speicherkapazität</b> ausgestattet, sind diese Geräte auf eine Stufe mit PCs zu stellen.
+Unter anderem speichern wir E-Mails, Dateien, Fotos und Zugangsdaten darauf.</p> 
+
+<p>Es ist daher notwendig, sich mit der Sicherheit der Daten auf den Geräten auseinanderzusetzen und über mögliche Folgen eines Datenverlustes nachzudenken.
+</p>
+
+<p>Wir möchten Ihnen in diesem Zusammenhang folgende Tipps geben:</b></p>
+
+<ul>
+<li><div>Schützen Sie Ihr Gerät durch einen <b>PIN-Code</b> oder ein <b>Passwort</b>. 
+Ein solcher Schutz ist im Konzern mittlerweile Standard und wird automatisch auf den dienstlich angeschafften Geräten wie BlackBerry, iPhone und iPad aktiviert.</div></li>
+<li><div>Schützen Sie Ihr Gerät vor <b>Diebstahl</b> und <b>Verlust</b>. iPhones und iPads sind ein begehrtes Gut!</div></li>
+<li><div><b>Informieren</b> Sie unverzüglich den Service Desk, falls Ihnen Ihr Gerät abhanden kommt, damit eine Fernlöschung durchgeführt werden kann.
+(Das ist natürlich nur bei dienstlichen, von der Porsche Informatik verwalteten Geräten möglich.)</div></li>
+<li><div><b>Löschen</b> Sie Ihre Daten, wenn Sie das Gerät entsorgen, zurückgeben oder zur Reparatur geben. Vergessen Sie nicht auf Ihre Daten auf <b>Speicherkarten</b>, die sich im Gerät befinden.</div></li>
+</ul>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Mobile Datenträger">Marcus Michalek</a></p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,62 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Notebook: Internetzugriff über WLAN-Hotspot</h1>
+<h2>Der Internetzugriff über WLAN-Hotspots in Hotels, Flughäfen etc. ist für Anwender eines Konzern-Notebooks bei bestehendem VPN-Zugang ab sofort möglich.</h2>
+
+<p>Wie bereits in der Ausgabe <b><a href="http://newsletter.porscheinformatik.at/int_d/Winter_2008/index.php?page=lo1">Winter 2008</a></b> angekündigt, wurde nach einer intensiven Pilotierungsphase nun die Nutzung von WLAN-Hotspots in Hotels, auf Flughäfen, etc. offiziell freigegeben. Für <b>kostenpflichtige</b> WLAN-Hotspots ist eine <b>Authentifizierung</b> nötig. Um sich auf der jeweiligen Betreiberseite anmelden zu können, haben wir eigens den kostenfreien <b><a href="index.php?page=bild_lo" title="POCSO-MiniBrowser">POCSO-MiniBrowser</a></b> für Sie entwickelt.</p>
+
+<p>Um sich von extern über einen kostenpflichtigen WLAN-Hotspot in das Firmennetzwerk einzuwählen, gehen Sie bitte wie folgt vor:
+
+<ul>
+<li><div>Stellen Sie eine WLAN-Verbindung her</div></li>
+<li><div>Rufen Sie den <b><a href="index.php?page=bild_lo" title="POCSO-MiniBrowser">POCSO-MiniBrowser</a></b> auf</div></li>
+<li><div>Authentifizieren Sie sich auf der Betreiberseite</div></li>
+<li><div>Starten Sie Ihren <b><a href="index.php?page=bild_lo2" title="VPN-Client">VPN-Client</a></b> direkt aus dem <b><a href="index.php?page=bild_lo" title="POCSO-MiniBrowser">POCSO-MiniBrowser</a></b></div></li>
+</ul>
+
+<p>Bitte beachten Sie, dass die Verwendung dieser Option nur bei einem bestehenden VPN-Zugang möglich ist. Sollten Sie Interesse an der Freischaltung der Option WLAN haben, wenden Sie sich bitte an Ihren
+EDV-Koordinator oder an den  <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">Service Desk</a></b>.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=WLAN-Hotspot">Herbert Lohninger</a></p>
+
+ 
+
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

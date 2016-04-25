@@ -1,0 +1,75 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Notebook: Sicherung Eigene Dateien</h1>
+<h2>Die Porsche Informatik hat ein Tool zur Sicherung wichtiger Daten vom Notebook auf den zentralen Firmenserver entwickelt.	 
+</h2>
+
+<p>Daten von Notebook-Benutzern können nach einem Festplattendefekt oft nicht (oder nicht vollständig) wiederhergestellt werden. Der Versuch wichtige Daten zu "retten" ist zudem mit enormen Kosten verbunden. Aus diesem Grund hat die Porsche Informatik das Tool <b><a href="index.php?page=bild_lo1" title="PORSCHE Notebook.Sicherung">PORSCHE Notebook.Sicherung Eigene Dateien</a></b> entwickelt.
+</p>
+
+<p>Es ermöglicht Ihnen, Dateien unter <b>D:\DATEN (Eigene Dateien)</b> vom Notebook automatisch bei jeder An- und Abmeldung oder manuell auf <b>U:\Eigene Dateien</b> am Fileserver zu sichern. Ausführlichere Informationen finden Sie in einer Beschreibung, die wir in der <b><a href="http://kb.auto-partner.net/int/hilfe/klbisinf.nsf/f9ca8c1665df61b3c1257345002cdb8b/8a00d876ad400a99c125731d0046757a?OpenDocument" target="_blank" title="Beschreibung" alt="Beschreibung">Porsche Informatik Infoline</a></b> für Sie abgelegt haben.
+</p>
+
+<p><b>Voraussetzungen:</b>
+<ul>
+<li><div>Porsche (POCSO) Standard Notebook</div></li>
+<li><div>Notebook muss einer Person zugeordnet sein (für Abteilungs- oder Leihnotebooks nicht möglich)</div></li>
+<li><div>Maximales Datenvolumen: 500MB auf <b>D:\Daten (Eigene Dateien)</b></div></li>
+<li><div>Regelmäßige Anmeldung am Porsche Netzwerk</div></li>
+<li><div>Daten befinden sich unter <b>D:\Daten (Eigene Dateien)</b></div></li>
+</ul>    
+</p>
+
+<p>Das Tool wird derzeit schrittweise bei allen Notebook Benutzern im Konzern aktiviert.
+Ob das Tool auf Ihrem Notebook bereits aktiviert wurde, erkennen Sie, wenn ein Eintrag namens <b>Sicherung Eigene Dateien</b> unter <b>Start - Programme - Eigenentwicklungen</b> vorhanden ist.
+</p>
+
+<p>Falls Sie bei der Installation des Tools vorgezogen werden möchten, wenden Sie sich bitte an Ihren
+EDV-Koordinator oder an das Customer Care Center der Porsche Informatik unter der DW 2222 oder online über <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">POI Online Support</a></b>.
+</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Tool zur Sicherung wichtiger Dateien">Herbert Harringer</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,15 @@
+<h1>CROSS 2: Europcar-Schnittstelle</h1>
+<h2>Eine neue Schnittstelle in CROSS erleichtert die Ersatz-Mobilität für Ihre Kunden!</h2>
+
+
+<p>Was tun, wenn der eigene Bestand an Service-Ersatzfahrzeugen (SEF) kurzfristig nicht ausreicht? Man greift zum Hörer und bestellt einen <b>Leihwagen</b> - z.&nbsp;B. bei Europcar, dem Marktführer in Österreich und Europa.</p>
+
+<p>Dazu mussten bisher alle Daten wie Kundenname, Adresse und der Zeitraum der Leihstellung durchgegeben werden. Mit Release 2.10 haben wir diese Abwicklung in Abstimmung mit Europcar wesentlich <b>vereinfacht</b>.</p>
+
+<p>Einzige Voraussetzung ist eine <b>Freischaltung</b> für Sie, die Sie bei Europcar beantragen können. Mit dieser Freischaltung finden Sie dann im Werkstattplaner eine neue <b>Mobilitätsart "Europcar"</b>. Mit Auswahl dieser Option werden alle relevanten Informationen für eine Leihwagenreservierung automatisch an Europcar übermittelt und der Leihwagenvertrag für Ihren Kunden durch die jeweilige Europcar-Geschäftsstelle vorbereitet.</p>
+
+<p>Weitere Informationen dazu gibt Ihnen Ihr Betreuer von <a href="http://www.europcar.co.at/" target="_blank" title="Zur Europcar-Website"><b>&raquo; Europcar</b></a> unter der Telefonnummer 01 - 866 16 55.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Europcar-Schnittstelle">Christian Witibschlager</a></p>
+

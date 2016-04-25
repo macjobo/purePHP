@@ -1,0 +1,15 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Anfahrt zum neuen Porsche-Informatik-Seminarraum in Salzburg</h1>
+                
+<div class="bild">        
+    
+<img src="images/anfahrt.jpg" alt="Anfahrt zum neuen Seminarraum" title="Anfahrt zum neuen Seminarraum" border="0" height="568" width="422">
+      
+</div>                    
+                    
+<p>
+<b>Anfahrt</b>:<br />
+Westautobahn von München (Flughafen Salzburg) bzw. von Wien kommend, Autobahnausfahrt Salzburg Nord, Richtung Zentrum über die Salzburger Straße und anschließend die Vogelweiderstraße, am Porschehof vorbei und an der Kreuzung rechts. Das Europcar-Gebäude befindet sich nach ca. 150 m  auf der linken Seite.
+</p>
+<p id="zurueck"><a href="index.php?page=roh">Zurück zum Artikel</a></p>

@@ -1,0 +1,12 @@
+<h1>CROSS 2: Schnittstelle Ölabgabe</h1>
+<h2>Bringen Sie Ihren Ölschwund unter Kontrolle!</h2>
+
+
+<p>Wie oft ist es in Ihrem Betrieb schon passiert, dass die verrechnete <b>Ölmenge</b> nicht mit der tatsächlich gezapften Menge übereinstimmt? Da kommt übers Jahr schon einiges zusammen. Moderne Ölmanagementsysteme helfen dabei, diese Fehlmengen unter Kontrolle zu bringen.</p>
+<p>Eines dieser Systeme - <b>Tecalemit</b> -  hat bereits die sogenannte <b>asanetwork-Zertifizierung</b>. CROSS verfügt ebenfalls über diese Zertifizierung - das eröffnet die Möglichkeit, direkt mit Tecalemit zu kommunizieren, die Eingaben dazwischen entfallen. Mit anderen Worten: Die Menge, die gezapft wird, steht garantiert am Auftrag und wird damit auch weiterverrechnet.</p> 
+<p>Gemeinsam mit der Fa. Kastner - dem Lieferanten von Tecalemit - haben wir das Ölmanagementsystem nach ausgiebigen Tests erfolgreich pilotiert und konnten diese Schnittstelle nun freigeben.</p>
+<p>Haben Sie Interesse an dieser Lösung? Dann finden Sie weitere Informationen zur <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/f0a52a2027b28f49c1257448004faeec?OpenDocument" target="_blank" title="Produktblatt CROSS-Tecalemit-Ölmanagementsystem-Schnittstelle "><b>Anbindung des Tecalemit-Ölmanagementsystems</b></a> in der POI-Infoline. Auch Ihr Key Account Manager der Porsche Informatik berät Sie natürlich gerne!</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Schnittstelle Ölabgabe">Christian Witibschlager</a></p>
+
+

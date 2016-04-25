@@ -1,0 +1,42 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Release 2.34: Mobile Serviceannahme</h1>
+<h2>Seit Anfang April ist das neue CROSS-Release 2.34 im Einsatz, hier ein Überblick über die wichtigsten Neuerungen zum Thema Mobile Serviceannahme.</h2>
+
+<img src="images/bild_wid2.jpg" width="190" height="120" title="Highlights MSA" />
+
+
+
+<p>
+Das neue CROSS-Release 2.34 bringt eine Reihe interessanter Neuerungen - hier die wichtigsten <b>Änderungen der Mobilen Serviceannahme</b>: 
+</p>
+
+
+<ul>
+
+<li><div>
+Bisher wurde eine vorhandene E-Mailadresse eines Kunden automatisch übernommen und konnte anschließend bearbeitet werden. 
+Nun werden alle <b>vorhandenen E-Mailadressen aller Geschäftspartnertypen</b> vom Fahrzeug angezeigt. 
+Anschließend können sie nach zugeordnetem Geschäftspartnertyp (Kunde, Eigentümer, Fahrer) erfasst und/oder ausgewählt werden.
+</div></li>
+
+
+<li><div>
+Optionen aus der Fahrzeugspezifikation können am <b>Fahrzeugdatenblatt</b> angedruckt werden<br />
+Auf dem Fahrzeugdatenblatt können auch Optionen, die in der Fahrzeugspezifikation erfasst wurden, angedruckt werden.
+</div></li>
+
+<li><div>
+Umfassende Maßnahmen wurden und werden gesetzt, um die <b>Stabilität</b> und die <b>Performance</b> weiter zu verbessern.
+</div></li>
+
+</ul>
+
+<p>
+Details zu diesen Funktionen, weitere Neuerungen sowie wichtige Informationen zum neuen Release entnehmen Sie der ausführlichen 
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/5a290e007cf51d2dc1257f7e004ee3d0?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>Änderungsbeschreibung im Partner.Net&nbsp;&raquo;</b></a>. 
+Auch die MitarbeiterInnen unseres Service Desk stehen für Ihre Fragen gerne zur Verfügung.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Highlights CROSS Release 2.34">Daniel Wiedemaier</a><br />
+POI PHS CROSS Consulting</p>
+

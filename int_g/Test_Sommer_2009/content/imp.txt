@@ -1,0 +1,22 @@
+<h1>Impressum </h1>
+                  <p>Porsche Informatik GmbH<br />
+                    Handelszentrum 7<br />
+                    A-5101 Bergheim<br />
+                    0043 . 662 . 4670-0<br />
+                    <a href="mailto:office@porsche.co.at">porsche-informatik@porsche.co.at</a><br />
+                   ATU 36773309<br />
+Gerichtsstand Salzburg<br />
+Ein Unternehmen der Porsche Holding<br />
+</p>
+<p>
+F&uuml;r den Inhalt verantwortlich:<br />
+<a href="mailto:gerlinde.holzschuh@porsche.co.at">Mag. DI (FH) Gerlinde Holzschuh</a><br />
+Service Level Management</p>
+
+
+<h1>Copyright</h1>
+<p>Alle Texte, Bilder und weitere im Porsche Informatik Newsletter ver&ouml;ffentlichte Informationen, mit Ausnahme der gekennzeichneten Artikel, unterliegen dem Copyright von Porsche Informatik. Eine Reproduktion oder Wiedergabe des Ganzen oder von Teilen ist ohne die schriftliche Genehmigung der Porsche Informatik nicht gestattet.</p>
+
+<h1>Haftungshinweis</h1>
+<p>Trotz sorgf&auml;ltiger inhaltlicher Kontrolle &uuml;bernehmen wir keine Haftung f&uuml;r die Inhalte externer Links. F&uuml;r den Inhalt der verlinkten Seite sind ausschlie&szlig;lich deren Betreiber verantwortlich. </p>
+          

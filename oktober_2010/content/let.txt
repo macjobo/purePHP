@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>SAP Tipp: Kundenbeurteilung mit OP-Rasterung</h1>
+<h2>Mit der SAP-Auswertung "Kundenbeurteilung mit OP-Rasterung" steht Ihnen ein effizientes Werkzeug zur Beobachtung Ihrer Außenstände zu Verfügung.</h2>
+
+<img src="images/bild_let.jpg" width="190" height="120" alt="Kundenbeurteilung mit OP-Rasterung" />
+
+<p>Wenn die Zeiten schwieriger werden, gilt es die <b>offenen Kundenforderungen</b> verstärkt im Blickfeld zu behalten. Ein straffes und regelmäßiges Mahnwesen liegt dabei im Zentrum des Kundenforderungsmanagements.</p>
+
+<p>Mit der SAP-Auswertung <b>"Kundenbeurteilung mit OP-Rasterung"</b> können wir Ihnen ein weiteres Instrument zur Beobachtung der Außenstände zur Verfügung stellen. Diese Auswertung liefert Ihnen eine <b>tabellarische Übersicht</b> über Ihre Kunden mit einer Gliederung der Forderungen nach <b>Belegalter</b>.</p>
+
+<p>Für alle bestehenden Buchungskreise wurden Varianten mit der <b>Rasterung</b> " bis 30 Tage | 31 - 60 Tage | 61 - bis 90 Tage | 91 - 120 Tage | 121 - 150 Tage | älter als 151 Tage" angelegt. Die Rasterung können Sie in der Auswertung natürlich auch individuell abändern.</p>
+
+<p>Details zu dieser Auswertung entnehmen Sie bitte dem Dokument <a href="http://kb.auto-partner.net/int/hilfe/klbsap.nsf/f9ca8c1665df61b3c1257345002cdb8b/21e35768cfbe41a2c1256f7e004a1281?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"FIBU Auswertungen"&nbsp;&raquo;</b></a> (Punkt 2.1.4: "Kundenbeurteilung mit OP-Rasterung") in der POI-Infoline. Für Fragen stehen Ihnen die Mitarbeiter/innen unseres Service Desks gerne zur Verfügung.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Kundenbeurteilung mit OP-Rasterung">Theresia Lechner</a><br />
+Beratung Rechnungswesensysteme</p>

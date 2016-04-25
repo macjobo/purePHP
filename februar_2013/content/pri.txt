@@ -1,0 +1,48 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Tipp: Rechtschreibprüfung in Lotus Notes</h1>
+
+<h2>Wie kann ich die Rechtschreibprüfung in Lotus Notes auf die neue deutsche Rechtschreibung umstellen?</h2>
+
+<img src="images/bild_pri.jpg" width="190" height="120" title="Rechtschreibprüfung in Lotus Notes" />
+
+
+
+
+<p>Sie befinden sich im <b>Lotus Notes</b> und wählen im Menü "Datei" - "Vorgaben" - "Benutzervorgaben".</p>
+
+<p>Anschließend öffnen Sie den Reiter "International" - "Rechtschreibprüfung". Im Feld "Primäres Wörterbuch" markieren Sie "Deutsch (neue Rechtschr.)" 
+und drücken die Schaltfläche <b>"Als Vorgabe festlegen"</b>. </p> <p>Mit OK können die Einstellungen gespeichert werden.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Rechtschreibprüfung in Lotus Notes">Nicola Priol</a><br />
+Marketing & Vertriebsassistenz</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

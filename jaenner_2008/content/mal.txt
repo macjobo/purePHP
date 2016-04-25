@@ -1,0 +1,28 @@
+<div class="umbruch">&nbsp;</div>
+
+
+
+<h1>POCSO: Tipps zur Datensicherung</h1>
+<h2>Beachten Sie einige grundlegende Punkte bei der täglichen Datensicherung und tragen Sie damit wesentlich zur Datensicherheit Ihres Unternehmens bei!</h2>
+
+
+
+<p>Die tägliche Datensicherung ist eine unabdingbare Voraussetzung zur Datenrettung, wenn an Ihrem Server ein unvorhergesehener Defekt auftritt. Wenn Sie folgende Punkte beachten, können Sie einen gröberen Datenverlust vermeiden:</p>
+
+<ul>
+<li><div>Die Datensicherung muss <b>täglich</b> durchgeführt werden und sollte automatisiert sein. POCSO-Betriebe erfüllen diese Anforderung, die regelmäßige Kontrolle über die ordnungsgemäße Durchführung der Datensicherung liegt aber dennoch in der Verantwortung des Betriebs.</div></li>
+
+<li><div>Datensicherungslaufwerke sind anfällig gegenüber <b>Verschmutzung</b> durch Staub-, Russ- und Ölablagerungen. Sorgen Sie daher für eine saubere Serverumgebung!</div></li>
+
+<li><div>Datensicherungslaufwerke unterliegen einer permanenten <b>Abnützung</b>, ihre maximale Wartungsdauer beträgt daher vier Jahre. Wir empfehlen Ihnen, sie nach Ablauf der Hardwarewartung <b>auszutauschen</b> und durch ein neues Laufwerk mit Wartung zu ersetzen.</div></li>
+
+<li><div>Tauschen Sie die <b>Datensicherungsbänder</b> spätestens alle 1,5 Jahre aus. Lagern Sie sie räumlich getrennt von der EDV-Anlage, trocken, nicht in der Sonne, bei gleich- bleibender Temperatur und geschützt vor Brand, Überschwemmung, Diebstahl, Vandalismus o.&nbsp;Ä.</div></li>
+
+<li><div>Dokumentieren Sie, wann welches Band verwendet wurde und lagern Sie ein Band regelmäßig außer Haus.</div></li>
+</ul>
+
+<p>Für Fragen zu diesem Thema steht Ihnen Ihr IT- und Organisationsberater der Porsche Informatik gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Tipps zur Datensicherung">Friedrich Malle</a></p>

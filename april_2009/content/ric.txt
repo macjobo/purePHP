@@ -1,0 +1,16 @@
+
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS 2: Gebrauchtwagen-Eingangsrechnung</h1>
+<h2>Mit dem CROSS Release 2.10 wird für den Gebrauchtwageneinkauf eine alternative Möglichkeit zur Verfügung gestellt: die "Hereinnahme mittels Gebrauchtwagen-Eingangsrechnung".</h2>
+
+<p>Bisher gab es beim Gebrauchtwagen-Einkauf nur die Möglichkeit, eine <b>Gebrauchtwagen-Gutschrift</b> zu erstellen, auch wenn vom Voreigentümer (z. B. der Leasingfirma) eine Rechnung für das Fahrzeug ausgestellt wurde. <b>Beide Belege</b>, CROSS-Gutschrift und Rechnung des Voreigentümers, waren gemeinsam abzulegen, wobei die Verbuchung des Fahrzeugeinkaufs auf Basis der CROSS-Gutschrift erfolgte.</p>
+
+<p>Ab CROSS 2.10 ist es nun möglich, die Zeitpunkte der <b>physischen Übernahme </b>und der <b>Buchung der Lieferantenrechnung</b> zu entzerren. Dabei wird bei der Hereinnahme des Gebrauchtwagens auf Basis der Einkaufsvereinbarung keine Verbuchung ausgelöst, das Fahrzeug aber als "eingekauft" gekennzeichnet. Die Verbuchung erfolgt bei dieser Variante erst durch die Erfassung der <b>Fahrzeug-Eingangsrechnung</b> des Lieferanten (Voreigentümers) im Gebrauchtwagen-Akt, also auf Basis des <b>Originalbeleges</b>.</p>
+
+<p>Prinzipiell stehen beide Einkaufsvarianten parallel zur Verfügung und können je nach Bedarf für jedes Geschäft individuell angewandt werden. Nähere Details finden Sie in der <b>Änderungsbeschreibung</b> zu CROSS 2.10, die wir etwa drei Wochen vor der Programmaussendung mit allen Informationen rund ums neue Release im Partner.Net zur Verfügung stellen werden.</p> 
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=GW-Eingangsrechnung ohne Gutschrift">Günther Richter</a></p>

@@ -1,0 +1,46 @@
+<h1>Porsche Informatik: Neues Rechenzentrum</h1>
+<h2>Das Rechenzentrum der Porsche Informatik übersiedelt in eines der modernsten Rechenzentren Europas! </h2>
+
+<img src="../images/bild_spi.jpg" width="190" height="120" alt="Neues Rechenzentrum" />
+
+<p>Das Rechenzentrum der Porsche Informatik im Porschehof in Salzburg hat inzwischen mehr als 10 Jahre zuverlässig seine Dienste geleistet. Nun wären aber eine Reihe von Umbau-, Erneuerungs- und Erweiterungsarbeiten notwendig gewesen. Das hätte zusätzlichen <b>Platz</b> und eine Menge von <b>Investitionen</b> erfordert.</p>
+
+<p>Da uns gerade Platz aber nicht wirklich ausreichend zur Verfügung steht, haben wir uns 2009 nach <b>Alternativen</b> zur Erweiterung des bestehenden Rechenzentrums umgeschaut. Letztlich fiel die Entscheidung, uns ab 1. Juli 2010 in das gerade entstehende Rechenzentrum der Firma <b><a href="http://www.conova.com/" target="_blank" title="conova communications" alt="">conova communications&nbsp;&raquo;</a></b> einzumieten. Dieses Rechenzentrum wird nach den aktuellsten <b>Sicherheits-, Verfügbarkeits- und Effizienzstandards</b> gebaut.</p>
+
+<p>Den Hauptanteil der Übersiedlungstätigkeiten führen wir im August und September durch - dann können wir Ihnen die Systeme für Ihren täglichen Betrieb aus einem der <b>modernsten Rechenzentren Europas</b> zur Verfügung stellen. Bis dahin ist aber noch sehr viel zu tun, denn die Logistik für das Übersiedeln hunderter Systeme ist natürlich äußerst herausfordernd. Wir werden die Planungen aber so gestalten, dass Sie als Anwender möglichst nichts davon merken - die Sicherheit und Stabilität Ihrer Anwendungen und Daten hat dabei höchste Priorität.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neues Rechenzentrum">Anton Spitzer</a></p>
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

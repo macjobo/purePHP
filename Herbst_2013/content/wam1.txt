@@ -1,0 +1,63 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Service Desk - Tipp: Geregelter Mitarbeitereintritt</h1>
+<h2>Bitte informieren Sie uns auch in Ihrem eigenen Interesse frühzeitig, wenn ein Mitarbeiter in das Unternehmen eintritt!</h2>
+
+ <img src="images/bild_wam1.jpg" width="190" height="120" alt="Geregelter Mitarbeitereintritt" />
+ 
+<p>Wenn Mitarbeiter in unsere Unternehmen eintreten, sind einige <b>administrative Vorbereitungen</b> notwendig: Benutzerdaten und Passwörter müssen angelegt werden; Benutzerrechte sowie Lizenzen vergeben und eingerichtet werden.</p>
+<p>Es ist daher wichtig, dass Sie uns die Daten von neuen Mitarbeiter möglichst frühzeitig vor deren Eintritt bekannt geben; nutzen Sie dafür bitte nach Möglichkeit die Lotus-Notes-Datenbank <b>"Porsche Mitarbeiter Ein-/Austritt"</b>.</p>
+
+
+<p>Wenn wir alle Information und Anforderungen sowie das Datum des Eintritts rechtzeitig erhalten haben, können Ihre neuen Mitarbeiter bereits am <b>ersten Arbeitstag</b> mit allen benötigten EDV-Systemen arbeiten. In unserem Online-Support finden Sie unter den meisten Applikationen eine entsprechende <b>Ausfüllhilfe</b> namens "Anfrage: Neuer Benutzer". (Berücksichtigen Sie aber ggf. auch Fachbereichsapplikationen, deren Benutzung nicht durch Porsche Informatik verwaltet wird.)</p> 
+
+
+<p>Denken Sie bitte auch daran uns zu verständigen, wenn Mitarbeiter das <b>Unternehmen verlassen</b> - die Zugangsdaten sowie Berechtigungen, Lizenzen, Passwörter und eventuelle kostenpflichtige Services müssen deaktiviert bzw. gelöscht werden. Nicht zuletzt verhindern Sie damit, dass unberechtigt oder ungewollt auf Daten zugegriffen wird oder Daten <b>missbräuchlich</b> verwendet werden.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Geregelter Mitarbeitereintritt">Markus Watzik</a><br />
+Leitung User Centric Services</p>
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

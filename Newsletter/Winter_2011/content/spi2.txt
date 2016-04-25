@@ -1,0 +1,17 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Automatischer Bildschirmschoner</h1>
+<h2>Um unseren Sicherheitsstandard an jenen von VW anzupassen, wird ab Mitte Jänner der Bildschirmschoner mit Kennwort automatisch aktiviert.</h2>
+
+<img src="images/Datenschutz.jpg" width="138" height="138" alt="" />
+
+<p>Ein weiterer Schritt unseren Sicherheitsstandard an jenen von VW anzupassen, besteht darin, dass der <b>Bildschirmschoner mit Kennwort</b> aktiviert wird, sobald zehn Minuten nicht am Gerät gearbeitet wurde. Es ist bereits jetzt schon Pflicht, sein Gerät zu sperren, wenn der Arbeitsplatz verlassen wird, so dass bei der Rückkehr zum Arbeitsplatz dieser mit dem Windowskennwort zu entsperren ist. Da auf das Sperren des Bildschirms jedoch vergessen werden kann, wird in Zukunft <b>nach zehn Minuten die Sperre automatisch in Kraft gesetzt</b>, um den Schutz zu vervollständigen.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Automatischer Bildschirmschoner">Anton Spitzer</a></p>
+
+
+
+
+
+

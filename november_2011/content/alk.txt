@@ -1,0 +1,50 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Service Desk: Zugriff auf E-Mail-Konten von Mitarbeitern</h1>
+
+<h2>Ohne schriftliche Einwilligung der Eigentümer können wir unter keinen Umständen Zugriff auf E-Mail-Konten gewähren.</h2>
+
+<img src="images/bild_alk.jpg" width="190" height="120" alt="Gebrauchtwagen-Eingangsrechnung" />
+
+<p>In den letzten Monaten haben wir am Service Desk mehrmals Anforderungen erhalten, in denen um <b>Zugriff auf E-Mail-Konten</b> bzw. <b>Abwesenheitsagenten</b> von Kollegen oder Mitarbeitern gebeten wird, weil diese sich im Krankenstand oder im Urlaub befanden. </p>
+
+<p>Diesen Zugriff können wir Ihnen aber ohne <b>schriftliche Einwilligung</b> des jeweiligen Postfachbesitzers nicht gewähren: Der Zugriff auf das Postfach anderer Personen unterliegt dem <a href="http://www.ris.bka.gv.at/Dokument.wxe?Abfrage=Bundesnormen&Dokumentnummer=NOR40093004" target="_blank" title="BKA - Rechtsinformationssystem"><b>§118 des Österreichischen Strafgesetzbuchs&nbsp;&raquo;</b></a>, wonach ein nicht autorisierter Zugriff eine <b>Verletzung des Briefgeheimnisses</b> darstellt, der mit einer Freiheitsstrafe bis zu drei Monaten oder mit einer Geldstrafe bis zu 180 Tagessätzen geahndet werden kann.</p>
+
+<p>Auch <b>ausgeschiedene Mitarbeiter</b>, die das Unternehmen bereits verlassen haben, gelten nach wie vor als Eigentümer ihres Mailfiles. Wir dürfen daher ohne deren Zustimmung weder eine Weiterleitung von E-Mails einrichten noch den Zugriff auf das Postfach gewähren.</p>
+
+<p>Wir empfehlen Ihnen daher, rechtzeitig mit Ihren Mitarbeitern zu den erwähnten Fällen entsprechende schriftliche <b>Vereinbarungen</b> zu treffen!</p> 
+
+<b>Beispiele für Betriebsvereinbarungen</b> finden Sie im <a href="http://www.google.at/search?q=betriebsvereinbarung+internet+und+email&hl=de&num=10&lr=&ft=i&cr=countryAT&safe=images" target="_blank" title="Beispiele"><b>Internet&nbsp;&raquo;</b></a> bzw. in der <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/f9ca8c1665df61b3c1257345002cdb8b/ba5c0ce1646de3aec12573d7005aea82?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>POI-Infoline.&nbsp;&raquo;</b></a>
+ 
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Zugriff E-Mail-Konten">Michela Alker</a><br />
+
+Incident Management Service Desk</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

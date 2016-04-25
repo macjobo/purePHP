@@ -1,0 +1,19 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp - Wartung Lagerort Obsoletteile</h1>
+<h2>Warum es wichtig ist, bei der Übernahme von Teilen aus dem Neu- in den Obsoletteilebestand auch einen Obsoletteilelagerort zu vergeben.</h2>
+
+<img src="images/bild_wag2.jpg" width="190" height="120" title="Wartung Lagerort Obsoletteile" />
+
+<p>Sie arbeiten mit <b>Obsoletteilen</b> und verwenden auch die Funktion <b>"Lagerort löschen"</b> in der Teileselektion? Wenn beides auf Sie zutrifft, dann beachten Sie bitte folgenden Hinweis:</p>
+
+<p>Für Neu-, Gebraucht- und Obsoletteile gibt es es jeweils eigene <b>Lagerorte</b>. Sie können diese Lagerorte über die Schaltfläche "Subl.Bestand" im Teilestamm im jeweiligen Teil kontrollieren und auch warten. Wenn Sie Teile aus dem Neu- in den Obsoletteilebestand übernehmen, dann sollten Sie für diese Teile auch einen <b>Obsoletteilelagerort</b> ("Lagerort Obs.") vergeben (auch wenn der Teil am ursprünglichen Lagerort verbleibt).</p>
+
+<p>Tun Sie dies nicht, besteht die Gefahr, dass bei der Löschung von Neuteilelagerorten die <b>Lagerortinformation</b> verloren geht. Bei einer solchen Löschung werden für gewöhnlich alle Teile ohne <b>Neu</b>teilebestand selektiert und im Anschluss der <b>Neu</b>teilelagerort gelöscht.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Wartung Lagerort Obsoletteile">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+

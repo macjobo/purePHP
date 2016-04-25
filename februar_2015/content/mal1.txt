@@ -1,0 +1,65 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Ende Serverbetriebssystem "Windows Server 2003" - Ende für Cisco Switch Modell 2950 - Rollout Windows Internet Explorer 11 - Allgemeine Softwareupdates von Adobe</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+
+
+
+<li><div><b>Ende Windows Server 2003 Betriebssystem per 31.3.2016</b><br />
+Seit nunmehr zehn Jahren haben wir das Betriebssystem Windows Server 2003 auf den POCSO Netzwerkservern im Einsatz. 
+Dieses Betriebssystem wird von Microsoft ab April 2015 nicht mehr gewartet. Daher ist es erforderlich, das Betriebssystem Windows Server 2003 abzulösen 
+und durch das derzeit aktuellste Betriebssystem Windows Server 2012 R2 zu ersetzen. 
+Aus wirtschaftlichen Gründen ist es daher auch ratsam, auf das neue HP Server Modell ML350 Gen9 umzustellen. 
+Wir werden die betroffenen Betriebe in den nächsten Wochen per Schreiben darüber informieren. Der Key Account Manager Ihres Unternehmens wird Ihnen ein Angebot dazu unterbreiten.
+ 
+
+
+ </div></li>
+
+
+<li><div>
+<b>Wartung und POCSO Ende für CISCO Switch Modell 2950 per 31.3.2016</b><br />
+
+Cisco Switches des Modells 2950 sind ebenfalls seit zehn Jahren im Einsatz und werden vom Hersteller Cisco nicht mehr unterstützt. 
+Um in den POCSO Netzwerken auch in Zukunft eine sichere Netzwerkinfrastruktur zur Verfügung zu stellen, 
+ist es somit erforderlich auf ein aktuelles Switchmodell von Cisco umzusteigen. 
+Die verfügbaren Modelle sowie Preisinformationen entnehmen Sie bitte dem <a href="http://www.snt.at/eshop" target="_blank" title="zum e-Shop"><b>e-Shop&nbsp;&raquo;</b></a> von 
+S&T (Benutzer: "900959-VWAprodAT-1", Passwort: "VWAprodAT") im Bereich "Netzwerk - Kommunikation - Switches" oder bei Herrn Markus Berghammer von S&T Austria GmbH (Tel.: 0662 - 850 285-1515).
+
+</div></li>
+
+
+<li><div>
+<b>Windows Internet Explorer 11 Rollout</b><br />
+Der Feldtest mit ca. 1.500 Anwendern konnte erfolgreich beendet werden, das Rollout des Internet Explorer 11 hat begonnen. 
+Die Installation erfolgt automatisch. Der EDV-Verantwortliche eines jeden Autohauses erhält vor Beginn der Umstellung per Mail eine Information über den Installationsablauf.
+Wir planen das Rollout bis Mitte März 2015 abzuschließen.
+
+</div></li>
+
+
+
+<li><div>
+<b>Adobe Flash Player Vers.16.0.0.296 und Adobe Shockwave Player Vers.12.1.6.156</b><br />
+
+Wieder einmal wird ein Security Update von Adobe verteilt.
+
+</div></li>
+
+
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

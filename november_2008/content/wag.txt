@@ -1,0 +1,16 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS 2: Automatischer CROSS-Lieferschein</h1>
+<h2>Für Betriebsverbünde bietet sich mit dem automatischen CROSS-Lieferschein eine Vereinfachung beim Austausch von Teilen unter den Betrieben an.</h2>
+
+<p>Sie arbeiten in einem <b>Betriebsverbund</b> und tauschen Teile zwischen den einzelnen Betrieben?</p>
+
+<p>Seit dem CROSS-Release 2.08 können Sie bei der Erstellung einer externen oder internen <b>Teilerechnung</b> bzw. eines <b>Teilelieferscheines</b> im belieferten Betrieb vom System automatisch einen Lieferschein erstellen lassen. Das zeitaufwändige und fehleranfällige Erstellen von manuellen Lieferscheinen fällt weg.</p>
+
+<p>Sind Sie an dieser Lösung interessiert? Dann wenden Sie sich bitte an Ihren CROSS-Berater. Er prüft die technischen Voraussetzungen und stellt Ihr CROSS-System entsprechend ein. Für diese CROSS-Option fallen <b>keine zusätzlichen Lizenzkosten</b> an.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Automatischer CROSS-Lieferschein">Gregor Wagner</a></p>
+

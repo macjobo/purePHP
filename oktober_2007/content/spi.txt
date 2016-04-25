@@ -1,0 +1,30 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit - Tipp: Verhalten am Arbeitsplatz</h1>
+<h2>Mit wenigen einfachen Maßnahmen können Sie die IT-Sicherheit in Ihrem Betrieb wesentlich unterstützen!</h2>
+
+<p>Die Daten Ihres Unternehmens sind ein schützenswertes Gut. Damit sie nicht unberechtigterweise verändert oder gelöscht werden oder in falsche Hände geraten, empfehlen wir Ihnen, folgende grundlegende Regeln zu beachten:</p>
+<p>
+<ul>
+
+<li><div>Sperren Sie Ihren PC, wenn Sie Ihren Arbeitsplatz verlassen: Mit der Tastenkombination <b>Strg + Alt + Entf</b> und Bestätigen der Auswahl <b>"Computer sperren"</b> (oder der Tastenkombination Windows-Taste + L-Taste) ist der Zugang zu Ihrem PC durch Ihr Anmeldepasswort geschützt.</div></li>
+
+
+<li><div>Hinterlegen Sie Ihr <b>Passwort</b> nicht am Bildschirm, unter der Tastatur oder an anderen einfach zu findenden Stellen. Auch ein leicht zu erratendes Passwort schützt nur unzureichend, auch wenn Sie z. B. den Namen einer bekannten Automarke mit einer oder mehreren Ziffern ergänzen.</div></li>
+
+<li><div>
+Bei allen <b>mobilen Geräten</b> wie PDAs, externen Festplatten, USB-Sticks, vor allem aber bei Notebooks müssen besondere Vorsichtsmaßnahmen beachtet werden. Diese Geräte sind schnell entwendet und (nicht verschlüsselte) <b>vertrauliche Betriebs- und Kundendaten</b> könnten in der Folge missbräuchlich verwendet werden.</div></li>
+
+<li><div>Lassen Sie mobile Geräte nie sichtbar im <b>Auto</b> liegen - auch, weil Sie damit den Versicherungsschutz verlieren! Sperren Sie die Geräte im Kofferraum ein oder nehmen Sie sie am besten mit.</div></li>
+
+</ul>
+</p>
+
+<p>
+Indem Sie diese einfachen Regeln in Ihrer täglichen Arbeit berücksichtigen, helfen Sie die IT-Sicherheit Ihres Unternehmen entscheidend zu erhöhen!
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=IT-Sicherheit">Anton Spitzer</a></p>
+
+
+

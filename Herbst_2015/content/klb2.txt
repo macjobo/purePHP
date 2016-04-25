@@ -1,0 +1,59 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Anwendungen: Notes 9 - Rollout und Highlights</h1>
+<h2>Nach der Pilotierung von Notes 9 in der POI steht nun das Breitenrollout im Konzern bevor.</h2>
+
+<img src="images/bild_klb2.jpg" width="126" height="120" title="Anwendungen: Notes 9 - Rollout und Highlights" />
+
+
+
+<p>Im Oktober 2014 haben wir mit den <b>Tests</b> für IBM Notes 9 begonnen; seit Anfang April läuft der neue Notes-Client in der Porsche Informatik erfolgreich im <b>Pilotbetrieb</b>.</p>
+
+<p>Jetzt stehen wir mit dem <b>Breiteneinsatz</b> im Konzern in den Startlöchern; voraussichtlich im Oktober werden die Notes-Clients in der Porsche Bank umgestellt. Bis zum Ende des Rollouts nächsten Sommer werden wir dann insgesamt knapp <b>16.000 Anwender</b> im Konzern auf die neue Version umgestellt haben.</p>
+
+
+<p>Welche Neuerungen bringt die neue Notes-Version, von welchen <b>Vorteilen</b> werden Sie als Anwender profitieren?</p>
+
+<ul>
+
+<li><div>Die <b>Suche</b> im Notes-9-Client wurde überarbeitet. Neu ist unter anderem die Möglichkeit, einen Suchlauf gleichzeitig im Mailfile und im Mailarchiv durchzuführen.
+</div></li>
+
+<li><div>Ein neues Feature in Notes 9 ist auch die Anzeige <b>"Nach Datum gruppieren"</b>. Ist sie aktiv, werden alle Mails nach Datum gruppiert; diese Ansicht kann dann auf Klick erweitert werden.
+</div></li>
+
+<li><div>Aktiviert man die Anzeige <b>"Anfang der Nachricht"</b>, so werden - abhängig von der Größe des Fensters - die ersten Wörter des Mailtextes angezeigt.
+</div></li>
+
+
+<li><div>Bekommt man auf ein E-Mail mehrere Antworten, so wird der <b>Konversationsbutton</b> aktiv. Klickt man auf diesen, sieht man alle E-Mails, die mit dieser Konversation zusammenhängen.
+</div></li>
+
+
+<li><div>Im neuen Notes 9 Client hat man im Mailfile die Möglichkeit, im Fenster rechts eine <b>Kalendervorschau</b> mit dem aktuellen Tagesplan einzublenden.
+</div></li>
+
+<li><div>In den Kalendervorgaben konnte man bereits bisher die <b>Farben</b> für alle Standardeinträge wie Besprechungen, Termine usw. bestimmen. In der Version 9 wurde nun die Möglichkeit ergänzt, auch selbst definierte Kategorien farblich individuell zu gestalten.
+</div></li><li>
+
+
+<div>Die <b>Kalenderansichten</b> können personalisiert werden, z. B. als Zusammenfassung der Einträge statt der Standardansicht in Zeitintervallen.
+</div></li>
+
+
+
+</ul>
+
+
+
+<p>Details zu diesen und vielen weiteren Neuerungen finden Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/b00d4cf946308426c1256ed9004402bd/48dab64b7df1f73fc1257de20045d0f6?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>Porsche Informatik Infoline&nbsp;&raquo;</b></a>.</p>
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Anwendungen: Notes 9 - Rollout und Highlights">Joachim Maislinger</a><br />
+Software Engineer IBM Lotus </p>
+
+
+

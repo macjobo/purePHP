@@ -1,0 +1,59 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Highlights Release 2.20 - Service</h1>
+<h2>Ende Juni ging das neue CROSS-Release 2.20 in den Breiteneinsatz, hier nochmals ein Überblick über die wichtigsten Neuerungen im Bereich Service.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="CROSS 2.120 Highlights" />
+
+
+<p>Das neue CROSS-Release 2.20 bietet Ihnen auch im <b>Service-Bereich</b> eine Reihe interessanter Neuerungen:</p>
+
+<ul>
+
+
+<li><div>
+Unter bestimmten Konstellationen kann der <b>Verrechnungsgrad</b> einer Arbeitsposition nicht ermittelt werden. Da man die Anzahl dieser Fälle als sehr gering einstufte, wurde in diesen Fällen der Verrechnungsgrad mit 100% festgesetzt. In der Praxis hat sich aber gezeigt, dass diese Konstellationen doch häufiger vorkommen. Hierbei handelt es sich zumeist um "falsche" Abwicklungen: So wird z. B. eine Arbeitspositionen für einen Fahrzeugtyp verwendet, für den diese Arbeitsposition gar nicht vorgesehen ist. Diese <b>Sonderfälle</b> werden nun in der <b>Auswertung "Verrechnungsgrad"</b> separat angeführt und können auch in den Auftragspositionsauswertungen dargestellt werden.
+
+</div></li>
+
+<li><div>
+In manchen Fällen wird ein Nachlass auf Arbeitserlöse durch eine Verringerung der Sollzeit (welche laut Arbeitspositionsstamm empfohlen wäre) bewerkstelligt. Die betroffenen Auftragspositionen können nun mittels <b>"Auftragsselektion nach Buchhaltungsdaten"</b> ermittelt werden. (siehe auch  Artikel <a href="index.php?page=wit"><b>"Verrechnungsgrad"&nbsp;&raquo;</b>)</a>
+</div></li>
+
+<li><div>
+Vor Einsatz des Releases 2.20 musste eine Lieferfähigkeitsabfrage durchgeführt werden, bevor eine <b>Teilebörseabfrage</b> durchgeführt werden konnte. Diese Abhängigkeit wurde beseitigt. Für eine Teilebörseabfrage wurden nun auch eigene Menüpunkte und Schaltflächen geschaffen.
+</div></li>
+
+<li><div>
+Mit diesem Release wird pro <b>Teileauftragsposition</b> geprüft, ob der Wareneinsatz größer ist als der Erlös. Davor wurde lediglich geprüft, ob der Bruttogewinn aller Teile positiv ist. Weiters werden nun auch Gewährleistungspositionen berücksichtigt.
+</div></li>
+
+<li><div>
+
+Wurde vor dem Abstempeln eine <b>Stempelkorrektur</b> (Anpassung der Pausenzeit) durchgeführt, dann wurde diese Korrektur der Pausenzeit bei der Abstempelung wieder überschrieben. Ab diesem Release wird die Pausenzeit bei der Abstempelung nicht mehr überschrieben.
+
+</div></li>
+
+<li><div>
+
+Wurde mittels Modul "Auftragsweitergabe" eine <b>Fremdleistung</b> in einem CROSS-Auftrag angelegt, dann wurde dies in den meisten Fällen mit einem Standard-Verkaufspreis von "9.999.999.-" getan. Dieser Wert hat bei der Berechnung von Abgrenzungen eine negative Auswirkung. Daher werden bei Abgrenzungen Positionen mit dem betriebsspezifischen Standardwert nicht mehr berücksichtigt.
+</div></li>
+
+
+</ul>
+
+
+<p>Details zu diesen Funktionen und allen weiteren Neuerungen des neuen Release entnehmen Sie bitte der ausführlichen <b>Änderungsbeschreibung</b>, die wir vor der Release-Einspielung in einem gesonderten <b>Rundschreiben</b> im Partner.Net veröffentlicht haben. Auch die MitarbeiterInnen unseres Service Desks stehen für Ihre Fragen gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS 2.20 Highlights">Gregor Wagner</a><br />
+CROSS-Fachkoordination</p>
+
+
+
+
+
+
+
+
+

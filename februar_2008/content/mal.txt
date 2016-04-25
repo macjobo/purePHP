@@ -1,0 +1,19 @@
+<div class="umbruch">&nbsp;</div>
+
+
+
+<h1>POCSO: Nutzung von Microsoft Office 2003</h1>
+<h2>Ab sofort ist die Installation des Softwarepakets Microsoft Office 2003 auf einzelnen Arbeitsplätzen im POCSO-Netzwerk möglich.</h2>
+
+
+<p><b>Microsoft Office 2000</b> (Word, Excel, PowerPoint, Access) ist seit dem Jahr 2001 im POCSO-Netzwerk im Einsatz. Aus Kosten-Nutzen-Überlegungen heraus haben wir bisher auf den Wechsel auf ein neues Office-Paket verzichtet.</p>
+<p>Auf manchen Arbeitsplätzen kann es jedoch erforderlich sein, eine neuere Office-Version zu installieren, damit das Zusammenspiel mit neuer Zusatzsoftware einwandfrei funktioniert. Wir haben nun im POCSO-Umfeld die Möglichkeit geschaffen, <b>Microsoft Office 2003</b> auf einzelnen Arbeitsplätzen einzusetzen. Office 2003 ist selbstverständlich mit allen Standardanwendungen im POCSO-Netzwerk wie CROSS, SAP, VU2 etc. kompatibel.</p>
+
+<p>Nähere Informationen sowie das <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/f9ca8c1665df61b3c1257345002cdb8b/13b6d41f885a7382c12573ee0051cabe?OpenDocument" title="Produktblatt Microsoft Office 2003 Installation" target="_blank"><b>Produktblatt zur Installation von Microsoft Office 2003</b></a> können Sie in der Porsche Informatik Infoline aufrufen.</p>
+
+
+<p>Über die <b>weitere Strategie</b> im Umgang mit Office-Software (MS Office 2007, Open Office) im POCSO-Netzwerk ab dem Jahr 2009 werden wir Sie im Herbst 2008 informieren. </p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Nutzung Microsoft Office 2003">Friedrich Malle</a></p>

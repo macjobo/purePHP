@@ -1,0 +1,13 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS 2: Aufruf CROSS Infoline</h1>
+<h2>Mit der Funktionstaste F1 können Sie jetzt direkt aus CROSS heraus die CROSS Infoline aufrufen.</h2>
+
+<p>Wenn Sie aus CROSS 2 heraus die <b>Taste F1</b> drücken, werden Sie ab sofort unmittelbar zur <b>CROSS Infoline</b> geleitet, einer umfangreichen Sammlung an Ablaufbeschreibungen und wertvollen Tipps. Wie schon beim Aufruf aus dem Partner.Net bekannt, präsentiert sich zuerst die News-Seite mit den aktuellsten Informationen. Der Klick auf das Register <b>"Inhalt"</b> führt Sie dann durch die Dokumentation rund um CROSS 2 Handel und Service.</p>
+<p>Über das Menü <b>"Hilfe"</b> in CROSS 2 ist dieser Aufruf ebenfalls möglich. Darüber hinaus finden Sie hier den Menüpunkt <b>"Änderungsbeschreibungen"</b>, der Sie direkt zur Zusammenfassung aller für CROSS verfügbaren Änderungsbeschreibungen und außerdem zum neuen <b>CROSS 2 Handbuch</b> bringt. Da die Änderungsbeschreibung immer kurz vor einer Releaseeinspielung veröffentlicht wird, können Sie sich so schon vor der Aussendung über die kommenden Änderungen informieren.</p>
+<p>In einer der nächsten CROSS-Versionen gehen wir noch einen Schritt weiter: Dann wird es möglich sein, mit F1 direkt eine Beschreibung des gerade offenen CROSS-Anwendungsfensters aufzurufen.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Aufruf CROSS-Infoline">Christian Witibschlager</a></p>
+

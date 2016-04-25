@@ -1,0 +1,14 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>SERVICE DESK:  Neue Mitarbeiter</h1>
+
+<p>                
+<div class="bild">        
+    
+<img src="images/bild_gross1.jpg" width="520" height="332" alt="bild_gross1 (20K)" />
+      
+</div>                    
+                    
+
+</p>
+<p><a href="index.php?page=wam">&raquo;&nbsp;Zurück zum Artikel</a></p>

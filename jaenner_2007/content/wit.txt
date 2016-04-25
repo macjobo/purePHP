@@ -1,0 +1,69 @@
+<h1>CROSS: Vorschau auf 2007</h1>
+<h2>Das Jahr 2007 bringt eine Reihe von neuen CROSS-Schnittstellen und Funktionalitäten, die die Abwicklung Ihrer Geschäftsprozesse noch besser unterstützen werden.</h2>
+
+<p>Die Umstellung auf CROSS 2 ermöglicht Ihnen heuer die Nutzung folgender neuer Abwicklungen und Anbindungen an Drittsysteme:</p>
+<ul>
+
+
+<li><b>Interaktive Servicekommunikation</b>:<br />
+Verlängerte Wartungsintervalle, Longlife-Service und längere §&nbsp;57/a-Überprüfungsperioden erschweren die zielgerichtete Kundenansprache und den Verkauf von Servicedienstleistungen. Mit der interaktiven Servicekommunikation wird Ihnen die zielgerichtete Marktbearbeitung im Bereich Service wesentlich erleichtert.</li>
+<li><b>Schnittstelle zu Audapad</b>:<br />
+Ein langgehegter Wunsch wird nun 2007 in die Realität umgesetzt: Mit der Schnittstelle zu Audapad können Kostenvoranschläge direkt in CROSS 2 übernommen und als Auftragspositionen verwendet werden.</li>
+<li><b>ASANET-Einführung</b>:<br />
+Nach Abschluss der Pilotierung erfolgt heuer die Freigabe der CROSS-ASANET-Schnittstelle zum Breiteneinsatz. Mit der optionalen Anbindung an ASANET haben Sie direkten Zugriff auf Prüf- und Messdaten ASANET-fähiger Werkstattgeräte, wie z.B. Achsmessstände, Ölabgabesysteme oder EBV.</li>
+<li><b>SAGA 2</b>:<br />
+Ab Herbst kommt die neue Gewährleistungsabwicklung auch nach Österreich. CROSS 2 wird entsprechend darauf vorbereitet.</li>
+<li><b>Wegfall der Dieselpartikelfilter-Berechnung</b>:
+<br />Mit 1.7.2007 entfällt die NOVA-Bonus-Malus-Berechnung. Diese Änderung wird natürlich auch in CROSS berücksichtigt.</li>
+
+</ul>
+     
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorschau auf 2007">Christian Witibschlager</a></p>
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

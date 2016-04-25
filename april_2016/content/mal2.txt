@@ -1,0 +1,38 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: IBM Notes 9 Rollout startet</h1>
+<h2>IBM Notes ist die Mailingplattform die uns im täglichen Geschäftsleben unterstützt. Auch hier ist es von Zeit zu Zeit erforderlich, 
+um den softwaretechnischen Ansprüchen gerecht zu werden, auf neue Programmversionen upzudaten.</h2>
+
+<img src="images/bild_mal2.jpg" width="190" height="120" title="IBM Notes 9" />
+
+
+
+<p>
+Aus diesem Grund wird ab sofort mit dem <b>Rollout von IBM Notes 9</b> gestartet. In der Porsche Informatik und auch bei den Importeuren wird bereits seit geraumer Zeit mit der neuen Version gearbeitet. 
+Nach erfolgreichen Pilotierungen bei Betrieben mit POCSO Netzwerk starten wir nun auch hier das Rollout, das <b>bis Ende Juli 2016</b> laufen wird. 
+Selbstbetreute Betriebe mit i-Notes Web Mail Zugang werden anschließend auf die neue Mailingversion von Notes umgestellt.</p>
+
+
+<p>Den EDV-Verantwortlichen der POCSO Netzwerke haben wir in den letzten Tagen eine <b>Planungsdatenbank</b> übermittelt, in der sich nun jeder Betrieb seinen Umstellungstermin selbst aussuchen kann.
+ Die Umstellung ist über Nacht geplant. Vorab nimmt ein Mitarbeiter der Porsche Informatik Kontakt mit Ihnen auf, bzw. werden über die Planungsdatenbank bereits jetzt Informationen
+ zum neuen Notes 9 zur Verfügung gestellt. Diese Informationen erhält auch jeder Notes User im Zuge der Umstellung. 
+Aus der Erfahrung hunderter Umstellungen ist normalerweise der Umgang mit der neuen Notes Version in weiten Bereichen <b>selbsterklärend</b>, da er auf der bisherigen Notes Version nahtlos aufbaut. </p>
+
+<p>
+Eine neue Funktion von Notes 9 ergibt sich im Zusammenspiel mit dem CROSS.Dokumentenmanagement, Auftrags- und Aktarchiv. 
+Durch die Verwendung des .eml-Dateiformates können E-Mails aus einem Kundenkontakt in den neuen CROSS Archivclient per <b>Drag & Drop</b> übernommen werden. 
+Dies spart Zeit und ermöglicht eine einfache E-Mail Archivierung bei erforderlicher Dokumentation eines E-Mail Verkehrs.
+</p>
+
+
+
+<p>
+Die Umstellung auf die neue Version von IBM Notes ist in der POCSO Dienstleistung enthalten und für Sie mit <b>keinen zusätzlichen Kosten</b> verbunden, wir bitten Sie jedoch um aktive Unterstützung. 
+Für Fragen stehen Ihnen der Porsche Informatik Service Desk bzw. Ihr Key Account Manager gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=IBM Notes 9 Rollout">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

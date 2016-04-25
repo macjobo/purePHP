@@ -1,0 +1,28 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Hardware: Neue Notebooks</h1>
+<h2>Mit den neuen HP EliteBooks 6930p und 8530p haben wir zwei Notebooks für höchste Ansprüche in den POCSO-Standard aufgenommen.</h2>
+
+
+<p>Mit den neuen Notebooks setzt HP auf die optimale Kombination aus minimalistischem Design und maximaler Widerstandsfähigkeit. Es stehen zwei Modellvarianten zur Verfügung:</p>
+<p>
+<ul>
+<li><div><b>HP EliteBook 6930p</b> (14,1-Zoll-Display): Der Notebook-PC setzt neue Maßstäbe für Produktivität mit mehr als 17 Stunden Akkubetriebszeit (erreichbar mit optionalem HP Hochleistungs-Reiseakku).</div> </li>
+
+
+<li><div><b>HP EliteBook 8530p</b> (15,4-Zoll- Display): Diesen Notebook-PC zeichnen nicht nur erstklassige (erweiterbare) Mobilität, sondern auch leistungsfähige Grafik und Kompaktheit aus.</div></li>
+</ul>
+
+Die wichtigsten <b>Ausstattungsmerkmale</b> beider Notebooks:
+<ul>
+<li><div>Intel Core 2 Duo Processor P8600 (2.4 GHz, 1066 MHz FSB)</div></li>
+<li><div>2 GB DDR2 Hauptspeicher mit 800Mhz, (8 GB maximal) </div></li>
+<li><div>160 GB Festplatte 7.200 U/min.</div></li>
+
+</ul>
+Nähere Informationen über die HP EliteBooks <a href="http://h10010.www1.hp.com/wwpc/at/de/sm/WF05a/321957-321957-64295-89315-89315-3688868.html" target="_blank" title="EliteBook 6930p auf der HP-Website"><b>&raquo;&nbsp;6930p</b></a> und <a href="http://h10010.www1.hp.com/wwpc/at/de/sm/WF05a/321957-321957-64295-3329741-3329741-3782310.html" target="_blank" title="HP EliteBook 8530p auf der HP-Website"><b>&raquo;&nbsp;8530p</b></a> erhalten Sie direkt auf der HP-Website.
+</p>
+
+<p>Durch die <b>Porsche-Einkaufskonditionen</b> können Sie die Notebooks über S&T Austria zu sehr attraktiven Preisen beziehen. Informationen erhalten Sie im  <a href="https://www.domino.porsche.at/int/db/pub/ehnprod.nsf" target="_blank" title="zum e-Shop"><b>&raquo;&nbsp;e-Shop</b></a> (Benutzer: "Poiprod-VWA", Passwort: "Poiprod-VWA") im Bereich "Notebooks" oder bei Herrn Markus Berghammer (Tel.: 0662 - 850 285-1515).</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neue HP Elite Notebooks">Friedrich Malle</a></p>

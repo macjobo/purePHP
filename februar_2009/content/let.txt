@@ -1,0 +1,26 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS 2: "Freie Rechnung"</h1>
+<h2>Mit der neuen Auftragskategorie "Freie Rechnung" können Sie aus CROSS heraus Rechnungen erstellen, die nicht "typisch" für das Servicegeschäft sind.</h2>
+
+<p>Die "Freie Rechnung" ist ein <b>eigener Auftragstyp in CROSS</b>, mit dem Sie die wiederkehrende Verrechnung von Nebenerlösen durchführen können, die nicht in Zusammenhang mit Ihrem Service-Betrieb stehen. 
+<p>Damit haben Sie ein ideales Werkzeug, um <b>Service-fremde Erlöse</b> (z. B. Versicherungs-spesen, Transporte, NW-/GW-Stornogebühren, Miete für Gebäude o.&nbsp;Ä.) über <b>CROSS zu fakturieren</b>. Das manuelle Schreiben von Buchungsanzeigen aus WORD sowie die manuelle Verbuchung dieser Belege entfällt.</p>
+<p>
+Die Vorteile dieser Abwicklung:
+<ul>
+
+<li><div>Die <b>Belegerstellung</b> erfolgt über CROSS. Dadurch stehen Ihnen alle Möglichkeiten wie Stornofunktion, Druck der Rechnungsabschrift, Historie, etc. zur Verfügung.</div></li>
+<li><div>Die <b>Verbuchung</b> erfolgt bei der Tagesendverarbeitung im Rahmen der Kundendienst-Batch-Input-Mappen.</div></li>
+<li><div>Die <b>Verrechnung</b> am Auftrag erfolgt über spezielle diverse Verrechnungen.</div></li>
+<li><div>Die diverse Verrechnung ermöglicht eine <b>variable Textgestaltung</b>.</div></li>
+<li><div>Die Belegnummerierung der freien Rechnung/freien Gutschrift erfolgt in einem <b>eigenen Nummernkreis</b>.</div></li>
+
+</ul>
+</p>
+
+Alle Informationen rund um die <a href="http://kb.auto-partner.net/int/hilfe/klbsap.nsf/AllByID/17F5387A96753670C125754000377464?OpenDocument" target="-_blank" title="Produktblatt Aktivierung der Freien Rechnung"><b>&raquo; Aktivierung der "Freien Rechnung"</b></a> finden Sie in der POI-Infoline, auch Ihr Key Account Manager der Porsche Informatik berät Sie gerne.
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Freie Rechnung">Theresia Lechner</a></p>
+

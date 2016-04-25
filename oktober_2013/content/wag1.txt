@@ -1,0 +1,23 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS: Auto-Z Integration</h1>
+<h2>Erforderliche Maßnahmen in CROSS.</h2>
+
+<img src="images/bild_wag1.jpg" width="190" height="120" alt="Auto-Z Integration" />
+
+<p>Wie bereits von der Auto-Z kommuniziert, werden die Agenden der Auto-Z vom Teilevertriebszentrum in Salzburg übernommen. 
+Diese Übernahme erfolgt in mehreren Phasen und hat auch Auswirkungen auf CROSS. </p>
+
+
+<p>In der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/0ad8e7876cbaa2b1c1257bd700391430?OpenDocument" 
+target="_blank" title="Zur Porsche-Informatik-Infoline">Porsche Informatik Infoline&nbsp;&raquo;</a> finden Sie eine Dokumentation, die die erforderlichen Maßnahmen in CROSS während dieser Übernahmephasen beschreibt.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Auto-Z Integration">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+

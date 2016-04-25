@@ -1,0 +1,30 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>VU2: Neue VU2-Version 3.00</h1>
+<h2>Die neue VU2-Version 3.00 befindet sich bereits bei einigen Betrieben im Testeinsatz.
+Der Breiteneinsatz wird mit Mitte April 2016 abgeschlossen sein.
+</h2>
+
+<img src="images/bild_stz.jpg" width="190" height="120" title="Verkaufsunterstützung" />
+
+
+
+<p>
+Im Zuge technischer Umstellungen wurde die <b>Benutzeroberfläche</b> der VU2 auf den aktuellen <b>Windows-Standard</b> angepasst. 
+Nach vielen Jahren erscheint die VU2 nun in einem zeitgemäßen und moderneren Design.
+</p>
+
+<P>
+Zusätzlich wurden einige <b>Programmanpassungen</b> vorgenommen wie z.B. die Anbindung an den neuen Car Configurator oder Anpassungen für das neue Porsche Bank Produkt "Jahresfinanzierung".
+
+</p>
+
+
+<P>
+Alle Details zur Version 3.00 erhalten Sie wie gewohnt automatisch bei erstmaligem Start der VU2 nach Einspielung der Version.
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue VU2-Version 3.00">Heinz Strutzmann</a><br />
+Teamleitung VU2</p>

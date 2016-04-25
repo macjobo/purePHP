@@ -1,0 +1,29 @@
+<h1>CROSS Release 2.14: Aktivitätenmanagement</h1>
+<h2>Das aktuelle CROSS Release 2.14 bringt Verbesserungen im Bereich Aktivitätenmanagement bzw. CROSS Infos.</h2>
+
+<img src="images/bild_ric.jpg" width="190" height="120" alt="CROSS 2.12 Highlights" />
+
+
+<p>Das CROSS-Aktivitätenmanagement erinnert Sie an <b>wichtige Termine</b> oder <b>Aktionen</b>, die mit Ihren Kunden, Aufträgen oder anderen CROSS-Stammdaten in Verbindung stehen. Mit dem neuen CROSS Release 2.14, das am 22. Jänner in den Breiteneinsatz geht, ist das CROSS-Aktivitätenmanagement nun generell für alle CROSS-Anwender <b>aktiviert</b>. </p>
+
+<p>Gleichzeitig wurden mit dem neuen Release einige Verbesserungen umgesetzt: Die <b>Anzahl der offenen Aktivitäten</b> für den angemeldeten Benutzer wird nun in der CROSS-Statusleiste angezeigt; die Aktivitätenliste kann von dort direkt per Mausklick geöffnet werden. Außerdem haben wir die <b>Übersichtlichkeit</b> der geplanten Aktivitäten verbessert.</p>
+
+<p><b>CROSS Infos </b>(Notizen, Hinweise und Aktivitäten) können nun auch mit Aufträgen verknüpft und im Auftrag bearbeitet werden. Außerdem wurden die <b>Auswertungsmöglichkeiten</b> für CROSS Infos erweitert.</p>
+
+
+</ul>
+
+<p>Alle wichtigen Informationen zum Aktivitätenmanagement entnehmen Sie bitte der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/5023e5b47563b7dac12577bd00237301?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Änderungsbeschreibung zu CROSS 2.14&nbsp;&raquo;</b></a> in der POI-Infoline, auch die MitarbeiterInnen unseres Serice Desks stehen Ihnen bei Fragen gerne zur Verfügung.</p>
+
+<p>Eine Beratung zum CROSS-Aktivitäten-Management durch einen CROSS-Berater der Porsche Informatik können Sie über das Produktblatt <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/33a1cdfb8e81e976c12575e0004795c9?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Beratung CROSS Aktivitätenmanagement"&nbsp;&raquo;</b></a> anfordern; die Beratung kann über Ihr Guthaben aus der CROSS Vier-Stunden-Beratung abgerechnet werden.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Aktivitätenmanagement">Günther Richter</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+

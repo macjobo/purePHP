@@ -1,0 +1,69 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Support: Unsere Dienstleistungen</h1>
+<h2>Sie wissen, dass Sie sich am Service Desk melden können, wenn Sie ein PC-Problem haben. Aber kennen Sie das gesamte Spektrum dessen, was unsere Supportteams leisten?</h2>
+
+ <img src="images/bild_wam.jpg" width="190" height="120" alt="Unsere Dienstleistungen" />
+ 
+<p>Die Porsche Holding wächst - und mit ihr die Anforderungen an den Support und unsere Servicedienstleistungen. 
+Rund <b>30.000 Benutzer</b> in 21 Ländern Europas sowie in China und Südamerika arbeiten mit Systemen der Porsche Informatik. 
+An unserem zentralen Service Desk verzeichnen wir täglich mehrere hundert Anfragen zu unseren Anwendungen und Services.</p>
+
+<p>Sie reichen von Unterstützung zur Inbetriebnahme des neuen <b>Smartphones</b> über fachliche Anfragen zur Abwicklung 
+in einer <b>Applikation</b> bis hin zur <b>Benutzeranlage</b> eines neuen Mitarbeiters in Ihrem Betrieb. Insgesamt bieten wir aktuell Service- und Supportdienstleistungen für rund <b>200 unterschiedliche Lösungen</b> an - dies 
+erfordert ein strukturiertes Vorgehen und eine möglichst gute Eingrenzung der Anfrage bereits beim ersten Kontakt.</p>
+
+<p>Alle Anfragen, die am Service Desk eingehen, werden <b>dokumentiert</b> und - sofern sie nicht bereits durch den Service Desk Agent 
+gelöst werden können - an eines der <b>Fachteams weitergeleitet</b>. Hier gliedert sich unsere Organisation in knapp <b>hundert unterschiedliche Spezialistenteams</b>, 
+welche an der Lösung der Anfragen beteiligt sind. </p>
+
+<p>IT-Support für die Porsche Holding und ihre Märkte - eine spannende und abwechlungsreiche Herausforderung, der wir uns als Supportmitarbeiter jeden Tag gerne stellen!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Unsere Dienstleistungen">Markus Watzik</a><br />
+Leitung User Centric Services</p>
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,41 @@
+
+<h1>CROSS: Vorschau auf Release 2.17 - Allgemein und NW/GW</h1>
+<h2>Im September geht das neue CROSS-Release 2.17 in den Breiteneinsatz, hier ein Überblick über die wichtigsten Neuerungen im Bereich Geschäftspartner/Fahrzeug sowie Neu- und Gebrauchtwagen.</h2>
+
+<img src="images/bild_ric.jpg" width="190" height="120" alt="CROSS 2.17 Highlights" />
+
+
+<p>Das neue CROSS-Release 2.17 bringt im Bereich von <b>Geschäftspartner-/Fahrzeugdaten</b> sowie <b>Neu- und Gebrauchtwagen</b> einige Änderungen und neue Funktionalitäten:</p>
+
+
+
+<ul>
+
+<li><div>
+In der Liste der Geschäftspartner, die das Ergebnis der <b>Geschäftspartnersuche</b> anzeigt, werden nun standardmäßig die Spalten <b>Geburtsdatum</b> und <b>Umsatzsteuer-Identifikationsnummer (UID)</b> angezeigt. Das dient der leichteren eindeutigen Identifizierbarkeit von Geschäftspartnern, besonders bei Namensgleichheiten. 
+</div></li>
+
+<li><div>
+Um die Performance von <b>Geschäftspartner- bzw. Fahrzeug-Selektionen</b> zu verbessern, können nun <b>Zusatzfelder</b> (z.&nbsp;B. Mandanten-abhängige Daten, Umsätze, Kontaktpersonen, ...) bei Bedarf individuell zum Selektionsergebnis hinzugefügt werden. Bisher konnten nur entweder alle oder gar keine Zusatzfelder ergänzt werden. Beachten Sie bitte, dass das Selektionsergebnis standardmäßig unsortiert ausgegeben wird. (Bei Bedarf muss eine Sortierung gewählt werden, was die Selektion dann aber verlangsamt.)
+</div></li>
+
+<li><div>
+Die <b>Ereignisse für Neuwagen-Eingangsrechnungen</b> (Jahresboni), die im Zuge der Jahresendverarbeitung des Importeurs (JEV-Einspielung) in CROSS erzeugt werden, werden wie bisher pro Neuwagen-Akt protokolliert, sind nun aber im Zuge der routinemäßigen Abarbeitung der CROSS-Ereignisliste nicht mehr <b>abzeichnungspflichtig</b>.
+</div></li>
+
+
+
+</ul>
+
+<p>Weitere wichtige Informationen zum neuen Release entnehmen Sie bitte einem gesonderten <b>Rundschreiben</b>, das wir rechtzeitig vor der Release-Einspielung zusammen mit einer ausführlichen <b>Änderungsbeschreibung</b> im Partner.Net veröffentlichen werden. Auch die MitarbeiterInnen unseres Service Desks stehen für Ihre Fragen gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS 2.17 Highlights">Günther Richter</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+

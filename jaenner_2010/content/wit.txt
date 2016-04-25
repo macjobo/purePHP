@@ -1,0 +1,16 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Anwendungen: Neue EBV-Version 3.4</h1>
+<h2>Der Österreichische Wirtschaftsverlag liefert aktuell die neue EBV-Version 3.4 aus - POCSO unterstützt daher die Version 3.2 nur mehr bis Ende Februar. Betriebe, die diese Version noch im Einsatz haben, sollten umgehend auf die neue Version umsteigen!</h2>
+
+
+<img src="images/bild_wit.jpg" width="190" height="120" alt="Neue EBV-Version 3.4" />
+
+<p>Im letzten Jahr wurden die meisten Betriebe bereits auf die EBV-Version 3.3 mit dem <b>neuen "Mängelkatalog Plus"</b> umgestellt. POCSO-Betriebe haben dabei von einer automatischen und kostenlosen Installation durch die Porsche Informatik profitiert.</p>
+
+<p>Da die Version 3.2 <b>verpflichtende Prüfpunkte</b> nicht mehr enthält, empfehlen wir jenen Betrieben, die noch nicht auf Version 3.3 umgestellt haben, dies so bald als möglich nachzuholen. Die Bestellung der EBV-Software ist dabei an den <b>Österreichischen Wirtschaftsverlag</b> zu richten.</p>
+
+<p>Mittlerweile liefert der Wirtschaftsverlag bereits die Version 3.4 aus und hat Sie möglicherweise bereits darüber informiert. Das <b>Upgrade</b> von Version 3.3 ist laut Wirtschaftsverlag kostenlos. POCSO-Betriebe, die heute schon über die Version 3.3. mit "Mängelkatalog Plus" verfügen, erhalten die Installation im Lauf des Februar wiederum als <b>automatische Dienstleistung</b> durch die Porsche Informatik gratis, Sie müssen selbst keinerlei Schritte setzen!</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neue EBV-Version 3.4">Christian Witibschlager</a></p>

@@ -1,0 +1,32 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Tipps und Tricks: Passwort-Safe - feine Sache!</h1>
+<h2>Der Passwort-Safe steht im Konzern seit ca. einem Jahr zur Verfügung. Die Anzahl der Anwender, die ihn nutzen, ist aber noch überschaubar! Dabei kann er das Arbeitsleben sehr erleichtern.</h2>
+
+<img src="images/bild_spi.jpg" width="190" height="120" alt=Passwort-Safe" />
+
+<p>Die meisten von uns arbeiten täglich mit mehr als einer Anwendung, und fast überall muss man sich mit <b>Benutzer</b> und einem <b>Passwort</b> anmelden, das über eine bestimmte Länge und Komplexität verfügen muss.</p>
+
+<p>Wäre es nicht praktisch, wenn das quasi <b>auf Knopfdruck</b> ginge? Genau das leistet der Passwort-Safe!</p>
+
+<ul>
+
+<li><div>Öffnen Sie dazu am besten morgens den Passwort-Safe (in der Taskleiste rechts unten unter "Ausgeblendete Symbole einblenden"), klicken Sie auf das <b>Schlüsselsymbol</b> und wählen Sie "Passwort-Safe" aus.
+</div></li>
+
+<li><div>Legen Sie <b>neue Einträge</b> so an, dass der Passwort-Safe das jeweilige Anmeldefenster dem Eintrag selbständig zuordnen kann. Der Eintrag für Partner.Net etwa sollte auch "Partner.Net" heißen, der Eintrag für FlowER heißt dann z.&nbsp;B. "Anmelden", weil dieser Text auf dem Anmeldefenster erscheint. Beim Partner.Net-Eintrag tragen Sie Ihren Benutzer und das Kennwort ein und drücken Sie "OK". Bei FlowER genügt das Kennwort, da FlowER den Benutzer abspeichert - daher müssen Sie hier auch den Eintrag "Autotype" ändern, d.&nbsp;h. den Text "<b>{USERNAME}{TAB}</b>" entfernen, so dass nur noch "<b>{PASSWORD}{ENTER}</b>" verbleibt. Bei IBM Notes verhält es sich ebenso.
+</div></li>
+
+<li><div>Wenn Sie jetzt z. B. das Partner.Net starten, müssen Sie nur mehr in das Feld "Benutzer" klicken und die Tastenkombination <b>"Strg + Alt + A"</b> drücken -  voilá: Benutzername und Kennwort werden automatisch eingefügt! Bei FlowER funktioniert es ähnlich: FlowER starten, der Cursor blinkt normalerweise schon im Feld Kennwort. Die Tastenkombination Strg + Alt + A drücken - jetzt wird nur das Kennwort eingefügt, die Anmeldung erfolgt.
+</div></li>
+
+</ul>
+
+<p>
+So kann man Einträge für die verschiedensten Anwendungen erzeugen; bei den allermeisten funktioniert die halbautomatische Anmeldung - wichtig: bei <b>offenem</b> Passwort-Safe! Weitere Infos dazu finden Sie im POCSO-PC-Benutzerhandbuch auf dem Desktop Ihres Computers, auch die Kolleginnen und Kollegen im Service Desk unterstützen Sie gerne!
+</p>
+
+
+
+<a href="mailto:info@porscheinformatik.at ?subject=Passwort-Safe">Anton Spitzer</a><br />
+Leitung Infrastruktur Services
+</p>

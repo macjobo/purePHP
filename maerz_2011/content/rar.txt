@@ -1,0 +1,27 @@
+<h1>CROSS: Erfahrungen mit Terminbuchung Online</h1>
+<h2>Die Tiroler Porsche-Inter-Auto-Betriebe setzen seit einigen Monaten das CROSS-Modul "Terminbuchung online" ein - Datenmanager Josef Pfurtscheller berichtet über die ersten Erfahrungen.</h2>
+
+<img src="images/bild_rar.jpg" width="190" height="120" alt="Online-Terminbuchung" />
+
+
+<p>Im November 2010 startete die <b>VOWA Innsbruck</b> als erster Pilotbetrieb mit dem CROSS-Modul "Terminbuchung Online", das wir Ihnen <a href="http://newsletter.porscheinformatik.at/dezember_2010/index.php?page=map" target="_blank" title="Zur POI-Infoline"><b>im Dezember-Newsletter&nbsp;&raquo;</b></a> bereits vorgestellt haben.</p>
+<p><b>Josef Pfurtscheller</b>, Datenmanager in der VOWA Innsbruck, berichtet über die ersten Erfahrungen mit dem System: "Die <b>Einführung</b> der Anwendung hat außerordentlich gut geklappt. Bedenken im Vorfeld, dass der <b>Aufwand</b> mit der neuen Lösung steigen wird, wurden schnell zerstreut. Die beteiligten Kollegen stehen voll hinter der Lösung. Wir glauben alle, dass Werkstattbuchungen über das Internet die Zukunft sind."</p>
+
+<p>Und wie nehmen die <b>Autohaus-Kunden</b> die neue Möglichkeit an? "Die Terminbuchungen sind erst im Anlaufen, werden aber mit jeder Aussendung, in der wir darauf hinweisen, mehr. Die Kunden, die die Möglichkeit bereits nutzen, sind damit sehr zufrieden!"</p>
+
+<p>Josef Pfurtschellers Rat an alle Autohäuser, die die "Terminbuchung online" einführen möchten: "Viele <b>E-Mail-Adressen</b> erfassen, um die Lösung an die Kunden zu bringen! Denn wer seine Terminerinnerung per E-Mail erhalten möchte, ist auch bereit, seinen Termin online zu buchen."</p>
+<p>Sind auch Sie an dieser Lösung interessiert? Dann finden Sie alle Informationen zum neuen CROSS-Modul <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/c83d81b0999d94efc12577e400423b72?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Terminbuchung online"&nbsp;&raquo;</b></a> in der POI-Infoline, auch Ihr Key Account Manager der Porsche Informatik berät Sie gerne.</p>
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Online-Terminbuchung">Robert Rauter</a><br />
+Key Account Manager Porsche Inter Auto</p>
+
+
+
+
+
+
+

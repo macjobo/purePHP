@@ -1,0 +1,16 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Tipps und Tricks: Nützliches in Notes</h1>
+<h2>IBM Notes bietet eine Menge nützlicher Funktionen, die viele gar nicht kennen. Heute stellen wir Ihnen vor, wie man eine Mail-Nachricht weiterverarbeiten kann.</h2>
+
+<img src="images/bild_spi2.jpg" width="126" height="120" alt=Nützliches in Notes" />
+
+<p>Sie bekommen z. B. ein <b>E-Mail</b> mit einem Terminvorschlag. In der Zeile über der Nachricht finden Sie ganz rechts den Begriff "Mehr". Klicken Sie darauf und wählen Sie den Menüpunkt <b>"Kopieren in neue(n)"</b> und dann unter "Kalendereintrag" den Typ "Besprechung", setzen Sie das richtige Datum und eventuell einen sprechenden Titel. Schon haben Sie einen <b>Kalendereintrag</b> mit dem Absender der ursprünglichen Nachricht als Teilnehmer, dem Text des E-Mails als Beschreibung für die Besprechung und Sie können die Einladung versenden.</p>
+
+<p>Zur Erinnerung, weil auch das viele nicht wissen: Will man <b>innerhalb der Porsche Holding</b> einen Besprechungstermin vereinbaren, so kann man sich von Notes mögliche Termine dafür vorschlagen lassen. Im Termineintrag ganz unten finden Sie den Reiter <b>"Nach verfügbaren Zeiten suchen"</b>. Hier kann man für den aktuellen Tag, für die nächsten sieben oder die nächsten 30 Tage Vorschläge generieren lassen - wenn man das Datum entsprechend einstellt, praktisch beliebig in die Zukunft. Dabei kann man - bei einer großen Teilnehmerrunde - auch noch auswählen, ob alle dabei sein müssen oder nur 75 oder 50 Prozent der Teilnehmer.</p>
+
+<p>In gleicher Weise kann man über den Menüpunkt "Kopieren in neue(n)" auf Basis einer Nachricht übrigens auch eine <b>Aufgabe erstellen</b> und mit Terminen versehen.</p>
+
+
+<a href="mailto:info@porscheinformatik.at ?subject=Nützliches in Notes">Anton Spitzer</a><br />
+Leitung Infrastruktur Services
+</p>

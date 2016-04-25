@@ -1,0 +1,32 @@
+<h1>IT-Sicherheit: Verschlüsselung von USB-Datenträgern</h1>
+<h2>Um die Sicherheit in Bezug auf firmeneigene Daten zu erhöhen, werden wir im Herbst eine Standardlösung zum Verschlüsseln von USB-Datenträgern einsetzen.</h2>
+
+ <img src="images/bild_lo1.jpg" width="100" height="120" alt="USB-Datenträger" />
+
+<p>Datensicherheit wird in unserer Organisation mit hoher Aufmerksamkeit behandelt. Der bislang relativ lockere Einsatz von <b>externen Datenträgern</b>, z. B. USB-Sticks, ist damit eigentlich nicht gut vereinbar.</p>
+<p>Daher arbeiten wir gerade eine Lösung aus, die <b>Firmendaten</b>, die auf externen Datenträgern gespeichert werden, besser vor Missbrauch, Verlust oder Diebstahl schützen soll. Sie wird wie folgt aussehen:</p>
+
+<ul>
+
+<li><div><b>Lesezugriff</b>: Es wird nach wie vor möglich sein, unverschlüsselte USB-Datenträger zu lesen (z. B. von Partnern, Lieferanten, etc.)
+</div></li>
+
+<li><div><b>Schreibzugriff</b>: Sobald  jedoch Daten auf einem USB-Datenträger gespeichert werden, wird dieser Datenträger verschlüsselt.
+</div></li>
+
+</ul>
+
+<p>Dabei wird sich die eingesetzte Anwendung automatisch öffnen und den Datenträger per Installationsassistenten <b>verschlüsseln</b>. Das Passwort vergeben Sie selbst; es ist an den Datenträger - z. B. einen USB-Stick - gebunden.<p>
+				
+<p>Wir werden dazu eine sogenannte <b>transparente Verschlüsselungsmethode</b> verwenden. Das bedeutet, dass Sie auf Ihrem Arbeitsplatz für den Dateizugriff wie gewohnt den Windows Explorer verwenden können.</p>
+				
+<p>Wenn Sie den Datenträger an einem konzernfremden PC anschließen, steht Ihnen mit <b>"Flexplorer"</b> ein spezielles Tool für den Zugriff auf Ihre Daten zur Verfügung. Dieses Tool wird automatisch auf jedem USB-Datenträger abgelegt.</p>
+
+<p>Sobald die Lösung verfügbar ist, werden wir Sie nochmals gesondert informieren. Selbstverständlich wird es dann auch im <b>POCSO-PC-Benutzerhandbuch</b>, das Sie auf Ihrem Desktop finden, eine Beschreibung dazu geben.</p>		
+
+
+
+<a href="mailto:info@porscheinformatik.at ?subject=USB-Datenträger">Herbert Lohninger</a><br />
+Teamleitung Client Konzern
+</p>
+

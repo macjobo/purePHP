@@ -1,0 +1,67 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neue Client-Broschüre</h1>
+<h2>Seit kurzem bieten wir eine Client-Broschüre für neue MitarbeiterInnen an.</h2>
+
+<img src="images/broschuere.jpg" width="105" height="200" alt="broschüre" />
+
+<p>Das Clientteam bietet seit kurzem eine <b>Broschüre</b> für neue MitarbeiterInnen an, die im Rahmen jeder PC-Auslieferung verteilt wird.
+Ziel ist es, neuen MitarbeiterInnen den Einstieg in die IT-Welt bei Porsche zu erleichtern.</p>
+
+<p>Die Broschüre gibt einen <b>Überblick</b> über die häufigsten IT-Themen:</p>
+
+<ul>
+<li><div>Wo findet man Beschreibungen rund um den Client?</div></li>
+<li><div>Wo finde ich Informationen zu meinem Arbeitsplatz?</div></li>
+<li><div>An wen wende ich mich, wenn ich ein Problem mit meinem Computer habe?</div></li>
+<li><div>Wie kann ich mein Windows-Kennwort ändern?</div></li>
+<li><div>Wie kann ich Software/Hardware bestellen?</div></li>
+<li><div>u.v.m.</div></li>
+</ul>
+
+<p>Wir hoffen, dieser kleine Ratgeber hilft unseren neuen KollegInnen beim Start in unserem Unternehmen.
+Sollten Sie selbst Interesse an der Broschüre haben, fordern sie diese bitte über unseren Service Desk an.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Client-Broschüre">Herbert Lohninger</a></p>
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,18 @@
+<h1>CROSS 2: Vorschau auf Release 2.08</h1>
+<h2>Das neue CROSS-Release 2.08 wird gerade von einigen Pilotbetrieben getestet, der Breiteneinsatz erfolgt Mitte Mai.</h2>
+
+
+Werfen Sie mit uns einen Blick auf die wichtigsten Neuerungen und Änderungen, die das neue CROSS-Release 2.08 bringt:
+
+<ul>
+<li><div><b>Vordefinierte Selektionen</b>: Durch diese Neuerung können Sie komplexe Selektionen im Zuge von Importeursaktionen komfortabel abwickeln. Sie erhalten in Zukunft eine Konfigurationsdatei, mit der Sie die vorgeschlagenen Kriterien per Mausklick übernehmen können.</div></li>
+<li><div><b>IPACS-Schnittstelle zu CROSS</b>: Mithilfe dieser Schnittstelle können Sie Zubehör aus dem IPACS-Warenkorb 	 zum Bestellen in CROSS übernehmen.</div></li>
+<li><div><b>Transportschaden-Abwicklung</b>: Transportschäden-Reparaturen werden nun automatisch zu den erforderlichen Bedingungen berechnet, ein manueller Eingriff entfällt.</div></li>
+<li><div><b>CO<sub>2</sub>-Besteuerung</b>: In den Fahrzeugrechnungen werden stichtagsgerecht die neuen Regeln der Ökologisierungssteuer berücksichtigt (Details in einem eigenen <a href="index.php?page=wit">Artikel zum Thema</a>).</div></li>
+<li><div><b>NoVA-Rückvergütung bei GW-Export</b>: Die in Verbindung mit einem GW-Export anfallende NoVA-Rückvergütung wird nun automatisch verbucht.</div></li>
+</ul>
+
+Den genauen Einspieltermin und einen Link auf die aktuelle Änderungsbeschreibung mit allen Neuerungen im Detail erhalten Sie rechtzeitig als <b>Rundschreiben im Partner.Net</b>.
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorschau auf Release 2.08">Gregor Wagner</a></p>
+

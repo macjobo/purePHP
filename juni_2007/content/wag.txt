@@ -1,0 +1,52 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: NORA-Kennzeichen im Auftrag</h1>
+<h2>Prüfen Sie direkt im CROSS-Auftrag, ob eine NORA-Meldung erfolgt ist oder nicht.</h2>
+
+<p>Bis zur CROSS Version 2.03 war es im Auftrag nicht ersichtlich, ob eine <b>NORA-Meldung</b> erfolgt ist oder nicht. Diese Information konnte nur "indirekt" aus dem NORA-Fehlerprotokoll bezogen werden. Das war insbesondere bei der Korrektur von Aufträgen ohne NORA-Meldung störend, da unter Umständen das Stornieren des Auftrages und die anschließende Korrektur ohne Erfolg blieben. Dies ist z.B. der Fall, wenn mehrere <b>Subaufträge</b> vorhanden sind und ein Teil davon zum Zeitpunkt der Korrektur abgerechnet war.</p>
+
+Seit der CROSS Version 2.04 können Sie direkt im Auftrag prüfen, ob die NORA-Meldung erfolgt ist bzw. erfolgen wird. Wählen Sie dazu im Reiter "3 Sub 1" die Schaltfläche  <b>"Weitere Infos"</b>, im Fenster "Weitere Informationen" sehen Sie dann das Feld "NORA-Meldung".
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=NORA-Kennzeichen im Auftrag">Gregor Wagner</a></p>
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

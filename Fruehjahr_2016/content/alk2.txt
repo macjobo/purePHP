@@ -1,0 +1,90 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Service Desk: Jahresrückblick 2015</h1>
+<h2>Kennzahlen helfen uns, die Leistungen unserer Supportteams besser zu messen und zu steuern -  Ihnen geben Sie einen Einblick, womit wir im vergangenen Jahr beschäftigt waren.</h2>
+
+<img src="images/bild_alk2.jpg" width="190" height="120" title="Jahresrückblick 2015" />
+
+
+<p>Was haben wir im <b>Service Desk</b> im vergangenen Jahr eigentlich für Sie, die Anwender im Konzern, geleistet? Die Kennzahlen, die wir dazu ermitteln, geben Ihnen dazu einen kleinen Überblick: </p>
+
+
+<p><b>Kunden und Services:</b></p>
+
+<ul>
+
+<li><div>Der Service Desk ist die zentrale Anlaufstelle für rund <b>33.000 Anwender</b>!
+</div></li>
+
+<li><div>Im letzten Jahr haben wir Supportanfragen aus <b>20 Ländern</b> erhalten.
+</div></li>
+
+<li><div>Wir sind erster Ansprechpartner für ca. <b>200 Business Services</b> (Applikationen).
+</div></li>
+</ul>
+
+<p><b>Ticketvolumen:</b></p>
+
+<ul>
+<li><div>Wir haben ca. <b>100.300 Tickets</b> bearbeitet, davon waren etwa 83.400 Kundenanfragen.
+</div></li> 
+
+<li><div>16.900 Tickets kamen aus der Systemüberwachung, also Störungen, die wir beheben konnten, bevor die Anwender etwas davon bemerkten.
+
+</div></li>
+
+<li><div>Knapp <b>33.800 Tickets</b> haben die Anwender selbst über unseren Online-Support erstellt. 
+</div></li>
+
+</ul>
+
+
+<p><b>Bearbeitungszeiten:</b></p>
+
+<ul>
+
+<li><div>Die durchschnittliche Reaktionszeit lag bei <b>ca. 55 Minuten</b> (vom Erstellen des Tickets bis es in Arbeit genommen wird).
+</div></li>
+
+<li><div>Die durchschnittliche Lösungszeit über alle Anfragen lag bei <b>ca. 4,5 Stunden</b>.
+</div></li>
+
+<li><div>Knapp <b>51 Prozent</b> der Kundenanfragen wurden vom Organisationsbereich User Centric Services gelöst; davon mehr als <b>20 Prozent</b> bereits im <b>Erstkontakt</b> durch den Service Desk. 
+</div></li>
+
+</ul>
+
+
+<p><b>Anfrufvolumen:</b></p>
+
+
+<ul>
+<li><div>Im Service Desk erreichten uns 2015 <b>48.840 Anrufe</b>.
+</div></li>
+
+<li><div>Im Schnitt musste ein Kunde knapp <b>25 Sekunden</b> warten, bis sein Anruf entgegen genommen wurde.
+</div></li>
+
+
+</ul>
+
+<p>Zusätzlich haben wir im letzten Jahr auch unsere zentrale IT Service Management Applikation sowohl technisch als auch anwendungssseitig auf neue Beine gestellt, um Ihnen noch bessere Hilfe rund um Ihre IT-Anliegen bieten zu können.
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Jahresrückblick 2015">Michaela Alker</a><br />
+Teamleitung Service Desk</p>
+
+
+
+
+
+
+
+
+
+
+
+
+

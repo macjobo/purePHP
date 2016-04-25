@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Neue Definition "Anwesenheit"</h1>
+<h2>Die geänderte Definition von "Anwesenheit" durch die Händlerfinanzberatung der Porsche Austria hat Auswirkungen auf die Konfigurationen der Tätigkeiten in CROSS.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Neue Definition Anwesenheit" />
+
+<p>Im Rundschreiben 228/2010 hat die Händlerfinanzberatung (HFB) darüber informiert, dass die Definition der <b>"Anwesenheit" von Mechanikern</b> geändert wurde.</p>
+
+<p>Diese Änderung hat zur Folge, dass die <b>Tätigkeiten "W10 (Schulung intern)", "W16 (Abschleppen)" und "W17 (Meistervertretung)"</b> in Ihrer Konfiguration in den CROSS-Stammdaten automatisch durch Porsche Informatik geändert wurden. Im Dokument <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/810d04763b9cd700c12577d000511682?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Änderung Tätigkeiten-Konfiguration&nbsp;&raquo;</b></a> in der POI-Infoline beschreiben wir die Auswirkungen auf die CROSS-Wartung und die damit in Zusammenhang stehenden Tätigkeiten der POI.</p>
+
+<p>In diesen Themenbereich fällt auch die <b>Verrechnung interner Leistungen</b>. Daher möchten wir an dieser Stelle nochmals auf die aktualisierte Dokumentation zum Thema <a href="http://kb.auto-partner.net/int/hilfe/klbsap.nsf/3873a90d457994cec1257345002cdb87/eecfd2dbdcea78cbc12577e4003f6682?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Interne Geschäftsfälle"&nbsp;&raquo;</b></a> hinweisen; auch diese Beschreibung finden Sie in der POI-Infoline.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Definition Anwesenheit">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

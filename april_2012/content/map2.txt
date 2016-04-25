@@ -1,0 +1,44 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS: Neue Barcode-Lösung</h1>
+<h2>Die neue CROSS-Option "CROSS.SERVICE.barcode" unterstützt zahlreiche Aufgaben und Arbeitsabläufe in Ihrem Betrieb.</h2>
+
+<img src="images/bild_map2.jpg" width="190" height="120" alt="CROSS.SERVICE.barcode" />
+
+
+<p>Mit <b>"CROSS.SERVICE.barcode"</b> können Sie viele Prozesse in Ihrem Unternehmen vereinfachen und beschleunigen. Kostspielige Fehler, die bei manueller Eingabe immer wieder einmal auftreten, lassen sich durch die Verwendung von Barcodes leichter vermeiden.</p>
+
+<p>Mit dem Einsatz der neuen Barcode-Lösung können Sie folgende Abläufe optimieren: </p>
+
+
+<ul>
+
+<li><div>Führen Sie <b>Warenübernahme</b> und <b>Zubuchung</b> direkt mit einem WLAN-Barcodecscanner durch. 
+</div></li>
+
+<li><div>Erfassen Sie Ihre <b>Inventur</b> mit einem WLAN-Barcodescanner (auch offline möglich).
+</div></li>
+
+<li><div>Ändern Sie den <b>Lagerort von Teilen</b> ganz einfach am WLAN-Barcodescanner. 
+</div></li>
+
+<li><div>Beschleunigen Sie über einen USB-Barcodescanner die <b>Teileaufbuchung</b> am Auftrag, z. B. für den Zubehör-Shop. 
+</div></li>
+
+<li><div><b>Stempeln</b> Sie sich mit einem USB-Barcodescanner ohne Tastatureingabe am PC am Auftrag an.
+</div></li>
+
+
+</ul>
+<p>
+Sie haben auch die Möglichkeit, <b>Verkaufs- oder Lageretiketten</b> selber zu drucken. Somit können Sie Teile einer Lieferung mit Lageretiketten ausstatten oder Verkaufsetiketten zur Preisauszeichnung erstellen. Etiketten können für einzelne Teile oder für eine Auswahl von Teilen (Teileselektion) erstellt werden.</p>  
+
+<p>Alle Details rund um die neue <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/614845abc5b9f358c125790c0047499a?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>CROSS-Barcode-Lösung&nbsp;&raquo;</b></a> finden Sie in der Porsche-Informatik-Infoline. Auch Ihr Key Account Manager der Porsche Informatik berät Sie gerne.  Darüber hinaus stellen wir die neue Lösung auch im Rahmen der CROSS-Anwendertage vor.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.SERVICE.barcode">Petra Macher</a><br />
+Key Account Management</p>
+
+
+ 

@@ -1,0 +1,33 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Von den hunderten Änderungen, die wir Woche für Woche in Ihrem Netzwerk durchführen, merken Sie als Anwender meist nichts. Hier der Hinweis auf aktuelle Neuerungen, die sich spürbar auf Ihre tägliche Arbeit mit dem PC auswirken können.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+<ul>
+
+<li><div>Nachdem die ersten Umstellungen ohne Probleme verlaufen sind, erfolgt nun das Breiten-Rollout der neuen <b>ELSA-Version 3.81</b>; bis zum 22.12 werden alle Betriebe umgestellt sein. Das Update läuft jeweils am Abend, beim nächsten Start erhalten die ELSA-Arbeitsplätze automatisch die neue Version. </div></li>
+
+<li><div>Das Rollout der neuen <b>EBV-Programmversion 3.5.02</b> ist nun abgeschlossen; die Installation erfolgte im Rahmen der POCSO-Dienstleistungen kostenlos!</div></li> 
+
+
+<li><div>
+<b>Eurotax</b> hat sein Berechnungsprogramm, das auch von der VU2 genutzt wird, geändert. Alle VU2-Arbeitsplätze werden bis spätestens Mitte Jänner auf die neue Version 3.4.0.23 upgedatet.</div></li>
+
+
+</ul>
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der POI.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>
+
+
+
+
+
+
+

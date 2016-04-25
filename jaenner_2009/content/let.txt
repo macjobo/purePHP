@@ -1,0 +1,27 @@
+<h1>CROSS 2: Änderungen Kassabuch mit 2.09</h1>
+<h2>Das neue CROSS-Release bringt im Bereich Kassabuch eine wesentliche Funktionalitäts-erweiterung.</h2>
+
+<p>Mit dem CROSS-Release 2.09, welches die österreichischen Betriebe dieser Tage erhalten (mittels geteilter Aussendung am 17. bzw. 24. Jänner), wurde das Kassabuch mit der <b>Kennzeichnung der kassierten Rechnungen</b> kostenlos um eine wesentliche Funktion erweitert!</p>
+
+<p>Wir empfehlen Ihnen, von Beginn an für Ihren Betrieb zu entscheiden und festzulegen, ob diese neue Funktion genutzt werden soll oder nicht. Nur eine <b>durchgängige Verwendung</b> ermöglicht Ihnen, den Vorteil dieser Neuerung zu nutzen, nämlich dass konsequent der Zahlungseingang mit Hilfe des Kassabuchs durchgeführt wird. Die Vorteile, die sich daraus ergeben, sind die <b>Anzeige des Rückgeldes</b> und eine Übersicht über die <b>bereits erfolgten Zahlungen</b>.</p>
+
+<p>Weitere Highlights im Bereich Kassabuch mit Release 2.09:
+
+<ul>
+<li><div>Möglichkeit zur <b>Splitteinzahlung</b></div></li>
+<li><div>Aufruf der <b>OP-Anzeige</b> aus dem Kassabuch</div></li>
+<li><div>Übernahme eines <b>einzelnen Offenen Posten/Saldos</b> in das Kassabuch</div></li>
+</ul>
+
+</p>
+
+<p><a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/9E5EFF5010FDD0BBC125753800512761?OpenDocument" target="_blank" title="Änderungen im Kassabuch mit CROSS-Release 2.09"><b>&raquo; Alle Informationen zum Umgang mit der neuen Funktionalität</b></a> haben wir Ihnen in der POI-Infoline zusammengefasst. Für Fragen stehen Ihnen die Mitarbeiter unseres Service Desks gerne zur Verfügung.</p>
+
+<p>Sie haben das CROSS-Kassabuch noch nicht im Einsatz, Ihr Interesse ist aber geweckt? <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/054e1856227a364bc125720b002fb0b3?OpenDocument" target="_blank" title="Produktblatt CROSS-Kassabuch"><b>&raquo;&nbsp;Detaillierte Informationen</b></a> sowie ein Bestellformular finden Sie in der POI-Infoline, auch Ihr Key Account Manager der POI berät Sie gerne.</p>
+
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Änderungen Kassabuch mit 2.09<">Theresia Lechner</a></p>
+

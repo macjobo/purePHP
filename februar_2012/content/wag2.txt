@@ -1,0 +1,26 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS Tipp: Prüfungstätigkeiten Eingangsrechnungskontrolle</h1>
+<h2>Eine neue Dokumentation in der POI-Infoline beschreibt, welche Kontrolltätigkeiten Sie mithilfe der CROSS Eingangsrechnungskontrolle periodisch durchführen sollten und wie Sie dabei vorgehen.</h2>
+
+<img src="images/bild_wag2.jpg" width="190" height="120" title="Eingangsrechnungskontrolle" />
+
+
+<p>Immer mehr Betriebe setzen sehr erfolgreich die <b>CROSS Eingangsrechnungskontrolle</b> ein; die Rückmeldungen zu dieser CROSS-Option sind sehr positiv.</p>
+
+<p>Die meisten Betriebe stellen beim Jahresabschluss im Zuge der Inventur eine starke <b>Verringerung der Differenzen</b> zwischen dem Vorratswert in SAP und dem CROSS-Lagerbestand fest. Aber auch die laufende <b>Kontrolle des Wareneinganges</b> wird um vieles genauer und hat schon Fehler sichtbar gemacht, die bisher unentdeckt geblieben sind.</p>
+
+<p>Im Zuge unserer Nachbetreuung taucht häufig die Frage auf, wie eine umfassende Prüfung mit Hilfe der Eingangsrechnungskontrolle durchgeführt werden kann. Wir haben für Sie das Dokument <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/0a65db5e0f47c0e9c12579950034d5ef?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Prüfungstätigkeiten in der Eingangsrechnungskontrolle&nbsp;&raquo;</b></a> erstellt, das Ihnen Anregungen und eine Checkliste zu diesem Thema zur Verfügung stellt.</p>
+
+
+
+
+<p>
+Für Fragen zu den beschriebenen Kontrolltätigkeiten stehen Ihnen die MitarbeiterInnen unseres Service Desks sowie Ihr CROSS-Berater der Porsche Informatik gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Eingangsrechnungskontrolle">Gregor Wagner</a><br />
+CROSS Fachkoordination
+</p>

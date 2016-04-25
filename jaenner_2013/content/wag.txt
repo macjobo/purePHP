@@ -1,0 +1,33 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Eingangsrechnungskontrolle</h1>
+<h2>Wie verhält man sich am Besten, wenn man sich im Freien verlaufen hat? Man bleibt an Ort und Stelle und versucht mit Rettungskräften Kontakt aufzunehmen.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" title="Eingangsrechnungskontrolle Tipps" />
+
+
+<p>Ähnliches gilt auch für die Eingangsrechnungskontrolle. Immer wieder erleben wir, dass so mancher CROSS-Nutzer die Lösung für ein Problem in diesem Bereich nicht kennt und "die Flucht nach vorne antritt".
+Mit Hilfe von Bestandskorrekturen, Differenzausbuchungen usw. wird dann versucht, irgendeine Lösung zu finden.
+Meist wird durch diese Vorgehensweise das <b>Problem nur vergrößert</b> und nicht
+selten dauert die Korrektur der "Korrektur" um vieles länger, als wenn man sofort Hilfe in Anspruch genommen hätte.</p>
+
+<p>Die "Rettungskräfte" im Falle der Eingangsrechnungskontrolle sind die Mitarbeiter des <b>Porsche Informatik Service Desks</b>. Daher wenden Sie sich 
+bei Problemen gleich an sie, sie helfen Ihnen gerne!</p>
+
+
+
+<p>Unterstützende Informationen haben wir in der Porsche Informatik-Infoline
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/0cfcd93dc92c2dc7c1257ae3003ca83b?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>&nbsp;&raquo;ein umfangreiches Beispiel im Bereich der Eingangsrechnungskontrolle</b></a>
+ für Sie erstellt.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS Tipp: Eingangsrechnungskontrolle">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+

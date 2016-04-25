@@ -1,0 +1,48 @@
+
+<h1>CROSS-Tipp: Abgerechnete Aufträge vom aktuellen Tag</h1>
+
+<h2>Was ist konkret heute im Service passiert?</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="Abgerechnete Aufträge" />
+
+
+<p>Die meisten Statistiken in CROSS-Service beziehen sich auf <b>Abrechnungen bis zum gestrigen Abend</b>. Dieser Schnitt stellt unter Anderem sicher, 
+dass die Kennzahlen klar abgegrenzt werden. Verständlicherweise möchte der Serviceverantwortliche oft auch wissen, was sich <b>heute</b> getan hat.</p>
+
+<p>Dazu gibt es <b>zwei Informationsquellen</b>:</p>
+
+<ul>
+
+<li><div>Die Liste der Rechnungen:<br />
+Der Aufruf erfolgt mit der <b>Tastenkombination STRG-I</b> und liefert als Ergebnis die Abrechnungen des gewählten Tages unterschieden nach BAR/Kredit.
+
+</div></li>
+
+<li><div>Die Liste der Auftragshistory:<br />
+Diese Liste wird mit der <b>Tastenkombination STRG-H</b> gestartet und schlüsselt die Rechnungsbeträge nach Kunde, Intern und Gewährleistung auf.
+
+</div></li>
+
+
+
+</ul>
+
+<p>Aus beiden Listen kann der jeweilige Auftrag direkt aufgerufen und damit relativ rasch zusätzliche Detailinformationen eingesehen werden.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Abgerechnete Aufträge vom aktuellen Tag">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+

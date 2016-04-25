@@ -1,0 +1,71 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Client TIPP: Druckerauswahl-Tool</h1>
+<h2>Porsche Informatik bietet eine einfache Anwendung für das Hinzufügen von Netzwerkdruckern auf Ihrem Client.</h2>
+
+<p>Das <b>Druckerauswahl-Tool</b> ist schon seit einigen Jahren im Einsatz und vielen von Ihnen sicher schon bekannt. Trotzdem möchten wir an dieser Stelle nochmals auf dieses nützliche Tool hinweisen.</p>
+
+<p>Um einen Netzwerkdrucker auf Ihrem Client hinzuzufügen, wählen Sie unter:
+Start - Programme - Eigenentwicklungen - <b>Druckerauswahl</b>:</p>
+
+<p><img src="images/Drucker.bmp" width="354" height="116" alt="Druckerauswahltool" ></p>
+
+<p>Mit der Druckerauswahl können Sie rasch die Netzwerkdrucker in Ihrer Umgebung finden und 
+auf einfache Art und Weise Ihrer Arbeitsumgebung hinzufügen. Zudem können Sie über diese Oberfläche auch Ihren <b>Standarddrucker einstellen</b>.</p>
+
+<!-- <p><img src="images/Auswahl.bmp" width="503" height="233" alt="Auswahl" ></p> -->
+
+<!-- <p><b>Voraussetzungen:</b>
+<ul>
+<li><div>Porsche (POCSO) Standard Notebook</div></li>
+<li><div>Bestehender VPN-Zugang</div></li>
+</ul>    
+</p> -->
+
+<p>Das Tool sollte selbsterklärend sein. Wenn Sie dennoch Fragen haben, steht Ihnen unser Service Desk
+(0662/4670-2222 bzw. <b><a href="http://support.porscheinformatik.at" target="_blank" title="POI Online Support" alt="">POI Online Support</a></b>) gerne zur Verfügung.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Druckerauswahl-Tool">Herbert Lohninger</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

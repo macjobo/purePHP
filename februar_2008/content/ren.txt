@@ -1,0 +1,26 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS/SAP: Automatische Verbuchung der Gewährleistungsvergütung</h1>
+
+<h2>Nutzen Sie die Möglichkeit, Ihre Kunden aus CROSS heraus automatisch per SMS oder E-Mail an Werkstatt-Termine zu erinnern!</h2>
+
+<p>Wir führen per Fernwartung sämtliche Umstellungsarbeiten durch, die in CROSS und SAP für die automatische Verbuchung der Gewährleistungsvergütung einzurichten sind, und schulen die Mitarbeiter Ihrer Buchhaltung telefonisch auf die neue Abwicklung ein.</p>
+<p>Mit dieser Lösung werden die Gewährleistungsvergütungen für Ihren Betrieb automatisch verbucht und auf dem Kundenkonto ausgeziffert. Innerhalb der definierten Abweichungstoleranzen erfolgt die Buchung und Auszifferung, ohne dass das manuelle Eingreifen eines Mitarbeiters nötig wird.</p>
+
+<p>Ihre Vorteile mit dieser Lösung:
+<ul>
+<li><div>Arbeitsersparnis in der Buchhaltung durch den Wegfall von manuellen Buchungen </div></li>
+<li><div>Automatisches Ausziffern der Offenen Posten am Kundenkonto</div></li>
+<li><div>Wegfall von Fehlerquellen durch automatisierte Buchungen</div></li>
+</ul></p>
+<p>Voraussetzung für den Start der automatischen Verbuchung sind abgestimmte Konten. Dies ist durch den Betrieb sicherzustellen.</p>
+
+
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Automatische Verbuchung der Gewährleistungsvergütung">Norbert Reichl</a></p>
+
+
+

@@ -1,0 +1,19 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Automatische Kundeninformation</h1>
+
+<h2>Nutzen Sie die Möglichkeit, Ihre Kunden aus CROSS heraus automatisch per SMS oder E-Mail an Werkstatt-Termine zu erinnern!</h2>
+<p>
+In CROSS steht Ihnen das voll integrierte Modul "<b>SMS- und E-Mail-Versand</b>" optional zur Verfügung: Sie können damit Ihre Kunden an Voranmeldungen erinnern und zu laufenden Aufträgen informieren.</p>
+<p>Kunden, die bereits damit arbeiten, können sich dieses Werkzeug gar nicht mehr wegdenken. Sonja Huttegger, EDV-Verantwortliche im <b>Autohaus Scheucher</b> in St. Johann: "Die Terminerinnerungen per SMS werden von den Kunden sehr positiv aufgenommen. Im SMS geben wir bekannt, welcher <b>Serviceberater</b> den Kunden wann erwartet, auch unsere <b>Öffnungszeiten</b> senden wir mit. Dass wir mit der <b>"Auto fertig"-Meldung</b> dann bereits den tatsächlichen Rechnungsbetrag bekannt geben, kommt auch sehr gut an."</p>
+<p>Durch die Begeisterung der Kunden und die vielen positiven Rückmeldungen seien nun auch die Serviceberater, die anfangs eher kritisch eingestellt waren, restlos von diesem Feature überzeugt, ergänzt Sonja Huttegger. "Auch die <b>Kosten</b> sind sehr attraktiv und der sehr hohe Zeitaufwand für das Nachtelefonieren entfällt."</p>
+
+Ist Ihr Interesse geweckt? Dann finden Sie nähere Informationen im <b><a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/2b59b3d67ed08ccac1256f660032da74?OpenDocument" target="_blank" title="Produktblatt CROSS SMS- und E-Mail-Versand">Produktblatt "CROSS SMS- und E-Mail-Versand"</a></b> in der Porsche Informatik Infoline. Für Fragen steht Ihnen Ihr IT- und Organisationsberater gerne zur Verfügung.
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Automatische Kundeninfo">Barbara Klein</a></p>
+
+
+

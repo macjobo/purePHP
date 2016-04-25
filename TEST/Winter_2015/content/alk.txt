@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Service Desk: Supportzeiten zum Jahreswechsel</h1>
+<h2>Rund um die Weihnachtsfeiertage steht Ihnen unser Service Desk wie gewohnt zur Verfügung! </h2>
+
+<img src="images/bild_alk.jpg" width="144" height="120" title="Frohe Weihnachten und Prosit 2015" />
+
+
+
+<p>In der Weihnachtszeit <b>zwischen 22. Dezember 2014 und 7.&nbsp;Jänner 2015</b> steht Ihnen der Service Desk wie gewohnt zwischen <b>07:00 und 18:00 Uhr</b> zur Verfügung.
+Sie erreichen uns telefonisch unter der Durchwahl 2222 oder über ein Ticket im 
+ <a href="https://support.porscheinformatik.com" target="_blank" title="Zum Onlinesupport"><b>Onlinesupport&nbsp;&raquo;</b></a>.</p>
+<p>Am Weihnachtstag, dem <b>24. Dezember</b>, sowie am Silvestertag, dem <b>31. Dezember</b>, sind wir <b>von 08:00 bis 12:00 Uhr</b> für Sie erreichbar.
+</p>
+
+<p>Bitte beachten Sie, dass unser Service Desk an folgenden Tagen nur im Falle eines <b>Systemstillstandes</b> Support anbietet: am <b>25.</b> und am <b>26. Dezember</b> sowie am <b>1.</b> und am <b>06. Jänner</b>. Wenden Sie sich bitte im Fall des Falles an unsere <b>Rufbereitschaft</b> unter +43 664 8258742.</p> 
+
+<p>Das Team unseres Service Desks bedankt sich für die gute Zusammenarbeit und wünscht Ihnen und Ihrer Familie ein <b>frohes und besinnliches Weihnachtsfest</b> sowie <b>Glück, Gesundheit und Erfolg für 2016</b>!</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Supportzeiten zum Jahreswechsel">Michaela Alker</a><br />
+Teamleitung Service Desk</p>
+
+

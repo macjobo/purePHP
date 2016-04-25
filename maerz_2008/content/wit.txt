@@ -1,0 +1,15 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS: Controlling-Leitfäden NEU</h1>
+<h2>Parallel zur nun abgeschlossenen Umstellung auf CROSS 2 wurden auch die Leitfäden für das Controlling mit CROSS adaptiert.</h2>
+
+<p>Die Controlling-Leitfäden stellen eine wertvolle Hilfe bei der Erstellung von Geschäftsauswertungen dar. Die Unterlagen sind nach den Geschäftsbereichen <b>Handel</b> und <b>Service</b> getrennt.</p>
+<p>Eine Übersicht über den Aufbau der Auswertungen gibt Aufschluss, wie die <b>Kennzahlen</b> zu interpretieren sind. Beispiele für alle <b>Standardauswertungen</b> ergänzen diese Übersicht und ergeben ein vollständiges Bild zum besseren Verständnis der Handhabung.</p>
+<p>Am Ende jedes Abschnitts finden Sie wertvolle Hinweise auf <b>Schwerpunktthemen</b>, wie z. B. 'zu geringe Auslastung' oder 'NW-Stückzahlen sind unter Plan'. Wir zeigen Ihnen Ansatzpunkte für die Ursachenforschung sowie Anleitungen, welche Standardauswertungen dafür hilfreich sein können, die Problembereiche zu untersuchen.</p>
+
+Die Leitfäden <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/5dadf742924aac82c1256fd50028ade4?OpenDocument" target="_blank" title="Auswertungen aus dem Automobilverkauf"><b>"Auswertungen aus dem Automobilverkauf"</b></a> und <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/0593b54ab16a592ec1256fb2003ed2aa?OpenDocument" target="_blank" title="Service-Auswertungen"><b>"Service-Auswertungen"</b></a> finden Sie in der Porsche Informatik Infoline.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Controlling-Leitfäden NEU">Christian Witibschlager</a></p>
+
+

@@ -1,0 +1,61 @@
+<h1>CROSS: Vorschau auf Release 2.065</h1>
+<h2>Anfang Dezember wird das neue CROSS-Release 2.065 bei den Betrieben eingespielt.</h2>
+
+<p>Werfen Sie mit uns einen Blick auf die wichtigsten Änderungen und Neuerungen von CROSS 2.065:</p>
+
+
+<ul>
+
+<li><div>Das neue Release bringt eine Reihe von  Verbesserungen in der <b>SAGA2-Anbindung</b>.</div></li>
+<li><div>In Vorbereitung auf die neue Transportschadenabwicklung haben wir die Auswahlliste für die <b>"Leistungsfälle"</b> in ein eigenes Fenster ausgelagert.</div></li>
+<li><div>Sie können Abrechungen von Reparaturen, die im Rahmen von <b>"Garantieverlängerungen"</b> durchgeführt wurden, nun direkt in CROSS mit einem eigenen Leistungsfall abrechnen.</div></li>
+<li><div>Für das Fahrzeug gültige <b>Spar- bzw. Aktionspakete</b> werden Ihnen nun im Reiter 4 angezeigt.</div></li>
+<li><div>Die Schaltflächen <b>"Grauimport"</b> und <b>"Beanstandungsmeldung"</b> wurden entfernt.</div></li>
+<li><div>Die Ereignisse Typenscheinanforderung, Kundenadress- und Auslieferungsmeldung, die jeweilige Bestätigung dazu und die VFW-Abmeldung/-Auslieferungsmeldung werden als <b>Ereignisse zum Akt</b> eingespielt, müssen aber <b>nicht mehr abgezeichnet</b> werden.</div></li>
+</ul>
+
+<p>Details zu diesen und weiteren Neuerungen finden Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/ba34a9c01e1ce037c12573360036631a?OpenDocument" target="_blank" title="Link zur Änderungsbeschreibung"><b>Änderungsbeschreibung zu CROSS 2.065</b></a> in der Porsche Informatik Infoline.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorschau auf Release 2.065">Gregor Wagner</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

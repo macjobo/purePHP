@@ -1,0 +1,42 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Aktualisierungen im PC-Handbuch</h1>
+<h2>Das POCSO-PC-Benutzerhandbuch wird auf Basis unserer Erfahrungen im Support laufend aktualisiert - wir weisen auf einige Neuerungen der letzten Monate hin.</h2>
+
+<img src="images/bild_lo3.jpg" width="210" height="71" alt="PC-Benutzerhandbuch" />
+
+
+<p>Ausführliche Informationen rund um die Verwendung Ihres IT-Arbeitsplatzes finden Sie in unserem <b>POCSO-PC-Benutzerhandbuch</b> auf Ihrem Desktop bzw. im Startmenü unter "Anwendungen". In das Anwenderhandbuch fließen selbstverständlich auch unsere Erfahrungen aus dem Support ein. Daher aktualisieren wir es regelmäßig.</p>
+
+<p>Folgende Themen haben wir in den letzten Monaten <b>neu aufgenommen oder angepasst</b>:</p>
+
+<ul>
+
+<li><div>Verbesserung der <b>Übersichtlichkeit</b>
+</div></li>
+
+<li><div>Neue Beschreibung:  Nutzung des <b>POCSO-Teleworker-Zugangs</b> (VPN) 
+</div></li>
+
+<li><div>Neue Beschreibung: Einfache Selbsthilfe bei <b>Entrust-Themen</b> (VPN-Token)
+</div></li>
+
+<li><div>Neue Beschreibung: Anpassung mobiler Endgeräte auf<b> Apple iOS 7</b>
+</div></li>
+
+
+
+</ul>
+
+
+<p>Sie können diese Informationen auch <b>offline</b> ohne Einschränkungen abrufen.</p>
+
+<p>Geht Ihnen im Benutzerhandbuch etwas ab? Geben Sie uns einfach Ihr <a href="mailto:porsche-informatik@porscheinformatik.at ?subject=Feedback zum PC-Benutzerhandbuch"><b>Feedback&nbsp;&raquo;</b></a>.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=PC-Benutzerhandbuch">Herbert Lohninger</a><br />
+Teamleitung Client-Team Konzern
+</p>
+
+

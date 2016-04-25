@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Neue Gesichter in der CROSS-Beratung</h1>
+<h2>Drei neue CROSS-Berater verstärken unser Team und freuen sich darauf, Sie zu allen Themen rund um das Produkt CROSS beraten zu dürfen.</h2>
+
+<img src="images/bild_pri.jpg" width="190" height="120" title="Daniel Wiedemaier, Daniel Hammerl, Jakob Bacher" />
+
+
+
+<p>
+Aufgrund personeller Veränderungen innerhalb der Porsche Informatik gibt es einen <b>Wechsel in der Betreuung</b> einiger Unternehmen zum Thema CROSS. 
+Das Team rund um unsere bestehenden CROSS-Berater Michael Arndt, Christian Schicht, Christian Kaufmann und Klaudia Laverge-Winkler wurde um drei junge Gesichter erweitert.
+</p>
+
+
+<p>
+<b>Daniel Hammerl</b>, <b>Daniel Wiedemaier</b> und <b>Jakob Bacher</b> freuen sich darauf, Sie zum Thema CROSS beraten zu dürfen. Sollte Ihr Betrieb vom Betreuerwechsel betroffen sein, 
+erhalten Sie in den nächsten Tagen ein Informationsschreiben, in dem sich Ihr neuer CROSS-Berater vorstellt.
+</p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue CROSS-Berater">Nicola Priol</a><br />
+Marketing & Vertriebsassistenz</p>
+
+

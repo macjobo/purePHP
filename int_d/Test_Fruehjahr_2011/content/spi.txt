@@ -1,0 +1,50 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: PC-Benutzerhandbuch</h1>
+<h2>Seit Mitte April steht Ihnen ein neues PC-Benutzerhandbuch zur Verfügung, das auch offline verfügbar ist.</h2>
+
+ <img src="images/POCSO.bmp" width="122" height="84" alt="PC-Benutzerhandbuch" title="PC-Benutzerhandbuch" />
+<p></p>
+<p>Bisher fanden Sie <b>Anleitungen für PC-Benutzer</b> in unterschiedlichen Dokumenten in unserer POI-Infoline. Das ist jedoch dann nicht möglich, wenn Sie beispielsweise mit Ihrem Notebook unterwegs sind und die Einwahl mittels VPN nicht funktioniert. Bisher half hier meist nur der Anruf bei unserem Service Desk, da Sie Online-Dokumentationen ja mangels aufrechter Verbindung ins Firmennetz nicht aufrufen konnten.</p>
+
+<p>Um Ihnen den IT-Alltag nun etwas zu erleichtern, haben wir für Sie eine <b>Sammlung aller wichtigen PC-Dokumentationen inklusive Tipps & Tricks</b> geschaffen. Diese steht Ihnen seit Mitte April 2011 unabhängig von jeglichen Netzwerkverbindungen - also auch <b>offline - zur Verfügung!</b></p>
+
+<p>Das POCSO PC-Benutzerhandbuch finden Sie unter Start - Eigenentwicklungen (Windows XP),  unter Start - Anwendungen (Windows 7) oder auch über die Desktopverknüpfung <b>POCSO - PC Benutzerhandbuch</b>.</p>
+
+<p>Das Handbuch wird von uns laufend weiterentwickelt. Gerne berücksichtigen wie dabei auch <b>Ihre Vorschläge und Wünsche</b> und freuen uns daher auf Ihr Feedback!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=PC-Benutzerhandbuch">Herbert Lohninger
+</a></p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,17 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS 2: Neue Online-Hilfe</h1>
+<h2>Das CROSS Release 2.08 bringt eine neue, sehr benutzerfreundliche Online-Hilfe.</h2>
+
+<p> Sie können die neue Online-Hilfe mittels <b>"F1"-Taste</b> aufrufen, ganz egal, wo in CROSS Sie sich gerade befinden. Damit öffnen Sie eine Beschreibung, die sich auf das gerade <b>geöffnete Fenster</b> bezieht. Die Online-Hilfe ist also bestens dafür geeignet, neuen Mitarbeitern die Einarbeitungsphase zu erleichtern!</p>
+
+<p>Wenn es für ein Fenster keine eigene Beschreibung gibt, öffnet sich die Startseite der Online-Hilfe. Im <b>Reiter "Suchen"</b> können Sie dann Suchbegriffe eingeben, um Informationen zu einem gewünschten Thema zu erhalten. Über die Schaltfläche "Drucken" in der Online-Hilfe können Sie einzelne Themen oder auch ganze Kapitel ausdrucken.</p>
+<p>Auf der Startseite finden Sie auch einen Link zur <b>POI-Infoline</b>, um dort ggf. weitere Informationen aufzurufen. Die Inhalte der Online-Hilfe decken sich mit den Inhalten des <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f9ca8c1665df61b3c1257345002cdb8b/533d562a851ce04ac12572100032d6bc?OpenDocument" target=" _blank" title="CROSS-Handbuch"><b>CROSS-Benutzerhandbuchs</b></a>, das Sie ebenfalls in der Infoline finden.</p>
+
+<p>Wenn Sie Fragen, Wünsche oder eine Kritik zur Online-Hilfe haben, schreiben Sie bitte ein E-Mail an <a href="mailto:christine.klappacher@porsche.co.at ?subject=CROSS Online-Hilfe">Christine Klappacher</a> - wir freuen uns über Ihre Anregungen! Das Porsche Informatik Dokumentationsteam wünscht Ihnen ein erfolgreiches Arbeiten mit der neuen Online-Hilfe! </p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS Online-Hilfe">Christine Klappacher</a></p>
+
+

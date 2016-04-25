@@ -1,0 +1,41 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>SERVICE DESK: Multi Banken Systeme</h1>
+<h2>Viele Betriebe im Einzelhandel verwenden derzeit über unsere Firewall, erfolgreich und sicher, die unterschiedlichsten Telebanking Produkte diverser Banken. 
+Zur Nutzung dieser Bankensysteme haben Sie von uns auf Anfrage entsprechende Host- und Proxydaten erhalten.</h2>
+
+<img src="images/bild_alk.jpg" width="190" height="120" title="Multi Banken Systeme" />
+
+
+
+<p>
+Seit geraumer Zeit bieten einige Banken ihren Kunden neue, sogenannte <b>"Multi Banken Systeme"</b> an. 
+Das bedeutet, über eine Haupt-Bank können mehrere Sub-Banken bedient werden. 
+Wir möchten Sie daher informieren, dass diese Produkte "MBS" (Multi Bank Standard Banking-Plattform) und "HBP" (Home and Office Banking-Plattform) <b>nicht</b> so entwickelt wurden, 
+dass alle darin enthaltenen Banken <b>über eine sichere Internetplattform</b>, wie sie die Porsche Informatik für die österreichischen VW-Audi-Seat-Skoda Betriebe betreibt, aufrufbar sind. 
+Der Grund liegt in der fehlenden Möglichkeit dieser Systeme, die voreingestellten Bankenzugriffsdaten in der Multibankensoftware so anzupassen, 
+dass ein Zugriff über unsere Internetplattform möglich ist.</p>
+
+<P>
+Bitte informieren Sie sich daher <b>vor einem Bankensoftware-Update</b>, welche Auswirkung diese Änderung hat, bzw. informieren Sie sich auch, 
+ob sich durch dieses Update die <b>dahinterliegende IP Adresse der Bank</b> ändert. Sollte dies der Fall sein, melden Sie sich bitte rechtzeitig bei uns.</p>
+
+
+
+
+
+<p>Im Service Desk sind wir immer wieder mit Kundenfragen konfrontiert, wo nach einem durchgeführten Update die Funktionalität nicht mehr gegeben ist.
+Sehr oft stellt sich dann heraus, dass sich entweder die IP Adresse der Bank durch das Update geändert hat oder für die Nutzung der Multibankensysteme in weiterer Folge, 
+pro verwendeter "Sub-Bank", eine <b>eigene ISP-Firewall Freischaltung</b> durch A1 Telekom Austria kostenpflichtig durchzuführen ist. Verwenden Sie hierfür unser Produktblatt 
+<a href="http://kb.auto-partner.net/int/hilfe/klbehall.nsf/00c567a14adc06b6c1257345002cdb8c/c1256f23004a931bc12570eb004616ed?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">ISP-Freischaltungen&nbsp;&raquo;</a>.
+</p>
+
+<P>Bei Fragen zu diesem Thema steht Ihnen der "Porsche Informatik Service Desk" sehr gerne zur Verfügung.</p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Multi Banken Systeme">Michaela Alker</a><br />
+Teamleitung Service Desk</p>
+
+

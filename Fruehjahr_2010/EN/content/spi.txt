@@ -1,0 +1,44 @@
+<h1>Porsche Informatik: New Datacenter</h1>
+<h2>The Porsche Informatik datacenter is moving to one of the most modern in Europe!</h2>
+
+<img src="../images/bild_spi.jpg" width="190" height="120" alt="New Datacenter" />
+
+<p>The Porsche Informatik datacenter in the Porschehof in Salzburg has now faithfully served its purpose for over 10 years. However, a lot of conversion, refurbishment and expansion work would have been necessary to allow continued operations at this site. This would also have required additional <b>space</b> and very large <b>investments</b>.</p>
+
+<p>As the necessary additional space is simply not  available, we started looking for alternatives in 2009 in order to allow expansion of our existing datacenter. After considerable research, we have decided to start renting in the <a href="http://www.conova.com/">conova communications&nbsp;&raquo;</a> datacenter (currently under construction) from 1st July 2010. This datacenter is being built according to the latest <b>security</b>, <b>availability and efficiency standards</b>.</p>
+
+<p>The main portion of the transfer will take place in August and September - from then on we will be able to provide you with systems at one of the <b>most modern datacenters in Europe</b> for your daily business. Until then we have a lot of work to do, because the logistical aspects of the transfer of hundreds of systems is highly demanding. However, we will plan the transfer in such a way that you, the users, are affected as little as possible - the security and stability of your applications and data are, as always, our highest priority.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=New Datacenter">Anton Spitzer</a></p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

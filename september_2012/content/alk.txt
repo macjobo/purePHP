@@ -1,0 +1,25 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Support Tipp: Geregelter Mitarbeiteraustritt</h1>
+
+<h2>Bitte informieren Sie uns frühzeitig, wenn ein Mitarbeiter aus dem Unternehmen ausscheidet oder sich verändert - auch im Interesse Ihres Betriebs!</h2>
+
+<img src="images/bild_alk.jpg" width="190" height="120" title="Geregelter Mitarbeiteraustritt" />
+
+
+
+<p>Wenn <b>Mitarbeiter</b> das Unternehmen verlassen oder ihre Position wechseln, hat das Auswirkungen auf die Verwaltung der <b>Benutzerdaten</b> und deren Verrechnung: Passwörter, Benutzerrechte, Lizenzen müssen geändert, gesperrt oder gelöscht werden. </p>
+
+
+<p>Es ist daher wichtig, dass Sie uns diese Änderungen möglichst <b>frühzeitig</b> mit einem Stichtagsdatum bekannt geben. Nicht zuletzt verhindern Sie damit auch, dass <b>Daten Ihres Betriebs</b> missbräuchlich verwendet werden können.</p>
+
+
+<p>Für die Meldung von Änderungen bei Mitarbeitern haben wir für Sie in unserem Online-Support eine entsprechende <b>Ausfüllhilfe</b> erstellt. Sie finden sie unter "POCSO-EH" > "Anfrage: Windows Benutzer Änderung/Löschung".</p>
+
+<p>Bitte beachten Sie in diesem Zusammanhang: Für die Administration der Benutzerdaten von Applikationen wie Partner.Net, CROSS, ELSA oder Händlerportal ist der Betrieb <b>selbst verantwortlich</b>! Und wenn Sie bei uns das Weiterleiten von E-Mails eines ausscheidenden Mitarbeiters beauftragen wollen, so benötigen wir unbedingt eine <b>Bestätigung</b> dieses Mitarbeiters!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Geregelter Mitarbeiteraustritt">Michalea Alker</a><br />
+Incident Management Service Desk
+</p>

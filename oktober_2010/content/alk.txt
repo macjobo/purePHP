@@ -1,0 +1,31 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Support: Wartung von Stammdaten</h1>
+<h2>Bitte warten Sie Ihre Stammdaten im Partner.Net; sie sind die wichtigste Datenquelle für das Ticketsystem unseres Supports!</h2>
+
+<img src="images/bild_alk.jpg" width="190" height="120" alt="Wartung von Stammdaten" />
+
+<p>Das <b>Partner.Net</b> hat innerhalb des Supports der Porsche Informatik als Datenquelle für Stammdaten eine wichtige Rolle eingenommen: <b>Personenstammdaten</b> wie Partner.Net-ID, Telefonnummern, Durchwahlen, E-Mail-Adressen, Funktionen oder Betriebszugehörigkeiten werden täglich mit unserem Ticketsystem abgeglichen, ein Abgleich mit den <b>Betriebs- und Standortstammdaten</b> findet alle drei Wochen statt.</p>
+
+<p>Dieser Abgleich mit den Partner.Net-Daten bringt für die <b>Bearbeitung der Tickets</b> große Vorteile: Sobald ein Ticket auf eine Betriebsnummer und Person erstellt wird, werden diverse Daten, die <b>für den Support relevant</b> sind, automatisch ergänzt, z.&nbsp;B. Funktion und Telefonnummer der jeweiligen Person, Standort des Betriebs oder eingesetzte Anwendungen. Dadurch können wir bei Problemen schneller Zusammenhänge erkennen und darauf reagieren.</p>
+
+<p>Besonders wichtig für uns ist die <b>Partner.Net-ID</b> (Benutzerkennung): Sie stellt in unserem System die Verbindung zwischen <b>POCSO</b> und dem Partner.Net her. Daher wird künftig bei der Anlage eines <b>neuen POCSO-Benutzers</b> auch nach der Partner.Net-ID gefragt - die <b>Ausfüllhilfen</b> im Online-Support wurden um diesen Punkt erweitert.</p>
+
+<p>Um zu vermeiden, dass fehlende Daten das Beantworten Ihrer Anfrage verzögern, bitten wir Sie an dieser Stelle, Ihre Personen- und Betriebs-Daten im Partner.Net <b>aktuell</b> zu halten! Damit unterstützen Sie uns dabei, schnell auf Ihre Anfrage zu reagieren!</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Wartung von Stammdaten">Michaela Alker</a><br />
+Service Desk Incident Management</p>
+
+
+
+
+
+
+
+
+

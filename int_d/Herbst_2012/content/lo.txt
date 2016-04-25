@@ -1,0 +1,30 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: POCSO-Teleworker neu</h1>
+<h2>Wir arbeiten derzeit mit Hochdruck an der neuen Version des POCSO-Teleworkers, die Ihren VPN-Zugang in Zukunft wesentlich vereinfachen wird.</h2>
+
+<img src="images/Hardtoken.jpg" width="154" height="114" alt="Hardtoken" />
+<img src="images/Softtoken.jpg" width="94" height="91" alt="Softtoken" />
+
+<p>Die wichtigsten Änderungen im Überblick:</p>
+
+<ul>
+<li><div>Die <b>Anmeldung</b> im neuen VPN erfolgt nun mit Ihrem <b>Windows- Benutzer und Passwort</b>.
+   Die bisherigen zusätzlichen Anmeldedaten fallen somit weg.</div></li>
+<li><div>Die derzeitige zweite Authentifizierungsform "Smartcard" wird durch eine <b>einfache Token-Lösung</b> (enTrust) abgelöst, wobei 
+Ihnen zwei Formen zur Auswahl stehen:</div></li> 
+
+<ul>
+<li><div>1. Soft-Token (siehe linke Grafik): App auf Unternehmens-BlackBerry,-iPhone oder -iPad;</div></li>
+<li><div>2. Hard-Token (siehe rechte Grafik): in Form eines Schlüsselanhängers</div></li>
+</ul>
+
+<li><div>Einfache Hilfestellung für unterwegs mittels eigenem <a href="http://selfservice.porscheinformatik.com">Self-Service-Portal</a></div></li>
+</ul>
+
+<p>Die Umstellung auf die neue Lösung ist für das vierte Quartal geplant. Wir werden Sie über den genauen Umstellungszeitpunkt für Ihren POCSO-Teleworker persönlich informieren. 
+Nähere Informationen finden Sie bereits im POCSO-PC-Benutzerhandbuch unter der Rubrik Notebook - POCSO Teleworker.
+Für weitere Fragen steht Ihnen Ihr EDV-Koordinator oder unser Service Desk gerne zur Verfügung.
+</p>
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=POCSO-Teleworker neu">Herbert Lohninger</a></p>

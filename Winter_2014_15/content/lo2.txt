@@ -1,0 +1,20 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Mobile Geräte: Mobiler Datenzugriff für iPhone und iPad</h1>
+<h2>Die neue Lösung "POCSO mobile.access" bietet Ihnen Zugriff auf wichtige Geschäftsdaten von Ihrem iPhone oder iPad aus.</h2>
+
+<img src="images/bild_lo2.jpg" width="190" height="120" alt="POCSO mobile.access" />
+
+<p>Unsere neue Business-App <b>POCSO mobile.access</b> ermöglicht Ihnen den direkten Zugriff auf Ihre <b>persönlichen Dateien am U-Laufwerk</b> Ihres Windows-PCs sowie auf die Lotus-Notes-Datenbank <b>"Porsche Telefonbuch"</b> mit allen wichtigen Informationen zu den Mitarbeitern unserer Organisation. Ihre Daten müssen dafür nicht in die sogenannte Public Cloud mit den bekannten Sicherheitsrisiken hochgeladen werden, sondern verbleiben im sicheren <b>Rechenzentrum der Porsche Informatik</b> mit Standort Österreich!</p>
+
+<p>Alle Informationen zum Produkt entnehmen Sie bitte dem <b>Produktblatt</b> zu POCSO mobile.access, das Sie hier als PDF aufrufen können:<br />
+<a target="_blank" href="pdf/PB_POCSO_Mobile_Access.pdf">Produktblatt POCSO mobile.access [746 KB]</a></p>
+
+<p>Die <b>Bestellung</b> erfordert die Freigabe des zuständigen Bereichsleiters bzw. Geschäftsführer. Für <b>Fragen</b> wenden Sie sich bitte an Ihren zuständigen EDV-Koordinator oder an unseren Service Desk unter der Durchwahl 2222 bzw. unseren  <a href="http://support.porscheinformatik.at" target="_blank" title="Zum Onlinesupport"><b>Onlinesupport&nbsp;&raquo;</b></a>.</p>
+
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=POCSO mobile.access">Herbert Lohninger</a><br />
+Teamleitung Client-Team Konzern
+</p>
+
+

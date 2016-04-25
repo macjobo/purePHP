@@ -1,0 +1,65 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Vorschau auf Release 2.19 - Service</h1>
+<h2>Im März geht das neue CROSS-Release 2.19 in den Breiteneinsatz, hier ein Überblick über die wichtigsten Neuerungen im Bereich Service.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="CROSS 2.19 Highlights" />
+
+
+<p>Das neue CROSS-Release 2.19 bietet Ihnen auch im <b>Service-Bereich</b> eine Reihe interessanter Neuerungen:</p>
+
+<ul>
+
+
+<li><div>In <b>Fixpreispaketen</b> können nun Teilenummern getauscht werden. Damit sind Auftragsbestellungen aus Fixpreispaketen wieder möglich; auch die Menge kann verändert oder geteilt werden. Auf Wunsch können Sie ein Fixpreispaket in ein "freies" Paket umwandeln; somit können Sie sämtliche eigenen Kalkulationen umsetzen.
+
+</div></li>
+
+
+
+<li><div>Sie können nun Arbeits- und Ersatzteilpositionen, diverse Verrechnungen, Durchläufer und Plaketten mit der Positionsart <b>"Fremdleistung"</b> kennzeichnen. Somit können diese Leistungen auf der Kundenrechnung wie eine Eigenleistung dargestellt werden.
+</div></li>
+
+<li><div>
+Das Fenster <b>"Stempeln pro Mechaniker"</b> hat ein übersichtlicheres Layout erhalten. Außerdem können Sie hier nun auch alle Stempelungen des ausgewählten Mechanikers am aktuellen Tag einsehen.
+</div></li>
+
+<li><div>
+Beim Stempeln von <b>"W01 Allgemeine Werkstattarbeit"</b> wird nun eine Bemerkung über die durchgeführte Tätigkeit verlangt. Dies kann betriebsindividuell eingestellt werden.
+</div></li>
+
+<li><div>Wenn Sie das CROSS-Kassabuch einsetzen, können Sie sich nun wieder eine <b>Rechnungsliste</b> - bekannt als "Ändern Zahlungsmittel" - anzeigen lassen (Tastenkombination "Strg"+"I").
+</div></li>
+
+
+
+<li><div>Das <b>Verschieben von Teilen</b> zwischen Aufträgen ist nun an eine neu geschaffene Berechtigungs- und Protokollierungsfunktion geknüpft. Teileleiter erhalten diese Berechtigung automatisch. Das Verschieben zwischen Subaufträgen ist weiterhin ohne spezielle Berechtigung möglich.
+</div></li>
+
+<li><div>
+Auch für das <b>Ändern von Teilebezeichnungen</b> in der Ersatzteilwartung wurde eine eigene Berechtigungs- und Protokollierungsfunktion geschaffen. Diese Berechtigung ist keiner Rolle automatisch hinterlegt; sie kann je Benutzer manuell zugewiesen werden.
+</ br>
+</div></li>
+
+
+
+
+
+
+</ul>
+
+
+<p>Details zu diesen Funktionen, weitere Neuerungen sowie wichtige Informationen zum neuen Release entnehmen Sie bitte einem gesonderten <b>Rundschreiben</b>, das wir rechtzeitig vor der Release-Einspielung zusammen mit einer ausführlichen <b>Änderungsbeschreibung</b> im Partner.Net veröffentlichen werden. Auch die MitarbeiterInnen unseres Service Desks stehen für Ihre Fragen gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS 2.17 Highlights">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

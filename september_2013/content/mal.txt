@@ -1,0 +1,51 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Fernwartung über POCSO Teleworker - Anpassung der Datensicherung für Windows Server 2003 - Update der EH-Server - neue Adobe Softwarepakete.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+<li><div>
+Fernwartung und Softwareverteilung an PCs ist nun auch über die <b>POCSO Teleworker-Verbindung</b> möglich.
+Damit wird eine Fehlerklärung wesentlich vereinfacht. Kleine Updates und Konfigurationen können ebenso verteilt werden.
+
+</div></li>
+
+<li><div>
+Um Zeit bei der Datensicherung einzusparen, wird das als Notfallssystem am POCSO Windows Server vorhandene ELSA Win-System <b>nicht mehr gesichert</b>. 
+Die tägliche Arbeit wird bereits seit einiger Zeit mittels ELSA Pro abgewickelt.
+</div></li>
+
+
+<li><div>
+Mittlerweile sind alle Netzwerk-Server auf die aktuelle Version 12 der Symantec Endpoint-Protection hochgezogen und nutzen die <b>neue Version</b> der <b>Sicherheitssoftware</b>.
+</div></li>
+
+<li><div>
+Es werden derzeit alle Arbeitsplätze in den POCSO Netzwerken auf die aktuelle <b>Adobe Acrobat Reader 11 Version</b> umgestellt. Die Umstellung wird in der ersten Septemberhälfte abgeschlossen.
+</div></li>
+
+<li><div>
+Wieder einmal eine neue Version des <b>Adobe Flash Players</b> mit geschlossenen Sicherheitslücken. Die Version 11 wird ab sofort bei Neuinstallationen installiert. 
+Eine allgemeine Verteilung folgt in Kürze.
+</div></li>
+
+
+<li><div>
+Wir installieren ab sofort die neue Version 12.03 des <b>Adobe Shockwave Players</b> bei Neuinstallationen. Die allgemeine Verteilung erfolgt ebenso in Kürze.
+</div></li>
+
+
+
+</ul>
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>

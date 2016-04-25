@@ -1,0 +1,41 @@
+
+
+<h1>CROSS Release 2.34: Allgemein</h1>
+<h2>Seit Anfang April ist das neue CROSS-Release 2.34 im Einsatz, hier ein Überblick über die wichtigsten Neuerungen Allgemein.</h2>
+
+<img src="images/bild_wid.jpg" width="190" height="120" title="Highlights allgemein" />
+
+
+
+<p>
+Das neue CROSS-Release 2.34 bringt eine Reihe interessanter Neuerungen - hier die wichtigsten <b>Änderungen Allgemein</b>:
+</p>
+
+
+<ul>
+
+<li><div>
+Für den <b>Versand von elektronischen Rechnungen</b> ist nun möglich,
+direkt aus dem Geschäftspartner in die Wartung der alternativen Rechnungseinstellungen zu springen. Diese können nun vom Betrieb selbst gewartet werden. 
+</div></li>
+
+
+<li><div>
+Bisher wurden durch die Anlage einer Fremdleistung (Fl) aus einer Berechnungsposition (Bpo) eine Gruppe (Grp) und zwei Berechnungspositionen. 
+Diese Ansicht im Reiter 4 des Auftrags wurde allerdings schnell unübersichtlich, weshalb die <b>Berechnungspositionen</b> jetzt nur noch als eine Gruppe (Grp) angezeigt werden.
+</div></li>
+
+<li><div>
+Wenn ein Kunde sein Auto über Weltauto verkaufen möchte ("DasPrivatAuto"), entstehen ihm Kosten in der Höhe von EUR 19,00. 
+Diese sollen in den Nebenerlösen der GW-Kostenstelle dargestellt werden, wozu mit einer diversen Verrechnung eine <b>freie Rechnung</b> erstellt werden muss.
+</div></li>
+
+
+  </ul>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Highlights CROSS Release 2.34">Daniel Wiedemaier</a><br />
+POI PHS CROSS Consulting</p>
+
+
+
+

@@ -1,0 +1,42 @@
+
+<h1>CROSS: Neue Kassenrichtlinie</h1>
+
+<h2>Wie hat eine korrekte Erfassung von Geschäftsereignissen im Sinne der Finanzämter zu erfolgen?</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" title="Kassenrichtlinie" />
+
+
+<p>Quer durch alle Branchen werden vermutlich nur noch wenige Betriebe in Österreich ihre tägliche Arbeit ohne EDV-Unterstützung abwickeln. 
+Eine Vielzahl von EDV-Systemen kommt daher zum Einsatz. Dies wiederum führt zur Frage, wie eine <b>korrekte Erfassung von Geschäftsereignissen</b> im Sinne der Finanzämter zu erfolgen hat.</p>
+
+<p>Das  Bundesministerium für Finanzen hat dazu einen Erlass in Form der "Kassenrichtlinie 2012" erstellt.
+Diese Kassenrichtlinie enthält <b>Bestimmungen</b>, wie ein "Kassensystem" beschaffen sein muss, dass dieses die "Grundsätze der Ordnungsmäßigkeit" erfüllt. 
+Aber nicht nur technische Anforderungen an ein Kassensystem sind darin enthalten. Es werden auch Prozessbeschreibungen und Maßnahmen, die die vollständige 
+und richtige Darstellung von Daten gewährleisten, von den Betrieben verlangt.</p>
+
+<p>Wir haben für Sie eine Dokumentation, die die korrekte Datenerfassung in CROSS bestätigt, erstellt. 
+Diese können Sie im Falle einer Prüfung an die Prüfungsorgane aushändigen und somit den geforderten Nachweis über ein ordnungsgemäßes Kassensystem erfüllen. 
+Darüber hinaus empfehlen wir Ihnen jedoch, die in der Kassenrichtlinie geforderte, restliche betriebsspezifische Dokumentation zu erstellen.</p>
+
+
+<p><b>Unser Tipp:</b><br />
+Bei der Verwendung der Hardwarekassa wird im Falle einer Kassenbewegung automatisch ein Beleg erstellt. 
+Laut Kassenrichtlinie ist die "freiwillige Belegerteilung an alle Kunden die Voraussetzung für eine positive Beurteilung der Ordnungsmäßigkeit 
+der Aufzeichnungen und Losungsermittlung" (Kassenrichtlinie 2012-Seite 9).</p>
+
+
+
+<p>Die Dokumentation und weiterführende Informationen inklusive Link zur Kassenrichtlinie können Sie wie immer in der 
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/f732f159228901d0c1257c07004da0a0?OpenDocument" 
+target="_blank" title="Zur Porsche-Informatik-Infoline">Porsche Informatik Infoline&nbsp;&raquo;</a> finden.</p>
+
+<p>Informationen zum Einsatz des CROSS Kassensystems finden Sie <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/dcaa3b9e3621eb63c1256ed90043f5e7/ed6ac3d12116c4b0c125756300282343?OpenDocument" 
+target="_blank" title="Zur Porsche-Informatik-Infoline">hier&nbsp;&raquo;</a> oder bei Ihrem Key Account Manager.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Kassenrichtlinie">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+

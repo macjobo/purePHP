@@ -1,0 +1,17 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS 2: Selektionsvorschläge des Importeurs ab sofort leicht umgesetzt</h1>
+<h2>Das neue CROSS-Release 2.08 ermöglicht eine automatische Verteilung der Selektionskriterien, die Ihnen die Vorbereitung für Ihre Kunden-Mailings wesentlich erleichtern wird!</h2>
+
+<p>Selektionen haben's in sich! Vor allem dann, wenn <b>mehrere Kriterien</b> miteinander verknüpft, bestimmte Dinge ausgeschlossen und andere unbedingt berücksichtigt werden müssen. Da kann es schon passieren, dass etwas übersehen oder vergessen wird. Und schon passt das <b>Selektionsergebnis</b> überhaupt nicht mehr.</p>
+
+<p>Mit dem <b>CROSS-Release 2.08</b> gehören diese Unsicherheiten der Vergangenheit an. Im Rahmen einer Mailing-Aktion des Importeurs erhalten Sie vom GI die Selektionskriterien per E-Mail oder im Partner.Net in Form einer Datei mit der Endung ".exe". Mit Doppelklick auf diese Datei werden die darin enthaltenen Selektionskriterien in Ihrem Netzwerk gespeichert und können in CROSS direkt übernommen werden - fertig! </p>
+
+<p>Im Regelfall kann die Selektion sofort <b>ohne weitere Eingaben</b> gestartet werden. Sie müssen dann nur mehr das <b>Ergebnis kontrollieren</b>, um unerwünschte Adressaten auszusortieren. Die Kriterien können selbstverständlich auch vorher noch angepasst und die Selektion als vordefinierte Konfiguration in Ihrem CROSS-System gespeichert werden. Damit steht diese Selektion auch für spätere Zwecke zur Verfügung. Die <b>Import-Funktion</b> ist für vorgefertigte Selektionen für Geschäftspartner, Fahrzeuge, Aufträge und Teilelisten möglich.</p>
+
+<p>Im Rahmen der <b>Releaseschulungen für CROSS 2.08</b> Ende Mai/Anfang Juni werden wir auch auf diese neue Lösung für die Verteilung von Selektionskriterien näher eingehen.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Automatische Selektionsverteilung">Christian Witibschlager</a></p>
+
+

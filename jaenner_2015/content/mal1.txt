@@ -1,0 +1,80 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Softwareinstallation EDMDesktop - Softwareupdates Volkswagen Service Key und POCSO Teleworker - Bios-Update - Allgemeine Softwareupdates</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+
+
+
+<li><div><b>Installation EDMDesktop bei allen privaten POCSO Betrieben</b><br />
+Auf allen POCSO Servern wurde ein Zugriff Edom/FlowER installiert. 
+Der Grund dafür ist, dass in Kürze die CROSS Archiv-Web Recherche im Partner.Net durch eine Recherche 
+im EDMDesktop ersetzt wird. FlowER benötigen Verantwortliche des CROSS Archives, um Zugriffsberechtigungen einzustellen. Eine Beschreibung zur Anwendung erhalten Sie noch diesen Monat.
+ 
+
+
+ </div></li>
+
+
+<li><div>
+<b>Softwarepaket Volkswagen Service Key Vers.2.5.4.2_AG</b><br />
+
+Aktuell kommt beim Start vom Service Key eine Meldung auf ein anstehendes Update. 
+Dieses hat uns das Werk leider nicht angekündigt, mit dem Rollout dieser Version wollen wir jedoch die Meldung eliminieren.
+
+
+</div></li>
+
+
+<li><div>
+<b>Softwarepaket POCSO Teleworker neu</b><br />
+
+Der Startschuss ist gefallen, die erste Pilotinstallation für den neuen POCSO Teleworker Cisco VPN Client im Einzelhandel ist im Dezember erfolgt. 
+Wesentliche Änderung ist die Einführung der 2-Phasen-Authentifizierung. Dabei erhalten Sie für jede Anmeldung einen SMS-Pin auf Ihr Mobiltelefon übertragen. 
+Das bedeutet, dass in Zukunft der POCSO Teleworker Arbeitsplatz mit einem zugehörigen Mobiltelefon gekoppelt werden muss. Informationen zur Umstellung aller 
+POCSO Teleworker erhalten Sie nach Beendigung der Pilotphase.
+
+
+</div></li>
+
+
+<li><div>
+<b>Laptops: Bios Update HP 2540p & 8540p</b><br />
+
+Bei diesen Rechnertypen wurde eine schwerwiegende Sicherheitslücke mittels Bios Update geschlossen.
+
+</div></li>
+
+
+<li><div>
+<b>Symantec AntiVirus Vers.12.1.5337_AG 1.0</b><br />
+
+Eine aktuelle Symantec Endpoint Protection auf unseren Rechnern ist wichtig, deshalb wurde von Version 12.1.4013 auf 12.1.5337 umgestellt.
+Ein Update aller POCSO Server erfolgt derzeit, ein Update der Windows 7 Clients, welche noch Version 11 haben, wird in Kürze erfolgen.
+
+</div></li>
+
+
+<li><div>
+<b>Adobe Flash Player Vers.16.0.0.235</b><br />
+
+Wieder einmal wird ein Security Update des Adobe Flash Players verteilt.
+
+</div></li>
+
+
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

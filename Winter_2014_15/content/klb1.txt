@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Porsche Informatik: Neuer CROSS-Verkäuferarbeitsplatz in China</h1>
+<h2>Unsere neue Verkaufsunterstützung "CROSS NG SALESworkplace" ging Anfang September in China in den Pilotbetrieb - in mehrerer Hinsicht ein Meilenstein für die Porsche Informatik!</h2>
+
+<img src="images/bild_klb1.jpg" width="190" height="60" title="CROSS in China" />
+
+<p>Am 3. September wurde die neue Verkaufsunterstützung der Porsche Informatik, der <b>"CROSS NG SALESworkplace"</b>, erstmals produktiv eingesetzt: Das System startete im konzerneigenen Volkswagenbetrieb Junbaojie in <b>Peking</b> im Pilotbetrieb und unterstützt dort die Verkaufsmitarbeiter von der Kundenakquisition bis zum Abschluss des Kaufvertrags. Der zweite Pilotbetrieb, das Autohaus Jiejun in <b>Suzhou</b>, folgte Mitte Oktober.</p>
+
+<p>Der SALESworkplace ist das erste Modul unseres <b>neuen Dealer Management Systems CROSS NG</b>; "SERVICE and PARTS" wird gerade umgesetzt. Für die Entwicklung von CROSS NG und die anschließende Lokalisierung des Systems für neue Märkte haben wir ein eigenes, hocheffektives Team von <b>mehr als 100 IT-Spezialisten</b> zusammengestellt. Beginnend mit China wird CROSS NG ab 2015 in jenen Volkswagen-Märkten ausgerollt, in denen CROSS 2 - unser Dealer Management System, mit dem die österreichischen Autohäuser arbeiten - nicht eingesetzt wurde.
+</p>
+
+<p>CROSS NG basiert auf <b>modernen Entwicklungsstandards</b> wie Java und führenden Open-Source-Technologien. Es zeichnet sich durch eine intuitive, webbasierte Benutzeroberfläche und komfortable Bedienbarkeit aus und kann auf den unterschiedlichsten Endgeräten eingesetzt werden.</p>
+
+<p>China ist das <b>25. Land</b>, in dem Systeme der Porsche Informatik im Einsatz sind; CROSS&nbsp;2 wurde im Juli in Chile gestartet und ist damit bereits in <b>16 Ländern</b> produktiv.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS in China">Barbara Klein</a><br />
+Kommunikation</p>

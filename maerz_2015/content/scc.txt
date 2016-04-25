@@ -1,0 +1,55 @@
+
+
+<h1>CROSS Release 2.30: Highlights allgemein</h1>
+<h2>Mitte März geht das neue CROSS-Release 2.30 in den Breiteneinsatz. Hier finden Sie die wichtigsten allgemeinen Neuerungen.</h2>
+
+<img src="images/bild_scc.jpg" width="190" height="120" title="Highlights allgemein" />
+
+
+
+<p>
+Das neue CROSS-Release 2.30  bringt eine Reihe interessanter Neuerungen - hier die wichtigsten <b>Änderungen Allgemein</b>: 
+</p>
+
+
+<ul>
+
+<li><div><b>
+Kassenbuch - neue Selektionsmöglichkeit für Kassenbucheinträge</b><br />
+
+Kassenbewegungen können nicht mehr nur einzeln je Kasse und je Kassenbuchseite (Kassentag), sondern nun je Mandant für mehrere Kassen und über einen beliebigen Zeitraum ausgegeben werden.
+</div></li>
+
+
+<li><div><b>
+Erweiterung der Archivdatei</b><br />
+Um die Suchmöglichkeiten nach archivierten Dokumente zu erweitern, werden die Indexinformationen wie z.B. Vor- und Zuname des Serviceberaters angepasst.
+</div></li>
+
+<li><div><b>
+CROSS Archiv - neues Feld 'Belegnummer'</b><br />
+In CROSS ist bei den Buchungsbelegen von Lagerbewegungen der Monat, für den der Beleg erstellt wurde, im Feld 'Belegnummer' ersichtlich. 
+Nach diesem Feld konnte im Archivsystem bisher aber nicht selektiert werden. 
+Dies wird nun entsprechend erweitert, sodass die Buchungsbelege zu Lagerbewegungen im Archivsystem mittels Belegnummer identifiziert werden können.
+</div></li>
+
+<li><div><b>
+Selbstbetreute Betriebe: Software Depot auf 2.30 aktualisieren</b><br />
+Porsche Informatik empfiehlt, mit Einsatz des Release 2.30 das Software Depot auf Stand 2.30 zu aktualisieren. Grund dafür sind zusätzliche Absicherungen für die Verteilung.
+</div></li>
+
+
+<li><div><b>
+Sperre von Geschäftspartnern</b><br />
+Spezielle Geschäftspartner wie z.B. Importeure, Eigener Betrieb etc. können für die Wartung der GP-Stammdaten gesperrt werden, 
+um das Ändern der Daten von nicht befugten Anwendern zu verhindern.
+</div></li>
+
+  </ul>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Highlights CROSS Release 2.30">Christian Schicht</a><br />
+POI PHS CROSS Consulting</p>
+
+
+
+

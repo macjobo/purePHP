@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Teilebestände in Filialbetrieben</h1>
+<h2>Mit CROSS finden Sie schnell und komfortabel Ersatzteile in den Filialen eines Betriebsverbunds.</h2>
+
+
+<img src="images/bild_wag1.jpg" width="190" height="120" alt="Teilebestände in Filialbetrieben" />
+
+
+<p>Sie kennen dieses Problem? Ihr Betrieb ist Teil eines Filialverbundes und Sie benötigen dringend ein <b>Ersatzteil</b>, das im eigenen Lager nicht vorrätig ist. Sie sollen nun schnell herausfinden, ob eine andere <b>Filiale</b> dieses Teil lagernd hat.</p>
+
+<p>Mit CROSS ist das kein Problem. Mit der <b>"Liste der Bestände von anderen Filialen und Standorten"</b> können Sie mit wenigen Mausklicks prüfen, ob das Ersatzteil in einer anderen Filiale lagernd ist. Wie Sie diese Funktion aufrufen, können Sie in einer <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/b1ab7d88865c17f2c125767f0056ea9c?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Beschreibung in der POI-Infoline&nbsp;&raquo;</b></a> nachlesen.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Teilebestände in Filialbetrieben">Gregor Wagner</a></p>
+
+
+
+
+
+

@@ -1,0 +1,92 @@
+<div class="umbruch">&nbsp;</div>
+
+
+
+<h1>POCSO: Status Windows 7</h1>
+
+<h2>Windows 7 wird voraussichtlich im Frühjahr 2011 in POCSO-Netzwerken eingesetzt.</h2>
+
+
+
+<img src="images/bild_kra.jpg" width="190" height="120" alt="Status Windows 7" />
+
+
+
+<p>Windows 7 ist nun seit gut einem Jahr am Markt erhältlich und stößt bei den Kunden durchwegs auf positive Resonanz. POCSO hat bereits die <b>Erstinstallation</b> für Windows 7 integriert sowie die Tests von Anwendungen und Druckern unter dem neuen Betriebssystem weit vorangetrieben. Alle Arbeiten erfolgten mit der <b>32-bit-Version</b> von Windows 7, der direkten Nachfolgerversion von Windows XP, von der wir den unaufwändigsten Umstieg erwarteten. </p>
+
+
+
+<p>Von Seiten des <b>Volkswagen-Werks</b> wurde für Herbst 2010 eine Windows-7-Unterstützung der VW-Anwendungen angekündigt, die zum augenblicklichen Zeitpunkt allerdings noch nicht in vollem Umfang gegeben ist. Die kommende Version von ELSAWin wird Windows 7 noch nicht unterstützen und auch für ETKA ist ein Windows-7-Support derzeit noch nicht in Aussicht gestellt. Darüber hinaus wird Volkswagen nur die <b>64-bit-Version</b> von Windows 7 unterstützen. All das führt dazu, dass sich der eigentlich noch für heuer geplante Einsatz von Windows 7 verzögern wird und wir weitere Testreihen starten werden, um die 64-bit-Version gleichwertig unterstützen zu können.</p>
+
+
+
+<p>Wir streben bei POCSO den frühestmöglichen Einsatzzeitpunkt von Windows 7 an und werden das Thema mit Nachdruck weiter verfolgen. Derzeit gehen wir von einem Einsatz <b>ab März 2011</b> aus.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Status Windows 7">Andreas Kronberger</a><br />
+
+Leitung Infrastruktur Services Client
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

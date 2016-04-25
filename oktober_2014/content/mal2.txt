@@ -1,0 +1,27 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Übersiedelung Backup-Rechenzentrum</h1>
+<h2>Das Backup-Rechenzentrum übersiedelt von Bergheim nach Wels.</h2>
+
+<img src="images/bild_mal2.jpg" width="190" height="120" title="Übersiedelung Rechenzentrum" />
+
+
+
+<p>
+
+Wie bereits bei den CROSS Anwendertagen angekündigt wird das <b>Backup-Rechenzentrum</b> in Bergheim,
+aufgrund der bevorstehenden Übersiedelung der Porsche Informatik in das neue Bürogebäude, ebenfalls übersiedelt. <br />
+Der <b>neue Standort</b> des Backup-Rechenzentrums ist bei <b>IT&Tel</b>, einer Tochter der E-Werke Wels und verfügt über alle 
+Leistungsmerkmale eines modernen Rechenzentrums – vergleichbar mit dem Hauptstandort.</p>
+
+<p>Die Übersiedelung erfolgt 
+im <b>Zeitraum von 14.10. bis zum 24.10.</b> in mehreren Chargen. <b>Ihre produktiven Systeme</b> wie CROSS, SAP usw. 
+sind von der Übersiedlung <b>nicht betroffen</b>!
+
+ </p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Übersiedelung Backup-Rechenzentrum">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

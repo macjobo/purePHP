@@ -1,0 +1,19 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Drucker TIPP: Tonerverbrauch reduzieren</h1>
+<h2>Mit einfachen Möglichkeiten lässt sich der Tonerverbrauch von Druckern reduzieren.</h2>
+
+<p>Um einen überflüssigen Tonerverbrauch zu vermeiden, gibt es verschiedene Möglichkeiten.
+Eine sehr effektive Möglichkeit möchten wir Ihnen gerne hier vorstellen.</p>
+
+<p>Die <b>Sättigungsrate des Toners</b> lässt sich bei unseren Standarddruckern variabel einstellen. Die vom Hersteller gewählte Standardeinstellung ist nach einem hohen Qualitätsanspruch ausgerichtet. In gewissen Fällen ist diese hohe Qualität allerdings gar nicht von Nöten - z.B. Rechnungsdruck. In so einem Fall bietet es sich an, die Sättigung <b>auf einen geringeren Wert</b> zu <b>konfigurieren</b> um Toner und somit Geld zu sparen - und das ohne merkbare Qualitätseinbußen. </p>
+
+<p>Wir haben diese Änderungen schon in einigen Bereichen vorgenommen und ein positives Kundenfeedback dazu erhalten.</p> 
+
+<p>Möchten Sie es gerne ausprobieren? Dann wenden Sie sich bitte an Ihren
+EDV-Koordinator oder an den  <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">Service Desk</a></b>. Unser Client-Team kann die Konfiguration temporär umstellen und Sie entscheiden nach ein paar Testausdrucken ob sie die Einstellungen beibehalten möchten oder nicht.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Drucker-Toner">Herbert Lohninger</a></p>
+
+

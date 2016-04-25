@@ -1,0 +1,44 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Neuer Windows Client - Allgemeine Softwareupdates von Adobe</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+
+<li><div><b>Windows Client: Neues Towermodell mit I7 Prozessor</b><br />
+Unsere Towermodelle der letzten Jahre hatten bisher i5 Prozessor und 8GB Hauptspeicher. 
+Es gab jedoch immer öfter den Wunsch, ein echtes "Power" Modell zur Auswahl zu haben. 
+Um diesen Anforderungen  Rechnung zu tragen, gibt es ab sofort ein Modell (HP 800G1 TWR) mit gesteigerter Leistung. 
+I7 Prozessor und 16GB Hauptspeicher sind nun Standard.
+
+
+ </div></li>
+
+
+
+
+
+<li><div>
+<b>Adobe Flash Player Vers.17.0.0.134_AG</b><br />
+Wieder einmal wird ein Security Update des Adobe Flash Players verteilt.
+
+</div></li>
+
+<li><div>
+<b>Adobe Shockwave Player Vers.12.1.7.157_AG</b><br />
+Wieder einmal wird ein Security Update des Adobe Shockwave Players verteilt.
+</div></li>
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

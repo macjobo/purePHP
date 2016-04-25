@@ -1,0 +1,22 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS: Automatische Verbuchung der Gewährleistungsvergütungen</h1>
+<h2>Mit der Umstellung auf das Gewährleistungssystem SAGA/2 haben Sie nun die Möglichkeit, die Verbuchung und Auszifferung der GWL-Vergütung automatisiert abzuwickeln.</h2>
+
+
+
+<p>Durch die <b>automatische Verbuchung</b> der Gewährleistungsvergütungen entfällt für die Mitarbeiter der Buchhaltung die äußerst aufwändige Bearbeitung der Offenen Posten am GWL-Kundenkonto. Innerhalb definierter Abweichungstoleranzen erfolgt die Buchung und Auszifferung, ohne dass ein Mitarbeiter manuell eingreifen muss.</p>
+<p>Die <b>Vorteile</b> der automatischen Verbuchung liegen auf der Hand:</p>
+<ul>
+<li><div>Arbeitsersparnis in der Buchhaltung durch den Wegfall von manuellen Buchungen </div></li>
+<li><div>Automatisches Ausziffern der Offenen Posten am Kundenkonto</div></li>
+<li><div>Wegfall von Fehlerquellen durch automatisierte Buchungen</div></li>
+</ul>
+
+<p>Die Umstellung auf die automatische GWL-Vergütungsbuchung kann nach Abstimmung mit Ihrer Buchhaltung per <b>Fernwartung</b> durchgeführt werden.</p>
+
+<p><b><a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/f001ce07db28243fc1257345002cdb93/a8efb5b17a11cdd6c1257417004e7576?OpenDocument" title="Produktinformation Automatische Verbuchung der Gewährleistungsvergütungen" target="_blank">Details dazu und ein Bestellformular</a></b> finden Sie in der POI Infoline. Für Fragen dazu steht Ihnen Ihr Berater der Porsche Informatik gerne zur Verfügung.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Automatische Verbuchung der Gewährleistungsvergütungen">Theresia Lechner</a></p>
+

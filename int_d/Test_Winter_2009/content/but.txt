@@ -1,0 +1,22 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Tipp: Kosten sparen</h1>
+<h2>Durch das zeitgerechte Abschalten von Beamern in den Konferenzräumen lassen sich Kosten vermeiden.</h2>
+
+<img src="images/bild_but.jpg" width="190" height="120" alt="Beamer" /></a>
+
+
+<p>Leider stellen wir des Öfteren fest, dass Beamer in den Konferenzräumen nicht abgeschaltet werden und auch über die Nachtstunden durchlaufen.
+Das verursacht nicht nur unnötige Stromkosten, sondern führt auch dazu, dass die Lampen der Beamer vorzeitig ausgetauscht werden müssen.</p>
+
+<p>Wie alle <b>Glühlampen</b> haben auch jene in Projektoren nur eine <b>begrenzte Lebensdauer</b>, diese liegt je nach der verwendeten Technologie zwischen mehreren hundert oder mehreren tausend Betriebsstunden - max. jedoch 3000 Stunden! 
+</p>
+
+<p>Eine Ersatzlampe kostet je nach Modell <b>ca. 300 Euro </b>und es ist mit einer Lieferzeit von bis zu zwei Monaten zu rechnen.</p>
+
+<p>Bitte helfen Sie daher, unnötige Kosten zu vermeiden, indem Sie die Geräte zeitgerecht abschalten!</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Beamer">Thomas Buchner</a></p>
+
+

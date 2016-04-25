@@ -1,0 +1,60 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Anwendertage 2013</h1>
+
+<h2>Besuchen Sie einen der CROSS-Anwendertage 2013 und informieren Sie sich über die wichtigen Neuerungen in CROSS!</h2>
+
+<img src="images/bild_pri.jpg" width="190" height="120" alt="CROSS-Anwendertage" />
+
+
+
+<p>Auch für die heurigen <b>CROSS-Anwendertage</b> haben wir Ihnen wieder ein interessantes Programm zusammengestellt:
+
+
+<ul>
+
+<li><div>Wir präsentieren Ihnen die wichtigsten Neuerungen und Änderungen der letzten beiden <b>CROSS Releases 2.22 und 2.24</b> und erklären Ihnen, wie Sie diese nutzbringend einsetzen.</div></li>
+
+<li><div>Wir stellen Ihnen neue Funktionen in den CROSS-Modulen <b>Auftragsabwicklung, Kassabuch,</b> <b> Neu-/Gebrauchtwagen</b> vor, die Ihre tägliche Arbeit unterstützen und vereinfachen werden.</div></li>
+
+<li><div>Darüber hinaus informieren wir Sie über die Themen CROSS.Controlling im Service, Elektronische Rechnung sowie CROSS.Archiv.</div></li>
+
+<li><div>Ein Ausblick auf<b> künftige Entwicklungen</b> rundet das Programm ab.</div></li>
+
+</ul></p>
+
+Haben Sie selbst CROSS-Themen, die Sie aktuell beschäftigen? Wir bieten Ihnen heuer die Möglichkeit, uns <b>Ihre Fragen zu CROSS</b> vorab zu stellen (bitte <b>bis spätestens 6. Mai</b> an
+<a href="mailto:michaela.kaserer@porscheinformatik.at ?subject=CROSS-Thema für Anwendertag 2013">michaela.kaserer@porscheinformatik.at</a>). Wir werden die meistgenannten und aktuellsten Themen am Anwendertag behandeln. 
+
+
+
+<p>Wann und wo finden die CROSS-Anwendertage statt?
+
+
+<ul>
+
+<li><div><b>04.06.2013  </b>: Parkhotel Hall | 6060 Hall in Tirol | Tirol</div></li>
+
+<li><div><b>06.06.2013</b>: Veranstaltungszentrum Sala Schloss Mondsee | 5310 Mondsee | OÖ</div></li>
+
+<li><div><b>11.06.2013</b>: Austria Trend Eventhotel Pyramide | 2334 Vösendorf  | NÖ</div></li>   
+
+<li><div><b>13.06.2013</b>: Raststation Rosenberger | 9100 Völkermarkt | Kärnten</div></li>
+
+</ul>
+
+</p>
+
+
+
+<p><b>Die Teilnahme ist für einen Anwender je Betrieb kostenlos!</b> (Für jeden weiteren Teilnehmer betragen die Kosten  &euro; 60.-).</p>
+<p>Details zu den Terminen und die Möglichkeit zur <b>Anmeldung</b> finden Sie 
+im <a href="http://www.auto-partner.net" target="_blank" title="Zum Partner.Net">&raquo;&nbsp;<b>Partner.Net</b></a>,
+ (> Reiter "Home" > Abschnitt "Training & Events" > Kursangbeot > Gliederung nach Fachgebieten > Porsche Informatik > Porsche Informatik Veranstaltungen > CROSS Anwendertage). Sie können sich aber auch direkt bei Frau Michaela Kaserer anmelden (T: 0662 4670 6318). </p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS Anwendertage 2013">Nicola Priol</a><br />
+Marketing & Vertriebsassistenz</p>
+
+

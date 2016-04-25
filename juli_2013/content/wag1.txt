@@ -1,0 +1,38 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Werkstatt-Termin@-Einladungen</h1>
+<h2>Konfigurieren Sie Werkstatt-Termin@-Einladungen so, dass für jede Marke die Einladung von einer eigenen Mail-Adresse versendet wird.</h2>
+
+<img src="images/bild_wag1.jpg" width="190" height="120" title="Werkstatt-Termin@" />
+
+<ul>
+
+<li><div>
+Sie haben Serviceverträge für <b>mehrere Konzernmarken</b>? 
+</div></li>
+
+<li><div>
+Sie wickeln die Werkstatt-Termin@-Einladungen für diese Marken in <b>einem Arbeitsbereich</b> ab?
+</div></li>
+
+<li><div>
+Sie haben für jede Marke einen <b>eigenen Ansprechpartner</b>?
+</div></li>
+
+<li><div>
+Sie wissen nicht, dass Mail-Antworten auf Werkstatt-Termin@-Einladungen auf <b>unterschiedliche Mailempfänger</b> geleitet werden können?
+</div></li>
+</ul>
+
+<p>Wenn Sie alle vier Fragen mit "Ja" beantwortet haben, dann sollten Sie 
+unsere Beschreibung <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/3aee94f103c72c92c1257b9b0030b806?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">Werkstatt-Termin@-Einladungen mit unterschiedlichen Mail-Absendeadressen pro Marke
+</a>
+ zu diesem Thema lesen. </p>
+<p>Sie erfahren darin, wie Sie Werkstatt-Termin@-Einladungen so konfigurieren können, dass für jede Marke die Einladung von einer eigenen Mail-Adresse versendet, 
+und somit auch Antworten von Kunden auf diese Einladungen wieder auf die jeweiligen <b>markenspezifischen Mailadressen</b> geleitet werden.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Fahrerdatenerfassung">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+

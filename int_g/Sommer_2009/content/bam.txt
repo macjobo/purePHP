@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Welcome Terminal</h1>
+<h2>Über das Welcome Terminal werden Kunden bereits beim Betreten Ihres KFZ-Betriebes über die ersten Schritte der Serviceannahme informiert.</h2>
+
+<p>Auf einem gut einsehbaren Bildschirm - dem <a href="index.php?page=bam_bild" title="Welcome Terminal"><b>&raquo;&nbsp;Welcome Terminal</b></a> - werden dem Kunden <b>wichtige Informationen</b> zu den bevorstehenden Terminen angezeigt. Die dargestellten Daten werden hierfür über eine spezielle Schnittstelle aus CROSS automatisiert ausgelesen und laufend aktualisiert. Dadurch ist gewährleistet, dass nur bevorstehende Termine angezeigt werden.
+</p>
+
+<p>Zudem besteht die Möglichkeit, Termine <b>markengetrennt</b> auf unterschiedlichen Bildschirmen anzeigen zu lassen, sowie das <b>Layout</b> je nach Wunsch anzupassen.
+Somit dient das "Welcome Terminal" dem Kunden zur Orientierung und signalisiert ihm <b>Kompetenz und Professionalität</b> durch eine optimale Vorbereitung auf seinen Termin.
+</p>
+
+<p>Bei Interesse informieren wir Sie gerne über die notwendigen technischen Voraussetzungen.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Welcome Terminal">Mark Barton</a>
+<br>Beratung Einzelhandelssysteme
+</p>

@@ -1,0 +1,14 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Anfrage-Vorlagen im Online-Support</h1>
+                
+<div class="bild">        
+    
+<img src="images/anfrage.jpg" alt="Anfrage-Vorlagen im Online-Support" title="Anfrage-Vorlagen im Online-Support" border="0" width="414" height="382">
+      
+</div>                    
+                    
+<p>
+Anfrage-Vorlagen am Beispiel CROSS.
+</p>
+<p id="zurueck"><a href="index.php?page=wam2"><b>Zurück zum Artikel</b></a></p>

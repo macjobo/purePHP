@@ -1,0 +1,43 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>PORSCHE INFORMATIK: Neues Bankensystem CarFin</h1>
+<h2>Ende 2014 haben Porsche Bank und Porsche Informatik die vierte und letzte Stufe des neuen Bankensystems CarFin eingesetzt und 
+damit eines der größten Entwicklungsprojekte der Porsche Informatik erfolgreich abgeschlossen.</h2>
+
+<img src="images/bild_mal2.jpg" width="190" height="120" title="Neues Bankensystem CarFin" />
+
+
+
+<p>
+CarFin ist die neue IT-Lösung für die <b>Backoffice-Abwicklung der Porsche Bank</b>. 
+Das System deckt alle Prozesse vom Eingang eines Finanzierungs- oder Dienstleistungsantrags aus der Verkäuferunterstützung 
+VU2 über die Antragsannahme und den Vertragsbeginn bis hin zum Vertragsende ab. 
+</p>
+
+<p>
+CarFin ist voll in die Wertschöpfungskette des Fahrzeugverkaufs- und -wartungsprozesses integriert. 
+Über 30 unterschiedliche Schnittstellen stellen den <b>elektronischen Datenaustausch</b> zwischen allen beteiligten Bereichen
+ und Systemen sicher. 
+</p>
+
+<p>
+Mit insgesamt 100.000 Stunden Projektumfang ist CarFin eines der größten Entwicklungsprojekte, 
+das die Porsche Informatik je abgewickelt hat. Begonnen haben wir mit einem Team von neun Entwicklern, 
+das zuletzt auf über 25 Mitarbeiter angewachsen ist. 
+</p>
+
+<p>
+Mit dem Produktiveinsatz der letzten Stufe arbeiten nun etwa <b>250 Anwender</b> in der Porsche Bank mit CarFin. 
+Ihr Feedback zum System ist erfreulich positiv. Ausschlaggebend dafür ist in erster Linie, 
+dass sie vom Entwicklungsstart weg intensiv eingebunden waren: Bis zu 50 Anwender testeten anhand von klar definierten Testmatrizen 
+regelmäßig alle Versionen und konzipierten die Funktionalitäten des Systems maßgeblich mit. 
+</p>
+
+
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neues Bankensystem CarFin">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>

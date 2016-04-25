@@ -1,0 +1,26 @@
+<h1>CROSS: Einladungen im Webdesign</h1>
+<h2>Gestalten Sie Ihre Werkstatt-Termin@-Einladungen zeitgemäß.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Einladungen im Webdesign" />
+
+
+
+<p>Die meisten E-Mail-Programme beherrschen die Darstellung von E-Mails im Stile einer <b>Webseite</b>. Machen Sie sich diese Funktion zu Nutze und versenden Sie Ihre <b>Werkstatt-Termin@-Einladungen</b> im zeitgemäßen und übersichtlichen Design.</p>
+
+<p>Wie Sie die erforderlichen Einstellungen in CROSS vornehmen, haben wir in der Beschreibung <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/2725441490e14980c12578e700513785?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Werkstatt-Termin@-Einladungen im Webdesign versenden"&nbsp;&raquo;</b></a> dokumentiert, die Sie in der POI-Infoline finden.</p>
+
+<p>Für Fragen stehen Ihnen die MitarbeiterInnen unseres Service Desks gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Einladungen im Webdesign">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+
+
+
+
+
+
+

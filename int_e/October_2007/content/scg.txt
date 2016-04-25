@@ -1,0 +1,90 @@
+<div class="umbruch">&nbsp;</div>
+<h1>SAGA2/KD3 Rollout: Field report</h1>
+<h2>Successful launch of pilot operations in Austria, Romania, Bulgaria and Macedonia</h2>
+
+<p><b>Initial situation</b><br>
+
+Preparations for the SAGA2 launch began in 2006. Simultaneously a replacement product for the KD2 payment system was developed - the suggestive name: KD3. As the existing operating systems are going to be irrevocably shut down, the changeover to the new systems in Austria and the Partner Countries must be concluded by 31 December 2007.</p>
+
+<p><b>Rollout/Status</b><br> 
+
+The pilot operations in Austria and Romania were launched in July 2007, Bulgaria and Macedonia followed suit in August. The pilot operations in the other countries will be launched between September and November this year.</p>
+
+<p><b>Advantages</b><br>	 
+
+Guarantee processing and assessment in SAGA2 takes place in real time at the respective Partner. This means that the issue of the formal correctness of a claim is decided immediately upon transfer into SAGA2. Payment occurs (as hitherto in KD2) immediately after the works remunerations data arrives at 14-day intervals.</p>  
+
+<p><b>Functionalities of KD3</b>
+
+<ul>
+<li>Storage of all claims which are transferred daily from works to wholesale</li>
+<li>Payment issued to Partners every 14 days; printing and archiving of slips</li>
+<li>Processing of guarantee extensions</li>
+<li>Processing of mobility guarantee</li>
+<li>Processing of vehicle campaigns (to DMS)</li>
+<li>Processing of work items (to DMS)</li>
+</ul>
+</p>
+
+<p><b>Outlook</b><br>	
+
+KD3 will be continuously enhanced and extended with new features.
+A follow-up project is intended to cover all "non-guarantee cases of entitlement" such as transport damage, tyre guarantee, marketing campaigns etc.
+As SAGA2 does not support the PORSCHE brand, a replacement feature will be integrated into KD3 to this end (complete claim assessment).Some standard statistics and control data for cost control are currently being developed, and will be conceived in a manner that allows for use in the Partner Countries as well.
+</p>
+
+<p><b>Previous experience</b><br>	
+
+The pilot application went according to plan and unexpected problems were always resolved quickly. The companies identified the advantages and disadvantages of the new processing procedures, and quickly managed to come to terms with the system. The interaction between SAGA2/KD3 and CROSS works as planned.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SAGA2/KD3">Gerd Schöppl</a>
+<br>Wholesale Development
+<br>Porsche Informatik</p>  
+
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

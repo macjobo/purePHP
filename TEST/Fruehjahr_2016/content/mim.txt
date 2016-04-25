@@ -1,0 +1,52 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Cyber-Erpressungen - kein Ende in Sicht</h1>
+<h2>Die Angriffe durch Cyberkriminelle werden immer häufiger und immer perfider - und Ihre Mithilfe und Sorgsamkeit ist wichtiger denn je!</h2>
+
+<img src="images/bild_mim.jpg" width="190" height="120" alt="Cyber-Erpressungen" />
+ 
+
+<p>Glaubt man, endlich eine Welle von <b>E-Mails mit bösartigen Inhalten</b> hinter sich zu haben, so kommt die nächste. Und die nächste und die nächste. Und aktuell leider in immer kürzeren Zeitabständen.</p>
+<p>
+Besonders bösartig sind die sogenannten <b>Verschlüsselungstrojaner</b>. Das ist Schadsoftware, die Daten auf dem PC und auf Netzlaufwerken verschlüsselt. Den Opfern wird angeboten, nach Zahlung eines <b>"Lösegeldes"</b> wieder auf die Daten zugreifen zu können. So hatte etwa kürzlich ein US-Krankenhaus keinen Zugriff mehr auf wichtige Patientendaten und wurde auf mehrere Mio. US-Dollar erpresst. Dasselbe widerfuhr einer Stadtverwaltung in der Deutschland. Sie sehen also, Cyberkriminalität hinterlässt weitreichende Schäden in der realen Welt.</p>
+ 
+
+<p>Daher müssen wir uns als Unternehmen ebenfalls bestmöglich vor solchen Auswüchsen schützen. <b>Ihre Mithilfe und Sorgsamkeit ist immens wichtig!</b> Denn überwiegend werden die Verschlüsselungstrojaner per E-Mail versendet - zum Beispiel als Rechnung, als Zustellbestätigung in Form eines Anhanges oder als Links zum Download. </p>
+
+
+
+<p>Wir haben Ihnen bereits mehrfach <a href="../Sommer_2014/index.php?page=mim" target="_blank" title="Zum Sommer-Newsletter 2014"><b>Tipps für einen sorgsamen Umgang mit E-Mail&nbsp;&raquo;</b></a> ans Herz gelegt. Hier noch ein weiterer wichtiger Hinweis: Wenn Sie ein E-Mail erhalten, ein darin angehängtes Dokument öffnen oder auf einen Link klicken und sich Ihr PC danach merkwürdig verhält, so <b>schalten Sie das Gerät aus</b> (stromlos machen). Wenden Sie sich danach sofort an der Service Desk der Porsche Informatik (DW 2222). Dadurch kann kein weiterer Schaden auf Ihrem PC oder im Netzwerk entstehen.</p>
+
+<p>Die <b>Support-Mitarbeiter der POI</b> sind darüber hinaus angewiesen, bei Gefahr im Verzug selbständig PCs abzuschalten oder vom Netz zu nehmen, auch wenn der betreffende Benutzer gerade nicht persönlich anwesend ist.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Cyber-Erpressungen">Marcus Michalek</a><br />
+IT-Sicherheitsbeauftragter</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

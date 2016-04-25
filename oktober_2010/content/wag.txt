@@ -1,0 +1,54 @@
+<h1>CROSS Tipp: Auftragsplanung im CROSS Werkstattplaner</h1>
+<h2>Die exakte Planung der Werkstattauslastung ist ein Schlüsselfaktor sowohl für hohe Serviceerträge als auch die Zufriedenheit Ihrer Kunden.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Auftragsplanung im CROSS Werkstattplaner" />
+
+
+
+<p> Die <b>Auslastung</b> Ihrer Werkstatt darf weder zu gering - und damit schlecht für die Erlöse - noch zu hoch sein, damit Sie auch alle vereinbarten Kundentermine einhalten können. Der <b>CROSS-Werkstattplaner </b>unterstützt Sie bei der Werkstättenplanung in optimaler Weise, indem er bei jeder Auftragsplanung automatisch die verbleibenden <b>Kapazitäten</b> berechnet.</p>
+
+<p>Darüber hinaus ist unsere Entwicklungsabteilung gerade dabei, die Web-Lösung <b>"Werkstatt-Terminbuchung"</b> umzusetzen, mit der sich Ihre Kunden in Zukunft den Werkstatttermin über das Internet selbst einplanen können.</p>
+
+
+<p>Umso bedeutender ist die korrekte Planung aller Kapazitäten. Wie Sie dabei am besten vorgehen, haben wir im Dokument <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/7a4000e89b5c530ac12577a0003ed930?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Auftragsplanung mit dem CROSS-Werkstattplaner"&nbsp;&raquo;</b></a> in der POI-Infoline zusammengefasst. Darin beleuchtet wir auch spezielle Prozesse wie z. B. die <b>Wiedereinplanung</b> von verschobenen Aufträgen.</p>
+
+
+
+<p>Wenn Sie darüber hinaus Fragen zu den Abwicklungen im CROSS Werkstattplaner haben, helfen Ihnen die Mitarbeiter unseres Service Desks gerne weiter.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Auftragsplanung im CROSS Werkstattplaner">Gregor Wagner</a><br />CROSS-Fachkoordination</p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

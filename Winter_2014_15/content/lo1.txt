@@ -1,0 +1,60 @@
+<h1>IT-Sicherheit: Passwort-Safe</h1>
+<h2>Um Ihnen das Passwort-Management in Zukunft zu erleichtern, werden wir Ihnen in Kürze einen "Passwort-Safe" zur Verfügung stellen.</h2>
+
+ <img src="images/bild_lo1.jpg" width="170" height="120" alt=Passwort-Safe" />
+
+<p>Wozu braucht man einen Passwort-Safe? Sie als Anwenderin und Anwender benötigen heute sowohl für die Systeme, die Sie für Ihre tägliche Arbeit benötigen, als auch auf vielen Internetseiten <b>sichere Passwörter</b>. Für alle diese Dienste die gleichen Zugangsdaten zu verwenden, stellt ein hohes <b>Sicherheitsrisiko</b> dar, da ein einzelnes entwendetes Passwort den Zugriff auf alle Dienste ermöglichen würde. Daher benötigen Sie viele unterschiedliche, möglichst lange und komplexe Passwörter.</p>
+
+<p>Der neue <b>Passwort-Safe</b>, den unser Client-Team in den vergangenen Monaten gemeinsam mit dem Hersteller entwickelt hat, bietet Ihnen eine komfortable Unterstüztung beim Verwalten dieser Passwörter und schützt Ihre Zugangsdaten vor unberechtigtem Zugriff. <p>Die <b>Kontainerdatei</b>, in der Ihre Zugangsdaten abgespeichert sind, liegt verschlüsselt auf Ihrem U-Laufwerk - damit sind die Daten in unserem Rechenzentrum gesichert. Um Zugang zu den Daten zu erhalten, müssen Sie sich nur an einem Windows-PC mit Ihren <b>Windows-Benutzerdaten</b> anmelden. </p>
+
+<!--
+
+<p>Die neue Lösung erfüllt alle Anforderungen an einen modernen Passwort-Safe:</p>
+
+<ul>
+
+<li><div>Erstellen von <b>Gruppen</b>
+</div></li>
+
+<li><div><b>Autotype</b>, das heißt das automatisches Ausfüllen von Benutzername und Passwort durch Drücken der Tastenkombination STRG+ALT+A
+</div></li>
+
+<li><div>Zuordnung von individuellen <b>Symbolen</b>
+</div></li>
+
+<li><div><b>CSV-Import</b> aus einer bestehenden Lösung (z. B. Keypass)
+</div></li>
+
+
+
+</ul>
+
+
+
+Wir haben aber auch großes Augenmerk auf die besonderen Anforderungen für den Einsatz in einem <b>großen Unternehmen</b> gelegt:
+
+<ul>
+
+<li><div>Zentrale Ablage des Datenfiles auf Laufwerk U; damit sind die Daten in unserem <b>Rechenzentrum</b> gesichert
+</div></li>
+
+<li><div><b>Automatische Verschlüsselung</b> des Datenfiles mit den Active-Directory-Informationen des Benutzers
+</div></li>
+
+<li><div>Einfache <b>Supportmöglichkeiten</b>
+</div></li>
+
+
+</ul>
+
+-->
+
+<p>Der Passwort-Safe ist Teil der <b>Softwarelösung CPSD</b>, mit der wir auch die <b>USB-Verschlüsselung</b> umsetzen werden, die wir Ihnen im <a href="../Sommer_2014/index.php?page=lo1" target="_blank" title="Zur Porsche-Informatik-Infoline"><b>letzten Newsletter&nbsp;&raquo;</b></a> vorgestellt haben. Beide Funktionalitäten werden wir Ihnen im ersten Quartal 2015 zur Verfügung stellen. Sie haben aber jetzt schon die Möglichkeiten, Passwort-Safe und USB-Verschlüsselung im Zuge der <b>Pilotierung</b> zu testen. Kontaktieren Sie dazu einfach unseren Service Desk unter der Durchwahl 2222 bzw. über den  <a href="http://support.porscheinformatik.at" target="_blank" title="Zum Onlinesupport"><b>Onlinesupport&nbsp;&raquo;</b></a>.</p>
+
+<p><b>Detailliertere Informationen</b> zu den beiden Funktionen finden Sie im POCSO-PC-Benutzerhandbuch auf Ihrem Desktop, im Ordner "Sicherheit/Updates" unter "CPSD - Passwort Safe" bzw. "CPSD - Datenträgerverschlüsselung".</p>
+
+
+<a href="mailto:info@porscheinformatik.at ?subject=Passwort-Safe">Herbert Lohninger</a><br />
+Teamleitung Client Konzern
+</p>
+

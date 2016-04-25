@@ -1,0 +1,29 @@
+<h1>CROSS: Auswirkungen von SEPA</h1>
+<h2>Der geplante einheitliche europäische Zahlungsraum macht auch Umstellungen in CROSS nötig.</h2>
+
+
+<img src="images/bild_wag2.jpg" width="190" height="120" alt="Auswirkungen von SEPA" />
+
+
+<p>SEPA steht für Single Euro Payments Area und ist ein Projekt der europäischen Banken, das darauf abzielt, einen <b>einheitlichen europäischen Zahlungsraum</b> zu schaffen.</p>
+
+<p>Durch SEPA sollen Transaktionen in Euro innerhalb der EU  <b>vereinheitlicht</b> werden. Nationale Grenzen sollen z. B. bei einer Überweisung keine Rolle mehr spielen. Um dies zu erreichen, werden die nationalen Zahlungsverkehrssysteme durch <b>ein europaweites System</b> ersetzt.</p>
+
+
+
+<p>In CROSS hat das die Konsequenz, dass der <b>CROSS-Zahlscheindruck</b> auf ein neues Format umgestellt werden muss. Die Porsche Informatik plant, das alte Zahlscheinformat mit einem im Herbst erscheinenden Release umzustellen. Ein Parallelbetrieb von neuem und altem Zahlscheinformat ist aus technischen und organisatorischen Gründen nicht vorgesehen.</p>
+
+<p>Denken Sie also bei der <b>Bestellung von Zahlscheinen</b> bereits heute daran, dass diese nur noch bis zum Herbst verwendet werden können. Wir werden Sie so früh wie möglich über den konkreten Umstellungstermin informieren. Ab diesem Zeitpunkt sollte die Bestellung der neuen Zahlscheine angedacht werden.</p>
+
+
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/fdbe2237d813f369c12576e70033c4b8?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Weitere Informationen zu SEPA und CROSS&nbsp;&raquo;</b></a> haben wir Ihnen in einem kurzen Infoline-Dokument zusammengefasst.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Auswirkungen von SEPA">Gregor Wagner</a><br />
+CROSS-Fachkoordination</p>
+
+
+
+
+
+

@@ -1,0 +1,23 @@
+<h1>Telefonie: Softphones</h1>
+
+<h2>Die Telefonanlage im Porschehof ermöglicht, neben den bekannten Siemens-Openstage-Telefonen, auch reine Softphones zu betreiben. 
+</h2>
+
+<img src="images/Softphones.png" width="144" height="144" alt="Mailbox" />
+
+<p>Softphone bedeutet, dass man über eine am PC oder am Notebook installierte <b>Software</b> telefoniert und nicht über einen herkömmlichen Telefon-Apparat. 
+In Verbindung mit einem geeigneten Headset (USB, Bluetooth, ...) wird so der PC-Arbeitsplatz zu einem <b>vollwertigen Telefon</b> mit eigener Durchwahl
+der Porschehof-Telefonanlage.
+</p>
+
+<p>Da Softphones für die Nutzung via POCSO-Teleworker (VPN-Zugang) freigeschaltet werden, 
+ist die Lösung für Mitarbeiter die im Außendienst tätig sind, eine interessante Option.
+Besonders bei <b>Auslandsaufenthalten</b> können Sie so hohe Gesprächskosten bei Anrufen nach Österreich vermeiden, da
+Sie via VPN-Zugang als Nebenstelle der Anlage in Salzburg telefonieren (sofern eine günstige Internetverbindung wie z.B. ein WLAN-Hotspot genutzt werden kann).
+</p>
+
+ <p>Sollten Sie Interesse am Porsche-Softphone haben, wenden Sie sich bitte 
+an den Service Desk der Porsche Informatik.
+</p>
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=Softphones">Gernot Striednig</a></p>

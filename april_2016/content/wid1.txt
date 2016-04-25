@@ -1,0 +1,31 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Release 2.34: Werkstattplaner Neu</h1>
+<h2>Seit Anfang April ist das neue CROSS-Release 2.34 im Einsatz, hier ein Überblick über die wichtigsten Neuerungen zum Thema Werkstattplaner Neu.</h2>
+
+<img src="images/bild_wid1.jpg" width="190" height="120" title="Highlights Werkstattplaner Neu" />
+
+
+
+<p>
+Das neue CROSS-Release 2.34 bringt eine Reihe interessanter Neuerungen - hier die wichtigsten <b>Änderungen des Werkstattplaner Neu</b>:
+</p>
+
+
+<ul>
+
+<li><div>
+Im Reiter Ersatzfahrzeug können mit der Schaltfläche "Nicht verfügbar" <b>Nichtverfügbarkeiten</b> angelegt werden. 
+Neu ist, dass diese Nichtverfügbarkeiten bei Planungsänderungen über den Button „NV-Ändern“ beliebig angepasst werden.
+</div></li>
+
+
+<li><div>
+Die Listen in der Planungszentrale des neuen Werkstattplaners können nun auch mit einem <b>Klick der rechten Maustaste</b> 
+(bereits aus dem alten Werkstattplaner bekannt), im Planungsbereich der einzelnen Reiter geöffnet werden.
+</div></li>
+
+</ul>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Highlights CROSS Release 2.34">Daniel Wiedemaier</a><br />
+POI PHS CROSS Consulting</p>

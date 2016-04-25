@@ -1,0 +1,40 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Neu im POCSO-Netzwerk</h1>
+
+<h2>Neues Software-Paket für POCSO-Server und Welcome Terminal - Überarbeitete POCSO-Netzwerkübersicht - Neue Version unserer Freeware "Brennprogramm" - Freigabe HP Laptop 2170p.</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im POCSO-Netzwerk" />
+
+
+
+<ul>
+
+
+
+<li><div>Für das <b>Welcome Terminal</b> gibt es ein <b>neues Software-Paket</b>, welches die neueste Version des CROSS2 Utility WTUtil2.exe,
+die neuen VW, Seat und Skoda-Logos sowie einige Korrekturen im Powerpoint-Makro beinhaltet. Bitte passen Sie Ihre Präsentationen für das Welcome Terminal entsprechend an und ordnen
+Sie diese über "Start/Anwendungen Händler/Welcome Terminal Wartung" den Welcome-Terminal-Arbeitsplätzen neu zu.</div></li>
+
+<li><div>Windows Server werden sukzessive mit der <b>neuen Symantec AntiVirus Version</b> ausgestattet. Updates der POCSO-PCs erfolgen nun vom POCSO-Server
+aus und nicht mehr direkt von Salzburg aus. Dies spart Leitungsbandbreite und bringt schnellere Updates für die Clients.</div></li>
+
+
+<li><div>Die <b>POCSO-Netzwerkübersicht</b> unter "Start/Anwendungen Händler/POCSO Übersicht" wurde überarbeitet und ist ab sofort abrufbar.</div></li>
+
+<li><div>Die <b>Freeware "Brennprogramm"</b> hatte in der von uns zuletzt verwendeten Version ein Problem beim Brennen von mehreren Medien.
+Die aktuelle Version behebt dies nun, ein Update auf einem betroffenen Rechner ist jederzeit möglich. Fordern Sie die Installation beim Service Desk der Porsche Informatik an.</div></li>
+
+<li><div>Diese Saison haben wir auch ein <b>11,6" Laptop Modell im Standard</b>; es kann ab sofort in den POCSO Netzwerken installiert und genutzt werden.
+Detailinformationen zum neuen HP Laptop 2170p erhalten Sie im e-Shop " von S&T (Benutzer: "900959-VWAprodAT-1", Passwort: "VWAprodAT") im Bereich "Computersysteme >
+Notebooks" oder bei Herrn Markus Berghammer von S&T Austria GmbH (Tel.: 0662 - 850 285-1515).</div></li>
+
+</ul>
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>

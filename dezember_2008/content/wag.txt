@@ -1,0 +1,33 @@
+<h1>CROSS 2: Vorschau auf Release 2.09</h1>
+<h2>Mitte Jänner 2009 werden wir das CROSS-Release 2.09 zum Einsatz bringen. </h2>
+
+
+Im kommenden Release können wir Ihnen wieder eine Reihe interessanter neuer Funktionalitäten anbieten! Werfen wir einen Blick auf die Highlights:
+
+<ul>
+<li><div><b>"Freie Rechnung"</b>: Mit dieser neuen Auftragskategorie können Rechnungen erstellt werden, die nicht "typisch" für das Servicegeschäft sind, z. B. Stornogebühren oder Vermietung von Räumlichkeiten.</div></li>
+
+<li><div><b>Formularloser Rechnungsdruck</b> ist jetzt auch für Sammelrechnungen der PBV möglich.</div></li>
+
+<li><div><b>Auftragsbezogene EBV-Schnittstelle</b>: Damit können zukünftig neu angelegte Fahrzeuge bei Bedarf SOFORT an die EBV übermittelt werden.</div></li>
+
+<li><div><b>Kennzeichnung kassierter Rechnungen</b> im Kassabuch: Der "gegebene Betrag" kann jetzt in einem Feld erfasst werden. Das Wechselgeld wird angezeigt und die Rechnung auf "bezahlt" gestellt.</div></li>
+
+<li><div><b>Löschen von Benutzern</b>: Mit einer Löschmarkierung versehene Benutzer haben keinen Zugang mehr zu CROSS und werden standardmäßig nicht mehr in der Benutzerliste angezeigt.</div></li>
+
+<li><div><b>Eigene Berechnungsposition für "Fremdlackmaterial"</b>: Das Lackmaterial wird nun richtig als Fremdleistung verbucht.</div></li>
+
+<li><div><b>Erweiterung CROSS-Notfallkonzept</b>:  Mit der Liste "ersatzfzgbelegung.xls" werden nun sämtliche Ersatzmobilitäten angezeigt - egal, ob diese für einen Auftrag verplant wurden oder nicht.</div></li>
+</ul>
+
+<p>Details zu diesen und weiteren Neuerungen finden Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/6291C71ADC3481E4C1257383002CF106?OpenDocument" target="_blank" title="Link zur Änderungsbeschreibung"><b>&raquo; Änderungsbeschreibung zu CROSS 2.09</b></a> in der Porsche Informatik Infoline.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorschau auf CROSS 2.09">Gregor Wagner</a></p>
+
+
+
+
+
+

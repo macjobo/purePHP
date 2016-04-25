@@ -1,0 +1,33 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neue PC und Notebook-Preise</h1>
+<h2>Neue PC und Notebook-Preise aufgrund einer Ausschreibung von Volkswagen.</h2>
+
+<img src="images/bild_mal3.jpg" width="190" height="120" title="Neue PC-Preise" />
+
+
+
+<p>
+Der VW-Konzern hat vor Kurzem weltweit die PC und Notebook-Hardware neu ausgeschrieben.
+Den Zuschlag hat unser <b>langjähriger PC Lieferant HP</b> erhalten.</p>
+
+<P>
+Sie profitieren dadurch von noch <b>günstigeren Anschaffungspreisen</b> und <b>inkludierter 3-Jahreswartung</b> durch S&T Austria. 
+Hardwareschäden bei neu angeschafften Geräten müssen innerhalb der ersten 3 Jahre nur mehr am POI Service Desk gemeldet werden. 
+Wir leiten diese Anfrage an S&T Austria weiter. <br />Bei Desktop PCs kommt ein Techniker zur Reparatur ins Haus, bzw. 
+bei Notebooks erhalten Sie ein Leihgerät zugesandt. Aufgrund dieses Services konnten die bereits bisher ausgezeichneten PC und 
+Notebook-Preise bei <b>gesteigerter Dienstleistung und Wirtschaftlichkeit</b> signifikant verbessert werden.</p>
+
+
+
+
+
+<p>Details zu den PC und Notebook-Modellen von HP sowie Informationen zu den äußerst attraktiven Preisen erhalten Sie im S&T e-Shop 
+mit Ihren persönlichen Benutzerdaten oder 
+dem Infoaccount (ohne Bestellmöglichkeit - Benutzer: "900959-VWAprodAT-1", Passwort: "VWAprodAT") im Bereich "Computersysteme / Notebooks"
+ oder bei Herrn Markus Berghammer von S&T Austria GmbH (Tel.: 0662 850 285-1515).</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Hardware von HP">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

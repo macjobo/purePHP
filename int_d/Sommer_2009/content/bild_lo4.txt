@@ -1,0 +1,11 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Fileserver-Archiv</h1>
+                
+<div class="bild">        
+    
+<img src="images/Fileserver-Archiv.jpg" alt="Fileserver-Archiv" title="Fileserver-Archiv" border="0" height="310" width="254">
+   
+</div>                    
+ 
+<p id="zurueck"><a href="index.php?page=hg1">Zurück zum Artikel</a></p>

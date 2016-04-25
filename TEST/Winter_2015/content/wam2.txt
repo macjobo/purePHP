@@ -1,0 +1,19 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Support: E-Mail-Hinweis Windows-Passwort läuft ab</h1>
+<h2>Ab Jänner erhalten Sie einen Hinweis per E-Mail, kurz bevor Ihr Windows-Passwort ablaufen wird.</h2>
+
+<img src="images/bild_wam2.jpg" width="190" height="120" title="E-Mail-Hinweis Windows-Passwort läuft ab" />
+
+<p>Ab 1. Jänner 2016 erhalten Sie rechtzeitig vor Ablaufen des Windows-Passwortes automatisch ein <b>E-Mail</b>, das an den Wechsel des Kennwortes erinnert, und zwar in einem <b>Intervall</b> von 21, acht und zwei Tagen, bevor das Passwort geändert werden muss.</p>
+
+<p>Diese Erinnerung ist vor allem für jene Anwender hilfreich, die häufig mittels <b>VPN-Zugang</b> arbeiten, da das Einwählen über den POCSO-Teleworker mit abgelaufenem Passwort auch weiterhin nicht möglich ist. </p>
+
+<p>Bitte wenden Sie sich bei Fragen dazu an unseren Service Desk; die Kolleginnen und Kollegen helfen gerne weiter!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=E-Mail-Hinweis Windows-Passwort läuft ab">Markus Watzik</a><br />
+Leitung User Centric Services </p>
+
+
+

@@ -1,0 +1,19 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Service-Bildschirmschoner</h1>
+<h2>Die neuen Service-Bildschirmschoner der Porsche Austria mit Informationen über aktuelle Service-Pakete werden im POCSO-Netzwerk automatisch verteilt.</h2>
+
+
+
+<p>Seit Anfang Mai können Sie <b>Bildschirmschoner für VW- und Audi-Servicepakete</b> auf ausgewählten Arbeitsplätzen im Betrieb anzeigen lassen. Mittels eines einheitlichen Bildschirmschoners werden Mitarbeiter, aber auch Kunden über die aktuellen Serviceangebote informiert.</p>
+
+<p>Die Bildschirmschoner werden in Zukunft mit Einsatz von neuen Sparpaketen an die POCSO-Betriebe <b>verteilt</b> und automatisch zum Start der Aktion <b>aktiviert</b>. Damit sind Sie immer auf dem aktuellsten Informationsstand.</p>
+
+<p>Wie Sie diese Zuordnung durchführen können, haben wir in einer kurzen <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/501818f60553bc16c1256f1700433247/e7e679454bcd482bc12572c9003f6fce?OpenDocument" target="_blank" title="Anleitung Service-Bildschirmschoner" alt="Anleitung Service-Bildschirmschoner"><b>Beschreibung</b></a> in der Porsche Informatik Infoline für Sie zusammengefasst.</p>
+
+<p>Selbstbetreute Netzwerke können die Bildschirmschoner bei der Abteilung Service Marketing der Porsche Austria anfordern. Die Installation und Aktivierung der Bildschirmschoner muss hier manuell durchgeführt werden.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Service-Bildschirmschoner">Friedrich Malle</a></p>
+

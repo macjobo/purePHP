@@ -1,0 +1,58 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: officeatwork</h1>
+<h2>Nach dem erfolgreichen Einsatz der Vorlagen-Verwaltung officeatwork in allen Konzernunternehmen (Ausnahmen: ARAC, Auto-Z) werden ab 15.06.2011
+die alten Office-Vorlagen unter Datei - Neu - Meine Vorlagen deaktiviert! </h2>
+
+<img src="images/officeatwork.jpg" width="160" height="100" alt="officeatwork" />
+
+<p>Wie wir Sie bereits in der letzten Ausgabe informiert haben, werden wir nach dem erfolgreichen Rollout von <b><a href="http://newsletter.porscheinformatik.at/int_d/Sommer_2010/index.php?page=haw" target="_blank" title="officeatwork" alt="officeatwork">officeatwork&nbsp;&raquo;</a></b> die alten Office-Vorlagen mit <b>15.06.2011 </b>deaktivieren.</p>
+
+<p>Bitte beachten Sie, dass wir dabei den kompletten Ordner D:\POI\Vorlagen automatisch löschen werden.
+Sollten Sie hier persönliche Vorlagen gespeichert haben, verschieben Sie diese bitte auf U:\Eigene Dateien.
+</p>
+
+<p>
+<a href="mailto:info@porscheinformatik.at ?subject=officeatwork">Herbert Lohninger</a> </p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

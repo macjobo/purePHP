@@ -1,0 +1,57 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Neuerungen POCSO Netzwerkübersicht – Anpassungen POCSO Teleworker – Neue Version Asanetwork Manager - Allgemeine Softwareupdates von Symantec und Adobe</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+
+<li><div><b>POCSO Netzwerkübersicht-Neuerungen</b><br />
+Nach Kundenwunsch haben wir die POCSO Netzwerkübersicht angepasst und erweitert.<br />
+Die Felder CallBack, PorscheSuite, Internet-Explorer-Version und ServiceKey wurden hinzugefügt, 
+die aktuellen Laptop Modelle (HP 820 840 850 G2) eingepflegt und die POCSO-Empfehlungen überarbeitet. 
+Entfernt wurden die nicht mehr relevanten Windows 7-Lizenzinformationen. Neu ist der Reiter "Barcode" in welchem die im Betrieb eingesetzten 
+POCSO WLAN-Barcodescanner aufgelistet sind.
+ </div></li>
+
+
+
+
+<li><div>
+<b>Anpassungen POCSO Teleworker</b><br />
+Der Hinweis auf ein ablaufendes POCSO Passwort wird auch bei einem hauptsächlichen Betrieb über POCSO Teleworker an den PC Benutzer via E-Mail gesendet.
+Beachten Sie, dass ein PC, der über POCSO Teleworker betrieben wird, spätestens alle vier Wochen im Heimatnetzwerk upgedatet werden muss.
+
+</div></li>
+
+<li><div>
+<b>SW Paket: AxoNet Asanetwork Manager Vers.3.2.732.0_EH 1.0</b><br />
+ASANet haben wir schon lange auf unseren Servern im Einsatz, jetzt wurde es wieder einmal Zeit für eine neue Version. 
+Nach erfolgreich bestandenen Tests installieren wir die Version 3.2 ab sofort bei allen Servermigrationen.
+</div></li>
+
+<li><div>
+<b>SW Paket: Symantec AntiVirus Vers.12.1.6318_AG 1.0</b><br />
+Aktuelle Version der Symantec Endpoint Protection. Diese Version ist Windows 10-fähig, wir werden in den nächsten Wochen allgemein auf diese Version updaten. 
+Eine mögliche Implementierung von Windows 10 in POCSO Netzwerken ist gerade im Test.
+</div></li>
+
+<li><div>
+<b>SW Paket: Adobe Flash Player und Adobe Shockwave Player</b><br />
+Wieder einmal wird ein Security Update des Adobe Flash und Shockwave Players verteilt.
+</div></li>
+
+
+
+</ul>
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

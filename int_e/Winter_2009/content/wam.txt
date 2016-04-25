@@ -1,0 +1,59 @@
+
+<h1>Service Desk: Online Support</h1>
+<h2>Answers to the most important questions regarding the new "Porsche Informatik Online Support"!</h2>
+
+<p>On 1 December 2008 we introduced a new tool for inputting your Support queries - the new  <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">&raquo;&nbsp;Online Support</a></b>.</p>
+
+<p>After the initial start-up phase we would now like to answer your most frequently asked questions regarding this application:</p>
+
+<p><b>Why is my master data in Online Support incorrect?</b><br />
+The master data contained in <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">&raquo;&nbsp;Online Support</a></b> such as name, telephone number or email address are taken from Partner.Net, these data will soon be synchronised via an interface. Therefore, please ensure that information is kept up to date - your local Partner.net administrator can provide more details. </p>
+
+<p><b>What do the status emails for my request mean?</b><br />
+In order to inform you about the progress of your query, our email system sends emails of which the subject line tells you the current status of your query (<i>"Staged"</i>, <i>"In Progress"</i>, <i>"Completed"</i> or <i>"Pending"</i>). The <i>"Pending"</i> status means that further information or activities are required for further processing of the query. More information may be found in the status reason, which is described in more detail in a key in the email (e.g. Client Action Required, Third Party Vendor Action Required).</p>
+
+<p><b>How should I categorise my request?</b><br />
+To make the writing of your query easier, (<i>"Create a New Request"</i>), the services and dealers assigned to you may be found in a selection menu of the <i>"Summary field"</i>.</p>  
+
+<p><b>How do I use "completion assistants"/templates?</b><br />
+To ensure the most efficient possible cooperation (no need for inquiries), we have created specific templates which you can select for your queries. Please complete the key data required there -  then we can immediately begin processing your query. If there is no suitable category for your query, (or no suitable completion assistant), please manually complete the <i>"Summary"</i> and <i>"Notes"</i> fields - in as much detail as possible.</p>    
+
+<p>For a <b><a href="https://domino.auto-partner.net/int/hilfe/klbpoial.nsf/AllByID/BE0DD69707F6FE86C125750D0040EDEA?OpenDocument" target="_blank" title="detailed user description" alt="">&raquo;&nbsp;detailed user description</a></b>  see the Porsche Informatik Infoline.</p> 
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Online Support">Markus Watzik</a>
+<br>Service Desk Team Manager 
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

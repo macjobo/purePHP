@@ -1,0 +1,33 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS-Tipp: CROSS.Controlling Betriebs- und Serviceübersicht</h1>
+<h2>Der Punkt in der CROSS.Controlling Betriebs- und Serviceübersicht gibt keine Rätsel mehr auf.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="CROSS.Controlling" />
+
+
+<p>Seit der letzten <b>Programmversion 1.10</b> ist eine neue Funktion - die Positionstyp-Analyse - dazugekommen. 
+Diese Unterauswertung schlüsselt die Erlöse nach Auftragskategorie (Werkstattauftrag / Ladenverkauf) und Positionstypen 
+(Arbeit, Material, Div. Verrechnung usw.) auf. Dabei können alle gesetzten <b>Filter</b> der Betriebs- und Serviceübersicht mitverwendet werden.</p>
+
+
+<p>Diese Funktion kann ebenfalls dazu genutzt werden, den <b>offenen Auftragswert</b> zu <b>"zerlegen"</b>. 
+Wählen Sie in der Betriebsübersicht Arbeitsbereich und Zeitraum aus und klicken Sie dann auf die Kennzahl "Offener Auftragswert" 
+(links unter den abgerechneten Erlösen). Wenn Sie anschließend die Positionstyp-Analyse auswählen, 
+erhalten Sie die offenen Auftragswerte <b>nach Positionstypen aufgeschlüsselt</b>.</p>
+
+<p>Übrigens, wenn's noch genauer sein soll, empfehlen wir die <b>Auftragsselektion nach Buchhaltungsdaten</b>. 
+Dort können Sie z.B. nach jedem Positionstyp einschränken und somit jede einzelne Auftragsposition - auch für offene Auftragswerte - analysieren.</p>
+
+
+
+<p>Wenn Sie dazu mehr wissen wollen, berät Sie Ihr CROSS-Berater sehr gerne, 
+oder nutzen Sie unseren <b>Workshop Führen mit CROSS.Controlling.Service</b> zu dem Sie sich 
+im Partner.Net unter Training/Verwaltung - Training & Events - Kursangebot - Gliederung nach Fachgebiet - Porsche Informatik - CROSS-Seminare anmelden können.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Controlling Betriebs- und Serviceübersicht">Christian Witibschlager</a><br />
+Key Account Management Einzelhandel Österreich</p>
+
+

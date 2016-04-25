@@ -1,0 +1,49 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Diagnosetester</h1>
+<h2>Nutzen Sie die POCSO-Vorteile für Ihre Werkstätte, integrieren Sie die VAS-Tester in Ihr POCSO-Netzwerk.</h2>
+
+<img src="images/bild_mal3.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+Genießen Sie den sprichwörtlichen POCSO-Komfort und verzichten Sie in Zukunft nicht mehr auf folgende Vorteile beim Einsatz Ihrer Diagnosetester:
+
+<ul>
+
+<li><div><b>Nutzung</b> von CROSS, ELSA-Win, Lotus Notes, Partner.Net, EBV, Internet, Intranet
+</div></li>
+
+<li><div><b>Datenablage</b> (Testerprotokolle) am POCSO-Netzwerkserver oder als Anhang zum CROSS-Auftrag - kein aufwendiges Übertragen von Daten mittels USB-Stick
+</div></li>
+
+<li><div>Aktueller <b>Virenschutz</b> zur Sicherstellung von Stabilität und Verfügbarkeit
+</div></li>
+
+<li><div>Zugriff auf alle freigegebenen <b>Drucker</b> und <b>Datenverzeichnisse</b> in Ihrem POCSO-Netzwerk
+</div></li>
+
+
+</ul>
+
+
+Wenn Sie in der Werkstätte <b>POCSO WLAN</b> einsetzen, dann stehen Ihnen mit dem POCSO-Diagnosetester weitere Möglichkeiten zur Verfügung:
+
+<ul>
+
+<li><div>Führen Sie <b>Tests</b> am Standort des Fahrzeuges durch - bei entsprechender WLAN-Verfügbarkeit auch vor der Werkstätte.
+</div></li>
+
+<li><div>Sparen Sie <b>Zeit</b>: Sie müssen das Fahrzeug nicht mehr rangieren, um Tests durchzuführen.
+</div></li>
+
+<li><div>Vermeiden Sie <b>kaputte Patchkabel</b> durch Abknicken, Herausreißen, etc.
+</div></li>
+
+</ul>
+
+<p>Folgende <b>VAS-Tester</b> können als POCSO-Diagnosetester integriert werden: VAS5052A, VAS6150, VAS6150A. Die neuen VAS6150B und VAS6160 sind in Vorbereitung.</p>
+
+<p>Umfassende Informationen zur Integration von Diagnosetestern erhalten Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/3873a90d457994cec1257345002cdb87/f70c71be9184fc4fc125791a0035bbdd?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Produktinformation "POCSO Diagnosetester"&nbsp;&raquo;</b></a> in der POI-Infoline oder bei Ihrem Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=POCSO-Diagnosetester">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>

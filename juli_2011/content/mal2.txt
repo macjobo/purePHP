@@ -1,0 +1,33 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Hardware: e-Shop NEU</h1>
+<h2>Der e-Shop von S&T und Porsche Informatik wurde komplett überarbeitet und ist bereits in der neuen Version online! </h2>
+
+<img src="images/bild_mal2.jpg" width="190" height="120" title="e-Shop NEU" />
+
+
+<p>Der <b>e-Shop</b> von S&T Austria und Porsche Informatik ist gut eingeführt und wird von den Autohäusern rege genutzt. Zuletzt war unsere Online-Vertriebsplattform allerdings schon in die Jahre gekommen und es wurde Zeit für einen "Relaunch".</p>
+
+<p>Die <b>neue Version</b> des e-Shops steht Ihnen ab sofort zur Verfügung - hier die wichtigsten Neuerungen und Verbesserungen: </p>
+
+<ul>
+<li><div>Sie können nun - entsprechend dem Bedarf Ihres Betriebs - beliebig viele <b>Zugänge</b> anlegen. </div></li>
+<li><div>Ihre <b>Daten</b> wie Adresse, E-Mail und Telefon, aber auch Ihr Passwort können Sie nun selbst verwalten. </div></li>
+<li><div>Sollten Sie Ihr Passwort vergessen, erhalten Sie binnen zwei Minuten per Mail-Anforderung ein <b>Ersatzpasswort</b> zugestellt.</div></li>
+<li><div>Die Katalogansicht kann durch umfangreiche <b>Suchoptionen</b> ergänzt werden.</div></li>
+<li><div>Sie können eigene <b>Favoritenlisten</b> mit Ihren bevorzugten Artikeln erstellen.</div></li>
+<li><div>Passende <b>Optionen</b> zu Hauptartikeln werden übersichtlich gruppiert vorgeschlagen.</div></li>
+<li><div>Der Shop erstellt automatisch eine <b>Bestellhistorie</b>, in der Sie den Status Ihrer Bestellung (bestellt, geliefert, verrechnet) jederzeit einsehen können.</div></li>
+</ul>
+
+
+<p>Den neuen e-Shop können Sie unter dem Link <a href="http://shop.snt-online.at" target="_blank" title="zum e-Shop"><b>http://shop.snt-online.at&nbsp;&raquo;</b></a>  aufrufen. Der e-Shop ist auch über den Kundenbereich der <a href="http://www.porscheinformatik.at" target="_blank" title="Zur POI-Homepage"><b>Porsche Informatik Homepage&nbsp;&raquo;</b></a> aufrufbar.</p>
+
+<p>Für den <b>allgemeinen Zugang</b> (ohne Bestellmöglichkeit) verwenden Sie bitte folgende Zugangsdaten: Benutzer: 900959-VWAprodAT-1 | Passwort: VWAprodAT. Für <b>individuelle Zugangsdaten</b> zum neuen e-Shop (mit Bestellmöglichkeit) wird S&T Austria alle bisherigen Benutzer des e-Shops kontaktieren.</p>
+
+<p>Darüber hinaus steht Ihnen Markus Berghammer von S&T (0662 850285 1515) für Ihre Fragen gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=e-Shop NEU">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>

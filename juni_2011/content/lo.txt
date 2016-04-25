@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>E-Mail: Abgleich NOKIA</h1>
+<h2>Der Daten-Abgleich zwischen NOKIA-Geräten und Lotus Notes kann leider nicht mehr unterstützt werden.</h2>
+
+<img src="images/bild_lo.jpg" width="190" height="120" title="Abgleich NOKIA" />
+
+<p>In der Vergangenheit war es möglich, NOKIA-Mobiltelefone mittels Kabel bzw. Bluetooth mit Lotus Notes (z. B. Kalenderdaten) <b>abzugleichen</b>.
+NOKIA unterstützt diese Funktion bei neuen Modellen nicht mehr. Somit können auch wir Ihnen diese Lösung leider nicht mehr anbieten.</p>
+
+<p>Als Alternative möchten wir Ihnen bei Bedarf den Einsatz eines 
+<b><a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/b00d4cf946308426c1256ed9004402bd/fb7754098cf8c7aec125737e0040ba4e?OpenDocument" target="_blank" title="BlackBerry" alt="officeatwork">BlackBerry-Gerätes&nbsp;&raquo;</a></b> empfehlen.</p>
+
+<p>Alle Fragen rund um die Vorteile mit der Nutzung von BlackBerry-Geräten beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Abgleich NOKIA">Herbert Lohninger</a><br />
+Leitung Infrastruktur Services Client Konzern
+</p>

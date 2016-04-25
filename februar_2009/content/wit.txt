@@ -1,0 +1,17 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS-2-Tipp: Richtige NORA-Wartung bringt Geld</h1>
+<h2>Die richtige Wartung Ihrer NORA-Geschäftspartner bedeutet für Ihren Betrieb bares Geld!</h2>
+
+<p>Mit 1. Jänner 2009 haben die Importeure neue <b>Richtlinien für die Vergütung</b> von Verkäufen an Fuhrpark- und NORA-Kunden festgelegt. Die entsprechenden Informationen finden Sie im ServiceNet (Teiledienst-Bereich) oder Sie erhalten sie über die zuständigen Importeurs-abteilungen.</p>
+
+<p>Kontrollieren Sie bitte, ob Sie - diesen Richtlinien folgend - in CROSS die <b>Abnehmergruppen</b>, die Kombinationen Auftragsart - Abnehmergruppe und vor allem auch die Zuordnung der Werkstattabnehmergruppe zu den entsprechenden Geschäftspartnern richtig eingestellt haben. Achten Sie auch darauf, dass die Berechnungspositionen für <b>Klein- und Lackmaterial</b> eingetragen wurden. Wie Sie dabei richtig vorgehen, finden Sie in der POI-Infoline <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/AllByID/F43EA441F47C59CEC12574D70038F302?OpenDocument" target="_blank" title="Neue Abnehmergruppen im Service"><b>&raquo; beschrieben.</b></a> </p>
+
+<p>Die  <b>NORA-Vergütungskontrolle</b> in CROSS prüft, ob bei rabattberechtigten Kunden auch die notwendigen NORA-Parameter vorhanden sind. Sie sollte täglich kontrolliert werden. Daneben sollten Sie monatlich das neue <b>Fuhrpark-Fehlerprotokoll</b> im Partner.Net kontrollieren. Hier sehen Sie, ob die eingegebenen Daten zusammenpassen, z. B. die UID-Nummer in Kombination mit der Abnehmergruppe.</p>
+
+<p>Nur wenn Sie diese Richtlinien einhalten und <b>beide Protokolle</b> laufend kontrollieren ist sichergestellt, dass Sie den vereinbarte Teil Ihres Nachlasses rückvergütet bekommen!</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Bares Geld durch richtige NORA-Wartung">Christian Witibschlager</a></p>

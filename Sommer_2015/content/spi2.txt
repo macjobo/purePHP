@@ -1,0 +1,49 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Infrastruktur: Volkswagen-IT-Konferenzen 2015</h1>
+<h2>Porsche Informatik war bei zwei großen Volkswagen-IT-Konferenzen in Dresden dabei.</h2>
+
+<img src="images/bild_spi2.jpg" width="190" height="120" alt="Volkswagen-IT-Konferenzen 2015" />
+ 
+<p>Jährlich veranstaltet Volkswagen an wechselnden Orten in Deutschland zwei interessante Events: die weltweite Infrastruktur-Konferenz <b>Volkswagen International Technology Action Group (VITAG)</b> und die <b>Information-Security-Tagung ISSEC</b>; heuer traf man sich in Dresden.</p>
+
+<p>Die Tagungen finden üblicherweise in derselben Woche statt, weil ein guter Anteil der Teilnehmer beide besucht. So waren bei der VITAG über 200 Teilnehmer <b>aus der ganzen Welt</b> (von China über Indien und Europa bis hin zu Nord- und Südamerika) vertreten. Die ISSEC hatte etwas weniger Besucher, aber in der gleichen geographischen Bandbreite. Von der Porsche Informatik nehmen derzeit auf Einladung von Volkswagen jeweils der Leiter des Bereichs <b>Infrastructure Services</b> sowie der <b>IT-Sicherheitsbeauftragte</b> teil.</p>
+
+
+<p>Wie immer behandelten die Vorträge aktuelle Entwicklungen bei Volkswagen. So wurden etwa die Nachfolger des <b>IT-Security Programms</b> (ITSP) vorgestellt, die nun ITSP+ und ITSP2 heißen und eventuell auch die Porsche Holding Salzburg betreffen könnten.
+Im Umfeld der Infrastruktur geht es z.&nbsp;B. um <b>neue Standards</b>, <b>neue Technologien</b> oder den Stand der Entwicklung von <b>Projekten aus den Vorjahren</b>.</p>
+
+<p>Insgesamt ein bunter Reigen an Informationen und viele Möglichkeiten, mit den Kollegen aus Wolfsburg und dem Rest der Welt <b>Netzwerke zu knüpfen</b> und <b>Erfahrungen auszutauschen</b>. Die können wir jetzt wieder in unsere tägliche Arbeit für den Porsche-Konzern einfließen lassen.
+</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Volkswagen-IT-Konferenzen 2015">Anton Spitzer</a><br />
+Leitung Infrastructure Services </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

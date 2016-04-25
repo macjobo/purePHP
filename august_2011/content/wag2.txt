@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp - Neue Kennzahl "Verrechnungsgrad"</h1>
+<h2>Nutzen Sie die Möglichkeiten, die Ihnen aus der neu geschaffenen Auswertung "Verrechnungsgrad" erwachsen!</h2>
+
+<img src="images/bild_wag2.gif" width="190" height="120" title="Verrechnungsgrad" />
+
+
+<p>Sie kennen die altbewährte Kennzahl "Zeitmäßiger Leistungsgrad" - sie gibt an, wie leistungsfähig bzw. wie schnell die Leistungslöhner Ihres Betriebs sind. Die in CROSS 2.16 neu geschaffene Kennzahl <b>"Verrechnungsgrad"</b> dagegen zeigt Ihnen auf, in welchem Ausmaß die Leistungen <b>verrechnet</b> wurden.</p>
+
+<p>Ein Verrechnungsgrad unter Hundert signalisiert, dass <b>Nachlässe</b> gewährt wurden. Lediglich bei den Hauspositionen (Verrechnungssatz 6H) weist der Verrechnungsgrad nicht auf Nachlässe hin, sondern zeigt die Relation Ihrer durchschnittlichen Hauspreise zu Ihrem Verrechnungssatz 1 auf. </p>
+
+<p>Beachten Sie, dass Sie aufgrund der vielfältigen Selektionsmöglichkeiten den Verrechnungsgrad und damit die gewährten Nachlässe bis auf <b>Auftragsebene</b> herunterbrechen können.</p>
+
+<p>Weitere <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/858e97b4bd56ed6dc12578ee0030997a?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Hinweise zum Verrechnungsgrad&nbsp;&raquo;</b></a> und zu den Analysemöglichkeiten, die sich daraus ergeben, finden Sie in der POI-Infoline.</p> Für Fragen stehen Ihnen die Mitarbeiter unseres Service Desks bzw. Ihr Berater der Händlerfinanzberatung gerne zur Verfügung
+ 
+
+<p>Noch ein Hinweis: Bitte betrachten Sie die Kennzahlen <b>"Verkaufte Stunden"</b> und <b>"Wertmäßigen Leistungsgrad"</b> als überholt und nutzen Sie diese nicht mehr zur operativen Steuerung.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Verrechnungsgrad">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+

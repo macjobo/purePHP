@@ -1,0 +1,26 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: Neues Release 2.12</h1>
+<h2>Mit Ende Februar 2010 haben wir die Entwicklung des CROSS Release 2.12 beendet. Folgende vier Highlights des neuen Release stellen wir Ihnen hier kurz vor.</h2>
+
+<img src="../images/bild_wag.jpg" width="190" height="120" alt="CROSS" /></a>
+
+<!-- <p>Wesentliche Gründe für die lange Entwicklungszeit waren folgende <b>vier Eckpunkte</b>:</p> -->
+
+<p><b>Eingangsrechnungskontrolle im Bereich Service:</b> Dieses CROSS-Modul ermöglicht Ihnen, sowohl Teilelieferungen als auch Fremdleistungen und Durchläuferpositionen zu kontrollieren. Sie erzeugen mit jeder Auftrags- bzw. Eingangslieferscheinposition einen entsprechenden Kontrollsatz, der später für die Rechnungskontrolle herangezogen, kontrolliert und freigegeben werden kann. Somit sind alle Zubuchungen ins Teilelager auf Menge, Wert und - vor allem bei Fremdleistungen und Durchläuferpositionen - auf Verrechnung an den Kunden kontrollierbar. Darüber hinaus erfolgt die Wareneinsatzbuchung künftig mit dem Lieferantenlieferschein und nicht wie bisher mit der Lieferantenrechnung. Damit können Sie zusätzlich die Wareneinsatzkonten gegen die Lieferantenkonten auf ihre Richtigkeit überprüfen.</p>
+
+<p><b>Auftragsübergabe:</b> Wenn Ihr Unternehmen mehrere Standorte betreibt und dabei z. B. nur an einem Standort für alle anderen Standorte Lackierarbeiten durchführt, müssen Sie bis jetzt zwei Aufträge manuell erfassen, prüfen und abrechnen. Bei Spengler- und Lackarbeiten handelt es sich in der Regel um sehr lange Aufträge. Mit der Auftragsübergabe können Sie diese Aufträge elektronisch an die durchführende Niederlassung weitergeben, die Rückverrechnung erfolgt ebenso auf elektronischem Wege. Damit reduzieren Sie die doppelten Erfassungsaufwände und erreichen eine leichtere Kontrolle der Verrechnungen.</p>
+
+<p><b>Ersatzfahrzeug:</b> Wenn Sie heute ein Ersatzfahrzeug verleihen, müssen Sie einen entsprechenden Leihvertrag händisch ausfüllen und danach im Kundendienstauftrag manuell erfassen und abrechnen. Eine Kontrolle, wie viele Verträge ausgestellt und welcher Umsatz daraus generiert wurde, ist nur sehr aufwändig möglich. Mit dem neuen CROSS-Modul Ersatzfahrzeug können Sie diese Tätigkeiten online im System durchführen. Dabei greifen Sie auf vorhandene Stammdaten (Geschäftspartner, Fahrerdaten wie z. B. Führerschein usw.) sowie auf die entsprechenden Daten des Ersatzfahrzeuges zu. Ein Abschluss des Leihvertrages erfolgt im System und erzeugt automatisch entsprechende Verrechnungspositionen, welche in den Kundendienstauftrag übergeben werden. Die entsprechenden Auswertungen erhalten Sie natürlich direkt aus CROSS.</p>
+
+<p><b>Rechnungsausgangsbuch:</b> In diesem Bereich ist es zu einer Neugestaltung gekommen. Zukünftig können Sie den Ausdruck von Tagesendprotokollen reduzieren, da Ihnen viele Protokolle online in CROSS zur Verfügung stehen. Weiters bietet Ihnen das neue Rechnungsausgangsbuch neue Möglichkeiten, Rechnungen auf Basis Buchung, Konto und Kostenstelle zu kontrollieren und nachzuvollziehen.</p>
+
+<p>Innerhalb der nächsten zwei Wochen erhalten Sie Informationen zum Rollout-Plan für das neue CROSS Release.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neues Release 2.12">Robert Rauter</a></p>
+
+
+
+
+
+

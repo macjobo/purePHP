@@ -1,0 +1,75 @@
+<div class="umbruch">&nbsp;</div>
+<h1>SAP: Rollout erfolgreich</h1>
+<h2>SAP bereits in sieben Konzernländern im Rechnungswesen im Einsatz!</h2>
+
+<p>SAP ist seit dem Jahr 1992 im Porsche Konzern im Einsatz. Im Jahr 2004 entschied die Porsche Holding, dass die in Österreich im Rechnungswesen erfolgreich eingesetzte Software als <b>internationaler Konzernstandard auch in den Partnerländern</b> eingesetzt werden soll.</p>
+<p>In den letzten Jahren haben wir daher in Zusammenarbeit mit den Ländern das <b>SAP-System</b> im Rechnungswesen folgender Porschetöchter plangemäß <b>eingeführt</b>:</p>
+
+<ul>
+<li>Einzelhandel Ungarn</li>
+<li>Großhandel Ungarn</li>
+<li>Eurent Ungarn</li>
+<li>Einzelhandel Tschechien</li>
+<li>Großhandel Slowakei</li>
+<li>Einzelhandel Slowakei</li>
+<li>Porsche Bank Slowenien</li>
+<li>Porsche Bank Kroatien</li>
+<li>Einzelhandel Deutschland</li>
+</ul>
+
+<p>Aktuell sind folgende <b>Projekte</b> zum Einsatz von SAP in Arbeit:</p> 
+     
+<ul>
+<li>Porsche Bankgruppe Ungarn</li>
+<li>Einzelhandel Italien</li>
+<li>Großhandel Slowenien</li>
+<li>Großhandel Rumänien</li>
+</ul>
+
+<p>Nach diesen Projekten warten bereits die nächsten Unternehmen auf den geplanten Umstieg auf SAP.</p>	
+
+<p>Wir möchten uns herzlich bei allen Beteiligten, insbesondere den Ansprechpartnern und Anwendern in den Unternehmen bedanken, die zum erfolgreichen Umstieg auf SAP im Rechnungswesen beigetragen haben.</p>
+
+<!-- <img src="C:\Programme\xampp\htdocs\int_g\Juni_2007\images\Reichl_Norbert_03.jpg" alt="" align=""/> -->
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SAP Rollout">Norbert Reichl</a><br>
+Leitung Beratung und Entwicklung SAP<br>
+Porsche Informatik</p>
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

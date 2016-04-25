@@ -1,0 +1,15 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>SAP: Anlagenbuchhaltung</h1>
+<h2>Ab sofort ergänzt eine Anlagenbuchhaltung unser SAP-Angebot für den Einzelhandel.</h2>
+
+<p>Mit der <b>SAP-Anlagenbuchhaltung (SAP-AM)</b> bietet Ihnen die Porsche Informatik eine wertvolle Ergänzung zu SAP FI/CO (Finanzbuchhaltung und Kostenrechnung). 
+Sie vereinfachen und automatisieren damit die Verwaltung Ihrer Anlagenbestände und haben diese stets aktuell in Ihrer Buchhaltung.</p>
+
+<p>Die Systeme sind hoch integriert, d. h. die <b>Durchbuchung der Geschäftsfälle</b> - Zu- und Abgänge von Anlagen, monatliche Abschreibung etc. - in die Finanzbuchhaltung und Kostenrechnung erfolgt in einem Schritt. Informationen über den Restbuchwert einzelner Anlagen und Abschreibungssummen können jederzeit abgerufen werden. </p>
+
+
+<p>Detaillierte <b><a href="http://kb.auto-partner.net/int/hilfe/klbsap.nsf/AllByID/CD1BC0382A2E5F16C12574190048500A?OpenDocument" title="Produktblatt SAP-Anlagenbuchhaltung" target="_blank">Produktinformationen zur SAP Anlagenbuchhaltung</a></b> finden Sie in der POI-Infoline; auch Ihr Key Account Manager der POI berät Sie gerne.</p>
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SAP Anlagenbuchhaltung">Theresia Lechner</a></p>

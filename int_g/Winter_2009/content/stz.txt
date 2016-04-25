@@ -1,0 +1,59 @@
+<div class="umbruch">&nbsp;</div>
+<h1>SAP R3: Umstieg auf SAP ERP</h1>
+<h2>Porsche Informatik führt dieses Jahr den Umstieg von der Version SAP R3 auf das neue Produkt SAP ERP durch.</h2>
+
+<p>Die Firma SAP hat die Produktwartung der derzeit im Porsche-Konzern eingesetzten SAP-Version SAP R3 eingestellt und die Wartungskosten für das System bereits empfindlich erhöht. Daher haben wir uns entschlossen, noch heuer auf das neue Produkt <b>SAP ERP (Enterprise Resource Planning)</b> umzusteigen.
+</p>
+
+<p>Die Einführung des Systems wird in einem zentralen Projekt durch Porsche Informatik durchgeführt. SAP wird damit <b>technologisch auf den neuesten Stand </b>gehoben, um für zukünftige Anforderungen gerüstet zu sein. Oberfläche und Funktionen bleiben weitestgehend gleich, somit ist kein Schulungs- und Umstellungsaufwand für die SAP-Anwender gegeben. Um einen reibungslosen Umstieg sicherstellen zu können, sind aber intensive Tests durch Kollegen in den Fachbereichen erforderlich.</p>
+
+<p>Nach der Umstellung auf die neueste SAP-ERP-Version werden wir das System durch eine zusätzliche technische Umstellung für weitere Partnerländer sprachfähig machen. 
+Für die SAP-Anwender sollten sich durch diese Umstellungen <b>keine wesentlichen Veränderungen</b> und auch keine Beeinträchtigungen in der Arbeit ergeben. Auf folgende Termine möchten wir Sie dennoch hinweisen:</p>
+
+<p><b>Entwicklungsstopp am SAP-System</b> - in dieser Zeit können aus technischen Gründen keine Programmänderungen durchgeführt werden:</p>
+<ul>
+<li>1. Entwicklungsstopp von <b>20.04.2009</b> bis <b>22.06.2009</b></li>
+<li>2. Entwicklungsstopp von <b>14.09.2009</b> bis <b>26.10.2009</b></li>
+</ul>
+
+<p>Die <b>eigentlichen Umstellungen</b> erfolgen an den folgenden zwei Wochenenden - SAP steht dann NICHT zur Verfügung:</p>
+<ul>
+<li><b>ERP-Umstellung:</b> <b>19.06.2009 </b>(abends) bis <b>22.06.2009 </b>(morgens)</li>
+<li><b>Sprachumstellung:</b> <b>23.10.2009 </b>(abends) bis <b>26.10.2009 </b>(morgens)</li>
+</ul>
+
+<p>Wir bitten Sie, diese Termine bei Ihrer Planung zu berücksichtigen und möchten die Gelegenheit nutzen um uns bei allen Kollegen in den Fachbereichen zu bedanken, die durch den Test der neuen Software die Qualität der Umstellungen sicherstellen. 
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SAP ERP">Norbert Reichl</a>
+<br>Leitung Beratung und Entwicklung Rechnungswesensysteme
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

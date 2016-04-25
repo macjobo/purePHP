@@ -1,0 +1,49 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>SAP: Releasewechsel und Unicodeumstellung</h1>
+<h2>Ende Oktober haben wir mit der Unicode-Umstellung die zweite große SAP-Umstellung dieses Jahres erfolgreich abgeschlossen.</h2>
+
+<img src="images/bild_ren.jpg" width="190" height="100" alt="SAP-Logo" />
+
+<p>Im Juni wurde das SAP-System bereits auf den neuesten Releasestand ERP 6.0 gehoben. Am Wochenende vom 23. bis 25. Oktober erfolgte nun eine weitere große Änderung im System: die <b>Umstellung auf Unicode</b>, die es ermöglicht, in SAP weitere Sprachen abzubilden.</p>
+
+<p>Von diesen Umstellungen waren jeweils etwa <b>800 Anwender in 10 Ländern</b> sowie die Daten von ca. 300 Unternehmen betroffen! Unsere umfangreichen Tests im Vorfeld haben aber in beiden Fällen für einen reibungslosen Umstieg gesorgt. In Summe waren mehrere tausend Arbeitsstunden erforderlich, um die Umstellungen durchzuführen.</p>
+
+<p>Wir möchten uns an dieser Stelle bei jenen Anwendern bedanken, die uns beim Testen <b>unterstützt</b> und somit wesentlich dazu beigetragen haben, dass diese Umstellungen erfolgreich umgesetzt werden konnten.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SAP Releasewechsel | Unicodeumstellung">Norbert Reichl</a></p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

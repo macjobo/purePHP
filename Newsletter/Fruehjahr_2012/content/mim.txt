@@ -1,0 +1,71 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Spear Phishing Emails</h1>
+<h2>Unsere Organisation ist immer öfter mit Spear Phishing Emails konfrontiert.</h2>
+
+ <img src="images/BB_9900.png" width="267" height="194" alt="BlackBerry" />
+<p>"Phishing" Angriffe (siehe auch http://de.wikipedia.org/wiki/Phishing) haben es mittlerweile zu einer gewissen Bekanntheit gebracht, 
+gerade wenn man beispielsweise an Aufrufe der Banken denkt, die vor Emails warnen, in denen Benutzer aufgefordert werden, Zugangsdaten oder TAN-Codes preiszugeben. 
+"Spear phishing" (zu Deutsch "Speer") ist nichts anderes als eine sehr zielgerichtete Phishing Attacke gegen z.B. nur eine Person.</p> 
+
+<p>Auch vor unserer Organisation machen die negativen Auswüchse des Internets nicht halt und wir sind immer öfter mit Spear Phishing Emails konfrontiert. 
+Das Besorgniserregende daran ist, dass die Emails immer professioneller werden, sodass oft am ersten Blick nicht mehr erkennbar ist, dass es sich um ein Email mit böser Absicht handelt.
+Vermehrt werden Logos, Anschriften, Personennamen, usw. unserer Firmen und Partnerorganisationen verwendet, um Authentizität vorzutäuschen.</p>
+
+<p>Was kann ich als Benutzer beachten?</p>
+
+<ul>
+<li>Vorsicht walten lassen bei Emails-Absenderadressen, da diese sehr leicht gefälscht werden können. Erhöhte Vorsicht bei Emails von Unbekannten!</li>
+<li>Äußerste Skepsis, wenn Benutzername, Passwort, Zugangscodes, o.ä. in einem Email abgefragt werden!</li>
+<li>Niemals Anhänge in Emails öffnen oder auf einen Link klicken, wenn man nicht sicher ist, dass das Email von einer vertrauenswürdigen Quelle stammt. Viren- und Trojanergefahr!</li>
+
+</ul>
+
+/ul>><p>Was heißt das für Sie als Benutzer?<br> Das bedeutet, dass sich das Gerät nach <b>zehn Minuten</b> ohne Interaktion <b>automatisch sperrt</b>. Zugriff auf Ihren BlackBerry bekommen Sie dann nur, wenn Sie Ihr Kennwort eingeben. Dieses Kennwort muss aus mindestens <b>8 Zeichen</b> bestehen, wobei <b>3 aus 4 Merkmalen</b> verwendet werden müssen. Es muss also z.B. Groß-, Kleinschreibung und Zahlen enthalten oder Sonderzeichen, Zahlen und Kleinbuchstaben usw. Außerdem dürfen keine Namen verwendet werden, bei denen ein Buchstabe z.B. durch eine Zahl ausgetauscht oder hinzugefügt wurde, da diese Kennwörter viel zu einfach zu erraten sind (sehr beliebt sind z.B. P0rsche oder Porsche123).</p>
+
+<p>Das Einfachste ist, derartige Emails einfach zu löschen. 
+Sollten Sie aber Spear-Phishing-Emails erhalten, deren Form und Erscheinung auf eine sehr professionelle und gezielte Machart schließen lassen, 
+so informieren Sie bitte den Service-Desk unter der DW 2222.</p>
+
+<p>Indizien dafür können sein:</p>
+
+<ul>
+<li>Firmenlogos und Daten unserer Konzernfirmen</li>
+<li>Bezugnahme auf Sachverhalte, die nicht jedermann zugänglich sind</li>
+<li>Einwandfreie, sprachliche Ausdrucksweise</li>
+
+</ul>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Kennwortaktivierung BlackBerry">Anton Spitzer</a></p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

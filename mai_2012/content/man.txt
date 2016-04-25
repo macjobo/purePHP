@@ -1,0 +1,32 @@
+<h1>CROSS: Rückschau CROSS-Anwendertage</h1>
+
+<h2>Auch im vierten Jahr waren unsere österreichweit veranstalteten "CROSS-Anwendertage" wieder gut besucht. Die Unterlagen zum Nachlesen finden Sie in der Porsche-Informatik-Infoline.</h2>
+
+
+
+
+
+
+<img src="images/bild_man.jpg" width="190" height="120" alt="CROSS-Anwendertage 2012" />
+
+
+
+<p>Im Rahmen der heurigen <b>CROSS-Anwendertage</b>, die wir im Mai in Dornbirn, Mondsee, Wien und Völkermarkt veranstaltet haben, konnten wir wieder einen breiten Informationsbogen über viele CROSS-Bereiche spannen - und das für eine/n Mitarbeiter/in je Betrieb <b>kostenlos</b>!</p>
+
+<p>Kernpunkte der Anwendertage waren die Änderungen der CROSS-Releases <b>2.17 bis 2.19</b>, ein Ausblick auf das bevorstehende Release <b>2.20</b>, die neu verfügbaren CROSS-Optionen <b>Barcode</b> und <b>Archiv</b> sowie zukünftige Entwicklungen. </p>
+
+<p>Besondere Aufmerksamkeit fand das Thema Kundenbindung mithilfe von <b>Apps</b> und <b>Online-Anwendungen</b> wie die bereits verfügbare "Werkstatt-Terminbuchung Online" oder die künftigen Apps "My Volkswagen", "My Audi", etc., die wir Ihnen im <a href="http://newsletter.porscheinformatik.at/april_2012/index.php?page=gela" target="_blank" title="Zum März-Newsletter"><b>letzten Newsletter&nbsp;&raquo;</b></a> vorgestellt haben. </p>
+
+<p>Für all jene, die diesmal nicht dabei sein konnten, haben wir die <a href="http://kb.auto-partner.net/int/hilfe/klbpoial.nsf/f9ca8c1665df61b3c1257345002cdb8b/fa8e9cf89d786a28c12579df00389124?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Unterlagen&nbsp;&raquo;</b></a> zu den CROSS-Anwendertagen in die POI-Infoline gestellt.</p>
+
+<p>Die Porsche Informatik Academy freut sich darauf, Sie auch nächstes Jahr zu den Anwendertagen zu begrüßen, und wünscht Ihnen für das Jahr 2012 weiterhin viel Erfolg mit CROSS.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=CROSS-Anwendertage 2012">Alexander Mantinger</a><br />
+Porsche Informatik Academy</p>
+
+
+
+
+

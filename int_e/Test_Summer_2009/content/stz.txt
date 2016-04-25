@@ -1,0 +1,67 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Lotus Notes Database: Bulletin Board</h1>
+<h2>The new "Bulletin Board" application from Porsche Informatik supports your company's internal information exchange.</h2>
+
+<p>The Lotus Notes <a href="index.php?page=hg2" title="Bulletin Board"><b>&raquo;&nbsp;Bulletin Board</b></a> application offers attractive options for employees to share and exchange information.
+</p>
+
+<p>Thereby individuals <b>with special rights</b> can administrate information about events, jobs or e.g. the canteen menu centrally in the Bulletin Board and provide this to all employees.<br>
+The <b>"Bazar" market</b> allows every employee to independently create private sales offers and/or to search for interesting offers.
+</p>
+
+<p>Additionally the application is <b>web-capable</b>, allowing access to the application via a browser.
+By default the application is displayed in English, but on request the database administrator can have it translated into the <b>local language</b>.
+</p>
+
+<p>If you are interested in the Bulletin Board application, we are happy to offer you a test version.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Bulletin Board">Andreas Fackler</a>
+<br>System Engineering
+</p>
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

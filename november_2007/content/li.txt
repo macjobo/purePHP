@@ -1,0 +1,20 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Umgang mit E-Mails von Kollegen</h1>
+<h2>Im Umgang mit den Mail-Accounts von Mitarbeitern und Kollegen gibt es einige rechtliche Aspekte zu beachten!</h2>
+
+<p>Häufig wird über unser Customer Care Center ein <b>Zugriff auf E-Mails</b> von Kollegen oder Mitarbeitern, die sich auf Urlaub, im Krankenstand oder auf einem Seminar befinden, oder das <b>Weiterleiten ihrer E-Mails</b> an andere E-Mail-Empfänger angefordert.</p>
+
+<p>Das Telekommunikationsgesetz hält jedoch eindeutig fest, dass wir ohne die <b>Zustimmung des Mail-Account-Eigentümers</b> keinen Zugriff einrichten dürfen: "Das Mithören, Abhören, Aufzeichnen, Abfangen oder sonstige Überwachen von Nachrichten und der damit verbundenen Verkehrs- und Standortdaten sowie die Weitergabe von Informationen darüber durch andere Personen als einen Benutzer ohne Einwilligung aller beteiligten Benutzer ist unzulässig"(TKG § 93/3).</p>
+
+
+<p>Das Gleiche gilt für <b>ausgeschiedene Mitarbeiter</b>: Auch wenn ein Kollege das Unternehmen verlassen hat, gilt er nach wie vor als Eigentümer des Mail-Accounts.  Wir dürfen daher auch hier ohne seine Zustimmung weder den Zugriff auf das Mailfile noch ein "Mail-Forwarding" auf eine andere Adresse einrichten.</p>
+<p>Für diesen Fall empfehlen wir Ihnen folgende Vorgehensweise: Stellen Sie für einen definierten Zeitraum, z.&nbsp;B. einen Monat, einen <b>Abwesenheitsagenten</b> ein, in dem Sie darauf hinweisen, dass der Mitarbeiter aus dem Unternehmen ausgeschieden ist und welcher Kollege (mit E-Mail-Adresse) seine Aufgaben übernommen hat.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Umgang mit E-Mails von Kollegen">Karl Littke</a></p>
+
+
+

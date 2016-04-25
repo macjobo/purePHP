@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Internet: POI-Anwendungen für Smartphones</h1>
+
+
+<h2>Angetrieben von der Entwicklung und Verbreitung von Smartphones wächst die mobile Nutzung des Internets rasant. Porsche Informatik reagiert auf diese Entwicklungen mit mobilen Lösungen für die Weltautobörse und für Terminbuchung online.</h2>
+
+<img src="images/bild_brg.jpg" width="190" height="120" title="POI-Anwendungen für Smartphones" />
+
+<p><b>Mobile Applikationen</b> werden immer wichtiger und eine mobile Strategie ist mittlerweile ein notwendiger Bestandteil der gesamten Internet-Strategie eines Unternehmens. Dieser Entwicklung hat Porsche Informatik Rechnung getragen: Die Internet-Anwendungen <b>Weltauto</b> und <b>Terminbuchung Online</b> sind nun auch für Smartphones der Geräteklassen iPhone sowie Android verfügbar.</p>
+
+
+<p>Die <b>mobile Weltautobörse</b> ist bereits seit Jänner im Einsatz und bietet dem mobilen Benutzer alle wesentlichen Funktionen für die Weltauto-Gebrauchtwagensuche mit anschließendem Händlerkontakt.</p>
+
+
+<p>Seit Mitte März können Kunden auch über mobile Endgeräte <b>Werkstatttermine</b> und <b>Ersatzfahrzeuge</b> online buchen. Voraussetzung dafür ist der Einsatz des CROSS-Moduls "Terminbuchung online".</p>
+
+
+<p>Die "mobile Zukunft" bei Porsche Informatik hat begonnen!</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=POI-Anwendungen für Smartphones">Gerhard Brugger</a><br />
+Entwicklungsleiter Digital Business
+</p>

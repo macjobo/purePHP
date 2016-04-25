@@ -1,0 +1,57 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS: CROSS.Archiv</h1>
+<h2>Die Basis und sinnvolle Erweiterung für Anwendungen der Zukunft.</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="CROSS.Archiv" />
+
+
+<p>Mit CROSS.Archiv können bereits heute alle CROSS Ausgangsrechnungen <b>automatisch abgelegt</b> werden. 
+Nicht nur dass Raum, Zeit und damit auch Kosten eingespart werden. CROSS.Archiv ist ebenso Basis für CROSS Optionen, die sich bereits in Vorbereitung befinden:</p>
+
+<ul>
+
+<li><div>
+<b>Versand von elektronischen Rechnungen an Behörden und sonstige Unternehmen</b><br />
+Beim elektronischen Versand der Rechnung wird kein Papier mehr ausgedruckt. 
+Die Rechnung wird automatisch im CROSS Archiv gespeichert. Beachten Sie: 
+Ab 1.1.2014 müssen Rechnungen an Behörden elektronisch übermittelt werden, die in Entwicklung befindliche CROSS Option "Elektronische Rechnung" 
+kann Sie dabei bestens unterstützen. Für den automatischen Rechnungsversand ist CROSS.Archiv Voraussetzung. 
+
+</div></li>
+
+<li><div>
+<b>CROSS Auftragsarchiv</b><br />
+Der mittels Laserdrucker ausgedruckte CROSS Serviceauftrag inkl. beigelegter Unterlagen kann in das CROSS.Archiv eingescannt werden. 
+Die Ordnerablage entfällt dadurch.
+
+</div></li>
+
+
+</ul>
+
+<p>Der Einsatz dieser neuen CROSS Optionen erfordert Vorarbeiten. Wir empfehlen Ihnen daher folgende Produkte in Ihrem Unternehmen einzusetzen:</p>
+
+<ul>
+
+<li><div>
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/dce8df8f1710e0acc1256ed900439554/53b54b40920b31cdc125770b0044d6b3?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">
+CROSS.Archiv&nbsp;&raquo;</a> 
+</div></li>
+
+<li><div>
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/dcaa3b9e3621eb63c1256ed90043f5e7/1265ceee105bc7bdc12577a500301f14?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">CROSS Auftragsdruck auf Laserdrucker &nbsp;&raquo;</a>
+</div></li>
+
+
+</ul>
+
+<p>Damit sind Sie für die oben beschriebenen Neuerungen gerüstet und können diese <b>aufbauend</b> auf der geschaffenen Basis nützen.</p>
+
+<p>
+Fragen zu den angeführten Themen beantwortet Ihnen Ihr Key Account Manager der Porsche Informatik gerne.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Archiv">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+

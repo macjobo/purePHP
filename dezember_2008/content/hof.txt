@@ -1,0 +1,13 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS 2 Tipp: Versicherungsmeldungen</h1>
+<h2>Achten Sie auf die korrekte Abwicklung von Versicherungsaufträgen im Zusammenspiel von CROSS und Quickcheck!</h2>
+
+
+<p>Es kommt immer wieder vor, dass <b>Versicherungsaufträge</b> in CROSS vor der vollständigen Bearbeitung der <b>Quickcheckdaten</b> abgerechnet werden. Das führt aber dazu, dass die Rechnungsdaten des betroffenen Auftrags nicht an die ausgewählte Versicherung weitergeleitet werden können. Am Tagesende werden eine entsprechende Warnung und ein <b>Fehlerprotokoll</b> ausgedruckt.</p>
+<p>Bedenken Sie bitte: Diese Umsätze werden solange nicht berücksichtigt und damit auch auf keiner Auswertung berechnet (z.&nbsp; B. der Serviceberater-Umsatzstatistik), bis die Faktura über das <a href="https://qc.eurotax.at/" title="zum Quickcheck-Portal" target="_blank"><b>&raquo; Quickcheck-Portal</b></a> gemeldet wurde. Bitte überprüfen Sie daher die Aufträge auf dem Fehlerprotokoll im Quickcheck-Portal auf deren Status und ergänzen Sie ggf. die fehlenden Daten (Fotos, Schadensart, o. Ä.)</p>
+<p>Sobald alle von der Versicherung benötigten Daten erfasst wurden, werden die Rechnungen mit dem <b>Tagesende</b> versendet. Die betroffenen Aufträge scheinen auf dem Fehlerprotokoll nicht mehr auf und werden in den <b>Auswertungsstatistiken</b> wieder normal mitgeführt. </p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Versicherungsmeldungen">Georg Hofer</a></p>

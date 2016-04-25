@@ -1,0 +1,79 @@
+<div class="umbruch">&nbsp;</div>
+<h1>SAP R3: Transition to SAP ERP</h1>
+<h2>This year Porsche Informatik is implementing the changeover from version SAP R3 to the new SAP ERP product.</h2>
+
+<p>The SAP company is ending product maintenance of the SAP R3 SAP version used in the Porsche company and has highly increased the maintenance costs for the system. Therefore we have decided to switch to the new <b>SAP ERP (Enterprise Resource Planning)</b> product.
+</p>
+
+<p>The implementation of the systems will be carried out centrally by Porsche Informatik. SAP will thereby be brought to the <b>state of the art</b>, ready for future requirements. The user interface and functions mostly remain unchanged, thereby no training or change costs are involved for SAP users. Intensive testing by colleagues in various departments will be necessary to ensure a smooth changeover.</p>
+
+<p>After the implementation of the newest SAP ERP version we will make a further change to provide language capability for additional partner countries. 
+This changeover should not present SAP users with any significant changes and should not affect their work. Please note the following <b>Dates</b>: 
+</p>
+
+<p><b>Development stop for SAP system </b> - for technical reasons, no program changes will be possible during this period:</p>
+<ul>
+<li>1. Development stop from <b>20.04.2009</b> to <b>22.06.2009</b></li>
+<li>2. Development stop from <b>14.09.2009</b> to <b>26.10.2009</b></li>
+</ul>
+
+<p>The <b>actual changes</b> will be implemented over too weekends - during which SAP will NOT be available:</p>
+<ul>
+<li><b>ERP change:</b> <b>19.06.2009 </b>(evening) to <b>22.06.2009 </b>(morning)</li>
+<li><b>Language change:</b> <b>23.10.2009 </b>(evening) to <b>26.10.2009 </b>(morning)</li>
+</ul>
+
+<p>Please note these dates.
+We would like to take the opportunity to thank all of our colleagues in the many departments ensuring the quality of changes by testing the new software. 
+ 
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SAP ERP">Norbert Reichl</a>
+<br>Accounting systems consultancy and development
+</p>
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

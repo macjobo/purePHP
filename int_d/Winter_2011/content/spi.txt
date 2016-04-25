@@ -1,0 +1,46 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT-Sicherheit: Kennwortaktivierung BlackBerry</h1>
+<h2>Im Zuge der Konsolidierung unserer Sicherheitsvorschriften mit dem VW-Konzern wird nach den iPhones nun auch auf den BlackBerry-Geräten unternehmensweit eine automatische Sperre eingeführt.</h2>
+
+ <img src="images/BB_9900.png" width="267" height="194" alt="BlackBerry" />
+<p></p>
+
+<p>Was heißt das für Sie als Benutzer?<br> Das bedeutet, dass sich das Gerät nach <b>zehn Minuten</b> ohne Interaktion <b>automatisch sperrt</b>. Zugriff auf Ihren BlackBerry bekommen Sie dann nur, wenn Sie Ihr Kennwort eingeben. Dieses Kennwort muss aus mindestens <b>8 Zeichen</b> bestehen, wobei <b>3 aus 4 Merkmalen</b> verwendet werden müssen. Es muss also z.B. Groß-, Kleinschreibung und Zahlen enthalten oder Sonderzeichen, Zahlen und Kleinbuchstaben usw. Außerdem dürfen keine Namen verwendet werden, bei denen ein Buchstabe z.B. durch eine Zahl ausgetauscht oder hinzugefügt wurde, da diese Kennwörter viel zu einfach zu erraten sind (sehr beliebt sind z.B. P0rsche oder Porsche123).</p>
+
+<p>Die Einführung der Sperre ist für das <b>erste Quartal 2012</b> vorgesehen. Bevor die Sperre aktiviert wird, werden die BlackBerry-User noch per E-Mail informiert.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Kennwortaktivierung BlackBerry">Anton Spitzer</a></p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,29 @@
+<h1>CROSS: Korrektes Abrechnen von Arbeitspositionen</h1>
+<h2>Arbeitspositionen korrekt abzurechnen erhöht die Aussagekraft von Kennzahlen und Betriebsvergleich; ein neues Infoline-Dokument unterstützt Sie dabei.</h2>
+
+<img src="images/bild_wag.jpg" width="190" height="120" alt="Korrektes Abrechnen von Arbeitspositionen" />
+
+
+<p>Vor nunmehr einem Jahr wurde in CROSS die neue Kennzahl <b>"Verrechnungsgrad"</b> eingeführt (beachten Sie auch die Dokumentation <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/858e97b4bd56ed6dc12578ee0030997a?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b> "Verrechnungsgrad"&nbsp;&raquo;</b></a> in der Porsche-Informatik-Infoline). In diesem ersten Jahr hat die neue Kennzahl bereits einen guten Einblick in die Verrechnungsstruktur der Arbeiten gegeben.</p>
+
+
+<p>Aus der täglichen Praxis heraus haben sich einige Problemstellungen ergeben, die wir jetzt mit <b>Anpassungen</b> im letzten CROSS-Release 2.20 beseitigen konnten.</p>
+
+<p>Die verbesserte Berechnung des Verrechnungsgrades hat nun zu Tage gefördert, dass Arbeitspositionen von manchen Betrieben auf eine Weise verrechnet werden, die die Aussage gleich mehrerer <b>Kennzahlen verzerrt</b>. Wir haben für Sie daher das Dokument <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/b4badaeb9006292dc1257a54002f4861?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"><b> "Arbeitspositionen - Tipps zur korrekten Abrechnung"&nbsp;&raquo;</b></a> zusammengestellt, das Sie dabei unterstützt, die Aussagekraft Ihrer Kennzahlen und des Betriebsvergleichs zu erhöhen.</p>
+
+
+
+<p>Für Fragen dazu stehen Ihnen die KollegInnen im Service Desk gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Korrektes Abrechnen von Arbeitspositionen">Gregor Wagner</a><br />
+CROSS-Fachkoordination</p>
+
+
+
+
+
+
+
+
+

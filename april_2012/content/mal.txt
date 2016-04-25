@@ -1,0 +1,39 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Sicherheitsrisiko durch Microsoft Office 2000 - Wechsel Office-2007-Standardformat - Windows 7 jetzt für alle neuen Geräte - Panasonic VAS-Tester mit POCSO-Integration - Überarbeitete POCSO-Netzwerkübersicht</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="65" title="Neu im Pocso-Netzwerk" />
+
+
+<ul>
+
+<li><div>In letzter Zeit ist ein deutlicher Anstieg an Maleware-Angriffen auf <b>Microsoft-Office-2000-Installationen</b> zu erkennen. Da der Herstellersupport für Office 2000 im Jahr 2010 eingestellt wurde, stehen Sicherheitsupdates als Gegenmaßnahme nicht mehr zur Verfügung. Wir empfehlen Ihnen ehestmöglich ein <b>Update auf Microsoft Office 2007</b>. </div></li>
+ 
+<li><div>Bisher wurde für die <b>Speicherung von Office-2007-Dokumenten</b> standardmäßig das alte Office-Format (doc, xls, etc.) vorgeschlagen. Der Anteil der Office-2007-Installationen in unserer Organisation hat nun die 60%-Marke überschritten. Daher stellen wir den Standard nun bis Ende April bei allen POCSO-Betrieben auf das neue Format (docx, xlsx, etc.) um.
+ </div></li> 
+ 
+
+<li><div>
+ELSA 4.0 ist nun flächendeckend eingesetzt. Damit kann bei Neuanschaffung eines PCs auf fast jedem Arbeitsplatz <b>Windows 7</b>  installiert werden. Bitte beachten Sie aber folgende Ausnahmen: <br />
+- Wenn Ihr Betrieb die Porsche Informatik <b>Lohnverrechnung</b> nutzt, dann bitten wir Sie vor Einsatz von Windows 7 um Abstimmung mit Herr Johann Grill (DW 6510) <br />
+- Die <b>Wincor Nixdorf Kassenlösung </b>unterstützen Windows 7 nicht. Hier muss weiterhin ein Windows XP eingesetzt bleiben. </div></li>
+
+<li><div>
+Auch <b>Panasonic-VAS-Geräte</b> unterstützen ab sofort die automatische Umschaltung zwischen WLAN und LAN. Da der Hersteller dafür keine Lösung anbieten konnte, hat das POCSO-Team nun einen Dienst entwickelt, der Ihnen den problemlosen Wechsel zwischen LAN- und WLAN-Verbindung ermöglicht.</div></li>
+
+
+<li><div>
+Ab sofort steht Ihnen Ihre <b>POCSO-Netzwerkübersicht</b> in einer überarbeiteten Version zur Verfügung: Wir haben die Darstellung von  ETKA/PET und die Ansicht von Drucker-Seriennummern verbessert, neue VAS-Tester integriert, die Darstellung des Betriebssystems (Windows XP/Windows 7) aufgenommen sowie kleinere Anpassungen in der Darstellung vorgenommen.</div></li>
+
+
+
+</ul>
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>

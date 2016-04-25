@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>CROSS Tipp: CROSS-Archiv und Rechnungsvordrucke</h1>
+<h2>Der Einsatz des CROSS-Archivs erfordert, dass das Rechnungsformular von CROSS erzeugt wird; daher werden keine Vordrucke mehr benötigt. Berücksichtigen Sie das bitte bei der Bevorratung Ihrer Formularvordrucke.</h2>
+
+<img src="images/bild_wag2.jpg" width="190" height="120" alt="CROSS-Archiv und Rechnungsvordrucke" />
+
+
+<p>Im Rahmen der CROSS-Anwendertage haben wir Ihnen das <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/53b54b40920b31cdc125770b0044d6b3?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>CROSS-Dokumentenarchiv&nbsp;&raquo;</b></a> vorgestellt und Sie darüber informiert, dass diese Lösung bereits bestellt werden kann. Mehr als 50 Betriebe setzen diese zeit- und kostensparende Lösung bereits ein und haben damit ihren Belegfluss optimiert.</p> 
+
+<p>Bei der Einführung des CROSS-Archivs zeigt sich jetzt beim einen oder anderen Betrieb, dass zum Teil noch große Mengen an <b>Rechnungsvordrucken</b> vorrätig sind. Mit der Einführung des CROSS-Archivs muss jedoch aus rechtlichen Gründen das Rechnungsformular - insbesondere die Fußzeilen - <b>direkt aus CROSS</b> angedruckt werden. Somit werden die Vordrucke überflüssig.</p>
+
+<p>Daher unser <b>Tipp</b>: Wenn Sie vorhaben, das CROSS-Dokumentenarchiv in absehbarer Zeit in Ihrem Betrieb einzusetzen, dann berücksichtigen Sie dies bereits heute bei der <b>Bevorratung</b> Ihrer Geschäftsformulare.</p>
+
+<p>Möchten Sie detailliertere Informationen über das CROSS-Archiv? Ihr Key Account Manager der Porsche Informatik berät Sie gerne.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS-Archiv und Rechnungsvordrucke">Gregor Wagner</a><br />
+Fachkoordinator CROSS Service </p>
+
+

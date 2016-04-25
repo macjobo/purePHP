@@ -1,0 +1,33 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neue Stockwerkdrucker</h1>
+<h2>Die Ausschreibung der Stockwerkdrucker ist mittlerweile abgeschlossen; 
+die Entscheidung fiel wieder auf den Hersteller <a href="http://www.canon.at/For_Work/Products/Office_Print_Copy_Solutions/Office_Colour_Printers/C5030i/">Canon</a>.</h2>
+
+<img src="images/drucker.jpg" width="220" height="117" alt="Drucker" />
+
+<p>In der ersten Mai-Hälfte wurden an den Standorten Porschehof, Bergheim und TVZ die Geräte bereits ausgetauscht. Diese scheinen <b>automatisch in der Druckerauswahl</b> auf 
+und müssen nicht eigens installiert werden. Am neuen Standort der PCF in Brüssel folgt ein weiteres Gerät.</p>
+
+<p>Die Geräte verfügen über folgende <b>Funktionen und Merkmale</b>:</p>
+
+<ul>
+<li><div>30 Seiten pro Minute</div></li>
+<li><div>A3/A4</div></li>
+<li><div>Druck, Kopie, Scan in Farbe und schwarz-weiß</div></li>
+<li><div>Scan to e-mail</div></li>
+<li><div>Sicheres Drucken über Follow-me (Ausdrucke werden mit Mitarbeiterkarte abgeholt)</div></li>
+<li><div>Direktes Drucken z.B. für SAP Ausdrucke</div></li>
+<li><div>OCR - Schrifterkennung beim Scan</div></li>
+<li><div>einfache Drucklösung für Gäste</div></li>
+<li><div>Fax über Faxserver versenden (wie in Lotus Notes)</div></li>
+<li><div>Finishen (Klammern/Lochen)</div></li>
+<li><div>eMaintenance - Störungen werden automatisch online an Canon gemeldet</div></li>
+<li><div> u.v.m.</div></li>
+</ul>
+
+<p>Die genauen Funktionen und Neuerungen sind in Ihrem <b>POCSO - PC Benutzerhandbuch</b> (Icon auf Ihrem Desktop) beschrieben.
+Sollten Sie darüber hinausgehende Fragen haben, steht Ihnen Fr. Bianca Stahl (POA-Produktion) gerne zur Verfügung.</p>
+
+
+<p><a href="mailto:porsche-informatik@porscheinformatik.at ?subject=Neue Stockwerkdrucker">Herbert Lohninger</a></p>

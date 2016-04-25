@@ -1,0 +1,25 @@
+<h1>CROSS 2: Vorschau auf Release 2.06</h1>
+<h2>Das neue CROSS-Release 2.06 wird derzeit bei den ersten Betrieben pilotiert, am 22. September erfolgt der Breiteneinsatz.</h2>
+
+
+
+<p>Werfen Sie mit uns einen Blick auf die wichtigsten Neuerungen und Änderungen des neuen CROSS-Release.</p>
+
+<p>
+<ul>
+<li><div>Die <b>SAGA2-Gewährleistungsanbindung</b> wurde nach den Erfahrungen der Pilotbetriebe weiter optimiert.</div></li>
+<li><div>Der Etikettendruck mittels Zebra-Drucker ist jetzt auch für <b>Adress- und Reifenetiketten</b> möglich.</div></li>
+<li><div>Mit dem neuen Release wurden die Voraussetzungen für die korrekte Selektion zu <b>"Werkstatt-Termin@"-Einladungen</b> geschaffen. Sie werden in einem eigenen Schreiben informiert, sobald die Selektionsfunktion wieder uneingeschränkt zur Verfügung steht.</div></li>
+<li><div><b>Proforma-Rechnung und Proforma-GWL-Antrag</b> sind jetzt schon bei Voranmeldungen möglich.</div></li>
+<li><div>Ab sofort können die Importeure <b>Fixpreispakete mit einer Umwandlungsposition</b> definieren. Der Preis des Pakets bleibt unverändert, unabhängig davon, welches Öl bei der Übernahme des Pakets auf den Auftrag ausgewählt wird.</div></li>
+<li><div><b>Aufschläge auf die GI-Leistungspreise</b> sind jetzt je Geschäftspartner steuerbar.</div></li>
+</ul>
+</p>
+
+<p>Detaillierte Informationen über die Programmeinspielung haben CROSS-2-Betriebe bereits in einer eigenen Aussendung erhalten.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorschau auf Release 2.06">Gregor Wagner</a></p>
+
+
+
+

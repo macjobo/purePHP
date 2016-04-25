@@ -1,0 +1,23 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Support: Neue Feiertagsbereitschaft</h1>
+<h2>Die Systeme der Porsche Informatik sind mittlerweile in 25 Ländern weltweit im Einsatz; wir reagieren auf diese Internationalisierung mit der Erreichbarkeit unseres Service Desks auch an österreichischen Feiertagen.</h2>
+
+<img src="images/bild_wam2.jpg" width="190" height="120" title="Neue Feiertagsbereitschaft" />
+
+
+<p>Trotz aller Redundanzen und immer stabilerer IT-Systeme lassen sich <b>Ausfälle</b> leider niemals ganz vermeiden. Sollte ein Störfall eintreten, erwarten Sie von uns zu Recht eine gute Erreichbarkeit, eine schnelle Reaktion und eine kompetente Koordination des Störfalles.</p>
+
+<p>Daher haben wir nun auch unsere <b>Erreichbarkeit</b> für zentrale Systemausfälle ausgeweitet: Ab dem Nationalfeiertag am 26. Oktober 2015 erreichen Sie uns auch an österreichischen <b>Feiertagen</b>, die auf einen Werktag fallen, unter der Telefonnummer: <b>+43 (0)664/8258742.</b> </p>
+
+<p>Die <b>Samstagsbereitschaft</b> für Systemausfälle - unter der gleichen Telefonnummer - bleibt unverändert.</p>
+
+<p>Wir freuen uns, unseren Service für Sie mit der neuen Feiertagsbereitschaft noch weiter zu verbessern!</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue Feiertagsbereitschaft">Markus Watzik</a><br />
+Leitung User Centric Services </p>
+
+
+

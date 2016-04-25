@@ -1,0 +1,33 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>IT Infrastructure: News</h1>
+<h2>A brief summary of the latest information.</h2>
+
+<img src="../images/bild_bub.jpg" width="190" height="120" alt="Workshop" />
+
+<p><b>Announcement: 3rd Infrastructure Workshop 12th -13th  April 2010</b><br />
+The next workshop is focussed on desktop management. Together we will develop solution concepts for software distribution, patch management and initial installation topics. Our aim is to assemble an international project team to handle the conception and realisation of a desktop management solution. Andreas Kronberger will lead and coordinate this team.</p>
+
+
+<p><b>Discussion Forum</b><br />
+The new forum for the exchange of information between colleagues in every country  is available now. Access is via the POI Infoline on Partner.Net&nbsp;&raquo; Allgemein 
+&nbsp;&raquo; Diskussionsforum.
+Take advantage of the opportunity to quickly and easily exchange ideas and experiences with international colleagues!</p>
+
+<p><b>POI Infoline</b><br />
+All important and current infrastructure information is available via our POI Infoline. The documentation is regularly updated and expanded. The new version of the "POI Guideline for the operation of IT infrastructure" is valid now.</p>
+
+<p><b>Communication with external companies</b><br />
+Lotus Sametime has been available since December as a substitute for Skype and similar instant messaging tools. User authorisation must be requested via the requirement database. For more information about configuration please see our POI Infoline&nbsp;&raquo; Betriebsführung&nbsp;&raquo; Documentation&nbsp;&raquo; Client.</p>
+
+<p><b>Firewall Request Database</b><br />
+We would like to take this opportunity to remind you again that all changes to firewall by POI - centrally in Salzburg as well as locally in your country - must be requested and documented via this database.</p>  
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=IT Infrastructure">Barbara Buber</a></p>
+
+
+
+
+
+
+

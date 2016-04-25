@@ -1,0 +1,63 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Anwendungen: Rechnungsbeilagen im Partner.Net</h1>
+<h2>Über eine Datenbank im Partner.Net können Sie seit Kurzem Detailinformationen zur monatlichen Verrechnung der Porsche Informatik abrufen.</h2>
+
+<p>In der <b>Rechnungsbeilagen-Datenbank</b> finden Sie Detailinformationen über Kosten, die in der monatlichen Sammelrechnung der Porsche Informatik zusammengefasst werden. Bereits seit Mai 2007 konnte hier die Lotus-Notes-Mailfile-Verrechnung aller Mitarbeiter eingesehen werden. Jetzt können Sie hier auch die folgenden Aufstellungen abrufen:
+
+<ul>
+<li>Geräte, für die eine monatliche <b>Hardware-Wartung</b> abgeschlossen wurde,</li>
+<li>Notebooks, für die eine <b>E-Versicherung</b> abgeschlossen wurde,</li>
+<li>Mitarbeiter, für die eine <b>Lotus-Notes-Faxlösung</b> eingerichtet wurde,</li>
+<li>Mitarbeiter, die für den <b>Lotus-Notes-Teamkalender</b> definiert sind.</li>
+</ul>
+
+Sie finden diese Übersicht im <b><a href="http://www.auto-partner.net" target="_blank" title="Zum Parner.Net" alt="Zum Parner.Net">Partner.Net</a></b> unter "Porsche Informatik > Verrechnung > Rechnungsbeilagen".  Partner.Net-Anwender mit folgenden <b>Rollen</b> können Einsicht in die Rechnungsbeilagen nehmen: EDV-Verantwortlicher, Geschäftsführer/Inhaber, Geschäftsführer/Inhaber 2, Geschäftsführer-Assistent, Geschäftsführer-Nachfolger, Finanzleiter.</p>
+
+<p>Für Fragen zur Verrechnung stehen Ihnen Frau Manuela Hutzinger (DW 6203) und Frau Nicola Priol (DW 6205) gerne zur Verfügung.</p>
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Rechnungsbeilagen im Partner.Net">Nicola Priol</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

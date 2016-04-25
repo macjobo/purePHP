@@ -1,0 +1,58 @@
+<div class="umbruch">&nbsp;</div>
+<h1>VU2 Rollout: Einführung in den Partnerländern</h1>
+<h2>Die Vertriebsunterstützung VU2 ist in Ungarn, Rumänien und der Slowakei bereits erfolgreich eingeführt - Slowenien und Kroatien sind in Vorbereitung.</h2>
+
+<p>Im Jahr 2005 wurden die Vorbereitungen für die Einführung der VU2 in den Partnerländern gestartet. Die maßgeschneiderte EDV-Lösung für den Neuwagenverkauf der Porsche-Konzernmarken wurde zunächst in Ungarn eingesetzt, Rumänien und die Slowakei folgten.</p>
+
+<p><b>Bisherige Erfahrungen</b><br>
+
+Die Einführung eines neuen Produktes bringt auch eine <b>Änderung der Prozesse</b> mit sich. Die erforderlichen Anpassungen konnten aufgrund der konstruktiven Zusammenarbeit mit den verantwortlichen Personen im jeweiligen Land gut umgesetzt werden.<br>
+Einen wichtigen Anteil an der erfolgreichen Einführung der VU2 haben das <b>Training</b> und die <b>Schulung</b> der Anwender und zwar sowohl vor dem Start als auch in Form einer laufenden Betreuung der Anwender. Deshalb wird im Zuge der Einführung der VU2 im Land darauf geachtet, dass das Thema Training und Schulung von Beginn an berücksichtigt wird. <br>
+Verbunden mit einem regelmäßigen Know-how-Transfer und dem Austausch von Erfahrungen mit den Kollegen aus den Partnerländern wird erreicht, dass nach einer Einführungsphase die VU2 großteils vom Land selbst betreut werden kann. 
+</p>
+
+<p><b>Rollout/Details</b></p>
+
+<ul>
+<li><b>Ungarn:</b> Im 4. Quartal 2005 wurde der erste Pilotbetrieb gestartet. Das Rollout aller Betriebe war mit Ende 2006 abgeschlossen.<br> Anzahl Betriebe/User: 129/1284</li>
+<li><b>Rumänien:</b> Der erste Pilotbetrieb wurde im 3. Quartal 2006 gestartet. Das Rollout aller Betriebe wird im September 2008 abgeschlossen sein. Am Ende des Rollouts werden ca. 80 Betriebe die VU2 verwenden.<br> Anzahl Betriebe/User:	59/644
+</li>
+<li><b>Slowakei:</b> Im 1. Quartal 2007 wurde der erste Pilotbetrieb gestartet. Der Großteil der Betriebe ist bereits umgestellt. Die restlichen Betriebe werden bis Mai 2008 umgestellt.<br> Anzahl Betriebe/User:	23/209</li>
+</ul>
+
+<p><b>Ausblick</b><br>
+
+Derzeit laufen die Vorbereitungen für die Einführung der VU2 in den Ländern Slowenien und Kroatien. Der Start eines Pilotbetriebes ist für Slowenien Juni 2008 geplant, Kroatien wird voraussichtlich Dezember 2008 einen ersten Piloten starten.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=SPS">Heinz Strutzmann</a>
+<br>Entwicklung Großhandel
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

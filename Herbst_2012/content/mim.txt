@@ -1,0 +1,71 @@
+
+<h1>IT-Sicherheit: Spear-Phishing-E-Mails</h1>
+<h2>Unsere Organisation ist immer öfter mit Spear-Phishing-E-Mails konfrontiert.</h2>
+
+ <img src="images/at_fingerprint_XS.jpg" width="115" height="115" alt="" />
+ 
+<p>"Phishing"-Angriffe haben es mittlerweile zu einer gewissen Bekanntheit gebracht.
+Man denke beispielsweise an Aufrufe der Banken, die vor E-Mails warnen, in denen Benutzer aufgefordert werden, Zugangsdaten oder TAN-Codes preiszugeben. 
+<b>"Spear phishing"</b> (zu Deutsch "Speer") ist eine <b>zielgerichtete Phishing-Attacke</b> gegen eine bestimmte Person.</p> 
+
+<p>Auch unsere Organisation ist immer öfter mit Spear-Phishing-E-Mails konfrontiert. 
+Besorgniserregend dabei ist, dass diese E-Mails zunehmend professioneller werden. Oft ist auf den ersten Blick nicht mehr erkennbar, dass es sich um ein E-Mail mit böser Absicht handelt.
+Um Authentizität vorzutäuschen, werden vermehrt Logos, Anschriften oder Personennamen unserer Firmen und Partnerorganisationen verwendet.</p>
+
+<p>Was kann ich als <b>Benutzer beachten?</b></p>
+
+<ul>
+<li><div>Vorsicht walten lassen bei E-Mail-Absenderadressen, da diese sehr leicht gefälscht werden können. Erhöhte Vorsicht bei E-Mails von Unbekannten!</div></li>
+<li><div>Äußerste Skepsis, wenn Benutzername, Passwort, Zugangscodes, o.Ä. in einem E-Mail abgefragt werden!</div></li>
+<li><div>Niemals Anhänge in E-Mails öffnen oder auf einen Link klicken, wenn man nicht sicher ist, dass das E-Mail aus einer vertrauenswürdigen Quelle stammt - Viren- und Trojanergefahr!</div></li>
+</ul>
+
+<p>Das Einfachste ist, derartige E-Mails sofort zu löschen.
+Sollten Sie aber Spear-Phishing-E-Mails erhalten, deren Form und Erscheinung auf eine sehr professionelle und gezielte Machart schließen lassen, 
+so informieren Sie bitte den Service Desk unter der DW 2222.</p> 
+
+<!-- <p>Wenn Sie bereits einen Verdacht haben, dass mit einem E-Mail etwas nicht stimmt, können folgende <b>Indizien</b> 
+für eine Spear Phishing Attacke sprechen:</p>
+
+<ul>
+<li><div>die Verwendung von Firmenlogos und Daten unserer Konzernfirmen</div></li>
+<li><div>eine Bezugnahme auf Sachverhalte, die nicht jedermann zugänglich sind</div></li>
+<li><div>eine gute, sprachliche Ausdrucksweise (im Gegensatz zu typischen SPAM-E-Mails)</div></li>
+</ul> -->
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Spear-Phishing-E-Mails">Marcus Michalek</a></p>
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

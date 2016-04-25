@@ -1,0 +1,53 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>POCSO Benutzerhandbuch - Aktueller Stand Windows 7-Rollout - Allgemeine Softwareupdates</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+
+<li><div><b>Das POCSO Benutzerhandbuch</b><br />
+ Das POCSO Benutzerhandbuch steht jedem Anwender mittels Icon auf seinem Desktop zur Verfügung und 
+ soll Sie bei der PC-Arbeit im POCSO Umfeld unterstützen. Wir haben es wieder um einige Kategorien und Themen erweitert.
+
+</div></li>
+
+
+
+
+
+<li><div><b>Windows 7-Rollout - Status 87 %</b><br />
+Das Projekt "Ablöse Windows XP bei POCSO Netzwerken" ist voll im Gang. Bis jetzt wurden bereits 87 % der PCs auf Windows 7 umgerüstet. 
+Wir empfehlen, die verbleibenden Windows XP Geräte noch vor der Reifenwechselzeit umzurüsten, damit gegen Ende des Jahres kein unnötiger Druck entsteht. 
+Danke an die involvierten Mitarbeiter der bisher umgestellten Betriebe und gutes Durchhaltevermögen für die letzten 13 Prozent.<br />
+Beachten Sie: ab 1. Jänner 2015 können Windows XP PCs im POCSO Netzwerk nicht mehr verwendet werden.
+
+ </div></li>
+
+
+<li><div>
+<b>Allgemeine Softwareupdates</b><br />
+
+Diese Versionen sind seitens Entwicklung freigegeben, die Software wird in der Erstinstallation ab sofort installiert. 
+Eine Verteilung zu allen POCSO Clients erfolgt in den nächsten Wochen.<br />
+
+SW-Paket: Oracle Java JRE Vers.7.55<br />
+SW-Paket: Adobe Acrobat Reader Vers.11.0.07<br />
+SW-Paket: Adobe Flash Player Vers.14.0.0.145<br />
+SW-Paket: Adobe Shockwave Player Vers.12.1.3.153
+
+
+</div></li>
+
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+
+

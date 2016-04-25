@@ -1,0 +1,98 @@
+<div class="umbruch">&nbsp;</div>
+<h1>IT Infrastructure: Operating guidelines</h1>
+<h2>The "Operating guidelines" provide a "Best Practice"- document for the planning, setup and running of IT infrastructure systems.</h2>
+
+<p>A smoothly <b>functioning IT infrastructure</b> is the basis for the functioning of all business processes and is thereby crucial for the success of our organisation.</p>
+
+<p>The operation of servers, networks or entire data centres continually sets the IT manager with new challenges. Therefore we have created a document that summarises the most important areas relevant to <b>IT management</b>. The document is to serve as an aid for all European Porsche Holding countries during planning, setup and operation of IT infrastructure systems.</p>
+
+<p>The information is based on Porsche Informatik's many years of experience in Austria, and should be seen as a <b>"Best Practice" approach</b>. The aim is to achieve the highest possible level of cross-national standardisation. This simplifies control, know-how exchange and support, leading to a reduction in costs. The acquisition of standard components is directed by this guideline.</p>
+
+<p>Among others, the following <b>Topics</b> are discussed:</p>
+
+<ul>
+<li>General IT organisation</li>
+<li>Porsche Europe network</li>
+<li>Infrastructure</li>
+<li>Low level services</li>
+<li>Data center operation</li>
+<li>Security management</li>
+</ul>
+
+The document is available under 
+<b><a href="https://webdb.autohaus.at/int/hilfe/klbpoial.nsf/f9ca8c1665df61b3c1257345002cdb8b/c29c619b33610bdfc125740b0033d685?OpenDocument" target="_blank" title="Beschreibung" alt="Beschreibung">Operating guidelines</a></b>.
+Please log on using your IPC access data! </p> 
+
+<p>If you have any questions or suggestions, please contact:</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Leitlinie Betriebsführung">Barbara Buber</a>
+<br>Infrastructure services project management
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,37 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Support: Neue Version unserer Service-Lösung</h1>
+<h2>Die neue Version unserer IT-Service-Management-Lösung, die wir Anfang Dezember einsetzen, bringt auch Änderungen beim Erfassen von Online-Tickets.</h2>
+
+<img src="images/bild_wam1.jpg" width="190" height="100" title="BMC ITSM Suite" />
+
+
+<p>Die <b>IT-Service-Management-Suite von BMC</b> ist unsere zentrale Support-Applikation; unter anderem erstellen Sie damit Ihre Online-Tickets für unseren Service Desk. Nach sieben Jahren im Einsatz sind wir nun gerade dabei, die Lösung auf eine neuere Version hochzuziehen.</p>
+
+
+
+<p>Dabei ist es uns auch wichtig, Ihnen ein leistungsfähiges und benutzerfreundliches System zur Verfügung zu stellen. Das Projekt ist gerade in der konkreten Umsetzungsphase; den <b>Start</b> des neuen Systems haben wir für den 7. Dezember 2015 geplant.</p>
+
+<p>Was verbessert sich für Sie beim Erstellen eines Tickets über den <b>Online-Support</b>?</p>
+
+<ul>
+
+<li><div>Sie können die <b>Anforderungskonsole</b>, mit der Sie Ihre Tickets erfassen, bereits direkt <b>nach dem Einstieg</b> aufrufen.
+</div></li>
+
+<li><div>Das neue System verfügt nun über eine <b>Volltextsuche</b>, die auch Groß-/Kleinschreibung auflöst, wie Sie es z. B. bei der Suche in Google gewohnt sind.
+</div></li>
+
+<li><div>Das Ticketsystem ist dann auch über das <b>Partner.Net</b> zugänglich. Wenn Sie bereits angemeldet sind, können Sie Ihre Supportanfragen an uns ohne weitere Eingabe von Benutzername und Passwort stellen.
+</div></li>
+
+
+</ul>
+
+
+<p>Wenn Sie unsere neue ITSM-Suite schon vor dem Produktivstart im Dezember <b>ausprobieren</b> möchten, schreiben Sie uns bitte ein kurzes E-Mail. Und wir freuen uns, wenn Sie uns nach dem Einsatz ein <b>Feedback</b> zur Benutzerfreundlichkeit der neuen Lösung geben.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=BMC ITSM Suite">Markus Watzik</a><br />
+Leitung User Centric Services </p>
+

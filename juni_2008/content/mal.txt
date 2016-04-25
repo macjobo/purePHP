@@ -1,0 +1,25 @@
+<h1>POCSO: Software-Updates Sommer 2008</h1>
+<h2>Um Ihnen mit POCSO auch in Zukunft eine stabile Basis für den Einsatz Ihrer EDV-Systeme zu gewährleisten, haben wir für den Sommer 2008 umfangreiche Softwareupdates geplant.</h2>
+
+
+
+<p>Folgende Softwareprodukte sind in den geplanten Arbeitsplatz-Updates enthalten:
+
+<ul>
+<li><div><b>Windows XP - Service Pack 3</b>: Das Service Pack 3 beinhaltet alle Fehlerkorrekturen des Betriebssystems, auch bisher nicht veröffentlichte Sicherheits-Korrekturen. Windows XP wird damit weiter konsolidiert.</div></li>
+
+<li><div><b>Adobe Acrobat Reader 8.1.2</b>: Die neue Version wurde im Bereich der Benutzeroberfläche sowie der Sicherheitsfunktionen weiterentwickelt. Die funktionalen und sicherheitstechnischen Mängel der Version 8.0 sind nun korrigiert - sie waren der Grund dafür, dass wir diese Version bisher nicht eingesetzt haben.</div></li>
+
+<li><div><b>Symantec Endpoint Protection R11.2</b>: Das Update bietet wieder aktuellsten Schutz vor schadhafter Software, bei Laptops darüber hinaus einen erweiterten Schutz im mobilen Einsatzbereich.</div></li>
+
+<li><div><b>Sonstige Updates</b>: Um weitere erkannte Sicherheitslücken zu korrigieren, kommen  kleinere Korrekturen bei Lotus Notes sowie diversen Tools zum Einsatz.</div></li>
+</ul>
+</p>
+ 
+<p>Die Einspielung der Updates ist in der POCSO-Pauschale enthalten. Sie erfolgt wie gewohnt <b>vollautomatisiert</b> und benötigt keinen Eingriff des Anwenders. Bevor die Installation in Ihrem Unternehmen erfolgt, erhält Ihr EDV-Verantwortlicher eine Information.</p>
+<p>Für Fragen steht Ihnen das Customer Care Center der Porsche Informatik gerne zur Verfügung.</p>
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Software-Updates Sommer 2008">Friedrich Malle</a></p>

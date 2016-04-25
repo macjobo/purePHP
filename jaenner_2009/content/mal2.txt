@@ -1,0 +1,26 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Hardware: Neuer Monochrom-Laserdrucker</h1>
+<h2>Mit dem neuen Lexmark E360dn haben wir einen schnellen, flexiblen Monochromdrucker in den POCSO-Standard aufgenommen.</h2>
+
+
+
+
+<p>Der <b>Lexmark E360dn</b> Monochrom-Laserdrucker in neuem, modernem Design steigert mit integrierter <b>Netzwerkfunktion</b> und <b>Duplex-Druck</b> die Effizienz von kleinen Arbeitsgruppen.</p>
+
+<p>Die Eigenschaften des E360dn im Detail:
+
+<ul>
+<li><div>Der Drucker verfügt über schnelle Druckgeschwindigkeiten von bis zu <b>38 Seiten pro Minute</b> und eine <b>Universalzuführung</b> für 50 Blatt für spezielle Medien.</div></li>
+<li><div>Sein intuitives zweizeiliges Display sorgt für eine <b>einfache Bedienung</b>.</div></li>
+<li><div>Je nach Anforderung können Sie zwischen <b>Tonerkassetten</b> mit Standardkapazität (3.500 Seiten) oder hoher Kapazität (9.000 Seiten) wählen.</div></li>
+<li><div>Das vom Hersteller empfohlene <b>durchschnittliche Druckvolumen</b> pro Monat beträgt 740 bis maximal 6.000 Seiten.</div></li>
+</ul>
+
+</p>
+
+
+
+<p>Detaillierte Informationen über den E360dn erhalten Sie bei <a href="http://www.lexmark.at/lexmark/product/home/634/0,6970,245594_653293751_1285102202_de,00.html?tabId=1" target="_blank" title="Detailinformationen zum E360dn"><b>&raquo; Lexmark im Internet</b></a>, im  <a href="https://www.domino.porsche.at/int/db/pub/ehnprod.nsf" target="_blank" title="zum e-Shop"><b>&raquo;&nbsp;e-Shop</b></a> (Benutzer: "Poiprod-VWA", Passwort: "Poiprod-VWA") im Bereich "Drucker Laser" oder bei Herrn Markus Berghammer (Tel.: 0662 - 850 285-1515).</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neuer Monochrom-Laserdrucker">Friedrich Malle</a></p>

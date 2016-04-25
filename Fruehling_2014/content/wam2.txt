@@ -1,0 +1,74 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Anwendungen: Status Windows-7-Rollout</h1>
+<h2>Die Umstellung von Windows XP auf Windows 7 im Konzernbereich verläuft nach Plan.</h2>
+
+ <img src="images/bild_wam2.jpg" width="190" height="78" alt="Windows-7-Rollout" />
+ 
+
+<p>Wir haben  bereits mehrfach darüber berichtet, dass Microsoft den <b>Support</b> für Windows XP mit 8. April 2014 <b>einstellt</b>. Ab diesem Zeitpunkt wird das Unternehmen keine Sicherheitsupdates mehr zur Verfügung stellen und bei Problemen keine Unterstützung mehr leisten.</p>
+
+<p>Porsche Informatik versucht, Windows XP noch bis Ende 2014 zu unterstützen, auch wenn dies nach der offiziellen Abkündigung nur mehr eingeschränkt möglich sein wird. Bis <b>Ende 2014</b> müssen daher alle Windows-XP-Geräte auf <b>Windows 7</b> umgestellt bzw. durch neue Windows-7-fähige Hardware ausgetauscht werden.</p>
+
+<p>Unser Clientteam arbeitet bereits mit Hochdruck an der Umstellung:</p>
+
+<ul>
+
+<li><div>Derzeit setzen noch <b>796 Arbeitsplätze</b> Windows XP ein.</div></li>
+
+<li><div>Davon benötigen <b>365</b> eine <b>neue Hardware</b>; die aktuelle Hardware ist nicht Windows-7-fähig.</div></li>
+
+<li><div>Die übrigen <b>431 PCs</b> werden <b>neu installiert</b>; die Hardware ist bereits Windows-7-fähig.</div></li>
+
+</ul>
+
+<p>Das bedeutet, dass wir mit dem Projekt gut im Plan liegen.</p>
+
+<p>Fragen zur Umstellung auf Windows 7 beantworten Ihnen der EDV-Koordinator Ihres Bereichs oder die Kolleginnen und Kollegen im Service Desk.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neue PC-Modelle">Herbert Lohninger</a><br />
+Teamleitung Client Konzern</p>
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

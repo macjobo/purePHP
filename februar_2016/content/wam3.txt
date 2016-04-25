@@ -1,0 +1,24 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: BlackBerry-Unterstützung endet</h1>
+<h2>Porsche Informatik stellt schrittweise die Unterstützung für BlackBerry-Geräte ein; alternativ bieten wir ab Frühjahr 2016 Windows-10-mobile-Geräte an.</h2>
+
+<img src="images/bild_wam3.jpg" width="190" height="120" title="BlackBerry-Unterstützung endet" />
+
+<p>Derzeit setzen wir Geräte der Marken BlackBerry und iPhone als Standard für <b>Firmen-Smartphones</b> ein. 
+Aufgrund der Entwicklungen, die BlackBerry in den letzten Monaten genommen hat, stufen wir diese Geräte jedoch nicht mehr als <b>zukunftssicher</b> ein und stellen 
+daher - wie im gesamten Volkswagen Konzern - im Lauf der nächsten beiden Jahre die Unterstützung dafür schrittweise ein.</p>
+
+<p>Den Dienst für <b>BlackBerry-5-Geräte</b> - z. B. die Modelle Bold, Torch oder Curve - stellen wir zum <b>31. Dezember 2016</b> ein; 
+der Dienst für <b>BlackBerry-10-Geräte</b> - z. B. die Modelle  Q5, Z10, Leap oder Classic - läuft spätestens mit <b>31. Dezember 2017</b> aus. 
+Voraussetzung für die Unterstützung ist, dass der Hersteller bis zu diesem Zeitpunkt <b>sicherheitsrelevante Updates</b> zur Verfügung stellt.</p>
+
+<p>Als kostengünstige, aber funktional umfangreiche Alternative können Sie ab Frühjahr 2016 neue Smartphones mit dem Betriebssystem <b>Windows 10 mobile</b> beziehen; Sie finden die neuen Geräte dann wie gewohnt in der POI-EASY-Produktedatenbank.</p>
+
+<p>Bitte berücksichtigen Sie das Auslaufen der BlackBerry-Unterstützung bei Ihrer <b>Investitionsplanung</b> bzw. beim Tausch oder Ersatz von Geräten.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=BlackBerry-Unterstützung endet">Markus Watzik</a><br />
+Leitung User Centric Services </p>
+
+
+

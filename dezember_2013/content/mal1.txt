@@ -1,0 +1,42 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Software Update VW Service Key - WLAN Barcodescanner Integration - Software Update EBV - POCSO Integration VAS Gerät.</h2>
+
+<img src="images/bild_mal1.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+
+<ul>
+
+<li><div>
+Die Umstellung auf die <b>neue Version 2.5.2_AG  des Volkswagen Service Key</b> ist abgeschlossen, knapp 800 Arbeitsplätze waren von der Änderung betroffen.
+
+</div></li>
+
+<li><div>
+Die Managementsoftware für die <b>POCSO WLAN-Barcodescanner</b> wurde auf den neuesten Stand gebracht. Neu ist auch, dass die Softwareupdates nun am 
+POCSO Server vor Ort zur Aktualisierung bereitgestellt werden. Dadurch werden die Softwareupdates schneller installiert und die Scanner generell stabiler im Betrieb. 
+</div></li>
+
+
+<li><div>
+Vom Wirtschaftsverlag gibt es wie angekündigt bereits wieder eine <b>neue Version 4.0.11 des EBV §57 Programmes</b>. 
+Diese Version beinhaltet als offensichtlichste Änderung einen neuen Mängelkatalog. Die Verteilung an alle POCSO Betriebe erfolgt bis zum 20. Dezember 2013.
+</div></li>
+
+
+
+<li><div>
+Bei allen als <b>POCSO Diagnosetester</b> im Einsatz befindlichen <b>VAS 6150C-Geräten</b> wurde der vom Werk 
+installierte WLAN-Treiber durch eine überarbeitete POCSO Version aktualisiert. Dadurch stürzt das Gerät im WLAN Betrieb nicht mehr mit einem BlueScreen ab.
+</div></li>
+
+</ul>
+
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der Porsche Informatik.</p>
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+

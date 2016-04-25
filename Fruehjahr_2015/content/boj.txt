@@ -1,0 +1,18 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Mailing: Umstellung auf IBM Notes 9</h1>
+<h2>Im Sommer 2015 startet der Breiteneinsatz des IBM Notes 9 Clients im Konzern.</h2>
+
+<img src="images/bild_boj.jpg" width="120" height="120" title="Umstellung auf IBM Notes 9" />
+
+
+<p>Der Mailclient <b>Lotus Notes 8.5.1</b>, den wir aktuell im Konzern einsetzen, ist in die Jahre gekommen und unterstützt nicht mehr alle neuen Standards.</p>
+
+<p>Der neue IBM Notes 9 Client enthält einige <b>Detailverbesserungen</b> und zeichnet sich durch ein <b>moderneres Design</b> aus.</p>
+<p>Zurzeit durchläuft der neue Notes-Client die <b>Tests</b> unserer Softwareentwicklung im Zusammenspiel mit den anderen POI-Systemen. Sollten diese Tests ergeben, dass bei bestimmten Applikationen kleinere <b>Anpassungen</b> notwendig sind, werden diese von den KollegenInnen noch vor dem Produktiveinsatz implementiert.</p>
+
+<p>Anfang April 2015 startet der <b>Piloteinsatz</b> von IBM Notes 9 bei der Porsche Informatik; das <b>Breitenrollout</b> in der Porsche-Organisation erfolgt dann im Lauf des Sommers.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Umstellung auf IBM Notes 9">Michael Bojko</a><br />
+Software Engineer Lotus Notes</p>

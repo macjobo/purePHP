@@ -1,0 +1,31 @@
+
+
+<div class="umbruch">&nbsp;</div>
+
+<h1>LOTUS NOTES: BlackBerry 10 Geräte freigegeben</h1>
+
+<h2>Ab sofort unterstützt der Lotus Notes Traveler auch die neuen BlackBerry 10 Geräte.</h2>
+
+<img src="images/bild_obe.jpg" width="190" height="120" title="BlackBerry 10" />
+
+
+<p>Neben gesteigerten Leistungsdaten gilt als besonderes Highlight der neuen Smartphones die <b>Trennung des Gerätes </b>in einen <b>persönlichen</b> und einen <b>geschäftlichen Bereich</b>. 
+Der persönliche Bereich bleibt von Reglementierungen der Porsche Informatik unberührt; hier hat der Benutzer völlig freie Hand.</p>
+
+<p>Bei Porsche Inter Auto Betrieben gibt es im geschäftlichen Bereich einige Sicherheitsrichtlinien, die von Porsche Informatik vorgegeben sind, zum Beispiel Passwortpflicht. 
+Alle <b>dienstlichen Daten</b> befinden sich <b>im verschlüsselten geschäftlichen Bereich</b>; zwischen geschäftlichem und persönlichem Bereich können keine Daten übertragen werden!</p>
+
+<p>Bei der Nutzung der neuen BlackBerry Geräte durch einen <b>privaten Betrieb</b> besteht die Passwortpflicht nicht. 
+Porsche Informatik empfiehlt jedoch, auch bei diesen Geräten die geschäftlichen Informationen durch ein Kennwort zu schützen. 
+Details zum Lotus Notes Traveler für den EH finden Sie 
+in der<a href="http://kb.auto-partner.net/int/hilfe/klbnotes.nsf/dce8df8f1710e0acc1256ed900439554/111782d927180b12c1257b75002687d0?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline"> &nbsp;&raquo;POI-Infoline</a>.</p>
+
+<p>Wenn Sie Fragen zu den neuen BlackBerry Geräten haben, wenden Sie sich bitte an den Service Desk der Porsche Informatik. 
+</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=BlackBerry 10">Peter Klinger</a><br />
+Leitung IS Windows und Netzwerk Services </p>
+
+
+

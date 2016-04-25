@@ -1,0 +1,58 @@
+<h1>CROSS 2: Vorschau auf Release 2.05</h1>
+<h2>Das neue CROSS-Release 2.05 wird derzeit bei den ersten Betrieben pilotiert, am 26. Mai erfolgt der Breiteneinsatz.</h2>
+
+<p>Das neue CROSS Release 2.05 steht ganz im Zeichen der beiden großen Themen <b>SAGA2-Gewährleistungsanbindung</b> und <b>Werkstatt-Termin@</b>.</p>
+<ul>
+
+<li>Mit der Realisierung der Schnittstelle zu <b>SAGA2</b> wird der reibungslose Umstieg auf das zukünftige Gewährleistungssystem der Herstellerwerke ermöglicht. Nach entsprechenden Schulungen durch die Importeure wird die Schnittstelle für jeden einzelnen Betrieb freigeschaltet.</li>
+
+<li>Mit der Funktion "<b>Werkstatt-Termin@</b>" steht eine neue, einfache Möglichkeit zur Verfügung, Kunden zu Service-Ereignissen wie §-57a-Begutachtung, Service laut Herstellervorschrift, Bremsflüssigkeitswechsel, etc. per E-Mail oder per Postkarte (neu im A5 Format) einzuladen. Die Porsche Austria führt dazu bis Ende Mai österreichweit Informationsveranstaltungen durch. </li>
+
+<li>Außerdem wurde mit CROSS 2.05 nun die Möglichkeit geschaffen, <b>Rücknahme- und Teileetiketten</b> mit dem Etikettendrucker "Zebra" auszudrucken.</li> 
+</ul>
+
+Detaillierte Informationen über die Programmeinspielung erhalten CROSS-2-Betriebe in einer eigenen Aussendung.
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Vorschau auf Release 2.05">Gregor Wagner</a></p>
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

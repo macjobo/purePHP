@@ -1,0 +1,45 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS-Tipp: CROSS.Controlling Auftragsanalyse</h1>
+
+<h2>Können die erbrachten Mechanikerleistungen auch tatsächlich realisiert werden?</h2>
+
+<img src="images/bild_wit.jpg" width="170" height="120" title="CROSS.Controlling Auftragsanalyse" />
+
+
+<p>Ein wichtiger Bestandteil der täglichen Kontrolle ist die Auftragsanalyse. Es geht primär um die <b>Verbindung zwischen verrechnetem Lohnerlös und dem Auftrags-Leistungsgrad</b>. 
+Finden Sie heraus, ob die erbrachten Mechanikerleistungen auch tatsächlich realisiert werden können. Sie sehen alle Aufträge des gewählten Zeitraums, 
+bei denen entweder eine Stempelung vorliegt oder zumindest eine Arbeitsposition verrechnet wurde.</p>
+
+<p> 
+Wechseln Sie mit Klick auf die Auftragsnummer in die Detailansicht des Auftrags und Sie sehen, welche Mechaniker für den Leistungsgrad verantwortlich waren.
+Den nächsten Auftrag wählen Sie aus, indem Sie in dieser Ansicht auf "Zurück zur Auftragsanalyse >>" rechts oben in der Detailansicht klicken und einen weiteren Auftrag auswählen. 
+Das funktioniert ohne Zeitverzögerung.
+Hier ist uns in der Praxis aufgefallen, dass öfters versehentlich mit dem Zurück-Button im Internet Explorer links oben, die gesamte Auftragsanalyse geschlossen und dann erneut aufgerufen wird. 
+Die Aufbereitung der Anzeige ist ein sehr <b>komplexer Vorgang</b>, 
+der einige Zeit in Anspruch nimmt und durch diese Handhabung wird die Kontrolltätigkeit zusätzlich verlängert.</p>
+
+
+
+
+<p><b>Schnelles finden einer Auftragsnummer:</b><br />
+Damit Sie in der Auftragsanalyse zu einer bestimmten Auftragsnummer springen können, drücken Sie Strg + f 
+und geben die Auftragsnummer ohne dem vorgestellten Kalenderjahr ein. Es wird die gesuchte Nummer nun in der Anzeige farblich markiert.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=CROSS.Controlling Auftragsanalyse">Christian Witibschlager</a><br />
+Kundenmanagement Einzelhandel Österreich</p>
+
+
+
+
+
+
+
+
+
+
+
+
+

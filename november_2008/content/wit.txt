@@ -1,0 +1,25 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS 2 Tipp: Anhänge in CROSS</h1>
+<h2>Wenn Sie Ihre CROSS-Stammdaten mit Anhängen verknüpfen, haben Sie alle wesentlichen Informationen auf Knopfdruck parat!</h2>
+
+
+<p>Zulassungsscheine, Unfallfotos, Sicherheitsdatenblätter - Dokumente dieser Art werden meist als <b>Kopien</b> in diversen Schrankordnern abgelegt. Die Suche danach ist dann oft sehr aufwändig, gar nicht zu reden vom Platzbedarf, den die vielen Ordner verursachen.</p>
+
+<p>Nutzen Sie eine neue Funktion von CROSS: Sie können nämlich jede Art von Datei mit den CROSS-Stammdaten <b>verknüpfen</b>! Scannen Sie einfach das gewünschte Papier, wählen Sie einen sprechenden Dateinamen (z. B. "Zulassung" und jeweiliges Kennzeichen) und speichern Sie die gescannte Datei (z. B. auf Ihrem lokalen PC). Achten Sie dabei darauf, dass die Datei eine <b>Größe von 500 KB</b> nicht überschreitet - wählen Sie beim Scannen eine entsprechende Auflösung.</p>
+
+<p>Anschließend verknüpfen Sie die Datei mit der entsprechend kategorisierten CROSS-Info. Das Dokument wird am <b>CROSS-Server</b> gespeichert und steht damit jedem CROSS-Benutzer des Betriebs mit der entsprechenden Berechtigung zur Verfügung.</p>
+
+<p>Damit haben <b>alle Mitarbeiter</b> im Betrieb sofort die gewünschte Information zur Hand. Das Papier zu kopieren, zu lochen, den passenden Ordner zu suchen und wieder im Schrank zu verstauen bedeutet allemal mehr Aufwand!</p>
+
+<p>Wenn Sie Interesse an dieser Form der Datenspeicherung haben, wenden Sie sich an Ihren CROSS-Berater. Er erstellt gerne mit Ihnen gemeinsam ein entsprechendes <b>Organisationskonzept</b>.</p>
+
+
+
+
+
+
+
+
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Anhänge in CROSS">Christian Witibschlager</a></p>

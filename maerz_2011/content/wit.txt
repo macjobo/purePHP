@@ -1,0 +1,63 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>CROSS Tipp: Kontrolle der Werkstatt-Abnehmergruppe</h1>
+<h2>Bei der Kontrolle der gewährten Werkstatt-Rabatte wird oft die Auswirkung der Werkstatt-Abnehmergruppe übersehen.</h2>
+
+<img src="images/bild_wit.jpg" width="190" height="120" title="Kontrolle der Werkstatt-Abnehmergruppe" />
+
+<p>Die <b>Werkstatt-Abnehmergruppe</b> steuert die generelle <b>Rabattvergabe</b> im Auftrag. Daher sollten Sie neben den üblichen Kontrollen der gewährten Sonder-Rabatte auch die Verwendung der Abnehmergruppen regelmäßig überprüfen.</p>
+
+<p>Sie finden die Veränderung im Auftrag über das "Protokoll zur Veränderung der rabattbeeinflussenden Felder im Auftrag" und die Änderung im Geschäftspartner über die "allgemeine Protokollierung" - beide unter dem Menüpunkt <b>"Auswertungen/Protokolle"</b>. Ein weiteres Indiz für eine möglicherweise fehlerhafte Verwendung finden Sie im NORA-Fehlerprotokoll unter den Einträgen mit Erledigungsvermerk "OK".</p>
+
+<p>Eine detaillierte Beschreibung dazu finden Sie im <a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/908bd2982511c66dc1256ed90043a774/b41b4b1d45df050cc12577eb00458147?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>"Handbuch Kundendienst- und Teilesystem"&nbsp;&raquo;</b></a> im <b>Kapitel 11.8.15 "Änderung der WS-Abnehmergruppe kontrollieren"</b>, ab dem CROSS-Release 2.15 steht Ihnen die Beschreibung dann auch in der CROSS-Onlinehilfe zur Verfügung.</p>
+ 
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Kontrolle der Werkstatt-Abnehmergruppe">Christian Witibschlager</a><br />
+Key Account Management Einzelhandel Österreich
+</p>
+
+
+
+
+
+
+
+
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

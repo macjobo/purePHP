@@ -1,0 +1,36 @@
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>POCSO: E-Versicherung POCSO-Diagnosetester</h1>
+
+<h2>Die E-Versicherung für tragbare Geräte kann nun auch für POCSO Diagnosetester abgeschlossen werden.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" title="Diagnosetester" />
+
+
+
+
+
+
+<p>Viele Betriebe haben bereits <b>VAS-Tester</b> in ihr <b>POCSO Netzwerk integriert</b> und nutzen die Vorteile dieser sogenannten <b>POCSO Diagnosetester</b>, 
+um die Prozesse in der Werkstätte zu beschleunigen.  Da diese Geräte einen beträchtlichen Wert darstellen, empfehlen wir, 
+diese in die <b>Porsche Informatik E-Versicherung für tragbare Geräte aufzunehmen</b>.</p>
+
+<p>Schließen Sie eine Geräteversicherung um nur <b>EUR 5,60 /Monat</b> für den VAS-Tester ab und erhalten Sie 
+im Schadensfall <b>Ersatz durch ein gleichwertiges Gerät</b> oder <b>Erstattung der Reparaturkosten</b> bei: 
+Bedienungsfehlern, Ungeschicklichkeit, mechanisch einwirkende Gewalt, indirektem Blitzschlag, Glasbruch, 
+Überspannung im externen Versorgungsnetz, Sturm, Hochwasser, Überschwemmung, Erdrutsch, Hagel, Versengen, 
+Verschmoren.</p>
+
+<p>Bestellen Sie die Versicherung mittels <a href="http://kb.auto-partner.net/int/hilfe/klbpoial.nsf/dcaa3b9e3621eb63c1256ed90043f5e7/046211896aeb6e66c125719300481fc1?OpenDocument
+" target="_blank" title="Zur Porsche-Informatik-Infoline">Produktblatt E-Versicherung Notebooks&nbsp;&raquo;</a>. 
+Die detaillierten Versicherungsbedingungen können Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbpoial.nsf/f9ca8c1665df61b3c1257345002cdb8b/338c9e1ab3cc82e9c12570df0037b3b2?OpenDocument
+" target="_blank" title="Zur Porsche-Informatik-Infoline">Porsche Informatik Infoline&nbsp;&raquo;</a>  
+nachlesen oder fragen Sie Ihren Key Account Manager der Porsche Informatik.</p>
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=E-Versicherung POCSO-Diagnosetester">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich</p>
+

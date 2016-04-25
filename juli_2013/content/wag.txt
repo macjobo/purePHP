@@ -1,0 +1,27 @@
+
+
+<h1>CROSS-Serie: Verrechnungsgrad Teil III</h1>
+<h2>Und so schließt sich der Kreis von der Theorie zur Praxis.</h2>
+
+<img src="images/bild_wag.jpg" width="170" height="120" title="Verrechnungsgrad" />
+
+
+<p>Im letzten Teil unserer Serie beschäftigen wir uns nun mit der <b>praktischen Anwendung</b> des Verrechnungsgrades.</p>
+
+<p>
+Im ersten Kapitel betrachten wir die häufigsten Fehler, die im Zusammenhang mit dem Verrechnungsgrad passieren. Im zweiten Kapitel analysieren wir die Auswertungsmöglichkeiten, die es im Zusammenhang mit dem Verrechnungsgrad gibt.
+</p>
+
+<p>Somit schließt sich der Kreis von der Theorie zur Praxis und Sie halten ein <b>wirkungsvolles Werkzeug</b> in Händen, um Nachlässe im Bereich der Lohnerlöse zu kontrollieren. </p>
+<p>
+Die gesammelten Dokumente zu unserer Themenserie Verrechnungsgrad finden Sie in der
+<a href="http://kb.auto-partner.net/int/hilfe/klbcross.nsf/b00d4cf946308426c1256ed9004402bd/12dee73f261c9792c1257b390055ed6c?OpenDocument" target="_blank" title="Zur Porsche-Informatik-Infoline">Porsche-Informatik-Infoline</a>
+.</p>
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Verrechnungsgrad">Gregor Wagner</a><br />
+CROSS-Fachkoordinator</p>
+
+
+

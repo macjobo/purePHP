@@ -1,0 +1,41 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Wireless LAN</h1>
+<h2>Genießen Sie den Komfort von Wireless LAN in Ihrem POCSO-Netzwerk</h2>
+
+<img src="images/bild_mal2.jpg" width="190" height="120" title="Neu im Pocso-Netzwerk" />
+
+
+<p>Nutzen Sie in Ihrem Unternehmen <b>POCSO Wireless LAN</b>, um Ihre Diagnosetester und Laptops unabhängig von der EDV-Verkabelung im Autohaus zu verwenden. Bringen Sie die IT zum Arbeitsplatz, nicht umgekehrt, und <b>beschleunigen</b> Sie damit Ihre Autohausprozesse. </p>
+
+<p>POCSO WLAN ist eine professionelle, zu 100 Prozent in Ihr POCSO-Netzwerk integrierte und durch Porsche Informatik betriebene Lösung. Damit sind höchste <b>Sicherheitsstandards</b> und <b>Stabilität</b> selbstverständlich.</p>
+
+<p>Mit dem POCSO WLAN können heute bereits folgende <b>Geräte</b> betrieben werden bzw. sind für die nahe Zukunft geplant:</p>
+
+
+<ul>
+
+<li><div>POCSO Notebooks
+</div></li>
+
+<li><div>POCSO Diagnosetester (VAS5052A, VAS6150A und VAS6150B)
+</div></li>
+
+<li><div>Piwis Diagnosetester
+</div></li>
+
+<li><div>Barcode-Reader für die Warenübernahme (Lösung in Vorbereitung)
+</div></li>
+
+</ul>
+
+
+<p>Umfassende Informationen zum POCSO WLAN erhalten Sie in der <a href="http://kb.auto-partner.net/int/hilfe/klbpocso.nsf/3873a90d457994cec1257345002cdb87/b6bb0b88c33e3007c12573d10050683d?OpenDocument" target="_blank" title="Zur POI-Infoline"><b>Produktinformation "POCSO Wireless LAN"&nbsp;&raquo;</b></a> in der POI-Infoline oder bei Ihrem Key Account Manager der Porsche Informatik.</p>
+
+
+
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=POCSO WLAN">Friedrich Malle</a><br />
+Leitung Kundenmanagement Einzelhandel Österreich
+</p>

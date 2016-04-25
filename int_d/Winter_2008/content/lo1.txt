@@ -1,0 +1,68 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Notebook: Internetzugriff über WLAN-Hotspot</h1>
+<h2>Durch den Einsatz der neuen Sicherheitssoftware von Symantec ist zukünftig bei bestehendem VPN-Zugang der Zugriff auf das Internet über WLAN-Hotspots möglich. 
+</h2>
+
+<p>Mitte März starten wir das Rollout der neuen Sicherheits-Software <b>Symantec Endpoint Protection 11</b> auf allen Clients.</p>
+
+<p>Die neue Sicherheits-Software kombiniert AntiVirus mit fortschrittlichen Technologien zur Abwehr von Bedrohungen. Die erstmalig integrierte Client-Firewall schützt Notebooks (z.B. von Außendienstmitarbeitern) außerhalb unseres Unternehmens-Netzwerkes noch effizienter vor Angriffen und ermöglicht es uns nun, die Option <b>Wireless LAN</b> (WLAN) auf Anfrage für Sie zu aktivieren.
+</p>
+
+<p>Bei bestehendem VPN-Zugang können Sie somit zukünftig auch über <b>WLAN-Hotspots</b> (z.B. auf Flughäfen, in Hotels, etc.) eine sichere VPN-Verbindung ins Unternehmens-Netzwerk aufbauen, alternativ zur Verwendung der im Ausland kostenintensiven Vodafone-Karte. 
+</p>
+
+<!-- <p><b>Voraussetzungen:</b>
+<ul>
+<li><div>Porsche (POCSO) Standard Notebook</div></li>
+<li><div>Bestehender VPN-Zugang</div></li>
+</ul>    
+</p> -->
+
+<p>Sollten Sie Interesse an der Freischaltung der Option WLAN haben, wenden Sie sich bitte, nachdem die neue Sicherheitssoftware auf Ihrem Client installiert wurde, an Ihren
+EDV-Koordinator oder an das Customer Care Center der Porsche Informatik unter der DW 2222 oder über den <b><a href="http://support.porscheinformatik.at" target="_blank" title="" alt="">POI Online Support</a></b>.
+</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=WLAN Option">Herbert Lohninger</a></p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

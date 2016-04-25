@@ -1,0 +1,103 @@
+<div class="umbruch">&nbsp;</div>
+<h1>Anforderungsdatenbanken: Prozess für neue Anforderungen</h1>
+<h2>Neue Anforderungen an die Software-Produkte der Porsche Informatik über eine eigene Datenbank</h2>
+
+
+<p>Um den Prozess für neue Anforderungen an die Software-Produkte der Porsche Informatik zu strukturieren und zu vereinheitlichen, bitten wir Sie, ab sofort mit der <a href="index.php?page=bild_neub" title="Anforderungsdatenbank"><b>Anforderungsdatenbank</b></a> für das jeweilige Produkt zu arbeiten.</p>
+
+<p><b>Anwendungsbereich</b><br>
+
+Die Anforderungsdatenbank ist eine web-basierte Notes Datenbank, die das Management von Anforderungen für unsere Software-Produkte unterstützt. Die Datenbank macht den gesamten Lebenszyklus einer bestimmten Anforderung transparenter, angefangen von der Erstellung der Anforderung bis zur abgenommenen Lösung. Des Weiteren hilft die Datenbank bei der Spezifizierung einer akzeptablen Lösung für den Kunden und bietet einen Überblick über alle bestehenden Anforderungen. Zusätzlich wird die Interaktion zwischen dem Anforderer und dem Produktverantwortlichen unterstützt.</p>
+
+<p><b>Zugang</b><br>
+
+Sie können die Anforderungsdatenbank über Ihr Partner.Net mit dem vorhandenen Partner.Net-Passwort aufrufen (Marke -> Porsche Informatik -> Produkt-Anforderungen). Für Länder oder Geschäftsbereiche, die Partner.Net nicht nutzen, gibt es je Produkt eine Zugriffsmöglichkeit über Lotus Notes Domino.</p>
+
+<p><b>Erstellen einer neuen Anforderung</b><br>
+
+Klicken Sie auf die Schaltfläche <i>Neue Anforderung</i>, nachdem Sie das entsprechende Produkt ausgewählt haben. Füllen Sie zumindest die Felder <i>Thema, Anforderer, Verantwortlich POI, Kategorie, Land</i> und die <i>Beschreibung der Anforderung</i> aus. Speichern Sie die Anforderung, indem Sie in der Menüleiste auf die Schaltfläche <i>Speichern und Schließen</i> klicken. Somit wird die Anforderung in der Datenbank gespeichert und ein Mail an den zuständigen Mitarbeiter der Porsche Informatik gesendet.<br>
+Folgenden Produkte arbeiten bereits mit einer Anforderungsdatenbank:</p>
+
+<ul>
+<li>CROSS</li>
+<li>CARLOS</li>
+<li>VU2</li>
+<li>SPS</li>
+<li>SABIS</li>
+<li>Weltauto</li>
+<li>Neuwagen Internet</li>	
+<li>Partner.Net-Portal</li>	
+<li>Service Desk Solution</li>	
+</ul>
+
+<p>Wie oben beschrieben, ist die Erstellung einer neuen Anforderung wirklich sehr einfach! Wir würden uns freuen, viele Anforderungen über diese Datenbank zu erhalten. Sollten Sie noch Fragen haben oder einen Zugang zu einer Anforderungsdatenbank wünschen, freuen wir uns auf Ihre Nachricht.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Anforderungsdatenbanken">Michael Neubacher</a>
+<br>Teamleiter Support & QS	
+<br>Porsche Informatik</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

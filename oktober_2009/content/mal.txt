@@ -1,0 +1,70 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>POCSO: Neu im POCSO-Netzwerk</h1>
+<h2>Von den hunderten Änderungen, die wir Woche für Woche in Ihrem Netzwerk durchführen, merken Sie als Anwender meist nichts. Hier der Hinweis auf aktuelle Neuerungen, die sich spürbar auf Ihre tägliche Arbeit mit dem PC auswirken können.</h2>
+
+<img src="images/bild_mal.jpg" width="190" height="120" alt="Neu im Pocso-Netzwerk" />
+
+
+<ul>
+<li><div>Bisher erhielt ein POCSO-PC bei einem Serverausfall am Wochenende oder in der Nacht beim Neustart keinen <b>Netzwerkzugriff</b>. Dann konnte allerdings auch mit CROSS nicht gearbeitet werden. Um das zu vermeiden, wird ab sofort automatisch die letzte zugewiesene Netzwerkadresse verwendet.</div></li>
+
+<li><div>Audi hat seine Corporate Identity angepasst, unter anderem wurden auch neue <b>Audi-Schriftarten</b> gestaltet. Wir haben sie bereits an alle Betriebe verteilt, sie stehen nun für Textverarbeitung, etc. zur Verfügung.</div></li>
+
+
+
+<li><div>
+Teilweise kam es bei den <b>Laptops HP 6930p und 8530p</b> zu Problemen mit dem "Aufwachen" aus dem Standby: Die Netzwerkverbindung war danach nicht mehr verfügbar. Um dieses Problem zu beheben, haben wir ein neues Software-Paket mit dem aktuellsten <b>Netzwerktreiber</b> erstellt. Damit ist das Problem behoben, eine Verteilung an die betroffenen Arbeitsplätze ist bereits erfolgt.</div></li>
+
+<li><div>Die wöchentlichen Datenupdates für die ETKA-Clients liegen ja am Windows-Server (Verzeichnis progdat\etka\update). Durch Versand und Installation der neuen ETKA- und PET-Versionen sind viele Updates überflüssig geworden, diese haben wir nun gelöscht - der <b>Platzgewinn</b> pro Windows-Server beträgt um die <b>400MB</b>!</div></li>
+
+
+
+</ul>
+
+<p>Alle Fragen rund um die Neuerungen im POCSO-Netzwerk beantwortet Ihnen gerne Ihr Key Account Manager der POI.</p>
+
+<p><a href="mailto:porsche-informatik@porsche.co.at ?subject=Neu im POCSO-Netzwerk">Friedrich Malle</a>
+</p>
+
+ 
+
+ 
+
+		 	
+
+
+
+
+
+
+
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

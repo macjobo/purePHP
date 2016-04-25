@@ -1,0 +1,11 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>Internet Explorer 7.0</h1>
+                
+<div class="bild">        
+    
+<img src="images/Internet Explorer.JPG" alt="Internet Explorer 7.0" title="Internet Explorer 7.0" border="0" height="167" width="541">
+      
+</div>                    
+ 
+<p id="zurueck"><a href="index.php?page=lo">Zurück zum Artikel</a></p>

@@ -1,0 +1,43 @@
+
+<div class="umbruch">&nbsp;</div>
+
+
+<h1>Anwendungen: Microsoft Internet Explorer 11</h1>
+<h2>Im Herbst 2014 startet der Breiteneinsatz des Internet Explorers 11 im Konzern.</h2>
+
+<img src="images/bild_lo3.jpg" width="130" height="120" alt="IE 11" />
+
+
+<p>Der Webbrowser <b>Internet Explorer 8</b>, den wir aktuell im Konzern einsetzen, ist in die Jahre gekommen und unterstützt nicht mehr alle neuen Standards.</p>
+
+<p>Aufgrund von Kompatibilitätsproblemen der Version 10 mit den Anwendungen der Porsche Informatik haben wir uns im Vorjahr dazu entschlossen, auf den <b>Internet Explorer 11</b> zu warten. Dieser hat in den letzten Monaten die Testabteilungen unserer Softwareentwicklung durchlaufen. Ein paar kleinere Anpassungen sind bei einigen Applikationen noch notwendig; sie werden derzeit von den KollegenInnen implementiert.</p>
+
+<p>Ab August 2014 wird jeder neu installierte Windows-7-PC bereits mit dem neuen Browser ausgeliefert werden. Wir planen, den Internet Explorer 11 <b>ab Herbst 2014</b> für alle Benutzer freizugeben; er wird dann automatisch auf Ihrem Arbeitsplatz installiert.</p>
+
+<p>Wenn Sie den Internet Explorer 11 bereits jetzt einsetzen wollen, dann stimmen Sie das bitte zunächst mit dem EDV-Koordinator Ihres Bereichs ab. Wir nehmen Sie dann gerne in die aktuell laufenden <b>Pilottests</b> auf - wenden Sie sich dafür an unseren Service Desk (+43 662 4670 2222 bzw. <a href="http://support.porscheinformatik.at" target="_blank" title="Zum Onlinesupport"><b>http://support.porscheinformatik.at&nbsp;&raquo;</b></a>).</p>
+
+<p>Voraussetzung für den Einsatz des IE11 ist, dass Ihr Arbeitsplatz bereits auf <b>Windows 7</b> umgestellt ist.</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=IE 11">Herbert Lohninger</a><br />
+Teamleitung Client-Team Konzern
+</p>
+
+
+
+
+
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+ 

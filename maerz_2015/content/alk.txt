@@ -1,0 +1,49 @@
+<div class="umbruch">&nbsp;</div>
+
+<h1>SERVICE DESK: Fakten aus dem Service Desk</h1>
+<h2>Jahresrückblick 2014 - Kennzahlen aus dem Support</h2>
+
+<img src="images/bild_alk.jpg" width="190" height="120" title="Service Desk" />
+
+
+
+
+<ul>
+
+<li><div><b>
+Kunden/Services</b><br />
+Der Service Desk ist die zentrale Anlaufstelle für rund 32.000 Anwender. Aus 25 verschiedenen Ländern wurden im letzten Jahr Supportanfragen an uns gemeldet. 
+Wir sind erster Ansprechpartner für 229 verschiedene Applikationen und ca. 50 unterstützende Services.<br />
+</div></li>
+
+<li><div><b>
+Ticketvolumen</b><br />
+Ca. 110.000 Tickets wurden von uns im letzten Jahr bearbeitet, davon waren ca. 92.000 Kundenanfragen. 
+Knapp 38.300 Tickets wurden von unseren Anwendern selbstständig über den Online Support erstellt.<br />
+</div></li>
+
+<li><div><b>
+Bearbeitungszeiten</b><br />
+Die durchschnittliche Reaktionszeit, von Ticketerstellung bis in Arbeitnahme einer Anfrage, über 110.000 Tickets lag bei ca. 45 Minuten. 
+Die durchschnittliche Lösungszeit über alle Anfragen lag bei ca. 3,5 Stunden. Mehr als 20 Prozent der Kundenanfragen wurden bereits im Erstkontakt durch den Service Desk gelöst.<br />
+</div></li>
+
+<li><div><b>
+Anrufvolumen</b><br />
+2014 haben wir im Service Desk 53.749 Anrufe entgegen genommen. Im Schnitt musste ein Kunde 26 Sekunden warten bis sein Anruf entgegen genommen wurde. 
+Knapp 75 Prozent aller Anrufer mussten weniger als 20 Sekunden warten, bis ein Service Desk Mitarbeiter telefonisch erreichbar war.<br />
+</div></li>
+
+  </ul>
+	
+
+<P>
+Eine schnelle und zuverlässige Erreichbarkeit, das Erkennen des Anliegens sowie das Verständnis für die Probleme unserer Kunden und in weiterer Folge eine zufriedenstellende und rasche 
+Lösungsfindung sind unsere Ziele.
+</p>
+
+
+<p><a href="mailto:info@porscheinformatik.at ?subject=Fakten aus dem Service Desk">Michaela Alker</a><br />
+Teamleitung Service Desk</p>
+
+
